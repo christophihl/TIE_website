@@ -50,7 +50,8 @@ website:
   page-footer:
     left: |
       [![](/assets/images/logo_tuhh_full.svg){fig-alt="TU Hamburg" width=145px}](https://www.tuhh.de/)
-    center: |
+    right: |
+      <span class='footer-address'>
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>TU Hamburg</span><br><br>
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Institut für Thermische Verfahrenstechnik<br>
       Eißendorfer Straße 38 (O)<br>
@@ -58,17 +59,19 @@ website:
       <br><br>
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>E-Mail : secretary.tvt[at]tuhh[dot]de<br>
       Tel : +49 40 42878 3240</span>
-    right: |
+      </span>
       <span class='footer-social'>
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Soziale Netzwerke</span><br><br>
       <span style='font-weight: 400; font-size: 20px; line-height: 1.55;'>
       [{{< fa brands linkedin >}}](https://www.linkedin.com/in/institute-for-thermal-separation-processes-700282293/)
       </span>
       </span>
-      <span class='footer-links'>
+      <span class='footer-ql-left'>
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span><br><br>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Data Privacy](/privacy.qmd)<br><br>
-      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)<br><br>
+      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)
+      </span>
+      <span class='footer-ql-right'>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)
       </span>
     background: $footer_blue

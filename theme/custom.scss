@@ -412,20 +412,14 @@ $body-color: $text_blue !default;
 }
 
 
-/* Center column — address */
+/* Center column — unused, content moved to right */
 
 .nav-footer-center {
-  flex: 0 0 100%;
-  max-width: 100%;
-  margin-bottom: 60px;
-  padding: 0 8px;
-  text-align: left;
-  order: 0;
-  margin-top: 0;
+  display: none !important;
 }
 
 
-/* Right column — social + links */
+/* Right column — all text content (address, social, links) */
 
 .nav-footer-right {
   flex: 0 0 100%;
@@ -435,33 +429,49 @@ $body-color: $text_blue !default;
   text-align: left;
 }
 
-/* Social/links spacing within right column on mobile */
-@media (max-width: 991px) {
+
+/* Make content spans block-level */
+
+.nav-footer-right .footer-address,
+.nav-footer-right .footer-social,
+.nav-footer-right .footer-ql-left,
+.nav-footer-right .footer-ql-right {
+  display: block;
+}
+
+
+/* Mobile (≤575px): vertical stack with spacing around social */
+
+@media (max-width: 575px) {
   .nav-footer-right .footer-social {
-    display: block;
+    padding-top: 30px;
     padding-bottom: 30px;
   }
-  .nav-footer-right .footer-links {
-    display: block;
-    padding-top: 30px;
-  }
 }
 
 
-/* Tablet (≥576px): logo full width, center + right side by side */
+/* Tablet (≥576px): 2×2 grid within right column */
 
 @media (min-width: 576px) {
-  .nav-footer-center,
-  .nav-footer-right {
-    flex: 0 0 50%;
-    max-width: 50%;
+  .nav-footer-right > p {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 30px;
   }
+  .nav-footer-right .footer-address  { grid-column: 1; grid-row: 1; }
+  .nav-footer-right .footer-social   { grid-column: 2; grid-row: 1; }
+  .nav-footer-right .footer-ql-left  { grid-column: 1; grid-row: 2; }
+  .nav-footer-right .footer-ql-right { grid-column: 2; grid-row: 2; }
 }
 
 
-/* Desktop (≥992px): all three columns in one row */
+/* Desktop (≥992px): logo + wide right column with TUHH-proportional grid */
 
 @media (min-width: 992px) {
+  .nav-footer {
+    justify-content: flex-start;
+  }
   .nav-footer-left {
     flex: 0 0 16.667%;
     max-width: 16.667%;
@@ -470,20 +480,17 @@ $body-color: $text_blue !default;
   .nav-footer-left img {
     height: 100px;
   }
-  .nav-footer-center {
-    flex: 0 0 25%;
-    max-width: 25%;
-    margin-left: 8.333%;
-  }
   .nav-footer-right {
-    flex: 0 0 25%;
-    max-width: 25%;
-    margin-left: 8.333%;
+    flex: 0 0 58.333%;
+    max-width: 58.333%;
+  }
+  .nav-footer-right > p {
+    column-gap: 14.286%;  /* 8.333% of parent ÷ 58.333% column = 14.286% */
   }
 }
 
 
-/* Mobile (≤991px): reduced padding */
+/* Mobile (≤991px): reduced footer padding */
 
 @media (max-width: 991px) {
   .nav-footer {
