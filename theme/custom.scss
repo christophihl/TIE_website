@@ -34,12 +34,22 @@ $body-color: $text_blue !default;
 
 /* Navbar */
 
+/* Navbar item ordering — consistent across all breakpoints */
 .navbar .navbar-brand-container {
-    order: 1 !important;  
+    order: 1 !important;
 }
-
-
-
+.navbar .navbar-collapse {
+    order: 2 !important;
+}
+.navbar #quarto-search {
+    order: 3 !important;
+}
+.navbar .quarto-navbar-tools {
+    order: 4 !important;
+}
+.navbar .navbar-toggler {
+    order: 5 !important;
+}
 
 
 
@@ -75,6 +85,8 @@ $body-color: $text_blue !default;
 
 
 .navbar-brand-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
     padding-left: 1rem;
     padding-right: 1rem;
     padding-bottom: (80px - $logo_size_l)/2;
@@ -193,6 +205,7 @@ $body-color: $text_blue !default;
 
 .navbar-collapse {
   background-color: white;
+  flex-grow: 1;
 }
 
 
@@ -234,11 +247,9 @@ $body-color: $text_blue !default;
     padding-right: 4rem;
     background-position: 97% 50%; /* Adjust as needed */
   }
-  .navbar .quarto-navbar-tools {
-    order: 2 !important;  
-  }
   .navbar #quarto-search {
-    order: 3 !important;  
+    margin-left: auto;
+    padding-left: 0;
   }
 }
 
@@ -257,7 +268,9 @@ $body-color: $text_blue !default;
   
   
 .navbar .quarto-navbar-tools  {
-    margin-left: auto;
+    margin-left: 0;
+    display: flex;
+    align-items: center;
 }
 
 .navbar .quarto-navbar-tools .quarto-navigation-tool .i {
@@ -265,9 +278,12 @@ $body-color: $text_blue !default;
 }
 
 .navbar #quarto-search {
-    margin-left: 0rem;
-    margin-right: 0rem;
-    padding-right: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+    display: flex;
+    align-items: center;
 }
 
 .aa-DetachedSearchButton .aa-DetachedSearchButtonIcon svg {
@@ -275,7 +291,7 @@ $body-color: $text_blue !default;
 }
 
 .aa-DetachedSearchButton {
-  padding-top: 0.4rem;
+  padding-top: 0;
 }
 
 /* Add a custom icon (assuming you want to put it where the SVG was) */
@@ -388,6 +404,25 @@ $body-color: $text_blue !default;
 }
 
 
+/* Footer responsive stacking — matches TUHH pattern */
+
+@media (max-width: 991px) {
+  .nav-footer {
+    flex-direction: column;
+    padding-bottom: 3em;
+  }
+  .nav-footer-left {
+    padding-top: 3em;
+    padding-right: 1rem;
+  }
+  .nav-footer-center {
+    padding-top: 2.5em;
+    padding-right: 1rem;
+  }
+  .nav-footer-right {
+    padding-top: 2.5em;
+  }
+}
 
 
 /* Fonts */
