@@ -247,10 +247,6 @@ $body-color: $text_blue !default;
     padding-right: 4rem;
     background-position: 97% 50%; /* Adjust as needed */
   }
-  .navbar #quarto-search {
-    margin-left: auto;
-    padding-left: 0;
-  }
 }
 
 
@@ -342,6 +338,25 @@ $body-color: $text_blue !default;
 }
 
 
+/* Mobile navbar layout — placed after base rules to win cascade */
+@media (max-width: 991px) {
+  /* Force collapse to its own row so action icons never wrap */
+  .navbar .navbar-collapse {
+    order: 99 !important;
+    flex-basis: 100%;
+  }
+
+  /* Remove padding so search+dark mode sit evenly via space-between */
+  .navbar #quarto-search {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Hide search placeholder text to save horizontal space */
+  .aa-DetachedSearchButtonPlaceholder {
+    display: none;
+  }
+}
 
 
 
