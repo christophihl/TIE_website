@@ -1,7 +1,115 @@
 ---
-title: "TIE_website"
+pagetitle: "TUHH Institute of Entrepreneurship"
+page-layout: custom
+section-divs: false
+toc: false
+css: theme/index.css
 ---
 
-This is a Quarto website.
+::: {.hero-banner style="background-image: url('assets/images/docks.jpg');"}
+::: {.content-block}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>. To learn more about Quarto websites visit. To learn more about Quarto websites visit.
+### Welcome to the [**Hamburg University of Technology**](https://www.tuhh.de)
+
+# **Institute of Entrepreneurship**
+
+### Inaugurated in June 2014 · Headed by **Christoph Ihl** · Dedicated to three objectives:
+
+:::
+:::
+
+
+::: {.objectives-section}
+::: {.content-block}
+
+## Objectives {.section-heading}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.objective-card}
+::: {.objective-icon}
+{{< fa magnifying-glass >}}
+:::
+
+### Research
+
+We strive to do rigor and relevant research about innovation and entrepreneurship from perspectives of organization theory, sociology and strategy. As data enthusiasts, we love to apply state-of-art computational and econometric methods to novel, large-scale data sets.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.objective-card}
+::: {.objective-icon}
+{{< fa graduation-cap >}}
+:::
+
+### Teaching
+
+We are convinced that entrepreneurship can be learned and good training increases the odds of entrepreneurial success. To that end, our teaching is problem- and project-based so that students can gain first-hand, real-life experience that inspires and enables them to become the next generation of Startup Engineers.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.objective-card}
+::: {.objective-icon}
+{{< fa gears >}}
+:::
+
+### Transfer
+
+We are open to collaborate with corporates, startups and associations to transfer our knowledge about data science and startup engineering into Practice. Possible modes of collaboration are master theses, applied research and data science projects, consulting, talks, workshops or trainings.
+:::
+:::
+
+:::
+:::
+:::
+
+
+::: {.news-section}
+::: {.content-block}
+
+## Recent News {.section-heading}
+
+::: {.placeholder-text}
+Coming soon — news content will be added in a later phase.
+:::
+
+:::
+:::
+
+
+::: {.research-section}
+::: {.content-block}
+
+## Featured Research {.section-heading}
+
+::: {.placeholder-text}
+Coming soon — research highlights will be added in a later phase.
+:::
+
+:::
+:::
+
+
+::: {.affiliations-section}
+::: {.content-block}
+
+## Affiliations {.section-heading}
+
+::: {.logo-grid}
+
+[![Hamburg University of Technology](assets/images/affiliations/TUHH.png)](https://www.tuhh.de/)
+[![School of Management Science & Technology](assets/images/affiliations/mwt.png)](https://www.tuhh.de/sdw/dekanat.html)
+[![MLE @ TUHH](assets/images/affiliations/mle.png)](http://www.mle.hamburg)
+[![DRUID Society](assets/images/affiliations/druid.png)](http://druid.dk)
+[![Academy of Management](assets/images/affiliations/AOM.png)](http://aom.org)
+[![European Group for Organizational Studies](assets/images/affiliations/egos.png)](http://www.egosnet.org)
+[![Open & User Innovation Society](assets/images/affiliations/oui.png)](http://www.oui-society.org)
+[![VHB TIE](assets/images/affiliations/vhbtie.png)](https://www.vhbonline.org/wk-/-fachgruppen/technologie-innovation-und-entrepreneurship-tie)
+
+:::
+
+:::
+:::

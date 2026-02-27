@@ -14,3 +14,5 @@ z_TUHH_styles/
 
 # Claude Code project docs
 CLAUDE.md
+
+**/*.quarto_ipynb

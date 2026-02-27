@@ -1,5 +1,9 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!z_current_website/"
+    - "!z_TUHH_styles/"
 
 website:
   title: "TUHH Institute of Entrepreneurship"

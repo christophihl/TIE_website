@@ -1,0 +1,231 @@
+/* Welcome page styles — theme/index.css */
+
+/* Shared container */
+
+.content-block {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.section-heading {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #005e73;
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+
+/* Hero banner */
+
+.hero-banner {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  padding: 0;
+}
+
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 0;
+}
+
+.hero-banner .content-block {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+  min-height: 500px;
+  padding-top: 280px;
+  padding-bottom: 1.5rem;
+}
+
+.hero-banner h1,
+.hero-banner h3 {
+  color: white;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  margin: 0;
+}
+
+.hero-banner h3 {
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.hero-banner h1 {
+  font-family: SangBleuSans, PublicaSans, Poppins, sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 0.3rem 0;
+}
+
+.hero-banner a {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    background-attachment: scroll;
+  }
+  .hero-banner .content-block {
+    min-height: 350px;
+    padding-top: 180px;
+  }
+  .hero-banner h1 {
+    font-size: 2rem;
+  }
+  .hero-banner h3 {
+    font-size: 1rem;
+  }
+}
+
+
+/* Objectives section */
+
+.objectives-section {
+  padding: 4rem 0 3rem;
+  background-color: white;
+}
+
+.objective-card {
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.objective-card .objective-icon {
+  font-size: 2.5rem;
+  color: #00C1D4;
+  margin-bottom: 1rem;
+}
+
+.objective-card h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #005e73;
+  margin-bottom: 1rem;
+}
+
+.objective-card p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #005e73;
+}
+
+
+/* News placeholder section */
+
+.news-section {
+  padding: 4rem 0;
+  background-color: #f7f7f7;
+}
+
+
+/* Research placeholder section */
+
+.research-section {
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.placeholder-text {
+  text-align: center;
+  color: #999;
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+
+/* Affiliations section */
+
+.affiliations-section {
+  padding: 4rem 0 5rem;
+  background-color: #f7f7f7;
+}
+
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem 3rem;
+}
+
+.logo-grid a {
+  display: inline-block;
+  transition: filter 0.3s ease;
+  filter: grayscale(100%);
+  opacity: 0.7;
+}
+
+.logo-grid a:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.logo-grid img {
+  height: 55px;
+  width: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .logo-grid {
+    gap: 1.5rem 2rem;
+  }
+  .logo-grid img {
+    height: 40px;
+  }
+}
+
+
+/* Dark mode overrides */
+
+.quarto-dark .objectives-section {
+  background-color: #272935;
+}
+
+.quarto-dark .news-section,
+.quarto-dark .affiliations-section {
+  background-color: #1e2029;
+}
+
+.quarto-dark .research-section {
+  background-color: #272935;
+}
+
+.quarto-dark .section-heading {
+  color: white;
+}
+
+.quarto-dark .objective-card h3 {
+  color: white;
+}
+
+.quarto-dark .objective-card p {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.quarto-dark .logo-grid a {
+  filter: grayscale(100%) brightness(1.5);
+  opacity: 0.6;
+}
+
+.quarto-dark .logo-grid a:hover {
+  filter: grayscale(0%) brightness(1);
+  opacity: 1;
+}
