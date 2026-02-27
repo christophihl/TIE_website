@@ -361,24 +361,20 @@ $body-color: $text_blue !default;
 
 
 
-/* Footer */
+/* Footer — matches TUHH Typo3 institute footer layout */
 
 .footer {
     display: flex;
-    justify-content: center; 
-    align-items: flex-start; 
-    background-color: #006a81;
+    justify-content: center;
+    background-color: $footer_blue;
 }
-    
-    
-    
+
 .nav-footer {
   width: $page_width;
-  padding-bottom: 5em;
+  padding: 120px 16px 60px;
   display: flex;
-  align-items: flex-start; 
   flex-wrap: wrap;
-  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .nav-footer a {
@@ -386,56 +382,85 @@ $body-color: $text_blue !default;
 }
 
 
-@media (max-width: 992px) {
-  .nav-footer-left img {
-    min-width: 120px; 
-    max-width: 120px; 
-    height: auto; 
+/* Logo column */
+
+.nav-footer-left {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-bottom: 60px;
+  margin-top: 6px;
+  padding: 0 8px;
+}
+
+.nav-footer-left img {
+  height: 80px;
+  width: auto;
+}
+
+
+/* Center column — address + links */
+
+.nav-footer-center {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-bottom: 60px;
+  padding: 0 8px;
+  text-align: left;
+}
+
+
+/* Right column — contact + social */
+
+.nav-footer-right {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-bottom: 60px;
+  padding: 0 8px;
+  text-align: left;
+}
+
+
+/* Tablet (≥576px): logo full width, center + right side by side */
+
+@media (min-width: 576px) {
+  .nav-footer-center,
+  .nav-footer-right {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }
 
 
+/* Desktop (≥992px): all three columns in one row */
 
-.nav-footer-left {
-  padding-top: 7em;
-  padding-left: 1rem;
-  padding-right: 5rem;
+@media (min-width: 992px) {
+  .nav-footer-left {
+    flex: 0 0 16.667%;
+    max-width: 16.667%;
+    margin-right: 8.333%;
+  }
+  .nav-footer-left img {
+    height: 100px;
+  }
+  .nav-footer-center {
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-left: 8.333%;
+  }
+  .nav-footer-right {
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-left: 8.333%;
+  }
 }
 
-.nav-footer-center {
-  vertical-align: top;
-  margin-top: 0em;
-  text-align: left;
-  padding-top: 7em;
-  padding-left: 1rem;
-  padding-right: 5rem;
-}
 
-.nav-footer-right {
-  text-align: left;
-  padding-top: 7em;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-
-/* Footer responsive stacking — matches TUHH pattern */
+/* Mobile (≤991px): reduced top padding */
 
 @media (max-width: 991px) {
   .nav-footer {
-    flex-direction: column;
-    padding-bottom: 3em;
-  }
-  .nav-footer-left {
-    padding-top: 3em;
-    padding-right: 1rem;
-  }
-  .nav-footer-center {
-    padding-top: 2.5em;
-    padding-right: 1rem;
-  }
-  .nav-footer-right {
-    padding-top: 2.5em;
+    padding-top: 40px;
+    padding-bottom: 60px;
   }
 }
 
