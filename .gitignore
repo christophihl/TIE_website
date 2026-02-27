@@ -7,3 +7,10 @@
 /_site/
 
 .DS_Store
+
+# Local reference materials (not needed for build)
+z_current_website/
+z_TUHH_styles/
+
+# Claude Code project docs
+CLAUDE.md
