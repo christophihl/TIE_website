@@ -367,14 +367,27 @@ $body-color: $text_blue !default;
     display: flex;
     justify-content: center;
     background-color: $footer_blue;
+    padding-bottom: 124px;
 }
 
 .nav-footer {
   width: $page_width;
-  padding: 120px 16px 60px;
+  padding: 120px 16px 61px;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
+  position: relative;
+}
+
+.nav-footer::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .nav-footer a {
@@ -409,7 +422,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Right column — contact + social */
+/* Right column — social + quicklinks */
 
 .nav-footer-right {
   flex: 0 0 100%;
@@ -438,6 +451,7 @@ $body-color: $text_blue !default;
     flex: 0 0 16.667%;
     max-width: 16.667%;
     margin-right: 8.333%;
+    text-align: right;
   }
   .nav-footer-left img {
     height: 100px;
@@ -455,7 +469,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Mobile (≤991px): reduced top padding */
+/* Mobile (≤991px): reduced padding */
 
 @media (max-width: 991px) {
   .nav-footer {
