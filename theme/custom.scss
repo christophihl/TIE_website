@@ -449,10 +449,10 @@ $body-color: $text_blue !default;
     padding-bottom: 30px;
   }
   .nav-footer-right .footer-ql-heading {
-    margin-bottom: 0.8em;
+    margin-bottom: 1.5em;  /* match <br><br> gap between DP and Imprint */
   }
   .nav-footer-right .footer-ql-right {
-    margin-top: 0.8em;
+    margin-top: 1.5em;    /* same gap as between DP and Imprint */
   }
 }
 
