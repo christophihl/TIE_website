@@ -395,7 +395,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Logo column */
+/* Logo column — always left-aligned */
 
 .nav-footer-left {
   flex: 0 0 100%;
@@ -403,6 +403,7 @@ $body-color: $text_blue !default;
   margin-bottom: 60px;
   margin-top: 6px;
   padding: 0 8px;
+  text-align: left;
 }
 
 .nav-footer-left img {
@@ -411,7 +412,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Center column — address + links */
+/* Center column — address + quicklinks left */
 
 .nav-footer-center {
   flex: 0 0 100%;
@@ -419,10 +420,12 @@ $body-color: $text_blue !default;
   margin-bottom: 60px;
   padding: 0 8px;
   text-align: left;
+  order: 0;
+  margin-top: 0;
 }
 
 
-/* Right column — social + quicklinks */
+/* Right column — social + quicklinks right */
 
 .nav-footer-right {
   flex: 0 0 100%;
@@ -451,7 +454,6 @@ $body-color: $text_blue !default;
     flex: 0 0 16.667%;
     max-width: 16.667%;
     margin-right: 8.333%;
-    text-align: right;
   }
   .nav-footer-left img {
     height: 100px;
