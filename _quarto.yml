@@ -66,8 +66,10 @@ website:
       [{{< fa brands linkedin >}}](https://www.linkedin.com/in/institute-for-thermal-separation-processes-700282293/)
       </span>
       </span>
+      <span class='footer-ql-heading'>
+      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span>
+      </span>
       <span class='footer-ql-left'>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span><br><br>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Data Privacy](/privacy.qmd)<br><br>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)
       </span>
