@@ -58,17 +58,19 @@ website:
       <br><br>
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>E-Mail : secretary.tvt[at]tuhh[dot]de<br>
       Tel : +49 40 42878 3240</span>
-      <br><br>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span><br><br>
-      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Data Privacy](/privacy.qmd)<br><br>
-      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)
     right: |
+      <span class='footer-social'>
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Soziale Netzwerke</span><br><br>
       <span style='font-weight: 400; font-size: 20px; line-height: 1.55;'>
       [{{< fa brands linkedin >}}](https://www.linkedin.com/in/institute-for-thermal-separation-processes-700282293/)
       </span>
-      <br><br>
+      </span>
+      <span class='footer-links'>
+      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span><br><br>
+      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Data Privacy](/privacy.qmd)<br><br>
+      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)<br><br>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)
+      </span>
     background: $footer_blue
     foreground: "white"
     

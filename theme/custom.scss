@@ -412,7 +412,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Center column — address + quicklinks left */
+/* Center column — address */
 
 .nav-footer-center {
   flex: 0 0 100%;
@@ -425,7 +425,7 @@ $body-color: $text_blue !default;
 }
 
 
-/* Right column — social + quicklinks right */
+/* Right column — social + links */
 
 .nav-footer-right {
   flex: 0 0 100%;
@@ -433,6 +433,18 @@ $body-color: $text_blue !default;
   margin-bottom: 60px;
   padding: 0 8px;
   text-align: left;
+}
+
+/* Social/links spacing within right column on mobile */
+@media (max-width: 991px) {
+  .nav-footer-right .footer-social {
+    display: block;
+    padding-bottom: 30px;
+  }
+  .nav-footer-right .footer-links {
+    display: block;
+    padding-top: 30px;
+  }
 }
 
 
