@@ -201,7 +201,6 @@ img.hero-illu {
 .affiliations-section h2 {
   border-bottom: none;
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 .logo-grid {
@@ -224,12 +223,15 @@ img.hero-illu {
   align-items: center;
   box-sizing: border-box;
   padding: 15px 20px;
+}
+
+.logo-grid img {
   transition: filter 0.3s ease, opacity 0.3s ease;
   filter: grayscale(100%);
   opacity: 0.5;
 }
 
-.logo-grid a:hover {
+.logo-grid a:hover img {
   filter: grayscale(0%);
   opacity: 1;
 }
@@ -303,12 +305,12 @@ img.hero-illu {
   color: rgba(255, 255, 255, 0.85);
 }
 
-.quarto-dark .logo-grid a {
+.quarto-dark .logo-grid img {
   filter: grayscale(100%) brightness(1.5);
   opacity: 0.6;
 }
 
-.quarto-dark .logo-grid a:hover {
+.quarto-dark .logo-grid a:hover img {
   filter: grayscale(0%) brightness(1);
   opacity: 1;
 }
