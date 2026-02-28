@@ -123,7 +123,7 @@ Coming soon — research highlights will be added in a later phase.
   if (!hero) return;
   window.addEventListener('scroll', function() {
     const scrolled = window.scrollY;
-    hero.style.backgroundPositionY = 'calc(100% - ' + scrolled * 0.5 + 'px)';
+    hero.style.backgroundPositionY = 'calc(100% + ' + scrolled * 0.5 + 'px)';
   }, { passive: true });
 })();
 </script>
