@@ -200,7 +200,8 @@ img.hero-illu {
 
 .affiliations-section h2 {
   border-bottom: none;
-  margin-bottom: 0;
+  margin: 0;
+  padding: 40px 0;
 }
 
 .logo-grid {
