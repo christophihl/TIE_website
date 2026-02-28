@@ -56,7 +56,7 @@ resources:
         <div class="teaser-img"><img src="assets/images/slides/teaching.jpg" alt="Teaching — © Anne Gärtner"></div>
         <div class="teaser-body">
           <h3>Teaching</h3>
-          <span class="teaser-cta">Choose our courses.</span>
+          <span class="teaser-cta">Join our courses.</span>
         </div>
       </a>
     </div>
@@ -64,7 +64,7 @@ resources:
       <a href="transfer.html" class="teaser-card">
         <div class="teaser-img"><img src="assets/images/slides/practice.jpg" alt="Transfer — © Anne Gärtner"></div>
         <div class="teaser-body">
-          <h3>Transfer</h3>
+          <h3>Collaborate</h3>
           <span class="teaser-cta">Let's work together.</span>
         </div>
       </a>
