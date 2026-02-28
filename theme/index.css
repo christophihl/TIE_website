@@ -37,40 +37,44 @@
   z-index: 0;
 }
 
-.hero-banner .content-block {
+.hero-content {
   position: relative;
   z-index: 1;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 60px 2rem 0;
+  height: 27.94vw;  /* TUHH desktop aspect ratio — viewport-based */
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  text-align: center;
-  height: 27.94vw;  /* TUHH desktop aspect ratio — viewport-based */
-  padding-bottom: 1.5rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+  text-align: left;
 }
 
-.hero-banner h1,
-.hero-banner h3 {
-  color: white;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
-  margin: 0;
-}
-
-.hero-banner h3 {
+.hero-subtitle {
+  display: block;
+  color: #005e73;
   font-size: 1.15rem;
   font-weight: 400;
   line-height: 1.6;
 }
 
-.hero-banner h1 {
+.hero-title {
+  display: block;
+  color: #005e73;
   font-family: SangBleuSans, PublicaSans, Poppins, sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 400;
-  margin: 0.3rem 0;
+  line-height: 1.14;
+  max-width: 66.667%;
 }
 
 .hero-banner a {
-  color: white;
+  color: #005e73;
+  text-decoration: none;
+}
+
+.hero-banner a:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -101,8 +105,12 @@
 }
 
 @media (max-width: 980px) {
-  .hero-banner .content-block {
+  .hero-content {
     height: 49.54vw;  /* TUHH tablet aspect ratio */
+    padding-top: 32px;
+  }
+  .hero-title {
+    max-width: 100%;
   }
 }
 
@@ -110,16 +118,16 @@
   .hero-banner {
     background-attachment: scroll;
   }
-  .hero-banner h1 {
-    font-size: 2rem;
+  .hero-title {
+    font-size: 1.75rem;
   }
-  .hero-banner h3 {
+  .hero-subtitle {
     font-size: 1rem;
   }
 }
 
 @media (max-width: 480px) {
-  .hero-banner .content-block {
+  .hero-content {
     height: 42.67vw;  /* TUHH mobile aspect ratio */
   }
 }

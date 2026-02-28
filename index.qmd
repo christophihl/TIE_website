@@ -9,13 +9,11 @@ resources:
 ---
 
 ::: {.hero-banner style="background-image: url('assets/images/docks.jpg');"}
-::: {.content-block}
+::: {.hero-content}
 
-### Welcome to the [**Hamburg University of Technology**](https://www.tuhh.de)
+[Welcome to the [TUHH](https://www.tuhh.de)]{.hero-subtitle}
 
-# **Institute of Entrepreneurship**
-
-### Inaugurated in June 2014 · Headed by **Christoph Ihl** · Dedicated to three objectives:
+[Institute of Entrepreneurship]{.hero-title}
 
 :::
 
