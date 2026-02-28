@@ -115,3 +115,16 @@ Coming soon — research highlights will be added in a later phase.
 
 :::
 :::
+
+```{=html}
+<script>
+(function() {
+  const hero = document.querySelector('.hero-banner');
+  if (!hero) return;
+  window.addEventListener('scroll', function() {
+    const scrolled = window.scrollY;
+    hero.style.backgroundPositionY = 'calc(100% - ' + scrolled * 0.5 + 'px)';
+  }, { passive: true });
+})();
+</script>
+```
