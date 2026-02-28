@@ -344,6 +344,11 @@ img.hero-illu {
     margin-top: -1.5rem;
     align-self: flex-end;
   }
+
+  .hero-carousel .teaser-credit {
+    font-size: 0.35em;
+    padding: 1px 3px;
+  }
 }
 
 @media (max-width: 576px) {
