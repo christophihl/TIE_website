@@ -23,7 +23,7 @@
 
 .hero-banner {
   background-size: cover;
-  background-position: center;
+  background-position: center 40%;
   background-attachment: fixed;
   position: relative;
   padding: 0;
@@ -73,6 +73,31 @@
   color: white;
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+
+.backimage-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 2px 5px;
+  color: #ccc;
+  font-size: 0.5em;
+  background: #323232;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.4;
+  border-radius: 5px 0 0 0;
+}
+
+.backimage-caption a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+@media (min-width: 54em) {
+  .backimage-caption {
+    padding: 5px 10px;
+  }
 }
 
 @media (max-width: 980px) {
