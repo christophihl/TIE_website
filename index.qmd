@@ -6,16 +6,81 @@ toc: false
 css: theme/index.css
 resources:
   - assets/images/docks.jpg
+  - assets/images/slides/team.jpg
+  - assets/images/slides/research.jpg
+  - assets/images/slides/teaching.jpg
+  - assets/images/slides/practice.jpg
 ---
 
 ::: {.hero-banner style="background-image: url('assets/images/docks.jpg');"}
 ::: {.hero-content}
 
+::: {.hero-text}
 [Welcome to the [TUHH](https://www.tuhh.de)]{.hero-subtitle}
 
 [Institute of Entrepreneurship]{.hero-title}
 
 ![](assets/images/landing-illu-desktop.svg){.hero-illu}
+:::
+
+::: {.hero-carousel}
+```{=html}
+<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Team"></button>
+    <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Research"></button>
+    <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" aria-label="Teaching"></button>
+    <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="3" aria-label="Transfer"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <a href="team.html" class="teaser-card">
+        <div class="teaser-img"><img src="assets/images/slides/team.jpg" alt="Team — © Anne Gärtner"></div>
+        <div class="teaser-body">
+          <h3>Team</h3>
+          <span class="teaser-cta">Meet our team.</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="research.html" class="teaser-card">
+        <div class="teaser-img"><img src="assets/images/slides/research.jpg" alt="Research — © Anne Gärtner"></div>
+        <div class="teaser-body">
+          <h3>Research</h3>
+          <span class="teaser-cta">Explore our research.</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="teaching.html" class="teaser-card">
+        <div class="teaser-img"><img src="assets/images/slides/teaching.jpg" alt="Teaching — © Anne Gärtner"></div>
+        <div class="teaser-body">
+          <h3>Teaching</h3>
+          <span class="teaser-cta">Choose our courses.</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="transfer.html" class="teaser-card">
+        <div class="teaser-img"><img src="assets/images/slides/practice.jpg" alt="Transfer — © Anne Gärtner"></div>
+        <div class="teaser-body">
+          <h3>Transfer</h3>
+          <span class="teaser-cta">Let's work together.</span>
+        </div>
+      </a>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+:::
 
 :::
 
