@@ -122,8 +122,10 @@ Coming soon — research highlights will be added in a later phase.
   const hero = document.querySelector('.hero-banner');
   if (!hero) return;
   window.addEventListener('scroll', function() {
-    const scrolled = window.scrollY;
-    hero.style.backgroundPositionY = 'calc(100% + ' + scrolled * 0.5 + 'px)';
+    var scrolled = window.scrollY;
+    var maxShift = hero.offsetHeight * 0.4;
+    var shift = Math.min(scrolled * 0.3, maxShift);
+    hero.style.backgroundPositionY = 'calc(100% + ' + shift + 'px)';
   }, { passive: true });
 })();
 </script>
