@@ -15,7 +15,11 @@ resources:
 
 [Institute of Entrepreneurship]{.hero-title}
 
+![](assets/images/landing-illu-mobile.svg){.hero-illu-mobile}
+
 :::
+
+![](assets/images/landing-illu-desktop.svg){.hero-illu-desktop}
 
 [Dock-1, &copy; [Victor Klassen](https://victorklassen.de)]{.backimage-caption}
 :::
