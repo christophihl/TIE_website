@@ -127,6 +127,12 @@
   .hero-banner {
     background-attachment: scroll;
   }
+  .hero-subtitle {
+    font-size: 16px;
+  }
+  .hero-title {
+    font-size: 24px;
+  }
 }
 
 @media (max-width: 480px) {
