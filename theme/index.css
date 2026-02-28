@@ -3,9 +3,23 @@
 /* Shared container */
 
 .content-block {
+  width: 100%;
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+}
+
+/* Section wrappers — ensure full width and center content */
+.objectives-section,
+.news-section,
+.research-section,
+.affiliations-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .section-heading {
@@ -17,7 +31,8 @@
   text-align: center;
   border-bottom: none;
   margin: 0;
-  padding: 40px 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 
@@ -179,6 +194,7 @@ img.hero-illu {
 .hero-carousel .teaser-img {
   aspect-ratio: 1 / 1;
   overflow: hidden;
+  position: relative;
 }
 
 .hero-carousel .teaser-img img {
@@ -203,6 +219,7 @@ img.hero-illu {
 
 .hero-carousel .teaser-cta {
   font-size: 0.75rem;
+  white-space: nowrap;
   color: #005e73;
   opacity: 0.75;
 }
@@ -261,6 +278,18 @@ img.hero-illu {
   background-color: #00C1D4;
 }
 
+.hero-carousel .teaser-credit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 2px 5px;
+  font-size: 0.5em;
+  color: #ccc;
+  background: #323232;
+  opacity: 0.4;
+  border-radius: 5px 0 0 0;
+}
+
 
 /* Responsive: mobile stacking */
 
@@ -268,13 +297,38 @@ img.hero-illu {
   .hero-content {
     flex-direction: column;
     height: auto;
-    padding-bottom: 1.5rem;
+    padding-top: clamp(16px, 3vw, 40px);
+    padding-bottom: 0;
     gap: 0;
   }
 
   .hero-text {
     min-height: 0;
     flex: 0 0 auto;
+    position: relative;
+  }
+
+  .hero-text > p:has(.hero-illu) {
+    flex: 0 0 auto;
+    min-height: 0;
+    position: relative;
+  }
+
+  img.hero-illu {
+    width: clamp(40px, 10vw, 75px);
+    height: auto;
+    padding-top: 0;
+  }
+
+  .hero-text > p:has(.hero-illu)::after {
+    content: "";
+    position: absolute;
+    left: calc(clamp(40px, 10vw, 75px) / 2 - 0.5px);
+    top: 100%;
+    width: 1px;
+    height: 100vh;
+    background-color: #00C1D4;
+    pointer-events: none;
   }
 
   .hero-title {
@@ -283,16 +337,18 @@ img.hero-illu {
 
   .hero-carousel {
     flex: 0 0 auto;
-    width: 60%;
-    max-width: 280px;
-    padding-bottom: 0;
+    width: 55%;
+    max-width: 260px;
+    padding-bottom: 4rem;
+    margin-top: -1.5rem;
+    align-self: flex-end;
   }
 }
 
 @media (max-width: 576px) {
   .hero-carousel {
-    width: 70%;
-    max-width: 250px;
+    width: 65%;
+    max-width: 240px;
   }
 }
 
@@ -300,7 +356,8 @@ img.hero-illu {
 /* Objectives section */
 
 .objectives-section {
-  padding: 4rem 0 3rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: white;
 }
 
@@ -334,7 +391,8 @@ img.hero-illu {
 /* News placeholder section */
 
 .news-section {
-  padding: 4rem 0;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #f7f7f7;
 }
 
@@ -342,7 +400,8 @@ img.hero-illu {
 /* Research placeholder section */
 
 .research-section {
-  padding: 4rem 0;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: white;
 }
 
@@ -357,7 +416,8 @@ img.hero-illu {
 /* Affiliations section — TUHH logo-list design */
 
 .affiliations-section {
-  padding: 40px 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
   background-color: #f7f7f7;
 }
 

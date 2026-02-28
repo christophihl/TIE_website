@@ -35,7 +35,7 @@ resources:
   <div class="carousel-inner">
     <div class="carousel-item active">
       <a href="team.html" class="teaser-card">
-        <div class="teaser-img"><img src="assets/images/slides/team.jpg" alt="Team — © Anne Gärtner"></div>
+        <div class="teaser-img"><img src="assets/images/slides/team.jpg" alt="Team — © Anne Gärtner"><span class="teaser-credit">© Anne Gärtner</span></div>
         <div class="teaser-body">
           <h3>Team</h3>
           <span class="teaser-cta">Meet our team.</span>
@@ -44,7 +44,7 @@ resources:
     </div>
     <div class="carousel-item">
       <a href="research.html" class="teaser-card">
-        <div class="teaser-img"><img src="assets/images/slides/research.jpg" alt="Research — © Anne Gärtner"></div>
+        <div class="teaser-img"><img src="assets/images/slides/research.jpg" alt="Research — © Anne Gärtner"><span class="teaser-credit">© Anne Gärtner</span></div>
         <div class="teaser-body">
           <h3>Research</h3>
           <span class="teaser-cta">Explore our research.</span>
@@ -53,7 +53,7 @@ resources:
     </div>
     <div class="carousel-item">
       <a href="teaching.html" class="teaser-card">
-        <div class="teaser-img"><img src="assets/images/slides/teaching.jpg" alt="Teaching — © Anne Gärtner"></div>
+        <div class="teaser-img"><img src="assets/images/slides/teaching.jpg" alt="Teaching — © Anne Gärtner"><span class="teaser-credit">© Anne Gärtner</span></div>
         <div class="teaser-body">
           <h3>Teaching</h3>
           <span class="teaser-cta">Join our courses.</span>
@@ -62,7 +62,7 @@ resources:
     </div>
     <div class="carousel-item">
       <a href="transfer.html" class="teaser-card">
-        <div class="teaser-img"><img src="assets/images/slides/practice.jpg" alt="Transfer — © Anne Gärtner"></div>
+        <div class="teaser-img"><img src="assets/images/slides/practice.jpg" alt="Transfer — © Anne Gärtner"><span class="teaser-credit">© Anne Gärtner</span></div>
         <div class="teaser-body">
           <h3>Collaborate</h3>
           <span class="teaser-cta">Let's work together.</span>
