@@ -53,28 +53,33 @@ website:
     right: |
       <span class='footer-address'>
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>TU Hamburg</span><br><br>
-      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Institut für Thermische Verfahrenstechnik<br>
-      Eißendorfer Straße 38 (O)<br>
+      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>TUHH Institute of Entrepreneurship<br>
+      Am Irrgarten 3<br>
       21073 Hamburg</span>
-      <br><br>
-      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>E-Mail : secretary.tvt[at]tuhh[dot]de<br>
-      Tel : +49 40 42878 3240</span>
       </span>
       <span class='footer-social'>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Soziale Netzwerke</span><br><br>
+      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Get in touch</span><br><br>
+      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>
+      {{< fa envelope >}} : &nbsp;&nbsp;[startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)<br>
+      {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-4765<br>
+      {{< fa diamond-turn-right >}} : &nbsp;&nbsp;[Directions](/contact.qmd)<br><br></span>
       <span style='font-weight: 400; font-size: 20px; line-height: 1.55;'>
-      [{{< fa brands linkedin >}}](https://www.linkedin.com/in/institute-for-thermal-separation-processes-700282293/)
+      [{{< fa brands linkedin >}}](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship) &nbsp;&nbsp;
+      [{{< fa brands twitter >}}](https://twitter.com/Startup3ngineer) &nbsp;&nbsp;
+      [{{< fa brands github >}}](https://github.com/TUHHStartupEngineers)
       </span>
       </span>
       <span class='footer-ql-heading'>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Weiterführende Links</span>
+      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Links</span>
       </span>
       <span class='footer-ql-left'>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Data Privacy](/privacy.qmd)<br><br>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)
       </span>
       <span class='footer-ql-right'>
-      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)
+      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)<br><br>
+      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Built with {{< fa brands r-project >}} and [![](/assets/images/quarto.png){height=1.2em}](https://quarto.org/)<br>
+      Source Code at [{{< fa brands github >}}](https://github.com/christophihl/TIE_website)</span>
       </span>
     background: $footer_blue
     foreground: "white"
