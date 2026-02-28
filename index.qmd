@@ -4,6 +4,8 @@ page-layout: custom
 section-divs: false
 toc: false
 css: theme/index.css
+resources:
+  - assets/images/docks.jpg
 ---
 
 ::: {.hero-banner style="background-image: url('assets/images/docks.jpg');"}

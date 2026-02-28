@@ -19,7 +19,7 @@
 }
 
 
-/* Hero banner */
+/* Hero banner — aspect-ratio sizing matching TUHH Typo3 header-slider */
 
 .hero-banner {
   background-size: cover;
@@ -45,8 +45,7 @@
   justify-content: flex-end;
   align-items: center;
   text-align: center;
-  min-height: 500px;
-  padding-top: 280px;
+  padding-top: 27.94%;  /* TUHH desktop aspect ratio */
   padding-bottom: 1.5rem;
 }
 
@@ -76,19 +75,27 @@
   text-underline-offset: 3px;
 }
 
+@media (max-width: 980px) {
+  .hero-banner .content-block {
+    padding-top: 49.54%;  /* TUHH tablet aspect ratio */
+  }
+}
+
 @media (max-width: 768px) {
   .hero-banner {
     background-attachment: scroll;
-  }
-  .hero-banner .content-block {
-    min-height: 350px;
-    padding-top: 180px;
   }
   .hero-banner h1 {
     font-size: 2rem;
   }
   .hero-banner h3 {
     font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-banner .content-block {
+    padding-top: 42.67%;  /* TUHH mobile aspect ratio */
   }
 }
 
