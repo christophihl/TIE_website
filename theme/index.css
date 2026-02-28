@@ -23,7 +23,7 @@
 
 .hero-banner {
   background-size: cover;
-  background-position: center center;
+  background-position: center 100%;
   background-attachment: fixed;
   position: relative;
   padding: 0;
@@ -124,6 +124,9 @@
 }
 
 @media (max-width: 768px) {
+  .hero-banner {
+    background-attachment: scroll;
+  }
   .hero-subtitle {
     font-size: 16px;
   }
