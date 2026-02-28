@@ -151,7 +151,7 @@ img.hero-illu {
 /* Hero carousel — TUHH teaser card design */
 
 .hero-carousel {
-  flex: 0 0 clamp(200px, 30vw, 380px);
+  flex: 0 0 clamp(160px, 24vw, 300px);
   display: flex;
   align-items: center;
   padding-bottom: clamp(16px, 3vw, 48px);
@@ -189,12 +189,12 @@ img.hero-illu {
 }
 
 .hero-carousel .teaser-body {
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1rem;
 }
 
 .hero-carousel .teaser-body h3 {
-  margin: 0 0 0.25rem;
-  font-size: 0.95rem;
+  margin: 0 0 0.2rem;
+  font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -202,7 +202,7 @@ img.hero-illu {
 }
 
 .hero-carousel .teaser-cta {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   color: #005e73;
   opacity: 0.75;
 }
@@ -281,16 +281,16 @@ img.hero-illu {
 
   .hero-carousel {
     flex: 0 0 auto;
-    width: 70%;
-    max-width: 340px;
+    width: 60%;
+    max-width: 280px;
     padding-bottom: 0;
   }
 }
 
 @media (max-width: 576px) {
   .hero-carousel {
-    width: 85%;
-    max-width: 300px;
+    width: 70%;
+    max-width: 250px;
   }
 }
 
