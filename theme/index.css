@@ -198,11 +198,15 @@ img.hero-illu {
   background-color: #f7f7f7;
 }
 
+.affiliations-section h2 {
+  border-bottom: none;
+}
+
 .logo-grid {
   display: flex;
   flex-wrap: wrap;
-  border-top: 1px solid #00c1d4;
-  border-bottom: 1px solid #00c1d4;
+  border-top: 1px solid #005e73;
+  border-bottom: 1px solid #005e73;
 }
 
 .logo-grid > p {
@@ -229,11 +233,11 @@ img.hero-illu {
 }
 
 .logo-grid a:not(:nth-child(2n+1)) {
-  border-left: 1px dashed #00c1d4;
+  border-left: 1px dashed #005e73;
 }
 
 .logo-grid a:not(:nth-last-of-type(-n+2)) {
-  border-bottom: 1px dashed #00c1d4;
+  border-bottom: 1px dashed #005e73;
 }
 
 .logo-grid img {
@@ -262,10 +266,10 @@ img.hero-illu {
     border-bottom: none;
   }
   .logo-grid a:not(:nth-child(4n+1)) {
-    border-left: 1px dashed #00c1d4;
+    border-left: 1px dashed #005e73;
   }
   .logo-grid a:not(:nth-last-of-type(-n+4)) {
-    border-bottom: 1px dashed #00c1d4;
+    border-bottom: 1px dashed #005e73;
   }
 }
 
