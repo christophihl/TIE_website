@@ -61,12 +61,8 @@ website:
       <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Get in touch</span><br><br>
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>
       {{< fa envelope >}} : &nbsp;&nbsp;[startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)<br>
-      {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-4765<br>
-      {{< fa diamond-turn-right >}} : &nbsp;&nbsp;[Directions](/contact.qmd)<br><br></span>
-      <span style='font-weight: 400; font-size: 20px; line-height: 1.55;'>
-      [{{< fa brands linkedin >}}](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship) &nbsp;&nbsp;
-      [{{< fa brands twitter >}}](https://twitter.com/Startup3ngineer) &nbsp;&nbsp;
-      [{{< fa brands github >}}](https://github.com/TUHHStartupEngineers)
+      {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-3226<br>
+      {{< fa brands linkedin >}} : &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship)
       </span>
       </span>
       <span class='footer-ql-heading'>
@@ -78,8 +74,7 @@ website:
       </span>
       <span class='footer-ql-right'>
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)<br><br>
-      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Built with {{< fa brands r-project >}} and [![](/assets/images/quarto.png){height=1.2em}](https://quarto.org/)<br>
-      Source Code at [{{< fa brands github >}}](https://github.com/christophihl/TIE_website)</span>
+      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Built with [![](/assets/images/quarto.png){height=1.2em}](https://quarto.org/) at [{{< fa brands github >}}](https://github.com/christophihl/TIE_website)</span>
       </span>
     background: $footer_blue
     foreground: "white"
