@@ -62,7 +62,8 @@ website:
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>
       {{< fa envelope >}} : &nbsp;&nbsp;[startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)<br>
       {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-3226<br>
-      {{< fa brands linkedin >}} : &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship)
+      {{< fa brands linkedin >}} : &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship)<br>
+      {{< fa location-dot >}} : &nbsp;&nbsp;[Directions](https://www.google.com/maps/place/Am+Irrgarten+3,+21073+Hamburg)
       </span>
       </span>
       <span class='footer-ql-heading'>
@@ -73,7 +74,6 @@ website:
       ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Imprint](/imprint.qmd)
       </span>
       <span class='footer-ql-right'>
-      ![](/assets/images/link.svg){height=1em}&nbsp;&nbsp;&nbsp;[Contact / Map](/contact.qmd)<br><br>
       <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>Built with [![](/assets/images/quarto.png){height=1.2em}](https://quarto.org/) at [{{< fa brands github >}}](https://github.com/christophihl/TIE_website)</span>
       </span>
     background: $footer_blue
