@@ -106,7 +106,7 @@ Coming soon — research highlights will be added in a later phase.
 
 [![Hamburg University of Technology](assets/images/affiliations/TUHH.png)](https://www.tuhh.de/)
 [![School of Management Science & Technology](assets/images/affiliations/mwt.png)](https://www.tuhh.de/sdw/dekanat.html)
-[![MLE @ TUHH](assets/images/affiliations/mle.png)](http://www.mle.hamburg)
+[![MLE @ TUHH](assets/images/affiliations/mle.png)](https://www.tuhh.de/mle/homepage)
 [![DRUID Society](assets/images/affiliations/druid.png)](http://druid.dk)
 [![Academy of Management](assets/images/affiliations/AOM.png)](http://aom.org)
 [![European Group for Organizational Studies](assets/images/affiliations/egos.png)](http://www.egosnet.org)
