@@ -24,6 +24,7 @@
 .hero-banner {
   background-size: cover;
   background-position: center center;
+  background-attachment: fixed;
   position: relative;
   padding: 0;
 }
