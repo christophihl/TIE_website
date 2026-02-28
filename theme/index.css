@@ -45,7 +45,7 @@
   justify-content: flex-end;
   align-items: center;
   text-align: center;
-  padding-top: 27.94%;  /* TUHH desktop aspect ratio */
+  height: 27.94vw;  /* TUHH desktop aspect ratio — viewport-based */
   padding-bottom: 1.5rem;
 }
 
@@ -102,7 +102,7 @@
 
 @media (max-width: 980px) {
   .hero-banner .content-block {
-    padding-top: 49.54%;  /* TUHH tablet aspect ratio */
+    height: 49.54vw;  /* TUHH tablet aspect ratio */
   }
 }
 
@@ -120,7 +120,7 @@
 
 @media (max-width: 480px) {
   .hero-banner .content-block {
-    padding-top: 42.67%;  /* TUHH mobile aspect ratio */
+    height: 42.67vw;  /* TUHH mobile aspect ratio */
   }
 }
 
