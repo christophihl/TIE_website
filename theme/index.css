@@ -14,8 +14,10 @@
   font-size: 1.1rem;
   font-weight: 700;
   color: #005e73;
-  margin-bottom: 2.5rem;
   text-align: center;
+  border-bottom: none;
+  margin: 0;
+  padding: 40px 0;
 }
 
 
@@ -198,11 +200,6 @@ img.hero-illu {
   background-color: #f7f7f7;
 }
 
-.affiliations-section h2 {
-  border-bottom: none;
-  margin: 0;
-  padding: 40px 0;
-}
 
 .logo-grid {
   display: flex;
