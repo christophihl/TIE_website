@@ -478,22 +478,27 @@ $body-color: $text_blue !default;
 
 @media (min-width: 992px) {
   .nav-footer {
-    justify-content: flex-start;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 60px;
+    align-items: start;
   }
   .nav-footer-left {
-    flex: 0 0 16.667%;
-    max-width: 16.667%;
-    margin-right: 8.333%;
+    flex: none;
+    max-width: none;
+    margin-right: 0;
+    margin-bottom: 0;
   }
   .nav-footer-left img {
     height: 100px;
   }
   .nav-footer-right {
-    flex: 1 1 0;
+    grid-column: 2 / 4;
+    flex: none;
     max-width: none;
   }
   .nav-footer-right > p {
-    column-gap: 11.111%;  /* 8.333% of parent ÷ 75% column ≈ equal visual gap */
+    column-gap: 60px;
   }
 }
 
