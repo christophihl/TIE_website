@@ -15,7 +15,7 @@ $tuhh_blue: #00C1D4;
 $tuhh_orange: #FF7E15;
 $tuhh_green: #5AFFC5;
 $text_blue: #005e73;
-$footer_blue: #006a81; 
+$footer_blue: #006a81;
 
 $tuhh_purple: #7200FE;
 $tuhh_red: #FF4F4F;
@@ -26,11 +26,102 @@ $tuhh_grey: #D0D0CE;
 $tuhh_darkblue: #143BFF;
 
 
+// Typography — TUHH brand identity (PublicaSans primary, SangBleuSans secondary, Poppins fallback)
+$font-family-sans-serif: 'PublicaSans', Arial, sans-serif !default;
+$font-size-base: 1rem !default; // 16px
+$line-height-base: 1.5 !default;
 $body-color: $text_blue !default;
+
+// Headings — TUHH uses Regular (400) weight for all headings
+$headings-font-weight: 400 !default;
+$headings-line-height: 1.4 !default;
+$headings-margin-bottom: 0.3em !default;
+$headings-color: $text_blue !default;
+
+// Heading sizes (desktop values, mobile overrides in scss:rules)
+$h1-font-size: 50px !default;
+$h2-font-size: 40px !default;
+$h3-font-size: 32px !default;
+$h4-font-size: 24px !default;
+$h5-font-size: 20px !default;
+$h6-font-size: 16px !default;
 
 
 
 /*-- scss:rules --*/
+
+
+/* =============================================
+   TUHH Typography — Global Defaults
+   (Per TUHH brand identity guide & Typo3 CSS)
+   ============================================= */
+
+/* Font smoothing */
+body, input, textarea {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Strong = Medium (500), not Bold (700) — per TUHH Typo3 convention */
+strong, b {
+  font-weight: 500;
+}
+
+/* Button font family */
+button {
+  font-family: 'PublicaSans', Arial, sans-serif;
+}
+
+/* Responsive heading sizes — mobile-first (matching TUHH Typo3 breakpoints) */
+h1, .h1 { font-size: 36px; line-height: 1.4; }
+h2, .h2 { font-size: 30px; line-height: 1.45; }
+h3, .h3 { font-size: 24px; line-height: 1.5; }
+h4, .h4 { font-size: 18px; line-height: 1.55; }
+h5, .h5 { font-size: 16px; line-height: 1.75; }
+h6, .h6 { font-size: 16px; line-height: 1.75; }
+
+@media (min-width: 992px) {
+  h1, .h1 { font-size: 50px; }
+  h2, .h2 { font-size: 40px; line-height: 1.5; }
+  h3, .h3 { font-size: 32px; }
+  h4, .h4 { font-size: 24px; line-height: 1.5; }
+  h5, .h5 { font-size: 20px; line-height: 1.4; }
+}
+
+/* Display heading — for hero/banner use */
+.display-heading {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.25;
+}
+@media (min-width: 768px) {
+  .display-heading { font-size: 40px; }
+}
+@media (min-width: 992px) {
+  .display-heading { font-size: 64px; }
+}
+
+/* SangBleuSans — secondary/display font for special headlines */
+.headline-special {
+  font-family: 'SangBleuSans', Arial, sans-serif;
+}
+
+/* Copy text variants */
+.copy-small {
+  font-size: 12px;
+  line-height: 1.75;
+}
+@media (min-width: 1180px) { .copy-small { font-size: 13px; } }
+@media (min-width: 1440px) { .copy-small { font-size: 14px; } }
+
+/* Subline/label text */
+.subline {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.83em;
+  font-size: 10px;
+}
+
 
 /* Navbar */
 
