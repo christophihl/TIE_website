@@ -200,13 +200,15 @@ img.hero-illu {
 
 .affiliations-section h2 {
   border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .logo-grid {
   display: flex;
   flex-wrap: wrap;
-  border-top: 1px solid #005e73;
-  border-bottom: 1px solid #005e73;
+  border-top: 1px solid #00c1d4;
+  border-bottom: 1px solid #00c1d4;
 }
 
 .logo-grid > p {
@@ -233,11 +235,11 @@ img.hero-illu {
 }
 
 .logo-grid a:not(:nth-child(2n+1)) {
-  border-left: 1px dashed #005e73;
+  border-left: 1px dashed #00c1d4;
 }
 
 .logo-grid a:not(:nth-last-of-type(-n+2)) {
-  border-bottom: 1px dashed #005e73;
+  border-bottom: 1px dashed #00c1d4;
 }
 
 .logo-grid img {
@@ -266,10 +268,10 @@ img.hero-illu {
     border-bottom: none;
   }
   .logo-grid a:not(:nth-child(4n+1)) {
-    border-left: 1px dashed #005e73;
+    border-left: 1px dashed #00c1d4;
   }
   .logo-grid a:not(:nth-last-of-type(-n+4)) {
-    border-bottom: 1px dashed #005e73;
+    border-bottom: 1px dashed #00c1d4;
   }
 }
 
