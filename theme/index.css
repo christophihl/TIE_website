@@ -127,17 +127,14 @@
   .hero-banner {
     background-attachment: scroll;
   }
+  .hero-content {
+    height: 65vw;
+  }
   .hero-subtitle {
     font-size: 16px;
   }
   .hero-title {
     font-size: 24px;
-  }
-}
-
-@media (max-width: 480px) {
-  .hero-content {
-    height: 42.67vw;  /* TUHH mobile aspect ratio */
   }
 }
 
