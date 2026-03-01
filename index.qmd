@@ -91,47 +91,10 @@ resources:
 ::: {.objectives-section}
 ::: {.content-block}
 
-## Objectives {.section-heading}
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-::: {.objective-card}
-::: {.objective-icon}
-{{< fa magnifying-glass >}}
+::: {.mission-statement}
+We advance innovation and entrepreneurship through **rigorous research**, **hands-on teaching**, and **real-world collaboration** — shaping the next generation of Startup Engineers.
 :::
 
-### Research
-
-We strive to do rigor and relevant research about innovation and entrepreneurship from perspectives of organization theory, sociology and strategy. As data enthusiasts, we love to apply state-of-art computational and econometric methods to novel, large-scale data sets.
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.objective-card}
-::: {.objective-icon}
-{{< fa graduation-cap >}}
-:::
-
-### Teaching
-
-We are convinced that entrepreneurship can be learned and good training increases the odds of entrepreneurial success. To that end, our teaching is problem- and project-based so that students can gain first-hand, real-life experience that inspires and enables them to become the next generation of Startup Engineers.
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.objective-card}
-::: {.objective-icon}
-{{< fa gears >}}
-:::
-
-### Transfer
-
-We are open to collaborate with corporates, startups and associations to transfer our knowledge about data science and startup engineering into Practice. Possible modes of collaboration are master theses, applied research and data science projects, consulting, talks, workshops or trainings.
-:::
-:::
-
-:::
 :::
 :::
 

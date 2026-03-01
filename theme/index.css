@@ -359,38 +359,26 @@ img.hero-illu {
 }
 
 
-/* Objectives section */
+/* Objectives / Mission section */
 
 .objectives-section {
   padding-top: 4rem;
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
   background-color: white;
 }
 
-.objective-card {
+.mission-statement {
   text-align: center;
-  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
-.objective-card .objective-icon {
-  font-size: 2.5rem;
-  color: #00C1D4;
-  margin-bottom: 1rem;
-}
-
-.objective-card h3 {
-  font-size: 1.1rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+.mission-statement p {
+  font-family: 'SangBleuSans', Arial, sans-serif;
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  line-height: 1.6;
   color: #005e73;
-  margin-bottom: 1rem;
-}
-
-.objective-card p {
-  font-size: 0.95rem;
-  line-height: 1.7;
-  color: #005e73;
+  margin: 0;
 }
 
 
@@ -522,12 +510,8 @@ img.hero-illu {
   color: white;
 }
 
-.quarto-dark .objective-card h3 {
-  color: white;
-}
-
-.quarto-dark .objective-card p {
-  color: rgba(255, 255, 255, 0.85);
+.quarto-dark .mission-statement p {
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .quarto-dark .logo-grid img {
