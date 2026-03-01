@@ -363,9 +363,12 @@ img.hero-illu {
 /* Objectives / Mission section */
 
 .objectives-section {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .mission-statement {
