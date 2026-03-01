@@ -366,6 +366,7 @@ img.hero-illu {
   padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: white;
+  overflow: hidden;
 }
 
 .mission-statement {
@@ -402,6 +403,7 @@ img.hero-illu {
   height: clamp(120px, 20vw, 200px);
   width: auto;
   display: block;
+  transform: rotate(180deg);
 }
 
 .mission-statement a {
@@ -413,13 +415,27 @@ img.hero-illu {
   opacity: 0.75;
 }
 
-@media (max-width: 576px) {
-  .mission-statement {
-    flex-direction: column;
-    gap: 1.5rem;
+@media (max-width: 980px) {
+  .objectives-section {
+    position: relative;
   }
+
+  .mission-statement {
+    flex-direction: row;
+  }
+
+  .mission-illu {
+    position: absolute;
+    left: 2rem;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: flex-end;
+  }
+
   .mission-illu img {
-    height: 100px;
+    height: auto;
+    width: clamp(40px, 10vw, 75px);
   }
 }
 
