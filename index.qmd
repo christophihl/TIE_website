@@ -92,7 +92,7 @@ resources:
 ::: {.content-block}
 
 ::: {.mission-statement}
-We advance innovation and entrepreneurship through [**rigorous empirical research**](research.qmd), [**teaching a scientific approach to entrepreneurship**](teaching.qmd), and [**welcoming real-world collaborations**](transfer.qmd) — shaping the next generation of Startup Engineers.
+We advance innovation and entrepreneurship through<br>[**rigorous empirical research**](research.qmd),<br>[**teaching a scientific approach to entrepreneurship**](teaching.qmd), and<br>[**welcoming real-world collaborations**](transfer.qmd)<br>— shaping the next generation of Startup Engineers.
 :::
 
 :::
