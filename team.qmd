@@ -6,6 +6,23 @@ toc: false
 css: theme/page.css
 resources:
   - assets/images/banners/team.jpg
+listing:
+  - id: current-team
+    contents: team/*/index.qmd
+    include:
+      user-group: "Current Members"
+    sort:
+      - "weight"
+    type: custom
+    template: team-cards.ejs
+  - id: alumni
+    contents: team/*/index.qmd
+    include:
+      user-group: "Alumni"
+    sort:
+      - "title"
+    type: custom
+    template: team-cards.ejs
 ---
 
 ::: {.page-header style="background-image: url('assets/images/banners/team.jpg');"}
@@ -17,7 +34,15 @@ resources:
 ::: {.content-section}
 ::: {.content-block}
 
-[Content coming soon.]{.placeholder-text}
+## Current Team {.team-section-heading}
+
+::: {#current-team}
+:::
+
+## Alumni {.team-section-heading}
+
+::: {#alumni}
+:::
 
 :::
 :::

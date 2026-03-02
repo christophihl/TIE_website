@@ -103,3 +103,67 @@ $body-color: white;
   background-color: rgba(0, 94, 115, 0.9);
   color: white;
 }
+
+/* Team card dark mode */
+.team-card {
+  border-color: rgba(0, 193, 212, 0.5);
+  background-color: #23252f;
+}
+.team-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+.team-card__image {
+  border-color: rgba(0, 193, 212, 0.4);
+}
+.team-card__name {
+  color: white;
+}
+.team-card__role {
+  color: rgba(0, 193, 212, 0.8);
+}
+.team-section-heading {
+  color: white;
+}
+
+/* Profile page dark mode */
+.profile-avatar {
+  border-color: rgba(0, 193, 212, 0.5);
+}
+.profile-name {
+  color: white;
+}
+.profile-role {
+  color: rgba(0, 193, 212, 0.8);
+}
+.profile-contact li {
+  color: white;
+}
+.profile-social a {
+  border-color: rgba(0, 193, 212, 0.5);
+  color: white;
+}
+.profile-social a:hover {
+  background-color: rgba(0, 193, 212, 0.8);
+  color: #23252f;
+}
+.profile-main h2 {
+  color: white;
+  border-color: rgba(0, 193, 212, 0.4);
+}
+.profile-education li,
+.profile-education ul li {
+  border-color: rgba(0, 193, 212, 0.5);
+}
+.profile-education li::before,
+.profile-education ul li::before {
+  background-color: rgba(0, 193, 212, 0.8);
+}
+.profile-education__position {
+  color: white;
+}
+.profile-education__institution {
+  color: #aaa;
+}
+.profile-education__year {
+  color: #888;
+}

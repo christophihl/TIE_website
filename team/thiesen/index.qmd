@@ -1,0 +1,103 @@
+---
+title: "Jürgen Christopher Thiesen"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Current Members"
+weight: 75
+
+interests:
+  - Green Technologies/Clean Technologies
+  - Sustainable Entrepreneurship
+  - Renewable Energy
+
+education:
+  - position: "PhD in Management & Engineering"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2023 - current"
+  - position: "Business Development Manager"
+    institution: "GP JOULE Connect GmbH, Germany"
+    year: "2021 - 2022"
+  - position: "Master of Science in International Management and Engineering"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2021"
+  - position: "Working Student Business Development and Product Management"
+    institution: "GP JOULE Connect GmbH, Germany"
+    year: "2021"
+  - position: "Internship in Controlling Development and Project Controlling Digitization"
+    institution: "Audi AG, Germany"
+    year: "2020"
+  - position: "Exchange Semester"
+    institution: "Chalmers University of Technology, Sweden"
+    year: "2019"
+  - position: "Internship Research and Development Electric Grid"
+    institution: "ABB AG, Germany"
+    year: "2018"
+  - position: "Bachelor of Science in Electrical Engineering and Management"
+    institution: "Kiel University, Germany"
+    year: "2018"
+  - position: "Working Student at the Chair of Power Electronics"
+    institution: "Kiel University, Germany"
+    year: "2017"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Jürgen Christopher Thiesen](avatar.jpg){.profile-avatar}
+
+### Jürgen Christopher Thiesen {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.032
+- {{< fa phone >}} +49 40 42878-4845
+- {{< fa envelope >}} juergen.thiesen@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:juergen.thiesen@tuhh.de "Email") [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jürgenchristopherthiesen/ "LinkedIn") [{{< fa brands github >}}](https://github.com/juergenct "GitHub")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests include the wide field of green technologies and sustainable entrepreneurship.
+
+## Interests
+
+::: {.profile-interests}
+- Green Technologies/Clean Technologies
+- Sustainable Entrepreneurship
+- Renewable Energy
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Management & Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2023 - current]{.profile-education__year}
+- [Business Development Manager]{.profile-education__position}<br>[GP JOULE Connect GmbH, Germany]{.profile-education__institution}<br>[2021 - 2022]{.profile-education__year}
+- [Master of Science in International Management and Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2021]{.profile-education__year}
+- [Working Student Business Development and Product Management]{.profile-education__position}<br>[GP JOULE Connect GmbH, Germany]{.profile-education__institution}<br>[2021]{.profile-education__year}
+- [Internship in Controlling Development and Project Controlling Digitization]{.profile-education__position}<br>[Audi AG, Germany]{.profile-education__institution}<br>[2020]{.profile-education__year}
+- [Exchange Semester]{.profile-education__position}<br>[Chalmers University of Technology, Sweden]{.profile-education__institution}<br>[2019]{.profile-education__year}
+- [Internship Research and Development Electric Grid]{.profile-education__position}<br>[ABB AG, Germany]{.profile-education__institution}<br>[2018]{.profile-education__year}
+- [Bachelor of Science in Electrical Engineering and Management]{.profile-education__position}<br>[Kiel University, Germany]{.profile-education__institution}<br>[2018]{.profile-education__year}
+- [Working Student at the Chair of Power Electronics]{.profile-education__position}<br>[Kiel University, Germany]{.profile-education__institution}<br>[2017]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

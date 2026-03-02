@@ -1,0 +1,89 @@
+---
+title: "Dr. Oliver Mork"
+description: "Research Assistant & Doctoral Student"
+image: avatar.png
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Econometrics
+  - Machine Learning
+
+education:
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2020 - current"
+  - position: "Master of Science in Economics, Specialization in Statistics & Econometrics"
+    institution: "University of Cologne, Germany"
+    year: "2020"
+  - position: "Working Student - Data Analyst"
+    institution: "buynomics, Germany"
+    year: "2019 - 2020"
+  - position: "Exchange Semester"
+    institution: "University of Economics, Prague (VSE), Czech Republic"
+    year: "2018"
+  - position: "Working Student - Business Analyst"
+    institution: "Efficio Consulting, Germany"
+    year: "2016 - 2018"
+  - position: "Bachelor of Science in Economics"
+    institution: "University of Cologne, Germany"
+    year: "2016"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Oliver Mork](avatar.png){.profile-avatar}
+
+### Dr. Oliver Mork {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.012
+- {{< fa phone >}} +49 40 42878-4741
+- {{< fa envelope >}} oliver.mork@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:oliver.mork@tuhh.de "Email")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests lie at the intersection of Econometrics & Machine Learning.
+
+## Interests
+
+::: {.profile-interests}
+- Econometrics
+- Machine Learning
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2020 - current]{.profile-education__year}
+- [Master of Science in Economics, Specialization in Statistics & Econometrics]{.profile-education__position}<br>[University of Cologne, Germany]{.profile-education__institution}<br>[2020]{.profile-education__year}
+- [Working Student - Data Analyst]{.profile-education__position}<br>[buynomics, Germany]{.profile-education__institution}<br>[2019 - 2020]{.profile-education__year}
+- [Exchange Semester]{.profile-education__position}<br>[University of Economics, Prague (VSE), Czech Republic]{.profile-education__institution}<br>[2018]{.profile-education__year}
+- [Working Student - Business Analyst]{.profile-education__position}<br>[Efficio Consulting, Germany]{.profile-education__institution}<br>[2016 - 2018]{.profile-education__year}
+- [Bachelor of Science in Economics]{.profile-education__position}<br>[University of Cologne, Germany]{.profile-education__institution}<br>[2016]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

@@ -1,0 +1,85 @@
+---
+title: "Dr. Jan-Frederik Arnold"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Venture capital
+  - Startup atypicality
+  - Social evaluation
+
+education:
+  - position: "CEO"
+    institution: "Flightright, Berlin, Germany"
+    year: "2021 - current"
+  - position: "CFO"
+    institution: "Flightright, Berlin, Germany"
+    year: "2019 - 2021"
+  - position: "Engagement Manager"
+    institution: "McKinsey & Company, Munich, Germany"
+    year: "2012 - 2019"
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2015 - 2018"
+  - position: "MSc in Accounting and Finance"
+    institution: "London School of Economics and Political Science, UK"
+    year: "2010 - 2012"
+  - position: "Bachelor of Arts in Business Administration"
+    institution: "Universität St. Gallen, Switzerland"
+    year: "2007 - 2010"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Jan-Frederik Arnold](avatar.jpg){.profile-avatar}
+
+### Dr. Jan-Frederik Arnold {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-social}
+[{{< fa brands linkedin >}}](https://de.linkedin.com/in/jan-frederik-arnold "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+Venture Capital, Startup Distinctiveness, Social Evaluation
+
+## Interests
+
+::: {.profile-interests}
+- Venture capital
+- Startup atypicality
+- Social evaluation
+:::
+
+## Education
+
+::: {.profile-education}
+- [CEO]{.profile-education__position}<br>[Flightright, Berlin, Germany]{.profile-education__institution}<br>[2021 - current]{.profile-education__year}
+- [CFO]{.profile-education__position}<br>[Flightright, Berlin, Germany]{.profile-education__institution}<br>[2019 - 2021]{.profile-education__year}
+- [Engagement Manager]{.profile-education__position}<br>[McKinsey & Company, Munich, Germany]{.profile-education__institution}<br>[2012 - 2019]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - 2018]{.profile-education__year}
+- [MSc in Accounting and Finance]{.profile-education__position}<br>[London School of Economics and Political Science, UK]{.profile-education__institution}<br>[2010 - 2012]{.profile-education__year}
+- [Bachelor of Arts in Business Administration]{.profile-education__position}<br>[Universität St. Gallen, Switzerland]{.profile-education__institution}<br>[2007 - 2010]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

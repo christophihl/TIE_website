@@ -1,0 +1,83 @@
+---
+title: "Dr. Michael Engel"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Transition to entrepreneurship
+  - Status
+  - Peer influence
+  - Comic book industry
+
+education:
+  - position: "Head of Data & AI Product Management"
+    institution: "Volkswagen Financial Services, Berlin, Germany"
+    year: "2018 - current"
+  - position: "Senior Data Strategist"
+    institution: "Deloitte Consulting, Berlin, Germany"
+    year: "2017 - 2018"
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - 2019"
+  - position: "PhD in Management"
+    institution: "RWTH Aachen University, Germany"
+    year: "2012 - 2014"
+  - position: "BSc & MSc in Economics"
+    institution: "Ludwig-Maximilians University, Munich, Germany"
+    year: "2006 - 2011"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Michael Engel](avatar.jpg){.profile-avatar}
+
+### Dr. Michael Engel {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-social}
+[{{< fa brands linkedin >}}](https://de.linkedin.com/in/m-engel "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+Transition to entrepreneurship, status, peer influence
+
+## Interests
+
+::: {.profile-interests}
+- Transition to entrepreneurship
+- Status
+- Peer influence
+- Comic book industry
+:::
+
+## Education
+
+::: {.profile-education}
+- [Head of Data & AI Product Management]{.profile-education__position}<br>[Volkswagen Financial Services, Berlin, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}
+- [Senior Data Strategist]{.profile-education__position}<br>[Deloitte Consulting, Berlin, Germany]{.profile-education__institution}<br>[2017 - 2018]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - 2019]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2012 - 2014]{.profile-education__year}
+- [BSc & MSc in Economics]{.profile-education__position}<br>[Ludwig-Maximilians University, Munich, Germany]{.profile-education__institution}<br>[2006 - 2011]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

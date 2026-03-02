@@ -1,0 +1,83 @@
+---
+title: "Benjamin Müller"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Corporate venture capital
+  - Startup acquisitions
+  - Startup accelerators
+  - Event studies
+
+education:
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2015 - 2019"
+  - position: "Startup Consultant @ Startup Dock - Center for Entrepreneurship"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2016 - 2019"
+  - position: "Consultant"
+    institution: "McKinsey & Company, Hamburg, Germany"
+    year: "2013 - current"
+  - position: "MSc in Business Administration"
+    institution: "HHL Leipzig Graduate School of Management, Germany"
+    year: "2010 - 2013"
+  - position: "BSc in Business and Management Studies"
+    institution: "University of Applied Sciences Europe, Hamburg, Germany"
+    year: "2007 - 2000"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Benjamin Müller](avatar.jpg){.profile-avatar}
+
+### Benjamin Müller {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-social}
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/benjamin-mueller-hamburg/ "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+Corporate Venture Capital, Startup Acquisitions, Event Studies
+
+## Interests
+
+::: {.profile-interests}
+- Corporate venture capital
+- Startup acquisitions
+- Startup accelerators
+- Event studies
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - 2019]{.profile-education__year}
+- [Startup Consultant @ Startup Dock - Center for Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2016 - 2019]{.profile-education__year}
+- [Consultant]{.profile-education__position}<br>[McKinsey & Company, Hamburg, Germany]{.profile-education__institution}<br>[2013 - current]{.profile-education__year}
+- [MSc in Business Administration]{.profile-education__position}<br>[HHL Leipzig Graduate School of Management, Germany]{.profile-education__institution}<br>[2010 - 2013]{.profile-education__year}
+- [BSc in Business and Management Studies]{.profile-education__position}<br>[University of Applied Sciences Europe, Hamburg, Germany]{.profile-education__institution}<br>[2007 - 2000]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

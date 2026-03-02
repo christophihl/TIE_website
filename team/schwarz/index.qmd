@@ -1,0 +1,99 @@
+---
+title: "Joschka Schwarz"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Current Members"
+weight: 60
+
+interests:
+  - Digital entrepreneurship
+  - Venture capital
+  - Social networks and peer effects
+  - Crowdsourced knowledge and innovation
+  - Natural language processing
+
+education:
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2019"
+  - position: "Innovation & Technology Project Lead"
+    institution: "Lufthansa Technik AG, Germany"
+    year: "2017-2019"
+  - position: "Internships & student work in management consulting and the automotive industry"
+    institution: "Fraunhofer IPT & ILT, Aachen, Germany"
+    year: "2011-2017"
+  - position: "Exchange student at the School of Business and Economics"
+    institution: "Maastricht University, Netherlands"
+    year: "2016"
+  - position: "MSc in Business Administration and Engineering - Materials and Process Engineering"
+    institution: "RWTH Aachen University, Germany"
+    year: "2015 - 2018"
+  - position: "Exchange student at the Faculty of Business Administration & School of Industrial Engineering"
+    institution: "Polytechnic University of Valencia, Spain"
+    year: "2014"
+  - position: "BSc in Business Administration and Engineering - Materials and Process Engineering"
+    institution: "RWTH Aachen University, Germany"
+    year: "2011 - 2015"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Joschka Schwarz](avatar.jpg){.profile-avatar}
+
+### Joschka Schwarz {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.010
+- {{< fa phone >}} +49 40 42878-4697
+- {{< fa envelope >}} joschka.schwarz@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:joschka.schwarz@tuhh.de "Email") [{{< fa brands linkedin >}}](https://www.linkedin.com/in/joschka-schwarz-b52322146/ "LinkedIn") [{{< ai researchgate >}}](https://www.researchgate.net/profile/Joschka_Schwarz "ResearchGate") [{{< fa brands github >}}](https://github.com/jwarz "GitHub")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests include social network dynamics and computational social science with a focus on the computational analysis of language.
+
+## Interests
+
+::: {.profile-interests}
+- Digital entrepreneurship
+- Venture capital
+- Social networks and peer effects
+- Crowdsourced knowledge and innovation
+- Natural language processing
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2019]{.profile-education__year}
+- [Innovation & Technology Project Lead]{.profile-education__position}<br>[Lufthansa Technik AG, Germany]{.profile-education__institution}<br>[2017-2019]{.profile-education__year}
+- [Internships & student work in management consulting and the automotive industry]{.profile-education__position}<br>[Fraunhofer IPT & ILT, Aachen, Germany]{.profile-education__institution}<br>[2011-2017]{.profile-education__year}
+- [Exchange student at the School of Business and Economics]{.profile-education__position}<br>[Maastricht University, Netherlands]{.profile-education__institution}<br>[2016]{.profile-education__year}
+- [MSc in Business Administration and Engineering - Materials and Process Engineering]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2015 - 2018]{.profile-education__year}
+- [Exchange student at the Faculty of Business Administration & School of Industrial Engineering]{.profile-education__position}<br>[Polytechnic University of Valencia, Spain]{.profile-education__institution}<br>[2014]{.profile-education__year}
+- [BSc in Business Administration and Engineering - Materials and Process Engineering]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2011 - 2015]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

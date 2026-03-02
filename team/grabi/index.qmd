@@ -1,0 +1,97 @@
+---
+title: "Birgit Grabi"
+description: "Team & Project Manager"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Family
+  - Garden
+
+education:
+  - position: "Team and Project Manager at the Institute of Entrepreneurship"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - current"
+  - position: "Assistant at the Institute of Controlling and Simulation"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2008 - 2014"
+  - position: "Assistant to Doctoral Degree Committee"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2012"
+  - position: "Assistant at the Institute for River and Coastal Engineering"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2002 - 2008"
+  - position: "Assistant at the Institute of Mechanics and Ocean Engineering"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2000 - 2001"
+  - position: "Assistant to the Board"
+    institution: "Hamburg University of Technology, Germany"
+    year: "1999 - 2000"
+  - position: "Assistant to CEO and CFO"
+    institution: "Bacardi GmbH, Hamburg"
+    year: "1990 - 1999"
+  - position: "Assistant to Manager Controlling and Accounting"
+    institution: "Braun AG, Kronberg im Taunus"
+    year: "1988 - 1990"
+  - position: "International Management Assistant / Europa-Sekretaerin"
+    institution: "Academy for Management Assistants (AMA), Lippstadt, Foreign Language Studies"
+    year: "1988"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Birgit Grabi](avatar.jpg){.profile-avatar}
+
+### Birgit Grabi {.profile-name}
+
+[Team & Project Manager]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.034
+- {{< fa phone >}} +49 40 42878-4765
+- {{< fa envelope >}} birgit.grabi@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:birgit.grabi@tuhh.de "Email")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Interests
+
+::: {.profile-interests}
+- Family
+- Garden
+:::
+
+## Education
+
+::: {.profile-education}
+- [Team and Project Manager at the Institute of Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - current]{.profile-education__year}
+- [Assistant at the Institute of Controlling and Simulation]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2008 - 2014]{.profile-education__year}
+- [Assistant to Doctoral Degree Committee]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2012]{.profile-education__year}
+- [Assistant at the Institute for River and Coastal Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2002 - 2008]{.profile-education__year}
+- [Assistant at the Institute of Mechanics and Ocean Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2000 - 2001]{.profile-education__year}
+- [Assistant to the Board]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[1999 - 2000]{.profile-education__year}
+- [Assistant to CEO and CFO]{.profile-education__position}<br>[Bacardi GmbH, Hamburg]{.profile-education__institution}<br>[1990 - 1999]{.profile-education__year}
+- [Assistant to Manager Controlling and Accounting]{.profile-education__position}<br>[Braun AG, Kronberg im Taunus]{.profile-education__institution}<br>[1988 - 1990]{.profile-education__year}
+- [International Management Assistant / Europa-Sekretaerin]{.profile-education__position}<br>[Academy for Management Assistants (AMA), Lippstadt, Foreign Language Studies]{.profile-education__institution}<br>[1988]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

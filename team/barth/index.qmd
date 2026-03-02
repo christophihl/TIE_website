@@ -1,0 +1,91 @@
+---
+title: "Dr. Giulio Barth"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Synthetic biology
+  - Open source
+  - Diffusion
+  - Institutional entrepreneurship
+
+education:
+  - position: "Consultant"
+    institution: "McKinsey & Company, Munich, Germany"
+    year: "2013 - current"
+  - position: "Startup Consultant @ Startup Dock - Center for Entrepreneurship"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2017 - 2018"
+  - position: "PhD Summer School in Synthetic Biology"
+    institution: "Stanford University, USA"
+    year: "2016"
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2015 - 2018"
+  - position: "MSc in Industrial Engineering and Management"
+    institution: "RWTH Aachen University, Germany"
+    year: "2010 - 2012"
+  - position: "Studies in Industrial Engineering and Management"
+    institution: "Politecnico di Milano, Italy"
+    year: "2009 - 2010"
+  - position: "BSc in Industrial Engineering and Management"
+    institution: "RWTH Aachen University, Germany"
+    year: "2006 - 2009"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Giulio Barth](avatar.jpg){.profile-avatar}
+
+### Dr. Giulio Barth {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-social}
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/giulio-barth-00939039 "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+Synthetic Biology, Open Source, Institutional Entrepreneurship
+
+## Interests
+
+::: {.profile-interests}
+- Synthetic biology
+- Open source
+- Diffusion
+- Institutional entrepreneurship
+:::
+
+## Education
+
+::: {.profile-education}
+- [Consultant]{.profile-education__position}<br>[McKinsey & Company, Munich, Germany]{.profile-education__institution}<br>[2013 - current]{.profile-education__year}
+- [Startup Consultant @ Startup Dock - Center for Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2017 - 2018]{.profile-education__year}
+- [PhD Summer School in Synthetic Biology]{.profile-education__position}<br>[Stanford University, USA]{.profile-education__institution}<br>[2016]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - 2018]{.profile-education__year}
+- [MSc in Industrial Engineering and Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2010 - 2012]{.profile-education__year}
+- [Studies in Industrial Engineering and Management]{.profile-education__position}<br>[Politecnico di Milano, Italy]{.profile-education__institution}<br>[2009 - 2010]{.profile-education__year}
+- [BSc in Industrial Engineering and Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2006 - 2009]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

@@ -1,0 +1,99 @@
+---
+title: "Dr. Hannes W. Lampe"
+description: "Research Associate & Post-Doc"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Public management
+  - Science of science
+  - Technology entrepreneurship
+  - Natural language processing
+  - Social evaluation of organizations
+
+education:
+  - position: "Post-Doc"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2015 - current"
+  - position: "PhD in Public Management"
+    institution: "University of Hamburg, Germany"
+    year: "2015"
+  - position: "Research Associate"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - 2015"
+  - position: "Research Associate"
+    institution: "Johannes Kepler University Linz, Austria"
+    year: "2013 - 2014"
+  - position: "Research Associate"
+    institution: "University of Hamburg, Germany"
+    year: "2011 - 2013"
+  - position: "Diploma in Business Administration"
+    institution: "University of Osnabrück, Germany"
+    year: "2011"
+  - position: "Diploma in Economics"
+    institution: "University of Osnabrück, Germany"
+    year: "2010"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Hannes W. Lampe](avatar.jpg){.profile-avatar}
+
+### Dr. Hannes W. Lampe {.profile-name}
+
+[Research Associate & Post-Doc]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.031
+- {{< fa phone >}} +49 40 42878-4743
+- {{< fa envelope >}} hannes.lampe@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:hannes.lampe@tuhh.de "Email") [{{< fa brands linkedin >}}](https://de.linkedin.com/in/hannes-lampe-86380740/ "LinkedIn") [{{< ai google-scholar >}}](https://scholar.google.de/citations?user=3OREuykAAAAJ&hl=de&oi=ao "Google Scholar") [{{< ai researchgate >}}](https://www.researchgate.net/profile/Hannes_Lampe "ResearchGate") [{{< ai orcid >}}](https://orcid.org/0000-0003-1375-236X "ORCID")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests lie at the intersection of Technology, Innovation and Entrepreneurship (TIE) and Public and Nonprofit Management (PNP).
+
+## Interests
+
+::: {.profile-interests}
+- Public management
+- Science of science
+- Technology entrepreneurship
+- Natural language processing
+- Social evaluation of organizations
+:::
+
+## Education
+
+::: {.profile-education}
+- [Post-Doc]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - current]{.profile-education__year}
+- [PhD in Public Management]{.profile-education__position}<br>[University of Hamburg, Germany]{.profile-education__institution}<br>[2015]{.profile-education__year}
+- [Research Associate]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - 2015]{.profile-education__year}
+- [Research Associate]{.profile-education__position}<br>[Johannes Kepler University Linz, Austria]{.profile-education__institution}<br>[2013 - 2014]{.profile-education__year}
+- [Research Associate]{.profile-education__position}<br>[University of Hamburg, Germany]{.profile-education__institution}<br>[2011 - 2013]{.profile-education__year}
+- [Diploma in Business Administration]{.profile-education__position}<br>[University of Osnabrück, Germany]{.profile-education__institution}<br>[2011]{.profile-education__year}
+- [Diploma in Economics]{.profile-education__position}<br>[University of Osnabrück, Germany]{.profile-education__institution}<br>[2010]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

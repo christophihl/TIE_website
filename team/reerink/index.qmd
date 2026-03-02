@@ -1,0 +1,79 @@
+---
+title: "Dr. Jan Reerink"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Technology transfer
+  - Crowdsourcing
+  - Academic Patenting
+  - Nano Technology
+
+education:
+  - position: "Data Scientist"
+    institution: "Airbus Defence and Space, Hamburg, Germany"
+    year: "2018 - current"
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - 2016"
+  - position: "PhD in Management"
+    institution: "RWTH Aachen University, Germany"
+    year: "2010 - 2014"
+  - position: "BSc & MSc in Industrial Engineering and Management"
+    institution: "RWTH Aachen University, Germany"
+    year: "2004 - 2010"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Jan Reerink](avatar.jpg){.profile-avatar}
+
+### Dr. Jan Reerink {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-social}
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jan-reerink-5b377b102 "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+Technology Transfer, Crowdsourcing, Academic Patenting, Nano Technology
+
+## Interests
+
+::: {.profile-interests}
+- Technology transfer
+- Crowdsourcing
+- Academic Patenting
+- Nano Technology
+:::
+
+## Education
+
+::: {.profile-education}
+- [Data Scientist]{.profile-education__position}<br>[Airbus Defence and Space, Hamburg, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - 2016]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2010 - 2014]{.profile-education__year}
+- [BSc & MSc in Industrial Engineering and Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2004 - 2010]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

@@ -1,0 +1,83 @@
+---
+title: "Dimitri Graf"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Science of science
+  - Social networks
+  - Natural language processing
+  - Deep learning
+  - Computational social science
+
+education:
+  - position: "PhD in Computational Social Science"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2016 - current"
+  - position: "MSc in Industrial Engineering & Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2015"
+  - position: "BSc in Engineering and Management"
+    institution: "University of Bremen, Germany"
+    year: "2011"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dimitri Graf](avatar.jpg){.profile-avatar}
+
+### Dimitri Graf {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.032
+- {{< fa phone >}} +49 40 42878-4738
+- {{< fa envelope >}} dimitri.graf@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:dimitri.graf@tuhh.de "Email") [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dimitri-graf-980a06a2/ "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests include science of science, computational social science and machine learning.
+
+## Interests
+
+::: {.profile-interests}
+- Science of science
+- Social networks
+- Natural language processing
+- Deep learning
+- Computational social science
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Computational Social Science]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2016 - current]{.profile-education__year}
+- [MSc in Industrial Engineering & Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015]{.profile-education__year}
+- [BSc in Engineering and Management]{.profile-education__position}<br>[University of Bremen, Germany]{.profile-education__institution}<br>[2011]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

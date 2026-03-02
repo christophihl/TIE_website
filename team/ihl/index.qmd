@@ -1,0 +1,107 @@
+---
+title: "Prof. Dr. Christoph Ihl"
+description: "Professor & Head of Institute"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Current Members"
+weight: 1
+
+interests:
+  - Cultural entrepreneurship
+  - Social networks
+  - Natural language processing
+  - Social evaluation of organizations
+  - Startup innovation
+  - Crowdsourcing / -funding
+  - Science of science
+
+education:
+  - position: "Professor & Head of Institute of Entrepreneurship"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - current"
+  - position: "Academic Director of Startup Dock - Center for Entrepreneurship"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2014 - 2018"
+  - position: "Assistant Professor"
+    institution: "RWTH Aachen University, Germany"
+    year: "2008 - 2014"
+  - position: "PhD in Management"
+    institution: "Technical University of Munich, Germany"
+    year: "2008"
+  - position: "MSc in Engineering and Management"
+    institution: "Technical University of Berlin, Germany"
+    year: "2001"
+  - position: "MBA"
+    institution: "University of British Columbia, Vancouver, Canada"
+    year: "1998"
+  - position: "BSc in Engineering and Management"
+    institution: "Technical University of Kaiserslautern, Germany"
+    year: "1995"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Prof. Dr. Christoph Ihl](avatar.jpg){.profile-avatar}
+
+### Prof. Dr. Christoph Ihl {.profile-name}
+
+[Professor & Head of Institute]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.033
+- {{< fa phone >}} +49 40 42878-4765
+- {{< fa envelope >}} christoph.ihl@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:christoph.ihl@tuhh.de "Email") [{{< fa brands linkedin >}}](https://www.linkedin.com/in/christoph-ihl "LinkedIn") [{{< fa brands twitter >}}](https://twitter.com/Ihluminate "Twitter") [{{< ai google-scholar >}}](https://scholar.google.co.uk/citations?user=rOAPv_gAAAAJ "Google Scholar") [{{< ai researchgate >}}](https://www.researchgate.net/profile/Christoph_Ihl "ResearchGate") [{{< ai orcid >}}](https://orcid.org/0000-0002-0842-5201 "ORCID") [{{< fa brands github >}}](https://github.com/christophihl "GitHub")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+As professor of management at Hamburg University of Technology (TUHH) I am heading the TUHH Institute of Entrepreneurship (TIE). My research about entrepreneurship and innovation lies at the intersection of organizational theory, sociology and strategy. In particular, I am interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products, practices or business models.
+
+My research is situated in domains, where social and cultural spaces can be measured (more or less) comprehensively, such as digital startup innovation, academic science, creative industries as well as user crowds and communities. I deeply enjoy getting insights from novel data using econometric and computational methods from network analysis and natural language processing.
+
+I have benefited from studying and working at universities with outstanding entrepreneurial culture. Drawing on this experience together with my taste for empirical research, I engage students in active "startup engineering" to let them learn about and validate their own startup ideas from first-hand evidence. I regularly work with startups and corporates in the area of business model innovation and data science.
+
+## Interests
+
+::: {.profile-interests}
+- Cultural entrepreneurship
+- Social networks
+- Natural language processing
+- Social evaluation of organizations
+- Startup innovation
+- Crowdsourcing / -funding
+- Science of science
+:::
+
+## Education
+
+::: {.profile-education}
+- [Professor & Head of Institute of Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - current]{.profile-education__year}
+- [Academic Director of Startup Dock - Center for Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - 2018]{.profile-education__year}
+- [Assistant Professor]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2008 - 2014]{.profile-education__year}
+- [PhD in Management]{.profile-education__position}<br>[Technical University of Munich, Germany]{.profile-education__institution}<br>[2008]{.profile-education__year}
+- [MSc in Engineering and Management]{.profile-education__position}<br>[Technical University of Berlin, Germany]{.profile-education__institution}<br>[2001]{.profile-education__year}
+- [MBA]{.profile-education__position}<br>[University of British Columbia, Vancouver, Canada]{.profile-education__institution}<br>[1998]{.profile-education__year}
+- [BSc in Engineering and Management]{.profile-education__position}<br>[Technical University of Kaiserslautern, Germany]{.profile-education__institution}<br>[1995]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

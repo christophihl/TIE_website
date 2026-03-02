@@ -1,0 +1,89 @@
+---
+title: "Dr. Carolin Brückmann"
+description: "Research Assistant & Doctoral Student"
+image: avatar.jpg
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+
+user-group: "Alumni"
+weight: 999
+
+interests:
+  - Social networks
+  - Crowdfunding
+  - Blockchain technology
+  - Initial coin offerings
+  - Investor behavior
+  - FinTech
+
+education:
+  - position: "PhD in Management"
+    institution: "Hamburg University of Technology, Germany"
+    year: "2018 - current"
+  - position: "Consultant"
+    institution: "McKinsey & Company, Hamburg, Germany"
+    year: "2016 - current"
+  - position: "MSc in Applied Economics and Finance"
+    institution: "Copenhagen Business School, Denmark"
+    year: "2015"
+  - position: "BSc in International Business"
+    institution: "Maastricht University, the Netherlands"
+    year: "2012"
+---
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Dr. Carolin Brückmann](avatar.jpg){.profile-avatar}
+
+### Dr. Carolin Brückmann {.profile-name}
+
+[Research Assistant & Doctoral Student]{.profile-role}
+
+::: {.profile-contact}
+- {{< fa building >}} Building Q Room 1.008
+- {{< fa phone >}} +49 40 42878-4744
+- {{< fa envelope >}} ca.brueckmann@tuhh.de
+:::
+
+::: {.profile-social}
+[{{< fa envelope >}}](mailto:ca.brueckmann@tuhh.de "Email") [{{< fa brands linkedin >}}](https://www.linkedin.com/in/carolinbrueckmann/ "LinkedIn")
+:::
+
+:::
+
+::: {.profile-main}
+
+## Biography
+
+My research interests include Crowdfunding, Blockchain Technology and Initial Coin Offerings.
+
+## Interests
+
+::: {.profile-interests}
+- Social networks
+- Crowdfunding
+- Blockchain technology
+- Initial coin offerings
+- Investor behavior
+- FinTech
+:::
+
+## Education
+
+::: {.profile-education}
+- [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}
+- [Consultant]{.profile-education__position}<br>[McKinsey & Company, Hamburg, Germany]{.profile-education__institution}<br>[2016 - current]{.profile-education__year}
+- [MSc in Applied Economics and Finance]{.profile-education__position}<br>[Copenhagen Business School, Denmark]{.profile-education__institution}<br>[2015]{.profile-education__year}
+- [BSc in International Business]{.profile-education__position}<br>[Maastricht University, the Netherlands]{.profile-education__institution}<br>[2012]{.profile-education__year}
+:::
+
+:::
+
+:::
+:::
+:::

@@ -992,6 +992,314 @@ p:has(.backimage-caption) {
 }
 
 
+/* =============================================
+   Team Page — Card Grid & Profile Pages
+   ============================================= */
+
+/* Team section headings */
+.team-section-heading {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: $text_blue;
+  border-bottom: none;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 32px;
+}
+
+.team-section-heading .header-section-number,
+.team-section-heading .anchor-section-link {
+  display: none;
+}
+
+/* Team grid — 4 cols desktop, 2 tablet, 1 mobile */
+.team-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+@media (min-width: 576px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .team-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Team card */
+.team-card {
+  position: relative;
+  border: 1px solid $tuhh_blue;
+  overflow: hidden;
+  transition: box-shadow 0.25s ease;
+  background-color: white;
+}
+
+.team-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.team-card a.stretched-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.team-card:hover a.stretched-link {
+  text-decoration: none;
+}
+
+/* Square photo */
+.team-card__image {
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-bottom: 1px solid $tuhh_blue;
+}
+
+.team-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Card text content */
+.team-card__content {
+  padding: 16px;
+}
+
+.team-card__name {
+  color: $text_blue;
+  margin: 0 0 4px;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+  text-transform: none;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  letter-spacing: normal;
+}
+
+.team-card__name .header-section-number,
+.team-card__name .anchor-section-link {
+  display: none;
+}
+
+.team-card__role {
+  color: #009eac;
+  font-size: 0.85rem;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Spacing between Current Team + Alumni sections */
+.team-section-heading + .quarto-listing {
+  margin-bottom: 3rem;
+}
+
+/* =============================================
+   Team Profile Page — Individual Member Layout
+   ============================================= */
+
+.profile-page {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  .profile-page {
+    grid-template-columns: 280px 1fr;
+    gap: 3rem;
+  }
+}
+
+/* Profile sidebar */
+.profile-sidebar {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .profile-sidebar {
+    text-align: left;
+  }
+}
+
+.profile-avatar {
+  width: 100%;
+  max-width: 280px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1px solid $tuhh_blue;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .profile-avatar {
+    margin: 0;
+  }
+}
+
+.profile-name {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.5rem;
+  color: $text_blue;
+}
+
+.profile-role {
+  display: block;
+  color: #009eac;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Profile contact info — div wrapping a markdown <ul> */
+.profile-contact {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.profile-contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-contact li {
+  padding: 4px 0;
+  color: $text_blue;
+}
+
+.profile-contact li i {
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+  color: $tuhh_blue;
+}
+
+/* Social icons row — div wrapping a <p> with inline links */
+.profile-social {
+  margin-top: 1rem;
+}
+
+.profile-social p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .profile-social p {
+    justify-content: flex-start;
+  }
+}
+
+.profile-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid $tuhh_blue;
+  color: $text_blue;
+  font-size: 1.1rem;
+  transition: all 0.2s ease;
+}
+
+.profile-social a:hover {
+  background-color: $tuhh_blue;
+  color: white;
+}
+
+/* Profile main content */
+.profile-main h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: $text_blue;
+  border-bottom: 1px dashed $tuhh_blue;
+  padding-bottom: 8px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.profile-main h2:first-child {
+  margin-top: 0;
+}
+
+/* Interests list — div wrapping a markdown <ul> */
+.profile-interests ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-interests li {
+  padding: 4px 0;
+  padding-left: 1.2em;
+  position: relative;
+}
+
+.profile-interests li::before {
+  content: "›";
+  position: absolute;
+  left: 0;
+  color: $tuhh_blue;
+  font-weight: 700;
+}
+
+/* Education timeline — div wrapping a markdown <ul> */
+.profile-education ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-education li {
+  padding: 8px 0;
+  padding-left: 1.5em;
+  position: relative;
+  border-left: 2px solid $tuhh_blue;
+  margin-left: 4px;
+}
+
+.profile-education li::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 14px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: $tuhh_blue;
+}
+
+.profile-education__position {
+  font-weight: 500;
+  color: $text_blue;
+}
+
+.profile-education__institution {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.profile-education__year {
+  font-size: 0.8rem;
+  color: #999;
+}
+
+
 /* Fonts */
 
 

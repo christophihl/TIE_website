@@ -1,0 +1,18 @@
+<div class="team-grid list">
+<% for (const item of items) { %>
+<div class="team-card">
+<span class="listing-title" style="display:none;"><%= item.title %></span>
+<span class="listing-description" style="display:none;"><%= item.description || '' %></span>
+<span class="listing-user-group" style="display:none;"><%= item['user-group'] || '' %></span>
+<% if (item.image) { %>
+<div class="team-card__image">
+<img src="<%= item.image %>" alt="<%= item.title %>">
+</div>
+<% } %>
+<div class="team-card__content">
+<h4 class="team-card__name"><a href="<%= item.path %>" class="stretched-link"><%= item.title %></a></h4>
+<p class="team-card__role"><%= item.description %></p>
+</div>
+</div>
+<% } %>
+</div>
