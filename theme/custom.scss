@@ -534,16 +534,16 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     align-items: center;
   }
 
-  /* Dropdown toggle caret for mobile */
+  /* Dropdown toggle caret for mobile — points right, larger */
   .navbar .nav-link.dropdown-toggle::after {
     border: none;
     content: '';
     display: inline-block;
-    width: 7px;
-    height: 7px;
-    border-right: 2px solid $text_blue;
-    border-bottom: 2px solid $text_blue;
-    transform: rotate(45deg);
+    width: 10px;
+    height: 10px;
+    border-right: 2.5px solid $text_blue;
+    border-bottom: 2.5px solid $text_blue;
+    transform: rotate(-45deg);
     transition: transform 0.3s ease-in-out;
     position: absolute;
     right: 1.5rem;
@@ -555,9 +555,37 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     top: 2rem;
   }
 
+  /* When expanded: arrow drops down */
   .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::after {
-    transform: rotate(-135deg);
-    margin-top: -2px;
+    transform: rotate(45deg);
+    margin-top: -7px;
+  }
+
+  /* When expanded: remove Bootstrap focus/show border */
+  .navbar .nav-link.dropdown-toggle:focus,
+  .navbar .nav-link.dropdown-toggle.show,
+  .navbar .nav-item.dropdown.show > .nav-link {
+    outline: none;
+    box-shadow: none;
+    border-color: transparent;
+  }
+
+  /* When expanded: show upper-right arrow on parent to signal it's clickable */
+  .navbar .nav-item.dropdown > .nav-link.dropdown-toggle {
+    position: relative;
+  }
+  .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::before {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-image: url('assets/images/link_blue.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 3.5rem;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   /* Dropdown panel */
