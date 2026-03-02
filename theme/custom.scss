@@ -692,9 +692,10 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 220px;
+  padding: 110px 0;
 }
 
 .page-header::before {
@@ -705,25 +706,28 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   z-index: 0;
 }
 
-.page-header__title {
+.page-header > p {
   position: relative;
   z-index: 1;
+  width: 100%;
+  max-width: $page_width;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.page-header__title {
   color: white;
-  text-align: left;
   font-family: SangBleuSans, PublicaSans, Poppins, sans-serif;
   font-size: clamp(20px, 4vw, 44px);
   font-weight: 400;
   line-height: 1.1;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
-  margin: 0;
-  padding: 0 2rem;
-  width: 100%;
-  max-width: $page_width;
-  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
-  .page-header { min-height: 160px; }
+  .page-header { padding: 60px 0; }
 }
 
 /* Background-image caption — shared across home + section pages */
