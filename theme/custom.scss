@@ -578,10 +578,13 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     background-image: url('assets/images/link_blue.svg');
     background-size: contain;
     background-repeat: no-repeat;
-    position: absolute;
-    right: 3.5rem;
-    top: 2rem;
-    transform: translateY(-50%);
+    position: relative;
+    display: inline-block;
+    margin-left: 8px;
+    top: auto;
+    right: auto;
+    transform: none;
+    flex-shrink: 0;
   }
 
   /* Dropdown panel */
