@@ -27,10 +27,6 @@
   }
 }
 
-p:has(.backimage-caption) {
-  margin-bottom: 0;
-}
-
 /* Index-specific section wrapper — objectives has custom layout */
 .objectives-section {
   width: 100%;
@@ -137,32 +133,6 @@ img.hero-illu {
   height: 100%;
   width: auto;
   padding-top: clamp(4px, 0.5vw, 8px);
-}
-
-
-.backimage-caption {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  padding: 2px 5px;
-  color: #ccc;
-  font-size: 0.5em;
-  background: #323232;
-  text-align: right;
-  z-index: 5;
-  opacity: 0.4;
-  border-radius: 5px 0 0 0;
-}
-
-.backimage-caption a {
-  color: #ccc;
-  text-decoration: none;
-}
-
-@media (min-width: 54em) {
-  .backimage-caption {
-    padding: 5px 10px;
-  }
 }
 
 

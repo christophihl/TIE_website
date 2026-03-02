@@ -1,5 +1,9 @@
 ---
 pagetitle: "News"
+page-layout: custom
+section-divs: false
+toc: false
+css: theme/page.css
 listing:
   id: news-listing
   contents: news/*/index.qmd
@@ -12,10 +16,14 @@ listing:
   categories: numbered
 ---
 
+::: {.page-header style="background-image: url('assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
 ::: {.content-section}
 ::: {.content-block}
-
-## News {.section-heading}
 
 ::: {#news-listing}
 :::

@@ -60,6 +60,11 @@ $body-color: white;
 
 /*-- scss:rules --*/
 
+/* Page header banner dark mode — stronger overlay */
+.page-header::before {
+  background: rgba(0, 0, 0, 0.4);
+}
+
 /* Shared section dark mode overrides */
 .content-section {
   background-color: #272935;

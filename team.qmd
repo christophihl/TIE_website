@@ -1,5 +1,21 @@
 ---
-title: "About"
+pagetitle: "Team"
+page-layout: custom
+section-divs: false
+toc: false
+css: theme/page.css
 ---
 
-About this site
+::: {.page-header style="background-image: url('assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+
+[Content coming soon.]{.placeholder-text}
+
+:::
+:::
