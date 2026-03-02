@@ -316,34 +316,6 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     border-top: 1px solid $tuhh_blue;
     border-bottom: 1px solid $tuhh_blue;
   }
-  .navbar-toggler[aria-expanded="true"] ~ .navbar-collapse .nav-item:not(:last-child) {
-    border-bottom: 1px dashed $tuhh_blue;
-  }
-  .navbar-toggler[aria-expanded="true"] ~ .navbar-collapse .nav-item {
-    height: 4rem;
-    position: relative;
-  }
-  .navbar-toggler[aria-expanded="true"] ~ .navbar-collapse .nav-link {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    border-bottom: 0px solid transparent;
-  }
-  .nav-link {
-    background-image: url('assets/images/link_blue.svg'); /* Replace with the path to your SVG */
-    background-size: 8px 8px; /* Adjust the width and height as needed */
-    background-repeat: no-repeat;
-    padding-right: 4rem;
-    background-position: 100% 50%; /* Adjust as needed */
-  }
-  .nav-item {
-    background-image: url('assets/images/breadcrumbs.svg'); /* Replace with the path to your SVG */
-    background-size: 25px 25px; /* Adjust the width and height as needed */
-    background-repeat: no-repeat;
-    padding-right: 4rem;
-    background-position: 97% 50%; /* Adjust as needed */
-  }
 }
 
 
@@ -514,24 +486,35 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   }
 }
 
-/* Mobile dropdown — integrated into collapsed nav */
+/* Mobile nav items + dropdown — TUHH style */
 @media (max-width: 991px) {
-  .navbar .dropdown-menu {
-    background-color: transparent;
-    border: none;
-    border-radius: 0;
-    box-shadow: none;
-    padding: 0;
-    margin: 0;
+  /* All nav items: dashed separator, fixed height, flexbox centering */
+  .navbar .navbar-nav .nav-item {
+    border-bottom: 1px dashed $tuhh_blue;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .navbar .navbar-nav .nav-item:last-child {
+    border-bottom: none;
   }
 
+  .navbar .navbar-nav .nav-item > .nav-link {
+    border-bottom: none;
+    width: 100%;
+  }
+
+  /* Dropdown parent needs variable height for expanded submenu */
   .navbar .nav-item.dropdown {
-    height: auto !important;
-    background-image: none;
+    height: auto;
+    flex-wrap: wrap;
   }
 
   .navbar .nav-item.dropdown > .nav-link {
-    background-image: none;
+    height: 4rem;
+    display: flex;
+    align-items: center;
   }
 
   /* Dropdown toggle caret for mobile */
@@ -544,13 +527,15 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     border-right: 2px solid $text_blue;
     border-bottom: 2px solid $text_blue;
     transform: rotate(45deg);
-    margin-left: 8px;
-    vertical-align: 2px;
     transition: transform 0.3s ease-in-out;
     position: absolute;
-    right: 4rem;
+    right: 1.5rem;
     top: 50%;
     margin-top: -5px;
+  }
+
+  .navbar .nav-item.dropdown > .nav-link.dropdown-toggle::after {
+    top: 2rem;
   }
 
   .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::after {
@@ -558,6 +543,18 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     margin-top: -2px;
   }
 
+  /* Dropdown panel */
+  .navbar .dropdown-menu {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  /* Dropdown items — indented, smaller height */
   .navbar .dropdown-menu .dropdown-item {
     color: $text_blue;
     font-size: 13px;
@@ -570,10 +567,6 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     display: flex;
     align-items: center;
     border-bottom: 1px dashed $tuhh_blue;
-    background-image: url('assets/images/link_blue.svg');
-    background-size: 8px 8px;
-    background-repeat: no-repeat;
-    background-position: calc(100% - 4rem) 50%;
   }
 
   .navbar .dropdown-menu .dropdown-item:last-child {

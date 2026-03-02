@@ -36,15 +36,6 @@ $body-color: white;
 }
 
 
-@media (max-width: 991px) {
-  .navbar[data-bs-theme=dark] .nav-link, {
-    background-image: url('assets/images/link.svg'); /* Replace with the path to your SVG */
-  }
-  .navbar[data-bs-theme=dark] .nav-item {
-    background-image: url('assets/images/breadcrumbs_light.svg'); /* Replace with the path to your SVG */
-  }
-}
-
 .navbar[data-bs-theme=dark] .navbar-toggler-icon {
     background-image: url("assets/images/burger_light.svg");
 }
@@ -75,10 +66,12 @@ $body-color: white;
   }
 }
 @media (max-width: 991px) {
+  .navbar[data-bs-theme=dark] .navbar-nav .nav-item {
+    border-bottom-color: rgba(0, 193, 212, 0.4);
+  }
   .navbar[data-bs-theme=dark] .dropdown-menu .dropdown-item {
     color: white;
     border-bottom-color: rgba(0, 193, 212, 0.4);
-    background-image: url('assets/images/link.svg');
   }
   .navbar[data-bs-theme=dark] .nav-link.dropdown-toggle::after {
     border-right-color: white;
