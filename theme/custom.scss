@@ -481,25 +481,50 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     color: $text_blue;
   }
 
-  /* Dropdown toggle caret — TUHH chevron style */
+  /* Dropdown toggle caret — TUHH chevron style, points right → down on hover */
   .navbar .nav-link.dropdown-toggle::after {
     border: none;
     content: '';
     display: inline-block;
-    width: 7px;
-    height: 7px;
-    border-right: 2px solid $text_blue;
-    border-bottom: 2px solid $text_blue;
-    transform: rotate(45deg);
-    margin-left: 6px;
-    vertical-align: 2px;
+    width: 9px;
+    height: 9px;
+    border-right: 2.5px solid $text_blue;
+    border-bottom: 2.5px solid $text_blue;
+    transform: rotate(-45deg);
+    margin-left: 8px;
+    vertical-align: 1px;
     transition: transform 0.3s ease-in-out;
   }
 
   .navbar .nav-item.dropdown:hover > .nav-link.dropdown-toggle::after,
   .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::after {
-    transform: rotate(-135deg);
-    vertical-align: -1px;
+    transform: rotate(45deg);
+    vertical-align: 2px;
+  }
+
+  /* Cyan upper-right arrow next to "Team" when dropdown is open */
+  .navbar .dropdown-nav-arrow {
+    display: none !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .navbar .nav-item.dropdown:hover .dropdown-nav-arrow,
+  .navbar .nav-item.dropdown.show .dropdown-nav-arrow {
+    display: inline-block !important;
+  }
+
+  /* Remove Bootstrap focus/show border */
+  .navbar .nav-link.dropdown-toggle:focus,
+  .navbar .nav-item.dropdown.show > .nav-link {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Hide the mobile chevron button on desktop */
+  .navbar .dropdown-chevron-btn {
+    display: none;
   }
 }
 
