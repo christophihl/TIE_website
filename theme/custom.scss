@@ -1059,6 +1059,11 @@ p:has(.backimage-caption) {
   background-color: white;
 }
 
+/* Hide the listing-* spans paragraph (takes up space above image) */
+.team-card > p:first-child {
+  display: none;
+}
+
 .team-card:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
