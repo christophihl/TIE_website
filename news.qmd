@@ -30,5 +30,51 @@ listing:
 ::: {#news-listing}
 :::
 
+```{=html}
+<div style="text-align: center; margin-top: 2rem;">
+  <button id="show-more-news" class="btn-tuhh" style="cursor: pointer;">SHOW MORE</button>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Hide Quarto's default pagination
+  var pag = document.getElementById("news-listing-pagination");
+  if (pag) pag.style.display = "none";
+
+  var btn = document.getElementById("show-more-news");
+  var pageSize = 10;
+
+  function updateButton() {
+    var list = window['quarto-listings'] && window['quarto-listings']['listing-news-listing'];
+    if (!list) return;
+    var total = list.matchingItems.length;
+    if (pageSize >= total) {
+      btn.style.display = "none";
+    } else {
+      btn.style.display = "inline-block";
+    }
+  }
+
+  btn.addEventListener("click", function() {
+    var list = window['quarto-listings'] && window['quarto-listings']['listing-news-listing'];
+    if (!list) return;
+    pageSize += 10;
+    list.page = pageSize;
+    list.update();
+    list.show(1, pageSize);
+    updateButton();
+  });
+
+  // Initial check after listing loads
+  var origLoaded = window['quarto-listing-loaded'];
+  window['quarto-listing-loaded'] = function() {
+    if (origLoaded) origLoaded();
+    updateButton();
+  };
+  // Also check immediately in case listing already loaded
+  setTimeout(updateButton, 200);
+});
+</script>
+```
+
 :::
 :::

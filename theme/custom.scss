@@ -939,9 +939,10 @@ p:has(.backimage-caption) {
   }
 }
 
-/* TUHH primary button — reusable "Alle News" link etc. */
+/* TUHH primary button — reusable across pages */
 .btn-tuhh {
   display: inline-block;
+  font-family: 'PublicaSans', Arial, sans-serif;
   font-size: 13px;
   line-height: 1.38;
   letter-spacing: 2px;
@@ -955,6 +956,11 @@ p:has(.backimage-caption) {
   transition: 0.25s all ease;
   border: none;
   margin-top: 2rem;
+}
+
+/* Hide Quarto's default listing pagination */
+.listing-pagination {
+  display: none;
 }
 .btn-tuhh:hover {
   background-color: $text_blue;
