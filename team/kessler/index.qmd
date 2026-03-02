@@ -26,7 +26,15 @@ education:
   - position: "BSc & MSc in Industrial Engineering and Management"
     institution: "RWTH Aachen University, Germany"
     year: "2008 - 2014"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -34,10 +42,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Viktoria Kessler](avatar.jpg){.profile-avatar}
-
-### Viktoria Kessler {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://www.linkedin.com/in/viktoria-boss-461370aa/ "LinkedIn")

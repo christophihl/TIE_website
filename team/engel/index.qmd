@@ -32,7 +32,15 @@ education:
   - position: "BSc & MSc in Economics"
     institution: "Ludwig-Maximilians University, Munich, Germany"
     year: "2006 - 2011"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -40,10 +48,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Michael Engel](avatar.jpg){.profile-avatar}
-
-### Dr. Michael Engel {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://de.linkedin.com/in/m-engel "LinkedIn")

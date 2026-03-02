@@ -38,7 +38,15 @@ education:
   - position: "BSc in Industrial Engineering and Management"
     institution: "RWTH Aachen University, Germany"
     year: "2006 - 2009"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -46,10 +54,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Giulio Barth](avatar.jpg){.profile-avatar}
-
-### Dr. Giulio Barth {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://www.linkedin.com/in/giulio-barth-00939039 "LinkedIn")

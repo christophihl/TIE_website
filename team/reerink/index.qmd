@@ -29,7 +29,15 @@ education:
   - position: "BSc & MSc in Industrial Engineering and Management"
     institution: "RWTH Aachen University, Germany"
     year: "2004 - 2010"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -37,10 +45,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Jan Reerink](avatar.jpg){.profile-avatar}
-
-### Dr. Jan Reerink {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jan-reerink-5b377b102 "LinkedIn")

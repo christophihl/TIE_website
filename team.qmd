@@ -39,9 +39,68 @@ listing:
 ::: {#current-team}
 :::
 
+:::
+:::
+
+::: {.content-section-alt}
+::: {.content-block}
+
 ## Alumni {.team-section-heading}
 
 ::: {#alumni}
+:::
+
+:::
+:::
+
+::: {.content-section}
+::: {.content-block}
+
+## Gallery {.team-section-heading}
+
+::: {.team-gallery}
+![](team/gallery/20150429_start-up-dock_ARLT_002.jpg)
+![](team/gallery/20150429_start-up-dock_ARLT_005.jpg)
+![](team/gallery/IMG_4265.jpg)
+![](team/gallery/IMG_4287.jpg)
+![](team/gallery/Ski.jpg)
+![](team/gallery/Volleyball.jpg)
+![](team/gallery/IMG-20170906-WA0005.jpg)
+![](team/gallery/IMG-20180124-WA0004.jpg)
+![](team/gallery/IMG-20180316-WA0002.jpg)
+![](team/gallery/IMG_20180129_094355.jpg)
+![](team/gallery/IMG_20181206_141410_resized_20190121_024454495.jpg)
+![](team/gallery/IMG_20181206_142805_1_resized_20190121_024452920.jpg)
+![](team/gallery/UNADJUSTEDNONRAW_thumb_3429.jpg)
+![](team/gallery/UNADJUSTEDNONRAW_thumb_5832.jpg)
+![](team/gallery/UNADJUSTEDNONRAW_thumb_5833.jpg)
+![](team/gallery/UNADJUSTEDNONRAW_thumb_583e.jpg)
+![](team/gallery/image1.jpg)
+![](team/gallery/image2.jpg)
+![](team/gallery/image3.jpg)
+![](team/gallery/image4.jpg)
+![](team/gallery/image002.jpg)
+![](team/gallery/image003.jpg)
+![](team/gallery/image004.jpg)
+![](team/gallery/03c46e4f-02c9-465e-baaa-eecd76ad86c4.JPG)
+![](team/gallery/39179a80-32a2-49a1-baab-f314093020b8.JPG)
+![](team/gallery/6a5c2b3f-3bfc-47e9-8837-7e71d714a5dd.jpg)
+![](team/gallery/0b84a210-ed9b-4ace-bc33-f715206f3b58.jpg)
+![](team/gallery/10436244_529499410489825_4625760208758216449_n.jpg)
+![](team/gallery/10479152_533843636722069_3845477184567286102_o.jpg)
+![](team/gallery/10496183_528139147292518_7585013728203239181_o.jpg)
+![](team/gallery/10498212_533843350055431_3913978280525949902_o.jpg)
+![](team/gallery/10504905_533843480055418_2803862780949977453_o.jpg)
+![](team/gallery/10507124_533843680055398_587405334830916206_o.jpg)
+![](team/gallery/10548246_566881126751653_8729303579692155255_o.jpg)
+![](team/gallery/10565211_546144245492008_7187879213932502925_n.jpg)
+![](team/gallery/10633137_569827146457051_2930178485550785884_o.jpg)
+![](team/gallery/10644114_569826659790433_5949250714151158953_o.jpg)
+![](team/gallery/10648318_558500550923044_6246935288813071507_o.jpg)
+![](team/gallery/10662078_569827386457027_5999103282769145884_o.jpg)
+![](team/gallery/1384144_598557473584018_6671662159798990202_n.jpg)
+![](team/gallery/1531734_533843483388751_5459033888032401379_o.jpg)
+![](team/gallery/1979352_521956584577441_8091362780647667606_o.jpg)
 :::
 
 :::

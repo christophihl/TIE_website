@@ -41,7 +41,15 @@ education:
   - position: "BSc in Engineering and Management"
     institution: "Technical University of Kaiserslautern, Germany"
     year: "1995"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -49,10 +57,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Prof. Dr. Christoph Ihl](avatar.jpg){.profile-avatar}
-
-### Prof. Dr. Christoph Ihl {.profile-name}
-
-[Professor & Head of Institute]{.profile-role}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.033

@@ -42,7 +42,15 @@ education:
   - position: "International Management Assistant / Europa-Sekretaerin"
     institution: "Academy for Management Assistants (AMA), Lippstadt, Foreign Language Studies"
     year: "1988"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -50,10 +58,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Birgit Grabi](avatar.jpg){.profile-avatar}
-
-### Birgit Grabi {.profile-name}
-
-[Team & Project Manager]{.profile-role}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.034

@@ -34,7 +34,15 @@ education:
   - position: "Bachelor of Arts in Business Administration"
     institution: "Universität St. Gallen, Switzerland"
     year: "2007 - 2010"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -42,10 +50,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Jan-Frederik Arnold](avatar.jpg){.profile-avatar}
-
-### Dr. Jan-Frederik Arnold {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://de.linkedin.com/in/jan-frederik-arnold "LinkedIn")

@@ -39,7 +39,15 @@ education:
   - position: "BSc in Business Administration and Engineering - Materials and Process Engineering"
     institution: "RWTH Aachen University, Germany"
     year: "2011 - 2015"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -47,10 +55,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Joschka Schwarz](avatar.jpg){.profile-avatar}
-
-### Joschka Schwarz {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.010

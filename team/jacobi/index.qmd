@@ -33,7 +33,15 @@ education:
   - position: "BSc & MSc in Physics"
     institution: "University of Hamburg, Germany"
     year: "2006 - 2009"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -41,10 +49,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Matthias Jacobi](avatar.jpg){.profile-avatar}
-
-### Dr. Matthias Jacobi {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-social}
 [{{< fa brands linkedin >}}](https://de.linkedin.com/in/dr-matthias-jacobi-306792b4 "LinkedIn")

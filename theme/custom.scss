@@ -1007,6 +1007,7 @@ p:has(.backimage-caption) {
   margin: 0;
   padding-top: 0;
   padding-bottom: 32px;
+  text-align: center;
 }
 
 .team-section-heading .header-section-number,
@@ -1062,6 +1063,11 @@ p:has(.backimage-caption) {
   border-bottom: 1px solid $tuhh_blue;
 }
 
+.team-card__image p {
+  margin: 0;
+  height: 100%;
+}
+
 .team-card__image img {
   width: 100%;
   height: 100%;
@@ -1097,9 +1103,45 @@ p:has(.backimage-caption) {
   line-height: 1.4;
 }
 
-/* Spacing between Current Team + Alumni sections */
-.team-section-heading + .quarto-listing {
-  margin-bottom: 3rem;
+/* =============================================
+   Team Gallery
+   ============================================= */
+
+.team-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+@media (min-width: 576px) {
+  .team-gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .team-gallery {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.team-gallery p {
+  margin: 0;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.team-gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.team-gallery img:hover {
+  transform: scale(1.05);
 }
 
 /* =============================================
@@ -1144,20 +1186,6 @@ p:has(.backimage-caption) {
   .profile-avatar {
     margin: 0;
   }
-}
-
-.profile-name {
-  margin-top: 1rem;
-  margin-bottom: 0.25rem;
-  font-size: 1.5rem;
-  color: $text_blue;
-}
-
-.profile-role {
-  display: block;
-  color: #009eac;
-  font-size: 1rem;
-  margin-bottom: 1rem;
 }
 
 /* Profile contact info — div wrapping a markdown <ul> */

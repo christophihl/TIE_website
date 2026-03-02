@@ -40,7 +40,15 @@ education:
   - position: "Working Student"
     institution: "Kiel University, Germany"
     year: "2016 - 2017"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -48,10 +56,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Jonas Wilinski](avatar.jpg){.profile-avatar}
-
-### Jonas Wilinski {.profile-name}
-
-[Research Assistant & Doctoral Student]{.profile-role}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.032

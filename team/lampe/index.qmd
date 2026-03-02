@@ -39,7 +39,15 @@ education:
   - position: "Diploma in Economics"
     institution: "University of Osnabrück, Germany"
     year: "2010"
+resources:
+  - /assets/images/banners/team.jpg
 ---
+
+::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+[Team]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
 
 ::: {.content-section}
 ::: {.content-block}
@@ -47,10 +55,6 @@ education:
 
 ::: {.profile-sidebar}
 ![Dr. Hannes W. Lampe](avatar.jpg){.profile-avatar}
-
-### Dr. Hannes W. Lampe {.profile-name}
-
-[Research Associate & Post-Doc]{.profile-role}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.031
