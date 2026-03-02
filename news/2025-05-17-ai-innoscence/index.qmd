@@ -2,7 +2,7 @@
 title: "AI-InnoScEnCE Project Kicks Off First Implementation Phase"
 description: "Building Innovation Capacity and Circular Economy Opportunities Across Europe."
 date: 2025-05-17
-author: "Alexander Specht"
+author: "Oliver Specht"
 image: featured.png
 image-alt: "AI-InnoScEnCE Project"
 categories: [Research Project]
