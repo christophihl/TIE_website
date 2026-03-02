@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  // Close dropdown when any dropdown item is clicked (desktop + mobile)
+  // Close dropdown + mobile navbar when any dropdown item is clicked
   document.querySelectorAll('.navbar .dropdown-item').forEach(function (item) {
     item.addEventListener('click', function () {
       var menu = item.closest('.dropdown-menu');
@@ -87,14 +87,9 @@ document.addEventListener('DOMContentLoaded', function () {
       var navItem = item.closest('.nav-item.dropdown');
       if (navItem) {
         navItem.classList.remove('show');
-        // Reset chevron (mobile)
         var chevron = navItem.querySelector('.dropdown-chevron-btn');
         if (chevron) chevron.setAttribute('aria-expanded', 'false');
-        // Reset toggle aria (desktop)
-        var toggle = navItem.querySelector('.dropdown-toggle');
-        if (toggle) toggle.setAttribute('aria-expanded', 'false');
       }
-      // On mobile: also collapse the navbar
       if (window.innerWidth < 992) {
         var collapse = document.querySelector('.navbar-collapse.show');
         if (collapse) {
