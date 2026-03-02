@@ -34,7 +34,7 @@ listing:
 ::: {.content-section}
 ::: {.content-block}
 
-## Current Team {.team-section-heading}
+## Current Team {#sec-current-team .team-section-heading}
 
 ::: {#current-team}
 :::
@@ -45,7 +45,7 @@ listing:
 ::: {.content-section-alt}
 ::: {.content-block}
 
-## Alumni {.team-section-heading}
+## Alumni {#sec-alumni .team-section-heading}
 
 ::: {#alumni}
 :::
@@ -56,7 +56,7 @@ listing:
 ::: {.content-section}
 ::: {.content-block}
 
-## Gallery {.team-section-heading}
+## Gallery {#gallery .team-section-heading}
 
 ::: {.team-gallery}
 ![](team/gallery/20150429_start-up-dock_ARLT_002.jpg)

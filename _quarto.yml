@@ -33,8 +33,14 @@ website:
         text: Welcome
       - href: news.qmd
         text: News
-      - href: team.qmd
-        text: Team
+      - text: Team
+        menu:
+          - text: Current Team
+            href: team.qmd#sec-current-team
+          - text: Alumni
+            href: team.qmd#sec-alumni
+          - text: Gallery
+            href: team.qmd#gallery
       - href: research.qmd
         text: Research
       - href: teaching.qmd
