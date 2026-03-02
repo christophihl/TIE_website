@@ -92,7 +92,7 @@ resources:
 ::: {.content-block}
 
 ::: {.mission-statement}
-We aim to advance innovation and entrepreneurship<br>through [**rigorous empirical research**](research.qmd),<br>[**teaching a scientific approach to entrepreneurship**](teaching.qmd),<br>and [**real-world collaborations**](transfer.qmd)<br>— shaping the next generation of [Startup Engineers.]{style="color: #FF7E15;"}
+We advance innovation and entrepreneurship<br>through [**rigorous empirical research**](research.qmd),<br>[**a scientific approach to entrepreneurship education**](teaching.qmd),<br>and [**real-world collaborations**](transfer.qmd)<br>— shaping the next generation of [Startup Engineers.]{style="color: #FF7E15;"}
 :::
 
 :::
