@@ -830,6 +830,14 @@ p:has(.backimage-caption) {
   letter-spacing: normal;
 }
 
+.news-teaser__image-top {
+  border-bottom: 1px solid $tuhh_blue;
+}
+
+.news-teaser__image {
+  border-bottom: 1px solid $tuhh_blue;
+}
+
 .news-teaser__image p,
 .news-teaser__image-top p {
   margin: 0;
@@ -877,6 +885,8 @@ p:has(.backimage-caption) {
   .news-teaser--feed .news-teaser__image {
     aspect-ratio: auto;
     height: 100%;
+    border-bottom: none;
+    border-right: 1px solid $tuhh_blue;
   }
   .news-teaser--feed .news-teaser__image img {
     height: 100%;
