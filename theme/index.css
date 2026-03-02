@@ -375,6 +375,13 @@ img.hero-illu {
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
+  padding: 0;
+}
+
+.objectives-section .content-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mission-statement p {
@@ -392,6 +399,23 @@ img.hero-illu {
 
 .mission-statement a:hover {
   opacity: 0.75;
+}
+
+/* Desktop: break before "through" */
+.mission-statement .br-mobile::before {
+  content: "\a";
+  white-space: pre;
+}
+
+/* Mobile: break after "through" instead */
+@media (max-width: 980px) {
+  .mission-statement .br-mobile::before {
+    content: none;
+  }
+  .mission-statement .br-mobile::after {
+    content: "\a";
+    white-space: pre;
+  }
 }
 
 
