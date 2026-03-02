@@ -72,3 +72,29 @@ $body-color: white;
 .section-heading {
   color: white;
 }
+
+/* News teaser dark mode */
+.news-teaser {
+  border-color: rgba(0, 193, 212, 0.5);
+  background-color: #23252f;
+}
+.news-teaser:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+.news-teaser__date {
+  border-color: rgba(0, 193, 212, 0.4);
+  color: white;
+}
+.news-teaser__title {
+  color: white;
+}
+.news-teaser__intro {
+  color: rgba(0, 193, 212, 0.8);
+}
+.btn-tuhh {
+  background-color: rgba(0, 106, 129, 0.8);
+}
+.btn-tuhh:hover {
+  background-color: rgba(0, 94, 115, 0.9);
+  color: white;
+}

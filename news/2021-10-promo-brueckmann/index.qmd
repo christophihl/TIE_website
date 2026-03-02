@@ -1,0 +1,15 @@
+---
+title: "PhD Thesis of Carolin Brückmann"
+description: "The flipside of the coin — an investor-level investigation of blockchain-based fundraising (Initial Coin Offerings)."
+date: 2021-10-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "PhD Thesis Carolin Brückmann"
+categories: [PhD Thesis]
+---
+
+ICOs represent a new type of financing method that enables start-ups to collect capital from a large number of mainly small investors. Carolin Brückmann addresses ICO investors to show how investors navigate this new kind of investment environment. The composition and interaction of various investor groups was investigated along three studies. Furthermore, she analysed to what extent investors are able to select successful start-ups in a targeted manner.
+
+Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Jörn Block
+
+Day of Oral Doctoral Examination: 12.10.2021

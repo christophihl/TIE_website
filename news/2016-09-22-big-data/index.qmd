@@ -1,0 +1,11 @@
+---
+title: "Big Data, Big Movies, Potsdam, September 2016"
+description: "How Algorithms transform the Film & TV Industry. The Film University Babelsberg Konrad Wolf and the Erich Pommer Institute (EPI) presented the conference."
+date: 2016-09-22
+author: "TIE Team"
+image: featured.jpg
+image-alt: "Big Data Big Movies Conference 2016"
+categories: [Conference]
+---
+
+An International Conference dedicated to the effects of big data on the film and television industry. Latest developments, the future of this industry as well as the impact of big data on the film business and on media projects had been discussed by scientists and representatives of the media industry. A big range of topics on market research, marketing strategy and risk management were the focus.

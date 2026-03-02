@@ -1,5 +1,24 @@
 ---
-title: "About"
+pagetitle: "News"
+listing:
+  id: news-listing
+  contents: news/*/index.qmd
+  sort: "date desc"
+  type: custom
+  template: news-feed.ejs
+  date-format: "DD.MM.YYYY"
+  page-size: 10
+  filter-ui: true
+  categories: numbered
 ---
 
-About this site
+::: {.content-section}
+::: {.content-block}
+
+## News {.section-heading}
+
+::: {#news-listing}
+:::
+
+:::
+:::

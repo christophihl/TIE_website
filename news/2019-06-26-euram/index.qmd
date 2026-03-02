@@ -1,0 +1,11 @@
+---
+title: "EURAM 2019"
+description: "This year's EURAM-Conference took place in Lisbon from June 26 to 28, 2019. Exploring the Future of Management: Facts, Fashion and Fado."
+date: 2019-06-26
+author: "TIE Team"
+image: featured.jpg
+image-alt: "EURAM 2019 Conference Lisbon"
+categories: [Conference]
+---
+
+Our Institute was represented by Christoph Ihl, Hannes Lampe and Dimitri Graf.

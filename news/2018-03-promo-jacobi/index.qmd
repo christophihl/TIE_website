@@ -1,0 +1,15 @@
+---
+title: "PhD Thesis of Matthias Jacobi"
+description: "Media judgment of entrepreneurial failure — implications for founders."
+date: 2018-03-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "PhD Thesis Matthias Jacobi"
+categories: [PhD Thesis]
+---
+
+The thesis with the topic "Media judgment of entrepreneurial failure — implications for founders" compares media reporting about failure of startups in Germany and the US. It can be shown, that the US media reports more positively about failed startups, than the German media does.
+
+Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Michel Clement
+
+Day of Oral Doctoral Examination: 02.03.2018

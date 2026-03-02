@@ -1,0 +1,13 @@
+---
+title: "PhD Thesis of Jens Heckmann"
+description: "The Importance of Legitimate Media Distinctiveness for Ventures Seeking Funding in Early and Later Stages."
+date: 2021-09-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "PhD Thesis Jens Heckmann"
+categories: [PhD Thesis]
+---
+
+Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Christian Lüthje
+
+Day of Oral Doctoral Examination: 29.09.2021

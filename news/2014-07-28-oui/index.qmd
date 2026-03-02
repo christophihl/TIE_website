@@ -1,0 +1,9 @@
+---
+title: "Christoph Ihl attended the 12th OUI in Boston"
+description: "From July 28 to July 30, 2014 the 12th International Open and User Innovation Workshop was held at the Harvard Business School campus in Boston, USA."
+date: 2014-07-28
+author: "TIE Team"
+categories: [Conference]
+---
+
+From July 28 to July 30, 2014 the 12th International Open and User Innovation Conference was held at the Harvard Business School campus in Boston, USA. Organized by Carliss Baldwin (HBS), Karim Lakhani (HBS), Stefan Thomke (HBS), Eric von Hippel (MIT) and Benjamin Mako Hill (University of Washington).

@@ -1,0 +1,15 @@
+---
+title: "EURAM 2018"
+description: "EURAM 2018 took place at the University of Iceland in Reykjavik from June 19 to 22. Research in action, accelerating knowledge creation in management."
+date: 2018-06-19
+author: "TIE Team"
+image: featured.png
+image-alt: "EURAM 2018 Conference Reykjavik"
+categories: [Conference]
+---
+
+We presented the following papers:
+
+- "What we know versus who we know"; by Dimitri Graf and Christoph Ihl
+- "Does Choice of Teams and Ideas improve Performance in Entrepreneurial Teams? Evidence from a Field Experiment"; by Viktoria Kessler, Christoph Ihl and Rajshri Jayaraman (ESMT)
+- "Herding and the Role of Experts in Equity Crowdfunding Markets"; by Jan Niklas Wick and Christoph Ihl

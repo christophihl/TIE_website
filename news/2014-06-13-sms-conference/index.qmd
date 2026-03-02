@@ -1,0 +1,11 @@
+---
+title: "SMS Special Conference in Copenhagen, June 13–15, 2014"
+description: "Micro-Foundations for Strategic Management Research — Embracing Individuals"
+date: 2014-06-13
+author: "TIE Team"
+image: featured.png
+image-alt: "SMS Special Conference Copenhagen 2014"
+categories: [Conference]
+---
+
+A big range of established scholars and practitioners gathered at the Copenhagen Business School. Lectures had been given to the following topics: strategic decision-making, top-management teams, entrepreneurship, strategic human resources and methodological issues.

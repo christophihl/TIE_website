@@ -1,0 +1,13 @@
+---
+title: "PhD Thesis of Jan Niklas Wick"
+description: "Equity Crowdfunding as a New Alternative for Startups Seeking Financing in Early Stages: Its Implications on Startups and Investors."
+date: 2020-06-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "PhD Thesis Jan Niklas Wick"
+categories: [PhD Thesis]
+---
+
+Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Henry Sauermann
+
+Day of Oral Doctoral Examination: 26.06.2020

@@ -1,0 +1,9 @@
+---
+title: "TIE-Tagung — Universität Potsdam"
+description: "The Annual Conference on Technology, Innovation and Entrepreneurship took place in Potsdam, October 15–16, 2015."
+date: 2015-10-15
+author: "TIE Team"
+categories: [Conference]
+---
+
+The Annual Conference on Technology, Innovation and Entrepreneurship (TIE) took place at Universität Potsdam from October 15 to 16, 2015.

@@ -1,0 +1,9 @@
+---
+title: "DRUID Society Conference 2016"
+description: "The 20th Anniversary Conference took place in Copenhagen from June 13 to 15, 2016. Main topic: Innovation and the dynamics of change."
+date: 2016-06-13
+author: "TIE Team"
+categories: [Conference]
+---
+
+"Distance Dilemma — The Effects of Knowledge Distance on Solvers' Participation in Innovation Crowdsourcing" was presented by Christoph Ihl, Robin Kleer and Jan Willem Reerink.

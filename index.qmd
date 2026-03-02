@@ -4,6 +4,14 @@ page-layout: custom
 section-divs: false
 toc: false
 css: theme/index.css
+listing:
+  - id: news-latest
+    contents: news/*/index.qmd
+    sort: "date desc"
+    max-items: 3
+    type: custom
+    template: news-home.ejs
+    date-format: "DD.MM.YYYY"
 resources:
   - assets/images/docks.jpg
   - assets/images/slides/team.jpg
@@ -104,9 +112,10 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 
 ## Recent News {.section-heading}
 
-::: {.placeholder-text}
-Coming soon — news content will be added in a later phase.
+::: {#news-latest}
 :::
+
+[Alle News](news.qmd){.btn-tuhh}
 
 :::
 :::

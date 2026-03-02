@@ -1,0 +1,15 @@
+---
+title: "PhD Thesis of Jan Willem Reerink"
+description: "University-industry knowledge transfer — an empirical analysis of channels, motives and distances."
+date: 2018-09-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "PhD Thesis Jan Willem Reerink"
+categories: [PhD Thesis]
+---
+
+The present thesis investigates several technology transfer channels in the context of university-industry knowledge transfer. Both traditional channels such as collaborative research or academic patenting and innovative alternatives such as broadcast search are considered. Theoretical advances and implications for policy can be derived by implementing novel methods from the field of Data Science.
+
+Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Robin Kleer
+
+Day of Oral Doctoral Examination: 09.02.2018

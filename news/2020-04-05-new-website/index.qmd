@@ -1,0 +1,17 @@
+---
+title: "Launch of New Institute Website"
+description: "New website created with the beautiful Academic theme in Hugo."
+date: 2020-04-05
+author: "Christoph Ihl"
+image: featured.png
+image-alt: "New institute website launch"
+categories: [Announcement]
+---
+
+We have just launched our new institute website created with the tools we love: [RStudio](https://www.rstudio.com) and [R](https://cran.r-project.org/), especially using the [blogdown package](https://github.com/rstudio/blogdown) in this case.
+
+The website is using the beautiful [Academic theme](https://sourcethemes.com/academic) for [Hugo](https://gohugo.io) developed by [George Cushen](https://georgecushen.com).
+
+The website is not entirely completed yet, especially the research page will be filled with content soon. Stay tuned for updates. The teaching page will be ready until the semester starts on April 20th.
+
+Enjoy and comments welcome!

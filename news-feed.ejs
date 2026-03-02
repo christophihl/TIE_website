@@ -1,0 +1,22 @@
+<div class="news-feed__content list">
+<% for (const item of items) { %>
+<div class="news-teaser news-teaser--feed">
+<div class="news-teaser__wrapper">
+<div class="news-teaser__inner">
+<div class="news-teaser__date"><span><%= item.date %></span></div>
+<div class="news-teaser__text">
+<h4 class="news-teaser__title"><a href="<%= item.path %>" class="stretched-link"><%= item.title %></a></h4>
+<% if (item.description) { %>
+<div class="news-teaser__intro"><%= item.description %></div>
+<% } %>
+</div>
+</div>
+<% if (item.image) { %>
+<div class="news-teaser__image">
+<img src="<%= item.image %>" alt="<%= item['image-alt'] || item.title %>">
+</div>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>

@@ -1,0 +1,11 @@
+---
+title: "14th Conference on Innovation and Value Creation"
+description: "This year's conference took place at Martin-Luther-Universität in Halle-Wittenberg from November 28 to 30, 2019."
+date: 2019-11-28
+author: "TIE Team"
+categories: [Conference]
+---
+
+The 14th Conference on Innovation and Value Creation took place at Martin-Luther-Universität in Halle-Wittenberg from November 28 to 30, 2019.
+
+All of our researchers together with Christoph Ihl participated in this research colloquium and took the chance to exchange and discuss their recent research results in this community. Every year members of renowned universities meet having research backgrounds such as innovation management, entrepreneurship, organization and workplace design, information systems, and public policy.

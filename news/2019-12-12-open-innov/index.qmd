@@ -1,0 +1,13 @@
+---
+title: "World Open Innovation Conference 2019 in Rome"
+description: "Christoph Ihl and Alexander Vossen presented their paper — Copyright Or Copy Right? Unsolicited User Behavior As Market Signals."
+date: 2019-12-12
+author: "TIE Team"
+image: featured.png
+image-alt: "World Open Innovation Conference Rome 2019"
+categories: [Conference]
+---
+
+The 6th Annual World Open Innovation Conference took place in Rome, Italy, from December 12 to 13, 2019 at LUISS University. This year's conference theme was: "Opening up for Managing Business and Societal Challenges".
+
+Christoph Ihl was the conference chair of session 4B: "Conceptualizing and Measuring Open Innovation", and together with Alexander Vossen they presented their paper: "Copyright Or Copy Right? Unsolicited User Behavior As Market Signals".

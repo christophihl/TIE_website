@@ -1,0 +1,11 @@
+---
+title: "International Open and User Innovation Meeting 2015"
+description: "From July 13 to 15, 2015 the International Open and User Innovation Meeting (OUI) took place in Lisbon."
+date: 2015-07-13
+author: "TIE Team"
+image: featured.jpg
+image-alt: "OUI 2015 Conference in Lisbon"
+categories: [Conference]
+---
+
+The OUI 2015 was organized by the Catolica Lisbon School of Business & Economics. It is the leading academic conference on Open and User Innovation. Around 200 researchers from various disciplines (such as innovation management, health, strategic management, organization, design, marketing, entrepreneurship, and public policy) meet annually, in order to exchange recent research findings and plans related to Open and User Innovation. Christoph Ihl and Hannes Lampe joined this conference.

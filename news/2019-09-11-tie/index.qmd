@@ -1,0 +1,15 @@
+---
+title: "VHB — TIE Conference 2019 at TU Darmstadt"
+description: "The Annual Conference of the Scientific Commission of Technology, Innovation and Entrepreneurship (TIE) took place from 11 to 13 September 2019 at TU Darmstadt."
+date: 2019-09-11
+author: "TIE Team"
+image: featured.png
+image-alt: "VHB TIE Conference 2019 Darmstadt"
+categories: [Conference]
+---
+
+Christoph Ihl and Hannes Lampe participated in the VHB — TIE Conference at TU Darmstadt from September 11 to 13, 2019 organized by Alexander Kock (Department of Technology and Innovation Management) and Prof. Dr. Carolin Bock (Entrepreneurship).
+
+In addition to the keynote speech of Prof. Dr. Kawa Nazemi, Darmstadt University of Applied Sciences, invited researchers belonging to the TIE Community presented their current research projects in the field of data science.
+
+Further keynote speakers followed such as Dr. Andreas Koenig (University of Passau), Prof. Dr. Dr. Holger Patzelt (TU Munich), Prof. Dr. Frank Piller (RWTH Aachen), Prof. Dr. Christoph Fuchs (TU Munich).

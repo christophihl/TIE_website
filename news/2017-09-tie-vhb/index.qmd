@@ -1,0 +1,12 @@
+---
+title: "VHB/TIE Tagung 2017 in Koblenz"
+description: "In September 2017 the TIE-Conference took place at the Campus of Koblenz-Landau University. This year's conference on Technology, Innovation and Entrepreneurship was a great success!"
+date: 2017-09-01
+author: "TIE Team"
+image: featured.jpg
+image-alt: "VHB TIE Conference 2017 Koblenz"
+categories: [Conference]
+---
+
+In September 2017 Christoph Ihl and Hannes Lampe joined the TIE-Conference in Koblenz-Landau. Many researchers had been invited by Profs. Harald von Korflesch, Mario Schaarschmidt and Frank Piller. This was a great opportunity to exchange and discuss about topics on start-up funding, innovation-management as well as on open innovation.
+The second day of the conference took place at WHU, Otto-Beisheim-School of Management.

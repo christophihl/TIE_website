@@ -1,0 +1,11 @@
+---
+title: "16th Annual International Open and User Innovation Conference"
+description: "The 16th International Open and User Innovation Conference was held from August 6–8, 2018 at the Stern School of Business at New York University."
+date: 2018-08-06
+author: "TIE Team"
+image: featured.jpg
+image-alt: "OUI Conference 2018 NYU"
+categories: [Conference]
+---
+
+The 16th International Open and User Innovation Conference was held from August 6–8, 2018 at the Stern School of Business at New York University. The OUI Conference is the leading academic conference on Open and User Innovation.

@@ -1,0 +1,15 @@
+---
+title: "2016 Academy of Management Annual Meeting"
+description: "The 76th Annual Meeting of the Academy of Management took place from August 5 to 9, 2016 in Anaheim, California, USA. Main topic: Making Organizations Meaningful."
+date: 2016-08-05
+author: "TIE Team"
+image: featured.jpg
+image-alt: "Academy of Management Annual Meeting 2016"
+categories: [Conference]
+---
+
+The following Conference Proceedings had been presented:
+
+- More than words? How entrepreneurial identity shapes users' reception of new product proposals; by Christoph Ihl and Alexander Vossen
+- Inflation and Self-correction in Entrepreneurship Science; by Hannes Lampe, Jan Reerink & Christoph Ihl
+- The Distance Dilemma — Effects of Knowledge Distance on Solvers' Adoption of Broadcasted R&D Problems; by Christoph Ihl, Robin Kleer & Jan Willem Reerink

@@ -1,0 +1,15 @@
+---
+title: "DRUID Academy Conference 2018"
+description: "The DRUID Academy Conference 2018 took place in Copenhagen, Denmark from June 11 to 13, 2018."
+date: 2018-06-11
+author: "TIE Team"
+image: featured.jpg
+image-alt: "DRUID Academy Conference 2018"
+categories: [Conference]
+---
+
+The following papers were presented:
+
+- "The Effect of Choosing Teams and Ideas on Entrepreneurial Performance — Evidence from a Field Experiment" was presented by Viktoria Kessler, Christoph Ihl, Linus Dahlander (ESMT) and Rajshri Jayaraman (ESMT).
+- "Herding in Equity Crowdfunding Markets — Heterogeneity Between Experts and Amateurs" was another paper by Jan Niklas Wick and Christoph Ihl.
+- "WHAT We Know versus WHO We Know" was Dimitri Graf's paper presented on this conference.

@@ -1,0 +1,13 @@
+---
+title: "2018 Academy of Management Annual Meeting"
+description: "In 2018 the Annual Meeting of the AOM took place in Chicago. Main topic: Improving Lives."
+date: 2018-08-10
+author: "TIE Team"
+categories: [Conference]
+---
+
+The following Conference Proceedings had been presented:
+
+- "Herding and the Role of Experts in Equity Crowdfunding Markets" by Christoph Ihl and Jan Niklas Wick
+- "How institutional entrepreneurs diffuse institutional logics to shape an emerging field" by Christoph Ihl and Giulio Barth
+- "The Hidden Cost of Crowd Capital — Categorization of Organizational Deviance in New Venture Financing" by Christoph Ihl and Jan Niklas Wick

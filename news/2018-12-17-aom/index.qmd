@@ -1,0 +1,11 @@
+---
+title: "New AOM Specialized Conference"
+description: "From Start-up to Scale-up — Coping with Organizational Challenges in a Volatile Business Environment. Tel Aviv, December 17–19, 2018."
+date: 2018-12-17
+author: "TIE Team"
+image: featured.jpg
+image-alt: "AOM Specialized Conference Tel Aviv 2018"
+categories: [Conference]
+---
+
+This specialized AOM Conference took place in Tel Aviv from December 17 to 19, 2018 and was hosted by Hebrew University of Jerusalem, Technion-Israel Institute of Technology, and Tel Aviv University in collaboration with the AOM Divisions & Interest Groups. Christoph Ihl participated in this great event.
