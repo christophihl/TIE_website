@@ -11,6 +11,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
     toggle.setAttribute('href', target);
 
+    // Inject upper-right arrow image after the menu text
+    var arrow = document.createElement('img');
+    arrow.src = './assets/images/link_blue.svg';
+    arrow.className = 'dropdown-nav-arrow';
+    arrow.alt = '';
+    toggle.appendChild(arrow);
+
     // Track whether dropdown was open BEFORE Bootstrap processes the click
     var wasOpen = false;
     toggle.addEventListener('mousedown', function () {
