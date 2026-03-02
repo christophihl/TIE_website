@@ -796,6 +796,8 @@ p:has(.backimage-caption) {
   font-weight: 700;
   color: $text_blue;
   text-transform: none;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  letter-spacing: normal;
 }
 
 .news-teaser__text {
@@ -810,6 +812,8 @@ p:has(.backimage-caption) {
   text-transform: none;
   font-size: 1rem;
   line-height: 1.4;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  letter-spacing: normal;
 }
 
 .news-teaser__title .header-section-number,
@@ -822,6 +826,8 @@ p:has(.backimage-caption) {
   font-size: 0.85rem;
   margin-top: 8px;
   text-transform: none;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  letter-spacing: normal;
 }
 
 .news-teaser__image p,
