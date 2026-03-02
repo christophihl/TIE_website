@@ -1,6 +1,11 @@
 <div class="news-feed__content list">
 <% for (const item of items) { %>
 <div class="news-teaser news-teaser--feed">
+<span class="listing-title" style="display:none;"><%= item.title %></span>
+<span class="listing-description" style="display:none;"><%= item.description || '' %></span>
+<span class="listing-date" style="display:none;"><%= item.date %></span>
+<span class="listing-categories" style="display:none;"><%= (item.categories || []).join(', ') %></span>
+<span class="listing-author" style="display:none;"><%= item.author || '' %></span>
 <div class="news-teaser__wrapper">
 <div class="news-teaser__inner">
 <div class="news-teaser__date"><span class="news-teaser__date-text"><%= item.date %></span><% if (item.categories && item.categories.length) { %><span class="news-teaser__cat-sep"></span><span class="news-teaser__date-text"><%= item.categories.join(', ') %></span><% } %></div>
