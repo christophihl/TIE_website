@@ -501,6 +501,12 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     transform: rotate(-135deg);
     vertical-align: -1px;
   }
+
+  /* Hide mobile-only elements on desktop */
+  .navbar .dropdown-nav-arrow,
+  .navbar .dropdown-chevron-btn {
+    display: none !important;
+  }
 }
 
 /* Mobile nav items + dropdown — TUHH style */
