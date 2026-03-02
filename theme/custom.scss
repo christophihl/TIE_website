@@ -695,7 +695,7 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 400px;
+  min-height: 340px;
 }
 
 .page-header::before {
@@ -732,7 +732,7 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
 }
 
 @media (max-width: 768px) {
-  .page-header { min-height: 280px; }
+  .page-header { min-height: 180px; }
 }
 
 /* Background-image caption — shared across home + section pages */
