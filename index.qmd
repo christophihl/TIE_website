@@ -18,13 +18,16 @@ resources:
   - assets/images/slides/research.jpg
   - assets/images/slides/teaching.jpg
   - assets/images/slides/practice.jpg
+  - assets/images/TUHH_new.svg
 ---
 
 ::: {.hero-banner style="background-image: url('assets/images/docks.jpg');"}
 ::: {.hero-content}
 
 ::: {.hero-text}
-[Welcome to the [TUHH](https://www.tuhh.de)]{.hero-subtitle}
+```{=html}
+<span class="hero-subtitle">Welcome to the <a href="https://www.tuhh.de"><img src="assets/images/TUHH_new.svg" alt="TUHH" class="hero-tuhh-logo"></a></span>
+```
 
 [Institute of Entrepreneurship]{.hero-title}
 
