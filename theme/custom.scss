@@ -682,6 +682,22 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
 }
 
 
+/* Override Quarto default #quarto-content padding for custom pages */
+#quarto-content.page-layout-custom > .page-header {
+  padding-top: 0;
+}
+
+#quarto-content.page-layout-custom > .content-section,
+#quarto-content.page-layout-custom > .content-section-alt {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Hide Quarto's auto-generated title block on custom pages */
+.page-layout-custom #title-block-header {
+  display: none;
+}
+
 /* =============================================
    Page Header Banner — subpage hero
    ============================================= */
@@ -1068,9 +1084,11 @@ p:has(.backimage-caption) {
   height: 100%;
 }
 
-.team-card__image img {
+.team-card__image img,
+.team-card__image img.img-fluid {
   width: 100%;
   height: 100%;
+  max-width: none;
   object-fit: cover;
   display: block;
 }
@@ -1107,33 +1125,32 @@ p:has(.backimage-caption) {
    Team Gallery
    ============================================= */
 
-.team-gallery {
+/* Gallery uses a single <p> with all <img> inline — make the <p> the grid */
+.team-gallery p {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 8px;
+  margin: 0;
 }
 
 @media (min-width: 576px) {
-  .team-gallery {
+  .team-gallery p {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media (min-width: 992px) {
-  .team-gallery {
+  .team-gallery p {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 
-.team-gallery p {
-  margin: 0;
-  aspect-ratio: 1 / 1;
-  overflow: hidden;
-}
-
-.team-gallery img {
+.team-gallery img,
+.team-gallery img.img-fluid {
   width: 100%;
   height: 100%;
+  max-width: none;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   display: block;
   cursor: pointer;
