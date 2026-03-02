@@ -1,6 +1,6 @@
 <script>
-// Make dropdown parent links clickable on desktop (hover opens dropdown, click navigates)
 document.addEventListener('DOMContentLoaded', function () {
+  // Make dropdown parent links clickable on desktop
   var dropdownTargets = {
     'Team': './team.html'
   };
@@ -15,6 +15,28 @@ document.addEventListener('DOMContentLoaded', function () {
     toggle.addEventListener('click', function (e) {
       if (window.innerWidth >= 992) {
         window.location.href = target;
+      }
+    });
+  });
+
+  // Close dropdown + mobile navbar when any dropdown item or parent link is clicked
+  document.querySelectorAll('.navbar .dropdown-item').forEach(function (item) {
+    item.addEventListener('click', function () {
+      // Close the Bootstrap dropdown
+      var menu = item.closest('.dropdown-menu');
+      if (menu) menu.classList.remove('show');
+      var toggle = item.closest('.nav-item.dropdown').querySelector('.dropdown-toggle');
+      if (toggle) {
+        toggle.classList.remove('show');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+      // On mobile: also collapse the navbar
+      if (window.innerWidth < 992) {
+        var collapse = document.querySelector('.navbar-collapse.show');
+        if (collapse) {
+          var bsCollapse = bootstrap.Collapse.getInstance(collapse);
+          if (bsCollapse) bsCollapse.hide();
+        }
       }
     });
   });
