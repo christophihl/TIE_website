@@ -706,7 +706,7 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   z-index: 0;
 }
 
-.page-header > p {
+.page-header > p:not(:has(.backimage-caption)) {
   position: relative;
   z-index: 1;
   width: 100%;
@@ -714,6 +714,11 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   padding-left: 2rem;
   padding-right: 2rem;
   box-sizing: border-box;
+  margin: 0;
+}
+
+.page-header > p:has(.backimage-caption) {
+  position: static;
   margin: 0;
 }
 
