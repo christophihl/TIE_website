@@ -442,6 +442,153 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
 }
 
 
+/* Dropdown menu — TUHH Typo3 subnavigation style */
+
+/* Desktop dropdown panel */
+@media (min-width: 992px) {
+  .navbar .dropdown-menu {
+    background-color: #fff;
+    border: none;
+    border-top: 2px solid $tuhh_blue;
+    border-radius: 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 12px 0;
+    margin-top: 0;
+    min-width: 200px;
+    opacity: 0;
+    transform: translateY(-4px);
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    display: block;
+    pointer-events: none;
+  }
+
+  .navbar .nav-item.dropdown:hover > .dropdown-menu,
+  .navbar .nav-item.dropdown.show > .dropdown-menu {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+  }
+
+  .navbar .dropdown-menu .dropdown-item {
+    color: $text_blue;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-transform: none;
+    padding: 10px 24px;
+    line-height: 1.4;
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+    border: none;
+  }
+
+  .navbar .dropdown-menu .dropdown-item:hover,
+  .navbar .dropdown-menu .dropdown-item:focus {
+    background-color: rgba(0, 193, 212, 0.08);
+    color: #009eac;
+  }
+
+  .navbar .dropdown-menu .dropdown-item:active {
+    background-color: rgba(0, 193, 212, 0.15);
+    color: $text_blue;
+  }
+
+  /* Dropdown toggle caret — TUHH chevron style */
+  .navbar .nav-link.dropdown-toggle::after {
+    border: none;
+    content: '';
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-right: 2px solid $text_blue;
+    border-bottom: 2px solid $text_blue;
+    transform: rotate(45deg);
+    margin-left: 6px;
+    vertical-align: 2px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .navbar .nav-item.dropdown:hover > .nav-link.dropdown-toggle::after,
+  .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::after {
+    transform: rotate(-135deg);
+    vertical-align: -1px;
+  }
+}
+
+/* Mobile dropdown — integrated into collapsed nav */
+@media (max-width: 991px) {
+  .navbar .dropdown-menu {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar .nav-item.dropdown {
+    height: auto !important;
+    background-image: none;
+  }
+
+  .navbar .nav-item.dropdown > .nav-link {
+    background-image: none;
+  }
+
+  /* Dropdown toggle caret for mobile */
+  .navbar .nav-link.dropdown-toggle::after {
+    border: none;
+    content: '';
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-right: 2px solid $text_blue;
+    border-bottom: 2px solid $text_blue;
+    transform: rotate(45deg);
+    margin-left: 8px;
+    vertical-align: 2px;
+    transition: transform 0.3s ease-in-out;
+    position: absolute;
+    right: 4rem;
+    top: 50%;
+    margin-top: -5px;
+  }
+
+  .navbar .nav-item.dropdown.show > .nav-link.dropdown-toggle::after {
+    transform: rotate(-135deg);
+    margin-top: -2px;
+  }
+
+  .navbar .dropdown-menu .dropdown-item {
+    color: $text_blue;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 0;
+    padding-left: 2rem;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px dashed $tuhh_blue;
+    background-image: url('assets/images/link_blue.svg');
+    background-size: 8px 8px;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 4rem) 50%;
+  }
+
+  .navbar .dropdown-menu .dropdown-item:last-child {
+    border-bottom: none;
+  }
+
+  .navbar .dropdown-menu .dropdown-item:hover,
+  .navbar .dropdown-menu .dropdown-item:focus,
+  .navbar .dropdown-menu .dropdown-item:active {
+    background-color: transparent;
+    color: #009eac;
+  }
+}
+
+
 /* Mobile navbar layout — placed after base rules to win cascade */
 @media (max-width: 991px) {
   /* Force collapse to its own row so action icons never wrap */

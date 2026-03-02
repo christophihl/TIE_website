@@ -54,7 +54,37 @@ $body-color: white;
   background-image: url("assets/images/close_light.svg");
 }
 
-
+/* Dark mode dropdown */
+@media (min-width: 992px) {
+  .navbar[data-bs-theme=dark] .dropdown-menu {
+    background-color: #23252f;
+    border-top-color: rgba(0, 193, 212, 0.5);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+  .navbar[data-bs-theme=dark] .dropdown-menu .dropdown-item {
+    color: white;
+  }
+  .navbar[data-bs-theme=dark] .dropdown-menu .dropdown-item:hover,
+  .navbar[data-bs-theme=dark] .dropdown-menu .dropdown-item:focus {
+    background-color: rgba(0, 193, 212, 0.1);
+    color: #00C1D4;
+  }
+  .navbar[data-bs-theme=dark] .nav-link.dropdown-toggle::after {
+    border-right-color: white;
+    border-bottom-color: white;
+  }
+}
+@media (max-width: 991px) {
+  .navbar[data-bs-theme=dark] .dropdown-menu .dropdown-item {
+    color: white;
+    border-bottom-color: rgba(0, 193, 212, 0.4);
+    background-image: url('assets/images/link.svg');
+  }
+  .navbar[data-bs-theme=dark] .nav-link.dropdown-toggle::after {
+    border-right-color: white;
+    border-bottom-color: white;
+  }
+}
 
 
 
