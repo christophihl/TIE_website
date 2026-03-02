@@ -534,50 +534,66 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     align-items: center;
   }
 
-  /* Dropdown toggle caret for mobile — points right, larger */
-  .navbar .nav-link.dropdown-toggle::after {
+  /* Hide the default ::after caret on mobile (replaced by chevron button) */
+  .navbar .nav-link.dropdown-toggle::after,
+  .navbar .nav-link::after {
+    display: none !important;
+  }
+
+  /* Chevron button — separate toggle for opening/closing dropdown */
+  .navbar .dropdown-chevron-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 4rem;
+    width: 3.5rem;
+    background: none;
     border: none;
+    border-left: 1px dashed $tuhh_blue;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    outline: none;
+  }
+  .navbar .dropdown-chevron-btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  /* Chevron arrow inside the button via ::after */
+  .navbar .dropdown-chevron-btn::after {
     content: '';
-    display: inline-block;
+    display: block;
     width: 10px;
     height: 10px;
     border-right: 2.5px solid $text_blue;
     border-bottom: 2.5px solid $text_blue;
     transform: rotate(-45deg);
     transition: transform 0.3s ease-in-out;
-    position: absolute;
-    right: 1.5rem;
-    top: 50%;
-    margin-top: -5px;
   }
 
-  .navbar .nav-item.dropdown > .nav-link.dropdown-toggle::after {
-    top: 2rem;
+  /* When expanded: chevron points down */
+  .navbar .dropdown-chevron-btn[aria-expanded="true"]::after {
+    transform: rotate(45deg);
   }
 
-  /* When expanded: arrow drops down */
-  .navbar .nav-link.dropdown-toggle[aria-expanded="true"]::after {
-    transform: rotate(45deg) !important;
-    margin-top: -7px;
-  }
-
-  /* When expanded: remove Bootstrap focus/show border */
-  .navbar .nav-link.dropdown-toggle:focus,
-  .navbar .nav-link.dropdown-toggle[aria-expanded="true"] {
+  /* Remove Bootstrap focus border on toggle link */
+  .navbar .nav-item.dropdown > .nav-link:focus {
     outline: none !important;
     box-shadow: none !important;
-    border-color: transparent !important;
   }
 
   /* Upper-right arrow — visible only when dropdown is expanded */
-  .navbar .nav-link.dropdown-toggle .dropdown-nav-arrow {
+  .navbar .dropdown-nav-arrow {
     display: none !important;
     width: 10px !important;
     height: 10px !important;
     margin-left: 6px;
     vertical-align: middle;
   }
-  .navbar .nav-link.dropdown-toggle[aria-expanded="true"] .dropdown-nav-arrow {
+  .navbar .nav-item.dropdown.show .dropdown-nav-arrow {
     display: inline-block !important;
   }
 

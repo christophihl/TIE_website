@@ -12,7 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var target = dropdownTargets[label];
     if (!target) return;
 
-    toggle.setAttribute('href', target);
+    var navItem = toggle.parentNode;
+    var menu = navItem.querySelector('.dropdown-menu');
 
     // Inject arrow image inside the toggle, after the menu text
     var arrow = document.createElement('img');
@@ -23,13 +24,58 @@ document.addEventListener('DOMContentLoaded', function () {
     arrow.setAttribute('height', '10');
     toggle.appendChild(arrow);
 
-    // Desktop: clicking the toggle navigates (hover opens dropdown)
+    // --- MOBILE: split toggle into link + separate chevron button ---
+    // Create a chevron button for toggling the dropdown
+    var chevronBtn = document.createElement('button');
+    chevronBtn.className = 'dropdown-chevron-btn';
+    chevronBtn.setAttribute('type', 'button');
+    chevronBtn.setAttribute('aria-label', 'Toggle submenu');
+    navItem.insertBefore(chevronBtn, menu);
+
+    function isMobile() {
+      return window.innerWidth < 992;
+    }
+
+    // On mobile: strip Bootstrap toggle from <a>, make it a plain link
+    // On desktop: keep default behavior (hover opens, click navigates)
+    function setupMobile() {
+      if (isMobile()) {
+        toggle.removeAttribute('data-bs-toggle');
+        toggle.setAttribute('href', target);
+        toggle.classList.remove('dropdown-toggle');
+        // Move aria-expanded to chevron
+        chevronBtn.setAttribute('aria-expanded', toggle.getAttribute('aria-expanded') || 'false');
+        toggle.removeAttribute('aria-expanded');
+      } else {
+        toggle.setAttribute('href', target);
+      }
+    }
+    setupMobile();
+    window.addEventListener('resize', setupMobile);
+
+    // Chevron button toggles the dropdown manually
+    chevronBtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var isOpen = menu.classList.contains('show');
+      if (isOpen) {
+        menu.classList.remove('show');
+        chevronBtn.setAttribute('aria-expanded', 'false');
+        navItem.classList.remove('show');
+      } else {
+        menu.classList.add('show');
+        chevronBtn.setAttribute('aria-expanded', 'true');
+        navItem.classList.add('show');
+      }
+    });
+
+    // Desktop: click on toggle navigates
     toggle.addEventListener('click', function (e) {
-      if (window.innerWidth >= 992) {
+      if (!isMobile()) {
         e.preventDefault();
         window.location.href = target;
       }
-      // Mobile: let Bootstrap handle open/close normally
+      // Mobile: it's now a plain <a> link, navigates normally
     });
   });
 
@@ -38,10 +84,11 @@ document.addEventListener('DOMContentLoaded', function () {
     item.addEventListener('click', function () {
       var menu = item.closest('.dropdown-menu');
       if (menu) menu.classList.remove('show');
-      var toggle = item.closest('.nav-item.dropdown').querySelector('.dropdown-toggle');
-      if (toggle) {
-        toggle.classList.remove('show');
-        toggle.setAttribute('aria-expanded', 'false');
+      var navItem = item.closest('.nav-item.dropdown');
+      if (navItem) {
+        navItem.classList.remove('show');
+        var chevron = navItem.querySelector('.dropdown-chevron-btn');
+        if (chevron) chevron.setAttribute('aria-expanded', 'false');
       }
       if (window.innerWidth < 992) {
         var collapse = document.querySelector('.navbar-collapse.show');
