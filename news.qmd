@@ -4,6 +4,8 @@ page-layout: custom
 section-divs: false
 toc: false
 css: theme/page.css
+resources:
+  - assets/images/banners/news.jpg
 listing:
   id: news-listing
   contents: news/*/index.qmd
