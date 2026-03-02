@@ -40,10 +40,10 @@ education:
     institution: "University of Osnabrück, Germany"
     year: "2010"
 resources:
-  - /assets/images/banners/team.jpg
+  - ../../assets/images/banners/team.jpg
 ---
 
-::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
 [Team]{.page-header__title}
 
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}

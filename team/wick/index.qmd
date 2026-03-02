@@ -43,10 +43,10 @@ education:
     institution: "HSBA, Hamburg, Germany"
     year: "2009 - 2012"
 resources:
-  - /assets/images/banners/team.jpg
+  - ../../assets/images/banners/team.jpg
 ---
 
-::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
 [Team]{.page-header__title}
 
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}

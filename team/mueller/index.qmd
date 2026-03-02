@@ -33,10 +33,10 @@ education:
     institution: "University of Applied Sciences Europe, Hamburg, Germany"
     year: "2007 - 2000"
 resources:
-  - /assets/images/banners/team.jpg
+  - ../../assets/images/banners/team.jpg
 ---
 
-::: {.page-header style="background-image: url('/assets/images/banners/team.jpg');"}
+::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
 [Team]{.page-header__title}
 
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
