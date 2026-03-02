@@ -1,5 +1,36 @@
 /* Welcome page styles — theme/index.css */
 
+#quarto-content > * {
+  padding-top: 0;
+}
+
+#quarto-content > .objectives-section {
+  padding-top: 1rem;
+}
+
+#quarto-content > .news-section,
+#quarto-content > .research-section,
+#quarto-content > .affiliations-section {
+  padding-top: 2rem;
+}
+
+@media (min-width: 980px) {
+  #quarto-content > .objectives-section {
+    padding-bottom: 2rem;
+  }
+
+  #quarto-content > .news-section,
+  #quarto-content > .research-section,
+  #quarto-content > .affiliations-section {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+}
+
+p:has(.backimage-caption) {
+  margin-bottom: 0;
+}
+
 /* Shared container */
 
 .content-block {
@@ -31,7 +62,7 @@
   text-align: center;
   border-bottom: none;
   margin: 0;
-  padding-top: 40px;
+  padding-top: 0;
   padding-bottom: 40px;
 }
 
@@ -363,8 +394,8 @@ img.hero-illu {
 /* Objectives / Mission section */
 
 .objectives-section {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: white;
   display: flex;
   justify-content: center;
@@ -422,8 +453,8 @@ img.hero-illu {
 /* News placeholder section */
 
 .news-section {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #f7f7f7;
 }
 
@@ -431,8 +462,8 @@ img.hero-illu {
 /* Research placeholder section */
 
 .research-section {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: white;
 }
 
@@ -447,8 +478,8 @@ img.hero-illu {
 /* Affiliations section — TUHH logo-list design */
 
 .affiliations-section {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #f7f7f7;
 }
 
