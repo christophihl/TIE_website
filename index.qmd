@@ -118,7 +118,7 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 ::: {#news-latest}
 :::
 
-[Alle News](news.qmd){.btn-tuhh}
+[All News](news.qmd){.btn-tuhh}
 
 :::
 :::

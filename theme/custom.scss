@@ -791,14 +791,15 @@ p:has(.backimage-caption) {
 
 .news-teaser__date {
   border-bottom: 1px dashed $tuhh_blue;
-  padding: 12px 24px;
-  font-size: 13px;
+  padding: 8px 16px;
+  font-size: 12px;
   font-weight: 700;
   color: $text_blue;
+  text-transform: none;
 }
 
 .news-teaser__text {
-  padding: 24px;
+  padding: 16px;
   flex-grow: 1;
 }
 
@@ -806,6 +807,9 @@ p:has(.backimage-caption) {
   color: $text_blue;
   margin: 0 0 0.5rem;
   font-weight: 400;
+  text-transform: none;
+  font-size: 1rem;
+  line-height: 1.4;
 }
 
 .news-teaser__title .header-section-number,
@@ -815,8 +819,9 @@ p:has(.backimage-caption) {
 
 .news-teaser__intro {
   color: #009eac;
-  font-size: 0.9rem;
-  margin-top: 10px;
+  font-size: 0.85rem;
+  margin-top: 8px;
+  text-transform: none;
 }
 
 .news-teaser__image p,
@@ -885,7 +890,7 @@ p:has(.backimage-caption) {
 }
 
 .news-teaser--card .news-teaser__image-top {
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
 }
 
