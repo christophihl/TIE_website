@@ -59,3 +59,16 @@ $body-color: white;
 
 
 /*-- scss:rules --*/
+
+/* Shared section dark mode overrides */
+.content-section {
+  background-color: #272935;
+}
+
+.content-section-alt {
+  background-color: #1e2029;
+}
+
+.section-heading {
+  color: white;
+}

@@ -31,39 +31,11 @@ p:has(.backimage-caption) {
   margin-bottom: 0;
 }
 
-/* Shared container */
-
-.content-block {
-  width: 100%;
-  max-width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  box-sizing: border-box;
-}
-
-/* Section wrappers — ensure full width and center content */
-.objectives-section,
-.news-section,
-.research-section,
-.affiliations-section {
+/* Index-specific section wrapper — objectives has custom layout */
+.objectives-section {
   width: 100%;
   display: flex;
   justify-content: center;
-}
-
-.section-heading {
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #005e73;
-  text-align: center;
-  border-bottom: none;
-  margin: 0;
-  padding-top: 0;
-  padding-bottom: 40px;
 }
 
 
@@ -450,38 +422,7 @@ img.hero-illu {
 }
 
 
-/* News placeholder section */
-
-.news-section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #f7f7f7;
-}
-
-
-/* Research placeholder section */
-
-.research-section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: white;
-}
-
-.placeholder-text {
-  text-align: center;
-  color: #999;
-  font-style: italic;
-  font-size: 0.95rem;
-}
-
-
 /* Affiliations section — TUHH logo-list design */
-
-.affiliations-section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #f7f7f7;
-}
 
 
 .logo-grid {
@@ -563,19 +504,6 @@ img.hero-illu {
 
 .quarto-dark .objectives-section {
   background-color: #272935;
-}
-
-.quarto-dark .news-section,
-.quarto-dark .affiliations-section {
-  background-color: #1e2029;
-}
-
-.quarto-dark .research-section {
-  background-color: #272935;
-}
-
-.quarto-dark .section-heading {
-  color: white;
 }
 
 .quarto-dark .mission-statement p {

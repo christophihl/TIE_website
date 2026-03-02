@@ -617,6 +617,71 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
 }
 
 
+/* =============================================
+   Shared Section System — reusable across all pages
+   ============================================= */
+
+/* Centered content container */
+.content-block {
+  width: 100%;
+  max-width: $page_width;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+}
+
+/* Full-width section wrappers with centered content */
+.content-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: white;
+}
+
+.content-section-alt {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #f7f7f7;
+}
+
+@media (min-width: 980px) {
+  .content-section,
+  .content-section-alt {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+}
+
+/* Section heading — uppercase label style */
+.section-heading {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: $text_blue;
+  text-align: center;
+  border-bottom: none;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 40px;
+}
+
+/* Placeholder text for stub sections */
+.placeholder-text {
+  text-align: center;
+  color: #999;
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+
 /* Fonts */
 
 

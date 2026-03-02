@@ -99,7 +99,7 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 :::
 
 
-::: {.news-section}
+::: {.content-section-alt .news-section}
 ::: {.content-block}
 
 ## Recent News {.section-heading}
@@ -112,7 +112,7 @@ Coming soon — news content will be added in a later phase.
 :::
 
 
-::: {.research-section}
+::: {.content-section .research-section}
 ::: {.content-block}
 
 ## Featured Research {.section-heading}
@@ -125,7 +125,7 @@ Coming soon — research highlights will be added in a later phase.
 :::
 
 
-::: {.affiliations-section}
+::: {.content-section-alt .affiliations-section}
 ::: {.content-block}
 
 ## Affiliations {.section-heading}
