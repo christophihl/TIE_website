@@ -448,9 +448,26 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     letter-spacing: normal;
     text-transform: none;
     padding: 10px 24px;
+    padding-right: 40px;
     line-height: 1.4;
     transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
     border: none;
+    position: relative;
+  }
+
+  /* TUHH upper-right arrow icon */
+  .navbar .dropdown-menu .dropdown-item::after {
+    content: '';
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-image: url('assets/images/link_blue.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .navbar .dropdown-menu .dropdown-item:hover,
@@ -563,10 +580,27 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     text-transform: uppercase;
     padding: 0;
     padding-left: 2rem;
+    padding-right: 3rem;
     height: 3.5rem;
     display: flex;
     align-items: center;
     border-bottom: 1px dashed $tuhh_blue;
+    position: relative;
+  }
+
+  /* TUHH upper-right arrow icon on mobile */
+  .navbar .dropdown-menu .dropdown-item::after {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background-image: url('assets/images/link_blue.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .navbar .dropdown-menu .dropdown-item:last-child {

@@ -93,6 +93,8 @@ website:
 format:
   html:
     toc: true
+    include-after-body:
+      - theme/nav-dropdown.html
     theme:
       light: theme/custom.scss
       dark: [theme/custom.scss, theme/custom_dark.scss]
