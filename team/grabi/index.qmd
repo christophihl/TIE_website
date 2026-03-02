@@ -1,5 +1,6 @@
 ---
 title: "Birgit Grabi"
+surname: "Grabi"
 description: "Team & Project Manager"
 image: avatar.jpg
 page-layout: custom

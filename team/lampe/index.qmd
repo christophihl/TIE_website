@@ -1,5 +1,6 @@
 ---
 title: "Dr. Hannes W. Lampe"
+surname: "Lampe"
 description: "Research Associate & Post-Doc"
 image: avatar.jpg
 page-layout: custom

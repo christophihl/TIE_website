@@ -1,5 +1,6 @@
 ---
 title: "Dr. Oliver Mork"
+surname: "Mork"
 description: "Research Assistant & Doctoral Student"
 image: avatar.png
 page-layout: custom

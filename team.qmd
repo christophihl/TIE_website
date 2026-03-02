@@ -13,6 +13,7 @@ listing:
       user-group: "Current Members"
     sort:
       - "weight"
+      - "surname"
     type: custom
     template: team-cards.ejs
   - id: alumni
@@ -20,7 +21,7 @@ listing:
     include:
       user-group: "Alumni"
     sort:
-      - "title"
+      - "surname"
     type: custom
     template: team-cards.ejs
 ---

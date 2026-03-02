@@ -1,5 +1,6 @@
 ---
 title: "Dr. Giulio Barth"
+surname: "Barth"
 description: "Research Assistant & Doctoral Student"
 image: avatar.jpg
 page-layout: custom

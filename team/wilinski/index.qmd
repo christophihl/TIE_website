@@ -1,5 +1,6 @@
 ---
 title: "Jonas Wilinski"
+surname: "Wilinski"
 description: "Research Assistant & Doctoral Student"
 image: avatar.jpg
 page-layout: custom
@@ -8,7 +9,7 @@ toc: false
 css: /theme/page.css
 
 user-group: "Current Members"
-weight: 70
+weight: 10
 
 interests:
   - Machine Learning and AI especially in combination with NLP and Vision

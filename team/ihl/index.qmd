@@ -1,5 +1,6 @@
 ---
 title: "Prof. Dr. Christoph Ihl"
+surname: "Ihl"
 description: "Professor & Head of Institute"
 image: avatar.jpg
 page-layout: custom
