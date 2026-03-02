@@ -6,7 +6,7 @@
 <img src="<%= item.image %>" alt="<%= item['image-alt'] || item.title %>">
 </div>
 <% } %>
-<div class="news-teaser__date"><span><%= item.date %></span></div>
+<div class="news-teaser__date"><span><%= item.date %><% if (item.categories && item.categories.length) { %><span class="news-teaser__cat-sep"></span><%= item.categories.join(', ') %><% } %></span></div>
 <div class="news-teaser__text">
 <h5 class="news-teaser__title"><a href="<%= item.path %>" class="stretched-link"><%= item.title %></a></h5>
 <% if (item.description) { %>

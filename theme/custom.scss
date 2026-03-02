@@ -800,6 +800,15 @@ p:has(.backimage-caption) {
   letter-spacing: normal;
 }
 
+.news-teaser__cat-sep {
+  display: inline-block;
+  width: 1px;
+  height: 0.9em;
+  border-left: 1px dashed $tuhh_blue;
+  vertical-align: middle;
+  margin: 0 10px;
+}
+
 .news-teaser__text {
   padding: 16px;
   flex-grow: 1;

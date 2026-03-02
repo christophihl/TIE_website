@@ -3,7 +3,7 @@
 <div class="news-teaser news-teaser--feed">
 <div class="news-teaser__wrapper">
 <div class="news-teaser__inner">
-<div class="news-teaser__date"><span><%= item.date %></span></div>
+<div class="news-teaser__date"><span><%= item.date %><% if (item.categories && item.categories.length) { %><span class="news-teaser__cat-sep"></span><%= item.categories.join(', ') %><% } %></span></div>
 <div class="news-teaser__text">
 <h4 class="news-teaser__title"><a href="<%= item.path %>" class="stretched-link"><%= item.title %></a></h4>
 <% if (item.description) { %>
