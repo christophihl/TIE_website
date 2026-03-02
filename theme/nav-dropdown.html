@@ -11,32 +11,22 @@ document.addEventListener('DOMContentLoaded', function () {
 
     toggle.setAttribute('href', target);
 
-    // Inject upper-right arrow image after the menu text
+    // Inject arrow image inside the toggle, after the menu text
     var arrow = document.createElement('img');
     arrow.src = './assets/images/link_blue.svg';
     arrow.className = 'dropdown-nav-arrow';
     arrow.alt = '';
+    arrow.setAttribute('width', '10');
+    arrow.setAttribute('height', '10');
     toggle.appendChild(arrow);
 
-    // Track whether dropdown was open BEFORE Bootstrap processes the click
-    var wasOpen = false;
-    toggle.addEventListener('mousedown', function () {
-      wasOpen = toggle.getAttribute('aria-expanded') === 'true';
-    });
-
+    // Desktop: clicking the toggle navigates (hover opens dropdown)
     toggle.addEventListener('click', function (e) {
       if (window.innerWidth >= 992) {
-        // Desktop: always navigate (hover handles dropdown)
+        e.preventDefault();
         window.location.href = target;
-      } else {
-        // Mobile: if it was already open before this click, navigate
-        if (wasOpen) {
-          e.preventDefault();
-          e.stopImmediatePropagation();
-          window.location.href = target;
-        }
-        // Otherwise: let Bootstrap open the dropdown
       }
+      // Mobile: let Bootstrap handle open/close normally
     });
   });
 

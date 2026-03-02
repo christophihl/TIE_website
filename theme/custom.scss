@@ -569,16 +569,16 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     border-color: transparent !important;
   }
 
-  /* When expanded: upper-right arrow injected by JS after the menu text */
+  /* Upper-right arrow — visible only when dropdown is expanded */
   .navbar .nav-link.dropdown-toggle .dropdown-nav-arrow {
-    display: none;
-    width: 10px;
-    height: 10px;
+    display: none !important;
+    width: 10px !important;
+    height: 10px !important;
     margin-left: 6px;
-    flex-shrink: 0;
+    vertical-align: middle;
   }
   .navbar .nav-link.dropdown-toggle[aria-expanded="true"] .dropdown-nav-arrow {
-    display: inline-block;
+    display: inline-block !important;
   }
 
   /* Dropdown panel */
