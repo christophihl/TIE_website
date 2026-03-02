@@ -11,17 +11,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
     toggle.setAttribute('href', target);
 
+    // Track whether dropdown was open BEFORE Bootstrap processes the click
+    var wasOpen = false;
+    toggle.addEventListener('mousedown', function () {
+      wasOpen = toggle.getAttribute('aria-expanded') === 'true';
+    });
+
     toggle.addEventListener('click', function (e) {
       if (window.innerWidth >= 992) {
         // Desktop: always navigate (hover handles dropdown)
         window.location.href = target;
       } else {
-        // Mobile: if already expanded, navigate; otherwise let Bootstrap open it
-        if (toggle.getAttribute('aria-expanded') === 'true') {
+        // Mobile: if it was already open before this click, navigate
+        if (wasOpen) {
           e.preventDefault();
-          e.stopPropagation();
+          e.stopImmediatePropagation();
           window.location.href = target;
         }
+        // Otherwise: let Bootstrap open the dropdown
       }
     });
   });
