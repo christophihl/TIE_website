@@ -4,6 +4,9 @@ document.addEventListener('DOMContentLoaded', function () {
     'Team': './team.html'
   };
 
+  // Inline SVG data URI for the TUHH cyan upper-right arrow
+  var arrowSrc = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000' viewBox='-488 -488 1000 1000'%3E%3Cpath d='M428.668 512c-46.062 0-83.336-37.273-83.336-83.332v-632.164l-691.078 691.082c-32.555 32.551-85.289 32.551-117.84 0s-32.551-85.285 0-117.84l691.082-691.078h-632.164c-46.02 0-83.332-37.312-83.332-83.336 0-46.02 37.312-83.332 83.332-83.332h833.336C474.727-488 512-450.688 512-404.668v833.336C512 474.727 474.727 512 428.668 512z' fill='%2300C1D4'/%3E%3C/svg%3E";
+
   document.querySelectorAll('.navbar .nav-item.dropdown > .nav-link.dropdown-toggle').forEach(function (toggle) {
     var label = toggle.textContent.trim();
     var target = dropdownTargets[label];
@@ -13,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Inject arrow image inside the toggle, after the menu text
     var arrow = document.createElement('img');
-    arrow.src = './assets/images/link_blue.svg';
+    arrow.src = arrowSrc;
     arrow.className = 'dropdown-nav-arrow';
     arrow.alt = '';
     arrow.setAttribute('width', '10');
