@@ -33,26 +33,23 @@ listing:
 ::: {.content-section}
 ::: {.content-block}
 
-## Focus & Fields {#sec-focus-fields .section-heading}
+## Focus {#sec-focus-fields .section-heading}
 
 ::: {.profile-main}
 
-### Focus
+Our research on innovation and entrepreneurship sits at the intersection of organizational theory, sociology, and strategy. We investigate how actors both shape and are shaped by market, technological, social, and cultural environments as they create novelty in ideas, teams, products, and business practices. Our work develops and tests theoretical explanations grounded in mechanisms such as social influence, diffusion, status, legitimacy, optimal distinctiveness, social evaluation, cognition, and social capital.
 
-Our research about innovation and entrepreneurship lies at the intersection of organizational theory, sociology and strategy. In particular, we are interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products or business practices. Our theoretical explanations are based on mechanisms such as social influence, diffusion, status, legitimacy, optimal distinctiveness, social evaluation, cognition, social capital.
+Empirically, we study contexts in which market, technological, social, and cultural spaces can be observed and measured at scale—for example through inter-actor relationships and associations with concepts, categories, and narratives. This allows us to locate actors within these spaces and to assess how novelty, atypicality, and legitimacy are produced and evaluated. Methodologically, we draw on computational social science, including machine learning, natural language processing, and network analysis.
 
-Our research is situated in domains where social and cultural spaces can be measured (more or less) comprehensively, e.g. based on relations with other actors or associations with concepts and narratives.
-In order to position actors in these spaces and categorize them as "novel" or "atypical", we employ methods from computational social science such as machine learning, natural language processing and network analysis.
-
-### Fields
+### Topics
 
 ::: {.profile-interests}
-- Startup Strategy: Choices and Change.
-- Startup Financing, e.g. Venture Capital, Impact Investing.
-- Teams in Innovation and Entrepreneurship: Formation, Evolution, Organizing.
-- Technology & Science-based Innovation and Entrepreneurship, e.g. Clean Tech, AI.
-- Crowd-based Innovation and Entrepreneurship, e.g. Crowdfunding, Crowdsourcing, User Communities, Open Source Software.
-- Innovation and Entrepreneurship in Creative Industries, e.g. Media, Sports.
+- Startup Strategy and Evolution (choices, pivoting, scaling, adaptation)
+- Entrepreneurial Finance (venture capital, impact investing)
+- Entrepreneurial Teams and Organizing (formation, evolution, governance)
+- Science- and Technology-based Entrepreneurship (clean tech, AI)
+- Crowd-based Innovation and Entrepreneurship (crowdfunding, crowdsourcing, user communities, open source)
+- Entrepreneurship in Creative and Cultural Industries (media, entertainment, sports)
 :::
 
 :::
