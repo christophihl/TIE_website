@@ -1618,7 +1618,7 @@ p:has(.backimage-caption) {
   }
 }
 
-/* Project card grid — show all cards, side by side on desktop */
+/* Project card grid — show all cards, 3 per row on desktop */
 .project-grid {
   grid-template-columns: 1fr;
 }
@@ -1628,9 +1628,25 @@ p:has(.backimage-caption) {
   display: flex;
 }
 
-@media (min-width: 768px) {
+/* Fit full image without cropping */
+.project-grid .news-teaser__image-top {
+  aspect-ratio: 16 / 9;
+  background-color: #f7f7f7;
+}
+
+.project-grid .news-teaser__image-top img {
+  object-fit: contain;
+}
+
+@media (min-width: 576px) {
   .project-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .project-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
