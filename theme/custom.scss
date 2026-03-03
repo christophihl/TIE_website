@@ -925,6 +925,7 @@ section.section-heading {
   display: none;
 }
 
+
 /* =============================================
    Page Header Banner — subpage hero
    ============================================= */
@@ -1430,6 +1431,14 @@ p:has(.backimage-caption) {
   border: 1px solid $tuhh_blue;
   display: block;
   margin: 0 auto;
+}
+
+/* Profile member name — shown as figcaption under avatar */
+.profile-sidebar figcaption {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $text_blue;
+  margin-top: 1rem;
 }
 
 @media (min-width: 768px) {
