@@ -1,6 +1,6 @@
 ---
 title: "Kundenintegration in den Dienstleistungsinnovationsprozess"
-author: "Ralf Reichwald, **Christoph Ihl**, Stefan Seifert"
+author: "Ralf Reichwald, **Christoph Ihl**, Sascha Seifert"
 date: "2005-01-01"
 categories:
   - "Book / Chapter"
@@ -18,5 +18,5 @@ authors:
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
-  - name: "Stefan Seifert"
+  - name: "Sascha Seifert"
 ---

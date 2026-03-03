@@ -1,6 +1,6 @@
 ---
 title: "Open innovation: Novel deployment of ICT in new product development"
-author: "Ralf Reichwald, Frank Piller, Stefan Seifert, **Christoph Ihl**"
+author: "Ralf Reichwald, Frank Piller, Sascha Seifert, **Christoph Ihl**"
 date: "2014-01-01"
 categories:
   - "Book / Chapter"
@@ -17,7 +17,7 @@ book-title: "Competitiveness of New Industries: Institutional Framework and Lear
 authors:
   - name: "Ralf Reichwald"
   - name: "Frank Piller"
-  - name: "Stefan Seifert"
+  - name: "Sascha Seifert"
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"

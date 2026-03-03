@@ -1,6 +1,6 @@
 ---
 title: "A Taste for Patents? Self-Determined Motivation vs. External Incentives in Academic Patenting"
-author: "Jan W. Reerink, **Christoph Ihl**, Tobias Walter"
+author: "Jan W. Reerink, **Christoph Ihl**, Thomas Walter"
 date: "2015-08-01"
 categories:
   - "Conference Paper"
@@ -24,5 +24,5 @@ authors:
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
-  - name: "Tobias Walter"
+  - name: "Thomas Walter"
 ---

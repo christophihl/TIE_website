@@ -1,6 +1,6 @@
 ---
 title: "Using open innovation platforms for technology transfer"
-author: "Frank Piller, Dennis Hilgers, **Christoph Ihl**, Leonhard Schmidthuber"
+author: "Frank Piller, Dennis Hilgers, **Christoph Ihl**, Lisa Schmidthuber"
 date: "2021-01-01"
 categories:
   - "Book / Chapter"
@@ -19,5 +19,5 @@ authors:
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
-  - name: "Leonhard Schmidthuber"
+  - name: "Lisa Schmidthuber"
 ---

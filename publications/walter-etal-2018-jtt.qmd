@@ -1,6 +1,6 @@
 ---
 title: "Grace, gold, or glory? Exploring incentives for invention disclosure in the university context"
-author: "Tobias Walter, **Christoph Ihl**, Rene Mauer, Malte Brettel"
+author: "Thomas Walter, **Christoph Ihl**, Rene Mauer, Malte Brettel"
 date: "2018-12-01"
 categories:
   - "Journal Article"
@@ -18,7 +18,7 @@ volume: "43"
 issue: "6"
 pages: "1725-1759"
 authors:
-  - name: "Tobias Walter"
+  - name: "Thomas Walter"
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
