@@ -8,21 +8,26 @@ document.addEventListener('DOMContentLoaded', function () {
   // Inline SVG data URI for the TUHH cyan upper-right arrow
   var arrowSrc = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000' viewBox='-488 -488 1000 1000'%3E%3Cpath d='M428.668 512c-46.062 0-83.336-37.273-83.336-83.332v-632.164l-691.078 691.082c-32.555 32.551-85.289 32.551-117.84 0s-32.551-85.285 0-117.84l691.082-691.078h-632.164c-46.02 0-83.332-37.312-83.332-83.336 0-46.02 37.312-83.332 83.332-83.332h833.336C474.727-488 512-450.688 512-404.668v833.336C512 474.727 474.727 512 428.668 512z' fill='%2300C1D4'/%3E%3C/svg%3E";
 
-  // Mark dropdown toggle as active if current page matches its target or any submenu href
+  // Mark dropdown toggle as active if current page matches its own target or submenu hrefs
   var currentPath = window.location.pathname.replace(/\/$/, '').split('/').pop() || 'index.html';
   document.querySelectorAll('.navbar .nav-item.dropdown').forEach(function (navItem) {
+    var toggle = navItem.querySelector('.nav-link');
+    var label = toggle ? toggle.textContent.trim() : '';
+    var ownTarget = dropdownTargets[label];
+    if (!ownTarget) return;
+
+    // Collect submenu hrefs for this specific dropdown
     var hrefs = [];
     navItem.querySelectorAll('.dropdown-item').forEach(function (item) {
       var h = item.getAttribute('href');
       if (h) hrefs.push(h.split('#')[0].split('/').pop());
     });
-    var toggle = navItem.querySelector('.nav-link');
-    // Active if we're on the target page or a subpage (e.g. team/ihl/)
-    var parentPage = Object.values(dropdownTargets).map(function (t) {
-      return t.replace('./', '').split('#')[0].replace('.html', '');
-    });
+
+    // Only check against this dropdown's own parent page
+    var ownPage = ownTarget.replace('./', '').split('#')[0].replace('.html', '');
     var isActive = hrefs.some(function (h) { return h === currentPath; }) ||
-                   parentPage.some(function (p) { return currentPath === p + '.html' || window.location.pathname.indexOf('/' + p + '/') !== -1; });
+                   currentPath === ownPage + '.html' ||
+                   window.location.pathname.indexOf('/' + ownPage + '/') !== -1;
     if (isActive && toggle) {
       toggle.classList.add('active');
     }
