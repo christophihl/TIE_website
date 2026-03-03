@@ -43,7 +43,7 @@ website:
             href: team.qmd#gallery
       - text: Research
         menu:
-          - text: Focus & Fields
+          - text: Focus
             href: research.qmd#sec-focus-fields
           - text: Projects
             href: research.qmd#sec-projects
