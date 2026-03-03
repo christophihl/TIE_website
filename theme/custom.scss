@@ -117,8 +117,6 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
 /* Subline/label text */
 .subline {
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.83em;
   font-size: 10px;
 }
 
@@ -625,8 +623,8 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
     color: $text_blue;
     font-size: 13px;
     font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    letter-spacing: normal;
+    text-transform: none;
     padding: 0;
     padding-left: 2rem;
     padding-right: 3rem;
@@ -1207,14 +1205,14 @@ p:has(.backimage-caption) {
   font-family: 'PublicaSans', Arial, sans-serif;
   font-size: 13px;
   line-height: 1.38;
-  letter-spacing: 2px;
+  letter-spacing: normal;
   font-weight: 700;
   padding: 11px 21px;
   text-decoration: none;
   color: white;
   background-color: $footer_blue;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   transition: 0.25s all ease;
   border: none;
   margin-top: 2rem;
@@ -1498,8 +1496,8 @@ p:has(.backimage-caption) {
 .profile-main h2 {
   font-size: 1.3rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  text-transform: none;
+  letter-spacing: normal;
   color: $text_blue;
   border-bottom: 1px dashed $tuhh_blue;
   padding-bottom: 8px;
@@ -1707,8 +1705,8 @@ p:has(.backimage-caption) {
   font-family: 'PublicaSans', Arial, sans-serif;
   font-size: 11px;
   font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  letter-spacing: normal;
+  text-transform: none;
   padding: 4px 10px;
   border: 1px solid $tuhh_blue;
   color: $text_blue;
