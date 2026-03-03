@@ -13,4 +13,10 @@ tags:
   - "3D Printing"
   - "Manufacturing"
   - "Decentralization"
+book-title: "The Decentralized and Networked Future of Value Creation"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Frank Piller"
 ---

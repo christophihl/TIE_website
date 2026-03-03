@@ -13,4 +13,17 @@ tags:
   - "Open Innovation"
   - "Knowledge Distance"
   - "Broadcast Search"
+conference: "Academy of Management Proceedings"
+volume: "2016"
+issue: "1"
+article-number: "16868"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Robin Kleer"
+    orcid: "0000-0001-5360-5351"
+  - name: "Jan W. Reerink"
+    internal: "reerink"
+    orcid: "0000-0001-6558-5183"
 ---

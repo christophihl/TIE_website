@@ -13,4 +13,15 @@ tags:
   - "Startup Failure"
   - "Media Coverage"
   - "Culture"
+conference: "Academy of Management Proceedings"
+volume: "2024"
+issue: "1"
+article-number: "18562"
+authors:
+  - name: "Olaf Mork"
+    internal: "mork"
+    orcid: "0009-0001-0560-0617"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

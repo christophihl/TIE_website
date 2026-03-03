@@ -13,4 +13,15 @@ tags:
   - "Creative Industries"
   - "Openness"
   - "Gastronomy"
+conference: "Academy of Management Proceedings"
+volume: "2018"
+issue: "1"
+article-number: "11066"
+authors:
+  - name: "Georg Barth"
+    internal: "barth"
+    orcid: "0000-0002-0133-8754"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

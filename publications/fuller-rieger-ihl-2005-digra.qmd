@@ -13,4 +13,11 @@ tags:
   - "Games"
   - "User Innovation"
   - "Mobile"
+conference: "Proceedings of DiGRA 2005 Conference: Changing Views – Worlds in Play"
+authors:
+  - name: "Johann Füller"
+  - name: "Melanie Rieger"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

@@ -7,10 +7,21 @@ categories:
 description: "Terrorism and Political Violence, 37(5), 610-631"
 doi: "10.1080/09546553.2024.2345729"
 pub-type: "journal"
-abstract: ""
+abstract: "In this article, we argue that the process of predicting terrorist attacks needs to integrate the evolving dynamic of terrorism and we make a case for novelty as crucial feature to encompass terrorism's changing nature. To predict when and how terrorist organizations will conduct their next attack, and whether it will have a novel approach, we base our analysis on media coverage. As media continuously covers political, economic, and societal analyses on a national and international scale, it provides rich information that can fuel early-warning systems for terror attacks. We analyze the content of 2,173,544 newspaper articles, reporting on 42,252 terror attacks by 1,121 organizations. Our analyses show that content of media coverage relates to the interval until the following attack from the same terror organization as well as whether they will conduct a novel and even more devastating terror attack. Hence, our approach and findings can contribute to building early-warning systems."
 pdf: ""
 tags:
   - "Terrorism"
   - "Media Coverage"
   - "Prediction"
+journal: "Terrorism and Political Violence"
+volume: "37"
+issue: "5"
+pages: "610-631"
+authors:
+  - name: "Heinz W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
+  - name: "Eva Herschinger"
+  - name: "Christian Nitzl"
+  - name: "Jurgen Willems"
 ---

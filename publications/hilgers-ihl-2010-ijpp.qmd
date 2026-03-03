@@ -13,4 +13,12 @@ tags:
   - "Open Innovation"
   - "Public Sector"
   - "Citizensourcing"
+journal: "International Journal of Public Participation"
+volume: "4"
+issue: "1"
+authors:
+  - name: "Dennis Hilgers"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

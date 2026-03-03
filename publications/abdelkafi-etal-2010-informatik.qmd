@@ -13,4 +13,13 @@ tags:
   - "Open Innovation"
   - "Universities"
   - "Education"
+conference: "INFORMATIK 2010: Service Science – Neue Perspektiven für die Informatik"
+authors:
+  - name: "Nazanin Abdelkafi"
+  - name: "Michael Bartl"
+  - name: "Johann Füller"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Melanie Rieger"
 ---

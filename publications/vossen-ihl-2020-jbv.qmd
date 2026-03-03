@@ -12,9 +12,20 @@ pdf: ""
 pub-links:
   - name: "Journal Website"
     url: "https://www.sciencedirect.com/science/article/pii/S0883902620306583"
+    icon: "fa-solid fa-globe"
 tags:
   - "Cultural Entrepreneurship"
   - "Categories"
   - "Narratives"
   - "NLP"
+journal: "Journal of Business Venturing"
+volume: "35"
+issue: "6"
+article-number: "106050"
+authors:
+  - name: "Alexander Vossen"
+    orcid: "0000-0002-9266-2022"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

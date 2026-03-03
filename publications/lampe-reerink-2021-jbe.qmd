@@ -7,10 +7,21 @@ categories:
 description: "Journal of Business Economics, 91(7), 1025-1061"
 doi: "10.1007/s11573-020-01027-4"
 pub-type: "journal"
-abstract: ""
+abstract: "This article addresses the importance of tailoring publications to expectations of the intended scientific sub-community it addresses. But what does this mean when writing an article and adopting community specific jargon? This article disentangles the effects of articles’ language complexity on their impact. In the domain of entrepreneurship science, we show that language uniqueness (in form of aligning jargon uniquely to one community) has a positive effect on article’s impact. An article’s novelty (in form of novel recombination of community jargon) has an inverted U-shape relationship with impact. We further show that the optimal level of novelty decreases with increasing uniqueness, yielding higher overall impact. These findings have implications not only for authors of scientific articles but also for their audience."
 pdf: ""
 tags:
   - "Language Complexity"
   - "Science Communication"
   - "Entrepreneurship Research"
+journal: "Journal of Business Economics"
+volume: "91"
+issue: "7"
+pages: "1025-1061"
+authors:
+  - name: "Heinz W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
+  - name: "Jan Willem Reerink"
+    internal: "reerink"
+    orcid: "0000-0001-6558-5183"
 ---

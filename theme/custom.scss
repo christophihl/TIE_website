@@ -1715,9 +1715,19 @@ p:has(.backimage-caption) {
   margin-bottom: 4px;
 }
 
-/* Bold Christoph Ihl's name in author strings */
+/* Bold + link for TIE team members in author strings */
 .pub-entry__authors strong {
   font-weight: 700;
+}
+
+.pub-author-link {
+  color: $text_blue;
+  text-decoration: none;
+}
+
+.pub-author-link:hover {
+  color: #009eac;
+  text-decoration: underline;
 }
 
 .pub-entry__title {
@@ -1806,6 +1816,59 @@ p:has(.backimage-caption) {
 
 .pub-btn--link {
   border-color: $text_blue;
+}
+
+.pub-btn--link i {
+  margin-right: 2px;
+}
+
+.pub-btn--tore {
+  border-color: #006a81;
+  color: #006a81;
+}
+
+.pub-btn--tore:hover {
+  background-color: #006a81;
+  color: white;
+}
+
+/* Topic tags — small pills below each publication entry */
+.pub-entry__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.pub-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border: 1px solid $tuhh_grey;
+  color: #666;
+  border-radius: 2px;
+  line-height: 1.4;
+}
+
+/* Working paper status badge */
+.pub-status {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  font-style: italic;
+  padding: 3px 8px;
+  color: #666;
+  border: 1px dashed $tuhh_grey;
+  border-radius: 2px;
+}
+
+/* Extra notes (conference presentations, awards) */
+.pub-entry__extra {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #888;
+  margin-top: 4px;
 }
 
 /* Expandable abstract block — hidden by default */

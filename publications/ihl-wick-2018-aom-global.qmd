@@ -13,4 +13,13 @@ tags:
   - "Crowdfunding"
   - "Categorization"
   - "Organizational Deviance"
+conference: "Academy of Management Global Proceedings"
+article-number: "383"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Jan N. Wick"
+    internal: "wick"
+    orcid: "0000-0002-3147-4968"
 ---

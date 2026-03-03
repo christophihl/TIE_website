@@ -13,4 +13,14 @@ tags:
   - "Social Media"
   - "Co-Creation"
   - "Innovation"
+journal: "Die Unternehmung"
+volume: "65"
+issue: "1"
+authors:
+  - name: "Frank T. Piller"
+  - name: "Alexander Vossen"
+    orcid: "0000-0002-9266-2022"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

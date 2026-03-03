@@ -11,4 +11,12 @@ abstract: ""
 pdf: ""
 tags:
   - "Open Innovation"
+publisher: "MIT Press"
+authors:
+  - name: "Ann S. Huff"
+  - name: "Kathrin M. Möslein"
+  - name: "Ralf Reichwald"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

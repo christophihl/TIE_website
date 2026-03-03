@@ -13,4 +13,12 @@ tags:
   - "Open Innovation"
   - "ICT"
   - "Product Development"
+book-title: "Competitiveness of New Industries: Institutional Framework and Learning in IT"
+authors:
+  - name: "Ralf Reichwald"
+  - name: "Frank Piller"
+  - name: "Stefan Seifert"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

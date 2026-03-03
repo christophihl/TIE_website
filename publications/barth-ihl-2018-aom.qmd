@@ -7,9 +7,17 @@ categories:
 description: "78th Annual Meeting of the Academy of Management, AOM 2018"
 doi: "10.5465/AMBPP.2018.267"
 pub-type: "conference"
-abstract: ""
+abstract: "This paper extends the emerging body of literature on institutional entrepreneurship by introducing the heterogeneous diffusion model to measure the diffusion of institutional logics in an emerging field. Results validate that during field emergence, institutional entrepreneurs use their resources to convince their social context of an institutional logic to shape an emerging field. Such pioneers of new fields draw logics from different organizational fields and influence the emerging field level institutions. By drawing from a quantitative study using the research field of synthetic biology, this paper elaborates rich insights into the characteristics and strategies of such actors. In addition, this research provides implications for further development of institutional theory, in particular, for the analysis of communities, as well as for practitioners working in emerging fields."
 pdf: ""
 tags:
   - "Institutional Entrepreneurship"
   - "Institutional Logics"
+conference: "78th Annual Meeting of the Academy of Management"
+authors:
+  - name: "Georg Barth"
+    internal: "barth"
+    orcid: "0000-0002-0133-8754"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

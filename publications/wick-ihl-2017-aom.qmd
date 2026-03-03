@@ -13,4 +13,15 @@ tags:
   - "Crowdfunding"
   - "Signaling"
   - "Venture Finance"
+conference: "Academy of Management Proceedings"
+volume: "2017"
+issue: "1"
+article-number: "17609"
+authors:
+  - name: "Jan N. Wick"
+    internal: "wick"
+    orcid: "0000-0002-3147-4968"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

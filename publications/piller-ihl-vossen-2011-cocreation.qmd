@@ -13,4 +13,13 @@ tags:
   - "Co-Creation"
   - "Open Innovation"
   - "Customers"
+editors: "V. Wittke & H. Hanekop"
+book-title: "New Forms of Collaboration and Innovation"
+authors:
+  - name: "Frank Piller"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Alexander Vossen"
+    orcid: "0000-0002-9266-2022"
 ---

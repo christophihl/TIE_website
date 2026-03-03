@@ -13,4 +13,10 @@ tags:
   - "Sustainability"
   - "Willingness to Pay"
   - "Consumer Behavior"
+book-title: "Managing Innovation in a Global and Digital World"
+authors:
+  - name: "Dominik Walcher"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

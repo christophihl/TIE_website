@@ -7,10 +7,18 @@ categories:
 description: "Local Government Studies, 43(5), 707-730"
 doi: "10.1080/03003930.2017.1324428"
 pub-type: "journal"
-abstract: ""
+abstract: "In the public sector, innovation is understood as a major driver of public service performance improvement and excellence. On the one hand, previous research has proven a positive effect of innovation adoption on performance in the public sector. On the other hand, a broad literature proves positive effects of innovation antecedents on innovation adoption. This study bridges this gap and analyses the effect of an innovation antecedent – willingness to adopt a process innovation (accrual accounting) – on municipalities’ service provision cost-efficiency. Therefore, the author makes use of a panel data set of German municipalities, located in the federal state of North Rhine-Westphalia. Evidence shows that a higher municipal willingness to innovate relates to higher cost-efficiency. A higher innovation willingness might have a maximal effect of 17 percentage points on municipality cost-efficiency."
 pdf: ""
 tags:
   - "Process Innovation"
   - "Public Sector"
   - "Efficiency"
+journal: "Local Government Studies"
+volume: "43"
+issue: "5"
+pages: "707-730"
+authors:
+  - name: "Heinz W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
 ---

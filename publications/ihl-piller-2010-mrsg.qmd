@@ -12,4 +12,13 @@ pdf: ""
 tags:
   - "Customer Co-Creation"
   - "Innovation Process"
+journal: "Marketing Review St. Gallen"
+volume: "27"
+issue: "4"
+pages: "8-13"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Frank Piller"
 ---

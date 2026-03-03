@@ -13,4 +13,13 @@ tags:
   - "Mass Customization"
   - "Online Retail"
   - "Product Configuration"
+conference: "International Conference on Information Systems (ICIS) 2011"
+authors:
+  - name: "Marc Gerards"
+  - name: "Florian Siems"
+  - name: "David Antons"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Frank T. Piller"
 ---

@@ -179,6 +179,12 @@ h2.section-heading {
 .pub-entry__authors {
   color: white;
 }
+.pub-author-link {
+  color: white;
+}
+.pub-author-link:hover {
+  color: #00C1D4;
+}
 .pub-entry__title a {
   color: white;
 }
@@ -200,9 +206,24 @@ h2.section-heading {
   color: #aaa;
   border-color: rgba(208, 208, 206, 0.4);
 }
+.pub-btn--tore {
+  color: #00C1D4;
+  border-color: rgba(0, 106, 129, 0.6);
+}
 .pub-entry__abstract {
   background-color: #1e2029;
   color: #ccc;
+}
+.pub-tag {
+  color: #aaa;
+  border-color: rgba(208, 208, 206, 0.3);
+}
+.pub-status {
+  color: #aaa;
+  border-color: rgba(208, 208, 206, 0.3);
+}
+.pub-entry__extra {
+  color: #888;
 }
 .profile-education li,
 .profile-education ul li {

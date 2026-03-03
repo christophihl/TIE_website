@@ -11,4 +11,9 @@ abstract: ""
 pdf: ""
 tags:
   - "Mass Customization"
+authors:
+  - name: "Frank T. Piller"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

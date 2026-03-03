@@ -13,4 +13,11 @@ tags:
   - "Digital Technologies"
   - "Startups"
   - "Operations Management"
+book-title: "Logistik im Wandel der Zeit"
+authors:
+  - name: "Jörg Schwarz"
+    internal: "schwarz"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

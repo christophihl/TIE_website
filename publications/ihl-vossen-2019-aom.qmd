@@ -13,4 +13,14 @@ tags:
   - "User Behavior"
   - "Market Signals"
   - "Copyright"
+conference: "Academy of Management Proceedings"
+volume: "2019"
+issue: "1"
+article-number: "17322"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Alexander Vossen"
+    orcid: "0000-0002-9266-2022"
 ---

@@ -7,10 +7,15 @@ categories:
 description: "Dissertation, Technische Universität Hamburg"
 doi: "10.15480/882.3839"
 pub-type: "dissertation"
-abstract: ""
+abstract: "ICOs stellen eine neuartige Finanzierungsmethode dar, welche es Start-ups ermöglicht Kapital von einer Großzahl vorwiegend Kleinanleger einzusammeln. Innerhalb meiner Dissertation widme ich mich ICO-Investoren, um darzustellen wie Investoren diese neuartigen Investitionsumgebung navigieren. Entlang dreier Studien untersuche ich die Komposition sowie Interaktion verschiedener Investorengruppen. Des Weiteren analysiere ich inwiefern Investoren in der Lage sind erfolgreiche Start-ups gezielt zu selektieren."
 pdf: ""
 tags:
   - "Blockchain"
   - "Initial Coin Offerings"
   - "Entrepreneurial Finance"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Carolin Petra Brückmann"
+    internal: "brueckmann"
+    orcid: "0000-0003-2962-1284"
 ---

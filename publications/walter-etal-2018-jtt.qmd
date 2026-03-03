@@ -7,10 +7,21 @@ categories:
 description: "The Journal of Technology Transfer, 43(6), 1725-1759"
 doi: "10.1007/s10961-013-9303-1"
 pub-type: "journal"
-abstract: ""
+abstract: "What motivates university scientists to identify practical applications for their research results and consider having them patent-protected? A wealth of research points towards a complex blend of factors, including organizational antecedents, social norms and personal-level expectations. Few studies, however, have attempted to investigate the effect of concrete incentives from the perspective of individual scientists' decision-making. In this paper, we operationalize the propensity to patent and commercialize research results as the intention to submit an invention disclosure filing. We use scenario-based conjoint analysis to capture university scientists' preference structures for different incentive policies. Results indicate that direct and indirect financial incentives are dominant drivers. In addition, a grace period that would allow for patenting and publishing in parallel and the inclusion of patents in academic performance assessments are worth considering, whereas the specific setup of the technology transfer organization and public recognition of achievements in form of an award appear to have limited effect. However, preferences for incentives and hence their effectiveness vary significantly across academic disciplines and ranks as well as with scientists' working experience, patenting experience and research orientation."
 pdf: ""
 tags:
   - "University Technology Transfer"
   - "Invention Disclosure"
   - "Incentives"
+journal: "The Journal of Technology Transfer"
+volume: "43"
+issue: "6"
+pages: "1725-1759"
+authors:
+  - name: "Tobias Walter"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Rene Mauer"
+  - name: "Malte Brettel"
 ---

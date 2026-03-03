@@ -7,10 +7,21 @@ categories:
 description: "IEEE Innovations in Technology Conference (InnoTek 2014), 1-9"
 doi: "10.1109/InnoTek.2014.6877370"
 pub-type: "conference"
-abstract: ""
+abstract: "In the automotive industry alternative powertrains cause a wide spread of knowledge and a growing importance of varied disciplines. Consequently, research unveils a disruption of established relations and an emergence of new kinds of decentralized developments encouraging our research. This paper introduces a networked development project which has attracted considerable attention in science and practice as it has realized the homologation of an electric vehicle within less than three years of development applying an uncommon network approach. In this project a decentralized consortial network has been implemented to accomplish the development of certain modules. We argue that despite a modular architecture these modules are still highly interdependent and thus corresponding technical interfaces need to be managed and implemented in the organizational structures. A relatively new facet of hypothesis-based research on these dependencies is the mirroring hypothesis which states that technical ties have to correspond to the communicational ones. Accordingly, we combine and enhance measurements from different fields and thereby provide a solid approach to assess the strength of technical and organizational ties. The corresponding strength values are captured in matrices enabling the test of the mirroring hypothesis. While there are qualitative findings on the performance implications of mirroring in literature, we present a quantitative approach which should provide a stronger empirical underpinning for the qualitative research in this field."
 pdf: ""
 tags:
   - "Networks"
   - "Automotive"
   - "Decentralization"
+conference: "IEEE Innovations in Technology Conference (InnoTek 2014)"
+pages: "1-9"
+authors:
+  - name: "Patrick Müller"
+  - name: "Georg Kasperk"
+  - name: "Achim Kampker"
+  - name: "Christine Deutskens"
+  - name: "Florian Weyand"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

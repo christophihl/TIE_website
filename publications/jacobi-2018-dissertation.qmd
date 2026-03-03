@@ -7,10 +7,15 @@ categories:
 description: "Dissertation, Technische Universität Hamburg"
 doi: "10.15480/882.1630"
 pub-type: "dissertation"
-abstract: ""
+abstract: "Die Doktorarbeit zum Thema „Mediale Berichterstattung über unternehmerisches Scheitern - Implikationen für Gründers“ vergleicht die Berichterstattung über das Scheitern von Startups in Deutschland und den USA. Es lässt sich zeigen, dass US Medien deutlich positiver über gescheiterte Startups berichten, als es deutsche Medien tun."
 pdf: ""
 tags:
   - "Media"
   - "Entrepreneurial Failure"
   - "Social Evaluation"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Matthias Jacobi"
+    internal: "jacobi"
+    orcid: "0000-0003-2103-8721"
 ---

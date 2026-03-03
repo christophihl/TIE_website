@@ -13,4 +13,12 @@ tags:
   - "Open Innovation"
   - "Mass Customization"
   - "Interactive Value Creation"
+publisher: "Springer-Verlag"
+authors:
+  - name: "Frank Piller"
+  - name: "Kathrin Möslein"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Ralf Reichwald"
 ---

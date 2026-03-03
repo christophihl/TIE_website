@@ -13,4 +13,9 @@ tags:
   - "Equity Crowdfunding"
   - "Startup Finance"
   - "Entrepreneurial Finance"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Jan Niklas Wick"
+    internal: "wick"
+    orcid: "0000-0002-3147-4968"
 ---

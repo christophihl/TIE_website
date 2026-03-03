@@ -11,4 +11,12 @@ abstract: ""
 pdf: ""
 tags:
   - "Mass Customization"
+journal: "NEW MANAGEMENT"
+volume: "71"
+pages: "16-31"
+authors:
+  - name: "Frank Piller"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---

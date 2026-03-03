@@ -13,4 +13,16 @@ tags:
   - "Academic Patenting"
   - "Motivation"
   - "Incentives"
+conference: "Academy of Management Proceedings"
+volume: "2015"
+issue: "1"
+article-number: "12412"
+authors:
+  - name: "Jan W. Reerink"
+    internal: "reerink"
+    orcid: "0000-0001-6558-5183"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Tobias Walter"
 ---

@@ -13,4 +13,9 @@ tags:
   - "Mass Customization"
   - "Consumer Behavior"
   - "Marketing"
+institution: "Technische Universität München"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
 ---
