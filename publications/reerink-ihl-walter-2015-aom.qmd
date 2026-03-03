@@ -18,7 +18,7 @@ volume: "2015"
 issue: "1"
 article-number: "12412"
 authors:
-  - name: "Jan W. Reerink"
+  - name: "Jan Reerink"
     internal: "reerink"
     orcid: "0000-0001-6558-5183"
   - name: "Christoph Ihl"

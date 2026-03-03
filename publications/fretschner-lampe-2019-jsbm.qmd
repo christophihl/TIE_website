@@ -18,7 +18,7 @@ issue: "4"
 pages: "1712-1737"
 authors:
   - name: "Michael Fretschner"
-  - name: "Heinz W. Lampe"
+  - name: "Hannes W. Lampe"
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
 ---

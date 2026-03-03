@@ -18,7 +18,7 @@ volume: "2018"
 issue: "1"
 article-number: "11066"
 authors:
-  - name: "Georg Barth"
+  - name: "Giulio Barth"
     internal: "barth"
     orcid: "0000-0002-0133-8754"
   - name: "Christoph Ihl"

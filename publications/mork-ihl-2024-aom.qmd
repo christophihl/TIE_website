@@ -18,7 +18,7 @@ volume: "2024"
 issue: "1"
 article-number: "18562"
 authors:
-  - name: "Olaf Mork"
+  - name: "Oliver Mork"
     internal: "mork"
     orcid: "0009-0001-0560-0617"
   - name: "Christoph Ihl"

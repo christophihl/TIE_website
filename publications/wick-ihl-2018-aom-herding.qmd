@@ -18,7 +18,7 @@ volume: "2018"
 issue: "1"
 article-number: "16013"
 authors:
-  - name: "Jan N. Wick"
+  - name: "Jan Niklas Wick"
     internal: "wick"
     orcid: "0000-0002-3147-4968"
   - name: "Christoph Ihl"

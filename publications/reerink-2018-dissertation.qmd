@@ -15,7 +15,7 @@ tags:
   - "Technology Transfer"
 institution: "Technische Universität Hamburg"
 authors:
-  - name: "Jan Willem Reerink"
+  - name: "Jan Reerink"
     internal: "reerink"
     orcid: "0000-0001-6558-5183"
 ---

@@ -18,7 +18,7 @@ volume: "42"
 issue: "3"
 pages: "502-527"
 authors:
-  - name: "Heinz W. Lampe"
+  - name: "Hannes W. Lampe"
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
   - name: "Jorn Block"

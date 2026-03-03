@@ -15,7 +15,7 @@ tags:
   - "Operations Management"
 book-title: "Logistik im Wandel der Zeit"
 authors:
-  - name: "Jörg Schwarz"
+  - name: "Joschka Schwarz"
     internal: "schwarz"
   - name: "Christoph Ihl"
     internal: "ihl"

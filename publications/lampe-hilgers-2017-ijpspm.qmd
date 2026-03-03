@@ -17,7 +17,7 @@ volume: "3"
 issue: "1"
 pages: "40-58"
 authors:
-  - name: "Heinz W. Lampe"
+  - name: "Hannes W. Lampe"
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
   - name: "Dennis Hilgers"

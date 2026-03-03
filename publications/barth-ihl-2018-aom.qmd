@@ -14,7 +14,7 @@ tags:
   - "Institutional Logics"
 conference: "78th Annual Meeting of the Academy of Management"
 authors:
-  - name: "Georg Barth"
+  - name: "Giulio Barth"
     internal: "barth"
     orcid: "0000-0002-0133-8754"
   - name: "Christoph Ihl"

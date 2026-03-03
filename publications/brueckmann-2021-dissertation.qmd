@@ -15,7 +15,7 @@ tags:
   - "Entrepreneurial Finance"
 institution: "Technische Universität Hamburg"
 authors:
-  - name: "Carolin Petra Brückmann"
+  - name: "Carolin Brückmann"
     internal: "brueckmann"
     orcid: "0000-0003-2962-1284"
 ---

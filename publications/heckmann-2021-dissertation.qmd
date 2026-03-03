@@ -15,7 +15,7 @@ tags:
   - "Venture Funding"
 institution: "Technische Universität Hamburg"
 authors:
-  - name: "Jens Eike Heckmann"
+  - name: "Jens Heckmann"
     internal: "heckmann"
     orcid: "0000-0002-3690-6766"
 ---

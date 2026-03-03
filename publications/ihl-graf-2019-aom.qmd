@@ -21,6 +21,6 @@ authors:
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
-  - name: "Daniel Graf"
+  - name: "Dimitri Graf"
     internal: "graf"
 ---

@@ -18,7 +18,7 @@ volume: "37"
 issue: "5"
 pages: "610-631"
 authors:
-  - name: "Heinz W. Lampe"
+  - name: "Hannes W. Lampe"
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
   - name: "Eva Herschinger"
