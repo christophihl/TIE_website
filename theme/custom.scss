@@ -880,8 +880,10 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   }
 }
 
-/* Section heading — uppercase label style */
-.section-heading {
+/* Section heading — uppercase label style
+   Quarto puts .section-heading on both the <h2> and its wrapping <section>.
+   Scope uppercase + letter-spacing to the heading itself; reset for content. */
+h2.section-heading {
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 1.1rem;
@@ -892,6 +894,11 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   margin: 0;
   padding-top: 0;
   padding-bottom: 40px;
+}
+
+section.section-heading {
+  text-transform: none;
+  letter-spacing: normal;
 }
 
 /* Placeholder text for stub sections */
