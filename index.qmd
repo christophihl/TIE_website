@@ -124,7 +124,20 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 :::
 
 
-::: {.content-section .research-section}
+::: {.content-section}
+::: {.content-block}
+
+## Current Courses {.section-heading}
+
+::: {.placeholder-text}
+Coming soon — course listings will be added in a later phase.
+:::
+
+:::
+:::
+
+
+::: {.content-section-alt .research-section}
 ::: {.content-block}
 
 ## Featured Research {.section-heading}
