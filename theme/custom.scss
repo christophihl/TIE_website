@@ -1618,18 +1618,19 @@ p:has(.backimage-caption) {
   }
 }
 
-/* Project card grid — show side by side on desktop */
+/* Project card grid — show all cards, side by side on desktop */
 .project-grid {
   grid-template-columns: 1fr;
+}
+
+/* Always show all project cards (override news-teasers__grid hide rule) */
+.project-grid .news-teaser--card:nth-child(n+3) {
+  display: flex;
 }
 
 @media (min-width: 768px) {
   .project-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-  /* Show all cards on desktop */
-  .project-grid .news-teaser--card:nth-child(n+3) {
-    display: flex;
   }
 }
 
