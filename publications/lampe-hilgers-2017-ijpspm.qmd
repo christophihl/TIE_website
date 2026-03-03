@@ -12,7 +12,7 @@ pdf: ""
 tags:
   - "Public Finance"
   - "Local Government"
-journal: "International Journal of Public Sector Performance Management"
+pub-journal: "International Journal of Public Sector Performance Management"
 volume: "3"
 issue: "1"
 pages: "40-58"

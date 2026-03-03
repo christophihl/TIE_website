@@ -11,7 +11,7 @@ abstract: ""
 pdf: ""
 tags:
   - "Mass Customization"
-journal: "NEW MANAGEMENT"
+pub-journal: "NEW MANAGEMENT"
 volume: "71"
 pages: "16-31"
 authors:

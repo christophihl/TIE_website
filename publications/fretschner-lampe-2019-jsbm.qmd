@@ -12,7 +12,7 @@ pdf: ""
 tags:
   - "Entrepreneurship Education"
   - "Selection Effects"
-journal: "Journal of Small Business Management"
+pub-journal: "Journal of Small Business Management"
 volume: "57"
 issue: "4"
 pages: "1712-1737"

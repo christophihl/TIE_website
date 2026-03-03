@@ -13,7 +13,7 @@ tags:
   - "Public Sector"
   - "Efficiency"
   - "Accrual Accounting"
-journal: "Applied Economics"
+pub-journal: "Applied Economics"
 volume: "47"
 issue: "41"
 pages: "4349-4363"

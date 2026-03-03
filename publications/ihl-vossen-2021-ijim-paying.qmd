@@ -13,7 +13,7 @@ tags:
   - "Innovation Contests"
   - "Monetary Rewards"
   - "Signaling"
-journal: "International Journal of Innovation Management"
+pub-journal: "International Journal of Innovation Management"
 volume: "25"
 issue: "04"
 article-number: "2150044"

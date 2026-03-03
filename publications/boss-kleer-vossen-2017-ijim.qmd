@@ -13,7 +13,7 @@ tags:
   - "Innovation Contests"
   - "Collaboration"
   - "Incentives"
-journal: "International Journal of Innovation Management"
+pub-journal: "International Journal of Innovation Management"
 volume: "21"
 issue: "3"
 article-number: "1750024"

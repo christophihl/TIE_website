@@ -12,7 +12,7 @@ pdf: ""
 tags:
   - "Customer Co-Creation"
   - "Innovation Process"
-journal: "Marketing Review St. Gallen"
+pub-journal: "Marketing Review St. Gallen"
 volume: "27"
 issue: "4"
 pages: "8-13"

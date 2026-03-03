@@ -21,7 +21,7 @@ tags:
   - "Field Experiment"
   - "Autonomy"
   - "Organizational Design"
-journal: "Organization Science"
+pub-journal: "Organization Science"
 volume: "34"
 issue: "6"
 pages: "2097-2118"

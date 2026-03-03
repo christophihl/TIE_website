@@ -13,7 +13,7 @@ tags:
   - "Terrorism"
   - "Media Coverage"
   - "Prediction"
-journal: "Terrorism and Political Violence"
+pub-journal: "Terrorism and Political Violence"
 volume: "37"
 issue: "5"
 pages: "610-631"

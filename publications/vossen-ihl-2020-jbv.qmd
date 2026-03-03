@@ -18,7 +18,7 @@ tags:
   - "Categories"
   - "Narratives"
   - "NLP"
-journal: "Journal of Business Venturing"
+pub-journal: "Journal of Business Venturing"
 volume: "35"
 issue: "6"
 article-number: "106050"

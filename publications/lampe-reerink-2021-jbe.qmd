@@ -13,7 +13,7 @@ tags:
   - "Language Complexity"
   - "Science Communication"
   - "Entrepreneurship Research"
-journal: "Journal of Business Economics"
+pub-journal: "Journal of Business Economics"
 volume: "91"
 issue: "7"
 pages: "1025-1061"

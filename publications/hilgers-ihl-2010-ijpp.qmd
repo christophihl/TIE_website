@@ -13,7 +13,7 @@ tags:
   - "Open Innovation"
   - "Public Sector"
   - "Citizensourcing"
-journal: "International Journal of Public Participation"
+pub-journal: "International Journal of Public Participation"
 volume: "4"
 issue: "1"
 authors:

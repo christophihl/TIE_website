@@ -12,7 +12,7 @@ pdf: ""
 tags:
   - "Hybrid Products"
   - "Revenue Models"
-journal: "Controlling"
+pub-journal: "Controlling"
 volume: "20"
 issue: "8-9"
 pages: "488-494"

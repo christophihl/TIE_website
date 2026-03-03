@@ -13,7 +13,7 @@ tags:
   - "University Technology Transfer"
   - "Invention Disclosure"
   - "Incentives"
-journal: "The Journal of Technology Transfer"
+pub-journal: "The Journal of Technology Transfer"
 volume: "43"
 issue: "6"
 pages: "1725-1759"

@@ -13,7 +13,7 @@ tags:
   - "Crowdsourcing"
   - "Patents"
   - "Search Bias"
-journal: "R&D Management"
+pub-journal: "R&D Management"
 volume: "53"
 issue: "5"
 pages: "764-777"

@@ -13,7 +13,7 @@ tags:
   - "Open Innovation"
   - "Innovation Management"
   - "Organization"
-journal: "Research-Technology Management"
+pub-journal: "Research-Technology Management"
 volume: "61"
 issue: "4"
 pages: "16-25"

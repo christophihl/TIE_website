@@ -13,7 +13,7 @@ tags:
   - "User Innovation"
   - "Toolkits"
   - "Product Development"
-journal: "Engineering Management Journal"
+pub-journal: "Engineering Management Journal"
 volume: "23"
 issue: "4"
 pages: "3-13"

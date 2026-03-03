@@ -13,7 +13,7 @@ tags:
   - "Social Media"
   - "Co-Creation"
   - "Innovation"
-journal: "Die Unternehmung"
+pub-journal: "Die Unternehmung"
 volume: "65"
 issue: "1"
 authors:

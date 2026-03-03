@@ -26,8 +26,8 @@ if (item.authors) {
 %></div>
 <div class="pub-entry__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>"><%= item.title %></a></div>
 <div class="pub-entry__venue"><%
-if (item.journal) {
-%><em><%= item.journal %></em><% if (item.volume) { %>, <%= item.volume %><% } %><% if (item.issue) { %>(<%= item.issue %>)<% } %><% if (item.pages) { %>, <%= item.pages %><% } %><% if (item['article-number']) { %>, <%= item['article-number'] %><% } %><%
+if (item['pub-journal']) {
+%><em><%= item['pub-journal'] %></em><% if (item.volume) { %>, <%= item.volume %><% } %><% if (item.issue) { %>(<%= item.issue %>)<% } %><% if (item.pages) { %>, <%= item.pages %><% } %><% if (item['article-number']) { %>, <%= item['article-number'] %><% } %><%
 } else if (item.conference) {
 %><%= item.conference %><% if (item.volume) { %> <%= item.volume %><% } %><% if (item.issue) { %>(<%= item.issue %>)<% } %><% if (item['article-number']) { %>, <%= item['article-number'] %><% } %><% if (item.pages) { %>, <%= item.pages %><% } %><%
 } else if (item['book-title']) {

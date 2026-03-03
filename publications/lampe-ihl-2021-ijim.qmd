@@ -12,7 +12,7 @@ pdf: ""
 tags:
   - "Knowledge Disclosure"
   - "Open Innovation"
-journal: "International Journal of Innovation Management"
+pub-journal: "International Journal of Innovation Management"
 volume: "25"
 issue: "08"
 article-number: "2150089"
