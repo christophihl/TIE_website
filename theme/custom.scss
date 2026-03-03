@@ -898,6 +898,10 @@ h2.section-heading {
 section.section-heading {
   text-transform: none;
   letter-spacing: normal;
+}
+
+/* Center standalone buttons (e.g. "All News") inside sections */
+section.section-heading > p:has(.btn-tuhh) {
   text-align: center;
 }
 
