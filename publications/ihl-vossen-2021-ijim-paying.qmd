@@ -1,0 +1,16 @@
+---
+title: "Paying for Legitimacy? The Signalling Effect of Monetary Rewards in Innovation Contests"
+author: "**Christoph Ihl**, Alexander Vossen"
+date: "2021-06-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Innovation Management, 25(04), 2150044"
+doi: "10.1142/S1363919621500444"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Innovation Contests"
+  - "Monetary Rewards"
+  - "Signaling"
+---

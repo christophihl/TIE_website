@@ -1,0 +1,15 @@
+---
+title: "Interaktive Wertschöpfung. Open Innovation, Individualisierung und neue Formen der Arbeitsteilung (2. Auflage)"
+author: "Ralf Reichwald, Frank Piller, **Christoph Ihl**"
+date: "2009-01-01"
+categories:
+  - "Book / Chapter"
+description: "Gabler, Wiesbaden"
+doi: ""
+pub-type: "book"
+abstract: ""
+pdf: ""
+tags:
+  - "Interactive Value Creation"
+  - "Open Innovation"
+---

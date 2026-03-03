@@ -1,0 +1,16 @@
+---
+title: "The open school vision – For more openness at Universities"
+author: "Nazanin Abdelkafi, Michael Bartl, Johann Füller, **Christoph Ihl**, Melanie Rieger"
+date: "2010-09-01"
+categories:
+  - "Conference Paper"
+description: "INFORMATIK 2010: Service Science – Neue Perspektiven für die Informatik"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Universities"
+  - "Education"
+---

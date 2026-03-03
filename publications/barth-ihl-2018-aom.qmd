@@ -1,0 +1,15 @@
+---
+title: "How institutional entrepreneurs drive the diffusion of institutional logics to shape an emerging field"
+author: "Georg Barth, **Christoph Ihl**"
+date: "2018-08-01"
+categories:
+  - "Conference Paper"
+description: "78th Annual Meeting of the Academy of Management, AOM 2018"
+doi: "10.5465/AMBPP.2018.267"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Institutional Entrepreneurship"
+  - "Institutional Logics"
+---

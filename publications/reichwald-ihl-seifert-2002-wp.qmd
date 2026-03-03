@@ -1,0 +1,15 @@
+---
+title: "Kundenbeteiligung an unternehmerischen Innovationsvorhaben: psychologische Determinanten der Innovationsentscheidung"
+author: "Ralf Reichwald, **Christoph Ihl**, Stefan Seifert"
+date: "2002-01-01"
+categories:
+  - "Working Paper"
+description: "Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Customer Participation"
+  - "Innovation"
+---

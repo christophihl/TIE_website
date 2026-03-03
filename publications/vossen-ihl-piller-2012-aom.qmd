@@ -1,0 +1,16 @@
+---
+title: "All for the Money? The Ambiguity of Monetary Rewards in Firm-initiated Ideation with Users"
+author: "Alexander Vossen, **Christoph Ihl**, Frank T. Piller"
+date: "2012-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2012(1), 16587"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Innovation Contests"
+  - "User Ideation"
+  - "Monetary Rewards"
+---

@@ -1,0 +1,16 @@
+---
+title: "Embedded toolkits: Identifying changing user needs during product usage"
+author: "Frank Steiner, **Christoph Ihl**, Frank Piller, R. Thomas Tarman"
+date: "2011-12-01"
+categories:
+  - "Journal Article"
+description: "Engineering Management Journal, 23(4), 3-13"
+doi: "10.1080/10429247.2011.11431915"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "User Innovation"
+  - "Toolkits"
+  - "Product Development"
+---

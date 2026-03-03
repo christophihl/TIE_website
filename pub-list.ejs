@@ -1,0 +1,21 @@
+<div class="pub-list list">
+<% for (const item of items) { %>
+<div class="pub-entry">
+<span class="listing-title" style="display:none;"><%= item.title %></span>
+<span class="listing-description" style="display:none;"><%= item.description || '' %></span>
+<span class="listing-date" style="display:none;"><%= item.date %></span>
+<span class="listing-categories" style="display:none;"><%= (item.categories || []).join(', ') %></span>
+<span class="listing-author" style="display:none;"><%= item.author || '' %></span>
+<div class="pub-entry__authors"><%= item.author %></div>
+<div class="pub-entry__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>"><%= item.title %></a></div>
+<div class="pub-entry__venue"><%= item.description %><% if (item.date) { %> (<%= item.date %>)<% } %></div>
+<div class="pub-entry__actions">
+<% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" class="pub-btn pub-btn--doi" target="_blank" rel="noopener">DOI</a><% } %>
+<% if (item.pdf) { %><a href="<%= item.pdf %>" class="pub-btn pub-btn--pdf" target="_blank" rel="noopener">PDF</a><% } %>
+<% if (item.abstract) { %><button class="pub-btn pub-btn--abstract" onclick="this.closest('.pub-entry').querySelector('.pub-entry__abstract').classList.toggle('pub-entry__abstract--open')">Abstract</button><% } %>
+<% if (item['pub-links']) { try { var links = typeof item['pub-links'] === 'string' ? JSON.parse(item['pub-links']) : item['pub-links']; if (Array.isArray(links)) { for (var l of links) { %><a href="<%= l.url %>" class="pub-btn pub-btn--link" target="_blank" rel="noopener"><%= l.name %></a><% } } } catch(e) {} } %>
+</div>
+<% if (item.abstract) { %><div class="pub-entry__abstract"><%= item.abstract %></div><% } %>
+</div>
+<% } %>
+</div>

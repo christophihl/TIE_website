@@ -1,0 +1,15 @@
+---
+title: "Die Zukunft von Internetplattformen im Maschinen- und Anlagenbau"
+author: "Frank Danzinger, **Christoph Ihl**, K. Meisel, Ralf Reichwald"
+date: "2008-01-01"
+categories:
+  - "Other"
+description: "Industry Report, Frankfurt am Main"
+doi: ""
+pub-type: "report"
+abstract: ""
+pdf: ""
+tags:
+  - "Internet Platforms"
+  - "Manufacturing"
+---

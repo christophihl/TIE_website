@@ -1,0 +1,15 @@
+---
+title: "Wertschaffung und Wertaneignung bei hybriden Produkten: eine prozessorientierte Betrachtung"
+author: "Sandra Bonnemeier, **Christoph Ihl**, Ralf Reichwald"
+date: "2007-06-01"
+categories:
+  - "Working Paper"
+description: "Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Hybrid Products"
+  - "Value Creation"
+---

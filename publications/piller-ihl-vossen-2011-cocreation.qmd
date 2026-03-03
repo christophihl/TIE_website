@@ -1,0 +1,16 @@
+---
+title: "Customer co-creation: Open innovation with customers"
+author: "Frank Piller, **Christoph Ihl**, Alexander Vossen"
+date: "2011-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: V. Wittke & H. Hanekop, New Forms of Collaboration and Innovation"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Co-Creation"
+  - "Open Innovation"
+  - "Customers"
+---

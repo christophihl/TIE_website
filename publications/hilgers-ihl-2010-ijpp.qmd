@@ -1,0 +1,16 @@
+---
+title: "Citizensourcing: Applying the concept of open innovation to the public sector"
+author: "Dennis Hilgers, **Christoph Ihl**"
+date: "2010-01-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Public Participation, 4(1)"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Public Sector"
+  - "Citizensourcing"
+---

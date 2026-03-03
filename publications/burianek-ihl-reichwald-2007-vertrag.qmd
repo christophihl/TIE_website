@@ -1,0 +1,15 @@
+---
+title: "Vertragsgestaltung im Kontext hybrider Wertschöpfung"
+author: "Frank Burianek, **Christoph Ihl**, Ralf Reichwald"
+date: "2007-06-01"
+categories:
+  - "Book / Chapter"
+description: "Book chapter"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Hybrid Products"
+  - "Contract Design"
+---

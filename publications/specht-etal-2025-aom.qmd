@@ -1,0 +1,17 @@
+---
+title: "How Founders Evaluate VCs: A GPT-Based Extraction of Value-Criteria from Online VC Reviews"
+author: "Olaf Specht, Jan H. Wilinski, Julius C. Thiesen, **Christoph Ihl**"
+date: "2025-01-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2025(1), 18846"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Venture Capital"
+  - "Founders"
+  - "NLP"
+  - "GPT"
+---

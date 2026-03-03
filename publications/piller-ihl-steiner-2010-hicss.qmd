@@ -1,0 +1,16 @@
+---
+title: "Embedded toolkits for user co-design: A technology acceptance study of product adaptability in the usage stage"
+author: "Frank Piller, **Christoph Ihl**, Frank Steiner"
+date: "2010-01-01"
+categories:
+  - "Conference Paper"
+description: "43rd Hawaii International Conference on System Sciences (HICSS), 1-10"
+doi: "10.1109/HICSS.2010.178"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "User Innovation"
+  - "Toolkits"
+  - "Technology Acceptance"
+---

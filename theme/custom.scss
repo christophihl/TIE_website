@@ -1574,6 +1574,202 @@ p:has(.backimage-caption) {
 }
 
 
+/* =============================================
+   Research Page — Fields Grid & Project Cards
+   ============================================= */
+
+/* Research fields image grid */
+.research-fields-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 2rem;
+}
+
+.research-fields-grid p {
+  margin: 0;
+}
+
+.research-fields-grid .quarto-figure {
+  margin: 0;
+}
+
+.research-fields-grid figure {
+  margin: 0;
+}
+
+.research-fields-grid img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  border: 1px solid $tuhh_blue;
+}
+
+.research-fields-grid figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: $text_blue;
+  padding-top: 8px;
+}
+
+@media (min-width: 768px) {
+  .research-fields-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Project card grid — show side by side on desktop */
+.project-grid {
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 768px) {
+  .project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /* Show all cards on desktop */
+  .project-grid .news-teaser--card:nth-child(n+3) {
+    display: flex;
+  }
+}
+
+
+/* =============================================
+   Publication List — Academic Bibliography
+   ============================================= */
+
+.pub-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.pub-entry {
+  padding: 1.25rem 0;
+  border-bottom: 1px dashed $tuhh_blue;
+}
+
+.pub-entry:first-of-type {
+  padding-top: 0;
+}
+
+.pub-entry__authors {
+  font-size: 0.9rem;
+  color: $text_blue;
+  margin-bottom: 4px;
+}
+
+/* Bold Christoph Ihl's name in author strings */
+.pub-entry__authors strong {
+  font-weight: 700;
+}
+
+.pub-entry__title {
+  margin-bottom: 4px;
+}
+
+.pub-entry__title a {
+  color: $text_blue;
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.pub-entry__title a:hover {
+  color: #009eac;
+}
+
+.pub-entry__venue {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.pub-entry__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+/* Remove <p> wrapping injected by Pandoc inside actions row */
+.pub-entry__actions p {
+  display: contents;
+  margin: 0;
+}
+
+/* Small pill-style action buttons */
+.pub-btn {
+  display: inline-block;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border: 1px solid $tuhh_blue;
+  color: $text_blue;
+  background: transparent;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  line-height: 1.4;
+}
+
+.pub-btn:hover {
+  background-color: $tuhh_blue;
+  color: white;
+  text-decoration: none;
+}
+
+.pub-btn--doi {
+  border-color: $tuhh_blue;
+}
+
+.pub-btn--pdf {
+  border-color: $tuhh_orange;
+  color: $tuhh_orange;
+}
+
+.pub-btn--pdf:hover {
+  background-color: $tuhh_orange;
+  color: white;
+}
+
+.pub-btn--abstract {
+  border-color: $tuhh_grey;
+  color: #666;
+}
+
+.pub-btn--abstract:hover {
+  background-color: $tuhh_grey;
+  color: $text_blue;
+}
+
+.pub-btn--link {
+  border-color: $text_blue;
+}
+
+/* Expandable abstract block — hidden by default */
+.pub-entry__abstract {
+  display: none;
+  margin-top: 10px;
+  padding: 12px 16px;
+  background-color: #f7f7f7;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: #444;
+  border-left: 3px solid $tuhh_blue;
+}
+
+.pub-entry__abstract--open {
+  display: block;
+}
+
+
 /* Fonts */
 
 

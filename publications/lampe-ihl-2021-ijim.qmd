@@ -1,0 +1,15 @@
+---
+title: "Released, but Not Lost: Motives and Environments Driving Firms' Knowledge Disclosure"
+author: "Heinz W. Lampe, **Christoph Ihl**"
+date: "2021-12-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Innovation Management, 25(08), 2150089"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Knowledge Disclosure"
+  - "Open Innovation"
+---

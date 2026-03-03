@@ -1,0 +1,16 @@
+---
+title: "Configurator-based product choice in online retail: Transferring mass customization thinking to services in retail"
+author: "Marc Gerards, Florian Siems, David Antons, **Christoph Ihl**, Frank T. Piller"
+date: "2011-12-01"
+categories:
+  - "Conference Paper"
+description: "International Conference on Information Systems (ICIS) 2011"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+  - "Online Retail"
+  - "Product Configuration"
+---

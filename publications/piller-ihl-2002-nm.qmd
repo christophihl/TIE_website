@@ -1,0 +1,14 @@
+---
+title: "Mass customization ohne Mythos"
+author: "Frank Piller, **Christoph Ihl**"
+date: "2002-01-01"
+categories:
+  - "Journal Article"
+description: "NEW MANAGEMENT, 71, 16-31"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+---

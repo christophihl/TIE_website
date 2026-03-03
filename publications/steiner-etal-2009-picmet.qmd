@@ -1,0 +1,16 @@
+---
+title: "Learning from the customer: Identifying changing user needs during product usage through embedded toolkits for user innovation"
+author: "Frank Steiner, R. Thomas Tarman, **Christoph Ihl**, Frank T. Piller"
+date: "2009-08-01"
+categories:
+  - "Conference Paper"
+description: "PICMET'09 Portland International Conference on Management of Engineering and Technology"
+doi: "10.1109/PICMET.2009.5262062"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "User Innovation"
+  - "Toolkits"
+  - "Customer Needs"
+---

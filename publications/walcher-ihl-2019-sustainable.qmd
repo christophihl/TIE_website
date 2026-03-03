@@ -1,0 +1,16 @@
+---
+title: "Determinants of willingness to pay when purchasing sustainable products: a study from the shoe industry"
+author: "Dominik Walcher, **Christoph Ihl**"
+date: "2019-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: Managing Innovation in a Global and Digital World"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Sustainability"
+  - "Willingness to Pay"
+  - "Consumer Behavior"
+---

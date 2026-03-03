@@ -1,0 +1,15 @@
+---
+title: "Kundenintegration in den Dienstleistungsinnovationsprozess"
+author: "Ralf Reichwald, **Christoph Ihl**, Stefan Seifert"
+date: "2005-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: Konzepte für das Service Engineering"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Service Innovation"
+  - "Customer Integration"
+---

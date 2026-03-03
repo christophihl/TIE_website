@@ -1,0 +1,16 @@
+---
+title: "Interaktive Wertschöpfung kompakt: Open Innovation, Individualisierung und neue Formen der Arbeitsteilung"
+author: "Frank Piller, Kathrin Möslein, **Christoph Ihl**, Ralf Reichwald"
+date: "2017-01-01"
+categories:
+  - "Book / Chapter"
+description: "Springer-Verlag"
+doi: ""
+pub-type: "book"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Mass Customization"
+  - "Interactive Value Creation"
+---

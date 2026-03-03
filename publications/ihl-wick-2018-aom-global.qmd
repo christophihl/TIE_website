@@ -1,0 +1,16 @@
+---
+title: "The Hidden Cost of Crowd Capital: Categorization of Organizational Deviance in New Venture Financing"
+author: "**Christoph Ihl**, Jan N. Wick"
+date: "2018-07-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Global Proceedings, 383"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Crowdfunding"
+  - "Categorization"
+  - "Organizational Deviance"
+---

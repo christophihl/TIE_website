@@ -1,0 +1,15 @@
+---
+title: "Personalization of public profiles in virtual lifestyle-communities: The case of jetzt.de"
+author: "Sandra Bonnemeier, **Christoph Ihl**, Frank Burianek, Ralf Reichwald"
+date: "2008-05-01"
+categories:
+  - "Conference Paper"
+description: "Proceedings of the EURAM 2008 Conference"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Virtual Communities"
+  - "Personalization"
+---

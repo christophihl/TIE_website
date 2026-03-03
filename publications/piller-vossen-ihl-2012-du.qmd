@@ -1,0 +1,16 @@
+---
+title: "From social media to social product development: the impact of social media on co-creation of innovation"
+author: "Frank T. Piller, Alexander Vossen, **Christoph Ihl**"
+date: "2012-01-01"
+categories:
+  - "Journal Article"
+description: "Die Unternehmung, 65(1)"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Social Media"
+  - "Co-Creation"
+  - "Innovation"
+---

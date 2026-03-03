@@ -1,0 +1,16 @@
+---
+title: "Does accrual accounting improve municipalities' efficiency? Evidence from Germany"
+author: "Heinz W. Lampe, Dennis Hilgers, **Christoph Ihl**"
+date: "2015-09-01"
+categories:
+  - "Journal Article"
+description: "Applied Economics, 47(41), 4349-4363"
+doi: "10.1080/00036846.2015.1030562"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Public Sector"
+  - "Efficiency"
+  - "Accrual Accounting"
+---

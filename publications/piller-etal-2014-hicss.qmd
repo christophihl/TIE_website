@@ -1,0 +1,16 @@
+---
+title: "Strategic capabilities of mass customization based e-commerce: Construct development & empirical test"
+author: "Frank Piller, Tobias Harzer, **Christoph Ihl**, Fabrizio Salvador"
+date: "2014-01-01"
+categories:
+  - "Conference Paper"
+description: "47th Hawaii International Conference on System Sciences (HICSS), 3255-3264"
+doi: "10.1109/HICSS.2014.403"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+  - "E-Commerce"
+  - "Strategic Capabilities"
+---

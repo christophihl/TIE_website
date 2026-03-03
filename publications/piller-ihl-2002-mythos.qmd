@@ -1,0 +1,14 @@
+---
+title: "Mythos mass customization: buzzword oder praxisrelevante Wettbewerbsstrategie?"
+author: "Frank T. Piller, **Christoph Ihl**"
+date: "2002-06-01"
+categories:
+  - "Working Paper"
+description: "Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+---

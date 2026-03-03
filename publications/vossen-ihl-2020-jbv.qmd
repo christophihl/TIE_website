@@ -1,0 +1,20 @@
+---
+title: "More than words! How narrative anchoring and enrichment help to balance differentiation and conformity of entrepreneurial products"
+author: "Alexander Vossen, **Christoph Ihl**"
+date: "2020-10-01"
+categories:
+  - "Journal Article"
+description: "Journal of Business Venturing, 35(6), 106050"
+doi: "10.1016/j.jbusvent.2020.106050"
+pub-type: "journal"
+abstract: "Entrepreneurs face the challenge of having to conform to gain legitimacy, while at the same time differentiating themselves to gain competitive advantage. We show how entrepreneurs can craft an entrepreneurial narrative to succeed in this task among the user audiences empowered to evaluate their products."
+pdf: ""
+pub-links:
+  - name: "Journal Website"
+    url: "https://www.sciencedirect.com/science/article/pii/S0883902620306583"
+tags:
+  - "Cultural Entrepreneurship"
+  - "Categories"
+  - "Narratives"
+  - "NLP"
+---

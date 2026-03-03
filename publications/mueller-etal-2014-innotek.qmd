@@ -1,0 +1,16 @@
+---
+title: "Strong ties despite decentralized network design: An automotive case"
+author: "Patrick Müller, Georg Kasperk, Achim Kampker, Christine Deutskens, Florian Weyand, **Christoph Ihl**"
+date: "2014-06-01"
+categories:
+  - "Conference Paper"
+description: "IEEE Innovations in Technology Conference (InnoTek 2014), 1-9"
+doi: "10.1109/InnoTek.2014.6877370"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Networks"
+  - "Automotive"
+  - "Decentralization"
+---

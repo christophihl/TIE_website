@@ -1,0 +1,15 @@
+---
+title: "Von Kundenorientierung zu Customer Co-Creation im Innovationsprozess"
+author: "**Christoph Ihl**, Frank Piller"
+date: "2010-08-01"
+categories:
+  - "Journal Article"
+description: "Marketing Review St. Gallen, 27(4), 8-13"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Customer Co-Creation"
+  - "Innovation Process"
+---

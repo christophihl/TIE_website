@@ -1,0 +1,16 @@
+---
+title: "Winners Earn, Losers Learn? The Effect of New Venture Success on Crowdfunders' Investment Decisions"
+author: "Jan N. Wick, **Christoph Ihl**"
+date: "2019-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2019(1), 12730"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Crowdfunding"
+  - "Investment Decisions"
+  - "Learning"
+---

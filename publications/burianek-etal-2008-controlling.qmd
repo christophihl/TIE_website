@@ -1,0 +1,15 @@
+---
+title: "Erlösmodellgestaltung bei hybriden Produkten"
+author: "Frank Burianek, Sandra Bonnemeier, **Christoph Ihl**, Ralf Reichwald"
+date: "2008-08-01"
+categories:
+  - "Journal Article"
+description: "Controlling, 20(8-9), 488-494"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Hybrid Products"
+  - "Revenue Models"
+---

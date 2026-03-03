@@ -1,0 +1,16 @@
+---
+title: "Organizing for entrepreneurship: Field-experimental evidence on the performance effects of autonomy in choosing project teams and ideas"
+author: "Viktoria Boss, **Christoph Ihl**, Linus Dahlander, Rajshri Jayaraman"
+date: "2019-01-01"
+categories:
+  - "Working Paper"
+description: "Discussion Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Entrepreneurial Teams"
+  - "Field Experiment"
+  - "Autonomy"
+---

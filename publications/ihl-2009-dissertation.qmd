@@ -1,0 +1,16 @@
+---
+title: "Marketing for Mass Customization: Consumer behavior and marketing policies in the context of customizable products"
+author: "**Christoph Ihl**"
+date: "2009-06-01"
+categories:
+  - "Other"
+description: "Dissertation, Technische Universität München"
+doi: ""
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+  - "Consumer Behavior"
+  - "Marketing"
+---

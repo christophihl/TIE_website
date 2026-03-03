@@ -1,0 +1,16 @@
+---
+title: "Paying for Philanthropy? The Prosocial Boundaries of Monetary Incentives in Idea Co-creation"
+author: "**Christoph Ihl**, Alexander Vossen"
+date: "2014-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2014(1), 15620"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Co-Creation"
+  - "Monetary Incentives"
+  - "Prosocial Behavior"
+---

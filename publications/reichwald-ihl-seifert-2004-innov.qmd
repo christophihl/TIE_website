@@ -1,0 +1,15 @@
+---
+title: "Innovation durch Kundenintegration"
+author: "Ralf Reichwald, **Christoph Ihl**, Stefan Seifert"
+date: "2004-01-01"
+categories:
+  - "Working Paper"
+description: "Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Customer Integration"
+  - "Innovation"
+---

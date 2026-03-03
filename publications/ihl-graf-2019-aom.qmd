@@ -1,0 +1,16 @@
+---
+title: "Contingent Effects of Team Knowledge Diversity on Novelty in Management Research"
+author: "**Christoph Ihl**, Daniel Graf"
+date: "2019-08-03"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2019(1), 18636"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Knowledge Diversity"
+  - "Team Research"
+  - "Novelty"
+---

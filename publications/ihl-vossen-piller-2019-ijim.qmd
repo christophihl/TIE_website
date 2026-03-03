@@ -1,0 +1,16 @@
+---
+title: "All for the Money? The Limits of Monetary Rewards in Innovation Contests with Users"
+author: "**Christoph Ihl**, Alexander Vossen, Frank Piller"
+date: "2019-03-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Innovation Management, 23(02), 1950014"
+doi: "10.1142/S1363919619500142"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Innovation Contests"
+  - "User Innovation"
+  - "Monetary Rewards"
+---

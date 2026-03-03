@@ -1,0 +1,16 @@
+---
+title: "The Hidden Cost of Being Different: Equity Crowdfunding as Negative Signal in Subsequent Rounds"
+author: "Jan N. Wick, **Christoph Ihl**"
+date: "2017-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2017(1), 17609"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Crowdfunding"
+  - "Signaling"
+  - "Venture Finance"
+---

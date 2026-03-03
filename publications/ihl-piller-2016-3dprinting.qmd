@@ -1,0 +1,16 @@
+---
+title: "3D printing as driver of localized manufacturing: Expected benefits from producer and consumer perspectives"
+author: "**Christoph Ihl**, Frank Piller"
+date: "2016-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: The Decentralized and Networked Future of Value Creation"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "3D Printing"
+  - "Manufacturing"
+  - "Decentralization"
+---

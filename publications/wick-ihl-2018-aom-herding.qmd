@@ -1,0 +1,16 @@
+---
+title: "Herding and the role of experts in equity crowdfunding markets"
+author: "Jan N. Wick, **Christoph Ihl**"
+date: "2018-08-02"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2018(1), 16013"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Crowdfunding"
+  - "Herding"
+  - "Expert Influence"
+---

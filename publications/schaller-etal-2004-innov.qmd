@@ -1,0 +1,15 @@
+---
+title: "Innovationsmanagement von Dienstleistungen – ein ganzheitlicher Ansatz"
+author: "Christoph Schaller, Dirk Rackensperger, **Christoph Ihl**, H. Keith"
+date: "2004-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: Service Engineering in Wissenschaft und Praxis, Wiesbaden, 123-160"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Service Innovation"
+  - "Innovation Management"
+---

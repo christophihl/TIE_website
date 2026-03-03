@@ -1,0 +1,16 @@
+---
+title: "Open innovation: Novel deployment of ICT in new product development"
+author: "Ralf Reichwald, Frank Piller, Stefan Seifert, **Christoph Ihl**"
+date: "2014-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: Competitiveness of New Industries: Institutional Framework and Learning in IT"
+doi: "10.4324/9780203963609"
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "ICT"
+  - "Product Development"
+---

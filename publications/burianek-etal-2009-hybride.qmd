@@ -1,0 +1,15 @@
+---
+title: "Grundlegende Betrachtung hybrider Produkte"
+author: "Frank Burianek, Sandra Bonnemeier, **Christoph Ihl**, Ralf Reichwald"
+date: "2009-06-01"
+categories:
+  - "Book / Chapter"
+description: "In: Hybride Wertschöpfung – Konzepte, Methoden und Kompetenzen"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Hybrid Products"
+  - "Service Innovation"
+---

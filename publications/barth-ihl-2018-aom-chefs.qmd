@@ -1,0 +1,16 @@
+---
+title: "The mixed blessings of openness in creative industries? The case of European chefs de cuisine"
+author: "Georg Barth, **Christoph Ihl**"
+date: "2018-08-03"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2018(1), 11066"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Creative Industries"
+  - "Openness"
+  - "Gastronomy"
+---

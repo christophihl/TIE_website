@@ -1,0 +1,16 @@
+---
+title: "Einfluss digitaler (Startup-) Technologien im Operations Management"
+author: "Jörg Schwarz, **Christoph Ihl**"
+date: "2019-06-01"
+categories:
+  - "Book / Chapter"
+description: "In: Logistik im Wandel der Zeit"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Digital Technologies"
+  - "Startups"
+  - "Operations Management"
+---

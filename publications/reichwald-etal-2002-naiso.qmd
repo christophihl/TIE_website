@@ -1,0 +1,15 @@
+---
+title: "Leveraging customer interaction to improve the bottom line of mass customization concepts in the field of complex consumer goods"
+author: "Ralf Reichwald, Frank T. Piller, Christoph M. Stotko, **Christoph Ihl**"
+date: "2002-09-01"
+categories:
+  - "Conference Paper"
+description: "Third International NAISO Symposium on Engineering of Intelligent Systems"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+  - "Customer Interaction"
+---

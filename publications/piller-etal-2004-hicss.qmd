@@ -1,0 +1,16 @@
+---
+title: "Toolkits for open innovation – the case of mobile phone games"
+author: "Frank Piller, **Christoph Ihl**, Johann Füller, Christoph Stotko"
+date: "2004-01-01"
+categories:
+  - "Conference Paper"
+description: "37th Annual Hawaii International Conference on System Sciences (HICSS)"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Toolkits"
+  - "Mobile Games"
+---

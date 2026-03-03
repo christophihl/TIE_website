@@ -1,0 +1,16 @@
+---
+title: "Culture Matters with Bad News! A Large-Scale Study of Media Coverage after Startup Failure"
+author: "Olaf Mork, **Christoph Ihl**"
+date: "2024-01-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2024(1), 18562"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Startup Failure"
+  - "Media Coverage"
+  - "Culture"
+---

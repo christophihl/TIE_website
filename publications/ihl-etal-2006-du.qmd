@@ -1,0 +1,16 @@
+---
+title: "Kundenzufriedenheit bei Mass Customization: Eine empirische Untersuchung zur Bedeutung des Co-Design-Prozesses aus Kundensicht"
+author: "**Christoph Ihl**, Michael Müller, Frank Piller, Ralf Reichwald"
+date: "2006-01-01"
+categories:
+  - "Journal Article"
+description: "Die Unternehmung, 59(3), 165-184"
+doi: ""
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Mass Customization"
+  - "Customer Satisfaction"
+  - "Co-Design"
+---

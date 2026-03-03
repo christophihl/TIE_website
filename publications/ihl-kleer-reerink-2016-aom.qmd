@@ -1,0 +1,16 @@
+---
+title: "The Distance Dilemma: Effects of Knowledge Distance on Solvers' Adoption of Broadcasted R&D Problems"
+author: "**Christoph Ihl**, Robin Kleer, Jan W. Reerink"
+date: "2016-08-02"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2016(1), 16868"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Knowledge Distance"
+  - "Broadcast Search"
+---

@@ -1,0 +1,15 @@
+---
+title: "Using open innovation platforms for technology transfer"
+author: "Frank Piller, Dennis Hilgers, **Christoph Ihl**, Leonhard Schmidthuber"
+date: "2021-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: New Perspectives in Technology Transfer"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Technology Transfer"
+---

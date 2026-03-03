@@ -1,0 +1,15 @@
+---
+title: "Interaktive Wertschöpfung – Produktion nach Open-Source-Prinzipien"
+author: "Frank Piller, Ralf Reichwald, **Christoph Ihl**"
+date: "2007-01-01"
+categories:
+  - "Book / Chapter"
+description: "In: Open Source Handbuch, 87-102"
+doi: ""
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Source"
+  - "Interactive Value Creation"
+---

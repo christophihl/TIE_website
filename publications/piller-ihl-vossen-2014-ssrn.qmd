@@ -1,0 +1,16 @@
+---
+title: "A typology of customer co-creation in the innovation process"
+author: "Frank T. Piller, **Christoph Ihl**, Alexander Vossen"
+date: "2014-01-01"
+categories:
+  - "Working Paper"
+description: "SSRN Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Co-Creation"
+  - "Innovation Process"
+  - "Typology"
+---

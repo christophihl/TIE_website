@@ -1,0 +1,16 @@
+---
+title: "The GameCreator: Self-created mobile games on the Internet"
+author: "Johann Füller, Melanie Rieger, **Christoph Ihl**"
+date: "2005-06-01"
+categories:
+  - "Conference Paper"
+description: "Proceedings of DiGRA 2005 Conference: Changing Views – Worlds in Play"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Games"
+  - "User Innovation"
+  - "Mobile"
+---

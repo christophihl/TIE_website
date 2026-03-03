@@ -1,0 +1,15 @@
+---
+title: "More than words? How entrepreneurial identity shapes users' reception of new product proposals"
+author: "Alexander Vossen, **Christoph Ihl**"
+date: "2016-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2016(1), 17670"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Entrepreneurial Identity"
+  - "User Evaluation"
+---

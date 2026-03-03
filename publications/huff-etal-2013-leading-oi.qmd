@@ -1,0 +1,14 @@
+---
+title: "Open innovation: Actors, tools, and tensions"
+author: "Ann S. Huff, Kathrin M. Möslein, Ralf Reichwald, **Christoph Ihl** et al."
+date: "2013-01-01"
+categories:
+  - "Book / Chapter"
+description: "MIT Press"
+doi: ""
+pub-type: "book"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+---

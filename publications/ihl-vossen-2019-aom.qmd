@@ -1,0 +1,16 @@
+---
+title: "Copyright or copy right? Unsolicited User Behavior as Market Signals"
+author: "**Christoph Ihl**, Alexander Vossen"
+date: "2019-08-02"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2019(1), 17322"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "User Behavior"
+  - "Market Signals"
+  - "Copyright"
+---

@@ -1,0 +1,16 @@
+---
+title: "Grace, gold, or glory? Exploring incentives for invention disclosure in the university context"
+author: "Tobias Walter, **Christoph Ihl**, Rene Mauer, Malte Brettel"
+date: "2018-12-01"
+categories:
+  - "Journal Article"
+description: "The Journal of Technology Transfer, 43(6), 1725-1759"
+doi: "10.1007/s10961-013-9303-1"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "University Technology Transfer"
+  - "Invention Disclosure"
+  - "Incentives"
+---

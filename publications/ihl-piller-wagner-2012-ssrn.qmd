@@ -1,0 +1,16 @@
+---
+title: "Organizing for open innovation: Aligning internal structure with external knowledge search"
+author: "**Christoph Ihl**, Frank T. Piller, Patrick Wagner"
+date: "2012-01-01"
+categories:
+  - "Working Paper"
+description: "SSRN Working Paper"
+doi: ""
+pub-type: "working-paper"
+abstract: ""
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Organizational Design"
+  - "Knowledge Search"
+---

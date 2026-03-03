@@ -1,0 +1,15 @@
+---
+title: "Inflation and Self-correction in Entrepreneurship Science"
+author: "Heinz W. Lampe, Jan W. Reerink, **Christoph Ihl**"
+date: "2016-08-03"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2016(1), 16443"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Meta-Science"
+  - "Entrepreneurship Research"
+---

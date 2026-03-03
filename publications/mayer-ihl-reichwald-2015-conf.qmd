@@ -1,0 +1,16 @@
+---
+title: "Brand Retention on B2B Markets – The Role of Prior Experience and Choice Context in Repurchase Decisions"
+author: "Daniel Mayer, **Christoph Ihl**, Ralf Reichwald"
+date: "2015-01-01"
+categories:
+  - "Conference Paper"
+description: "Marketing in Transition: Scarcity, Globalism, & Sustainability"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "B2B Marketing"
+  - "Brand Retention"
+  - "Repurchase"
+---

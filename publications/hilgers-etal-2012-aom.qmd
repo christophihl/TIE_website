@@ -1,0 +1,16 @@
+---
+title: "Monetary incentives and Pro-Social behavior in idea Co-Creation"
+author: "Dennis Hilgers, **Christoph Ihl**, Eike Lindgens, Uwe Gross"
+date: "2012-08-02"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Annual Meeting 2012"
+doi: ""
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Co-Creation"
+  - "Monetary Incentives"
+  - "Prosocial Behavior"
+---
