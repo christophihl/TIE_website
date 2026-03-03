@@ -64,15 +64,15 @@ website:
       [![](/assets/images/logo_tuhh_full.svg){fig-alt="TU Hamburg" width=145px}](https://www.tuhh.de/)
     right: |
       <span class='footer-address'>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>TU Hamburg</span><br><br>
-      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>TUHH Institute of Entrepreneurship<br>
+      <span class='footer-col-heading'>TU Hamburg</span><br><br>
+      <span class='footer-col-body'>TUHH Institute of Entrepreneurship<br>
       Prof. Dr. Christoph Ihl<br>
       Am Irrgarten 3<br>
       21073 Hamburg</span>
       </span>
       <span class='footer-social'>
-      <span style='letter-spacing: 4px; text-transform: uppercase; font-weight: 400; font-size: 13px; line-height: 1.55;'>Get in touch</span><br><br>
-      <span style='font-weight: 400; font-size: 14px; line-height: 1.8;'>
+      <span class='footer-col-heading'>Get in touch</span><br><br>
+      <span class='footer-col-body'>
       {{< fa envelope >}} : &nbsp;&nbsp;[startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)<br>
       {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-3226<br>
       {{< fa brands linkedin >}} : &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/company/tuhh-institute-of-entrepreneurship)<br>

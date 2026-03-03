@@ -764,6 +764,21 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   display: block;
 }
 
+/* Footer column headings and body — shared styles */
+.footer-col-heading {
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.footer-col-body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2.0;
+}
+
 
 /* Mobile (≤575px): vertical stack with spacing */
 
