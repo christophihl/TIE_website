@@ -35,7 +35,7 @@ listing:
 ::: {.content-section}
 ::: {.content-block}
 
-## Current Team {#sec-current-team .team-section-heading}
+## Team {#sec-current-team .team-section-heading}
 
 ::: {#current-team}
 :::
