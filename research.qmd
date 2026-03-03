@@ -39,7 +39,7 @@ listing:
 
 Our research on innovation and entrepreneurship sits at the intersection of organizational theory, sociology, and strategy. We investigate how actors both shape and are shaped by market, technological, social, and cultural environments as they create novelty in ideas, teams, products, and business practices. Our work develops and tests theoretical explanations grounded in mechanisms such as social influence, diffusion, status, legitimacy, optimal distinctiveness, social evaluation, cognition, and social capital.
 
-Empirically, we study contexts in which market, technological, social, and cultural spaces can be observed and measured at scale—for example through inter-actor relationships and associations with concepts, categories, and narratives. This allows us to locate actors within these spaces and to assess how novelty, atypicality, and legitimacy are produced and evaluated. Methodologically, we draw on computational social science, including machine learning, natural language processing, and network analysis.
+Empirically, we study contexts in which market, technological, social, and cultural spaces can be observed and measured at scale—for example through inter-actor relationships and associations with concepts, categories, and narratives. This allows us to locate actors within these spaces and to assess how novelty, atypicality, and legitimacy are produced and evaluated. Methodologically, we draw on computational social science and quantitative methods, including machine learning, natural language processing, network analysis, econometrics, and causal inference.
 
 ### Topics
 
