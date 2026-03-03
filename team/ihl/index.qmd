@@ -12,13 +12,11 @@ user-group: "Current Members"
 weight: 1
 
 interests:
-  - Cultural entrepreneurship
-  - Social networks
-  - Natural language processing
-  - Social evaluation of organizations
-  - Startup innovation
-  - Crowdsourcing / -funding
-  - Science of science
+  - Startup Strategy & Finance
+  - Technology & Science-based Entrepreneurship
+  - Entrepreneurial Teams & Organization
+  - Crowd-based Innovation
+  - Creative Industries
 
 education:
   - position: "Professor & Head of Institute of Entrepreneurship"
@@ -84,13 +82,11 @@ I have benefited from studying and working at universities with outstanding entr
 ## Interests
 
 ::: {.profile-interests}
-- Cultural entrepreneurship
-- Social networks
-- Natural language processing
-- Social evaluation of organizations
-- Startup innovation
-- Crowdsourcing / -funding
-- Science of science
+- Startup Strategy & Finance
+- Technology & Science-based Entrepreneurship
+- Entrepreneurial Teams & Organization
+- Crowd-based Innovation
+- Creative Industries
 :::
 
 ## Education
