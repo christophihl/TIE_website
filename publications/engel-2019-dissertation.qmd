@@ -1,0 +1,17 @@
+---
+title: "Social Influence, Status, and Entrepreneurial Entry: Evidence from the Comic Book Industry"
+author: "Michael Engel"
+date: "2019-06-21"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.2355"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Social Influence"
+  - "Status"
+  - "Entrepreneurial Entry"
+  - "Creative Industries"
+---

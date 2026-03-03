@@ -1,0 +1,15 @@
+---
+title: "What We Know versus Who We Know"
+author: "Dimitri Graf"
+date: "2018-01-01"
+categories:
+  - "Conference Paper"
+description: "78th Annual Meeting of the Academy of Management (AOM 2018)"
+doi: "10.5465/AMBPP.2018.130"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Knowledge"
+  - "Social Networks"
+---

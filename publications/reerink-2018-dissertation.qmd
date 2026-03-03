@@ -1,0 +1,16 @@
+---
+title: "University-Industry Knowledge Transfer: An Empirical Analysis of Channels, Motives and Distances"
+author: "Jan Willem Reerink"
+date: "2018-02-09"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.1911"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Knowledge Transfer"
+  - "University-Industry"
+  - "Technology Transfer"
+---

@@ -1,0 +1,15 @@
+---
+title: "Financial Aid for Local Governments: Blessing or Mismanagement?"
+author: "Heinz W. Lampe, Dennis Hilgers"
+date: "2017-01-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Public Sector Performance Management, 3(1), 40-58"
+doi: "10.1504/IJPSPM.2017.082499"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Public Finance"
+  - "Local Government"
+---

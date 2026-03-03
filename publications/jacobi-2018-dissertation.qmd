@@ -1,0 +1,16 @@
+---
+title: "Media Judgment of Entrepreneurial Failure -- Implications for Founders"
+author: "Matthias Jacobi"
+date: "2018-03-02"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.1630"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Media"
+  - "Entrepreneurial Failure"
+  - "Social Evaluation"
+---

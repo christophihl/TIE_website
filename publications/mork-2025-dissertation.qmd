@@ -1,0 +1,16 @@
+---
+title: "Causal Analyses on Entrepreneurial Intention, Success, and Failure"
+author: "Oliver Mork"
+date: "2025-10-13"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.16044"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Entrepreneurship"
+  - "Causal Inference"
+  - "Startup Failure"
+---

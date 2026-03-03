@@ -1,0 +1,15 @@
+---
+title: "How Can a Refrigerated Warehouse Be Used to Store Energy?"
+author: "Marcel Repke, Ann-Kathrin Lange, Christoph Eckert"
+date: "2022-01-01"
+categories:
+  - "Conference Paper"
+description: "13th International Conference on Computational Logistics (ICCL 2022), 339-353"
+doi: "10.1007/978-3-031-16579-5_23"
+pub-type: "conference"
+abstract: ""
+pdf: ""
+tags:
+  - "Energy Storage"
+  - "Logistics"
+---

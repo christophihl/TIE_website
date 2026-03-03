@@ -1,0 +1,16 @@
+---
+title: "The Perfect Match -- The Role of Categorical Fit between Venture Capitalists and Their Startup Investments"
+author: "Jan-Frederik Arnold"
+date: "2018-03-16"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.1619"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Venture Capital"
+  - "Categorical Fit"
+  - "Startup Investment"
+---

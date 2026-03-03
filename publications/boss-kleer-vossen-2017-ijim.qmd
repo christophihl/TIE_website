@@ -1,0 +1,16 @@
+---
+title: "Walking Parallel Paths or Taking the Same Road? The Effect of Collaborative Incentives in Innovation Contests"
+author: "Viktoria Boss, Robin Kleer, Alexander Vossen"
+date: "2017-01-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Innovation Management, 21(3), 1750024"
+doi: "10.1142/S1363919617500244"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Innovation Contests"
+  - "Collaboration"
+  - "Incentives"
+---

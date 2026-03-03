@@ -1,0 +1,16 @@
+---
+title: "Equity Crowdfunding as a New Alternative for Startups Seeking Financing in Early Stages: Its Implications on Startups and Investors"
+author: "Jan Niklas Wick"
+date: "2020-06-26"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: ""
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Equity Crowdfunding"
+  - "Startup Finance"
+  - "Entrepreneurial Finance"
+---

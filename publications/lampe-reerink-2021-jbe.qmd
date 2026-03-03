@@ -1,0 +1,16 @@
+---
+title: "Know Your Audience: How Language Complexity Affects Impact in Entrepreneurship Science"
+author: "Heinz W. Lampe, Jan Willem Reerink"
+date: "2021-01-01"
+categories:
+  - "Journal Article"
+description: "Journal of Business Economics, 91(7), 1025-1061"
+doi: "10.1007/s11573-020-01027-4"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Language Complexity"
+  - "Science Communication"
+  - "Entrepreneurship Research"
+---

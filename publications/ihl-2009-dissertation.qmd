@@ -3,7 +3,7 @@ title: "Marketing for Mass Customization: Consumer behavior and marketing polici
 author: "**Christoph Ihl**"
 date: "2009-06-01"
 categories:
-  - "Other"
+  - "PhD Thesis"
 description: "Dissertation, Technische Universität München"
 doi: ""
 pub-type: "dissertation"

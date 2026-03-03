@@ -1,0 +1,16 @@
+---
+title: "Predicting Novel Terrorism: Media Coverage as Early-Warning System of Novelty in Terror Attacks"
+author: "Heinz W. Lampe, Eva Herschinger, Christian Nitzl, Jurgen Willems"
+date: "2025-01-01"
+categories:
+  - "Journal Article"
+description: "Terrorism and Political Violence, 37(5), 610-631"
+doi: "10.1080/09546553.2024.2345729"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Terrorism"
+  - "Media Coverage"
+  - "Prediction"
+---

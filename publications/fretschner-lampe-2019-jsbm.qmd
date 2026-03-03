@@ -1,0 +1,15 @@
+---
+title: "Detecting Hidden Sorting and Alignment Effects of Entrepreneurship Education"
+author: "Michael Fretschner, Heinz W. Lampe"
+date: "2019-01-01"
+categories:
+  - "Journal Article"
+description: "Journal of Small Business Management, 57(4), 1712-1737"
+doi: "10.1111/jsbm.12448"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Entrepreneurship Education"
+  - "Selection Effects"
+---

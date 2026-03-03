@@ -1,0 +1,16 @@
+---
+title: "The Flipside of the Coin -- An Investor-Level Investigation of Blockchain-Based Fundraising (Initial Coin Offerings)"
+author: "Carolin Petra Brückmann"
+date: "2021-10-12"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.3839"
+pub-type: "dissertation"
+abstract: ""
+pdf: ""
+tags:
+  - "Blockchain"
+  - "Initial Coin Offerings"
+  - "Entrepreneurial Finance"
+---

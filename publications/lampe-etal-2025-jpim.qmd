@@ -1,0 +1,16 @@
+---
+title: "Technological Innovations of Hidden Champions: Evidence from Patent Data"
+author: "Heinz W. Lampe, Jorn Block, Thorben Willeke, Thomas Clauss, Holger Steinmetz"
+date: "2025-01-01"
+categories:
+  - "Journal Article"
+description: "Journal of Product Innovation Management, 42(3), 502-527"
+doi: "10.1111/jpim.12766"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Hidden Champions"
+  - "Patents"
+  - "Innovation"
+---

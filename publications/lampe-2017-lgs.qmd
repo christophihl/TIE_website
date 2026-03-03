@@ -1,0 +1,16 @@
+---
+title: "Municipalities' Willingness to Adopt Process Innovations: Evidence for Higher Cost-Efficiency"
+author: "Heinz W. Lampe"
+date: "2017-01-01"
+categories:
+  - "Journal Article"
+description: "Local Government Studies, 43(5), 707-730"
+doi: "10.1080/03003930.2017.1324428"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Process Innovation"
+  - "Public Sector"
+  - "Efficiency"
+---

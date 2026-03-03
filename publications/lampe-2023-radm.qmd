@@ -1,0 +1,16 @@
+---
+title: "Crowdsourcing in Patent Examination: Overcoming Patent Examiners' Local Search Bias"
+author: "Heinz W. Lampe"
+date: "2023-01-01"
+categories:
+  - "Journal Article"
+description: "R&D Management, 53(5), 764-777"
+doi: "10.1111/radm.12597"
+pub-type: "journal"
+abstract: ""
+pdf: ""
+tags:
+  - "Crowdsourcing"
+  - "Patents"
+  - "Search Bias"
+---
