@@ -41,8 +41,14 @@ website:
             href: team.qmd#sec-alumni
           - text: Gallery
             href: team.qmd#gallery
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - text: Focus & Fields
+            href: research.qmd#sec-focus-fields
+          - text: Projects
+            href: research.qmd#sec-projects
+          - text: Publications
+            href: research.qmd#sec-publications
       - href: teaching.qmd
         text: Teaching
       - href: transfer.qmd

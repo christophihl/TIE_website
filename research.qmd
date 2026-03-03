@@ -33,7 +33,7 @@ listing:
 ::: {.content-section}
 ::: {.content-block}
 
-## Focus & Fields {.section-heading}
+## Focus & Fields {#sec-focus-fields .section-heading}
 
 Our research about innovation and entrepreneurship lies at the intersection of organizational theory, sociology and strategy. In particular, we are interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products or business practices. Our theoretical explanations are based on mechanisms such as social influence, diffusion, status, legitimacy, optimal distinctiveness, social evaluation, cognition, social capital.
 
@@ -58,7 +58,7 @@ The empirical phenomena we are interested in broadly fall into one of these fiel
 ::: {.content-section-alt}
 ::: {.content-block}
 
-## Projects {.section-heading}
+## Projects {#sec-projects .section-heading}
 
 ::: {#project-listing}
 :::
@@ -69,7 +69,7 @@ The empirical phenomena we are interested in broadly fall into one of these fiel
 ::: {.content-section}
 ::: {.content-block}
 
-## Publications {.section-heading}
+## Publications {#sec-publications .section-heading}
 
 ::: {#pub-listing}
 :::
