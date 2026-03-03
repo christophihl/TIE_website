@@ -1509,6 +1509,22 @@ p:has(.backimage-caption) {
   margin-top: 0;
 }
 
+.profile-main h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: normal;
+  color: $text_blue;
+  border-bottom: 1px dashed $tuhh_blue;
+  padding-bottom: 8px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.profile-main h3:first-child {
+  margin-top: 0;
+}
+
 /* Interests list — div wrapping a markdown <ul> */
 .profile-interests ul {
   list-style: none;

@@ -35,21 +35,26 @@ listing:
 
 ## Focus & Fields {#sec-focus-fields .section-heading}
 
+::: {.profile-main}
+
+### Focus
+
 Our research about innovation and entrepreneurship lies at the intersection of organizational theory, sociology and strategy. In particular, we are interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products or business practices. Our theoretical explanations are based on mechanisms such as social influence, diffusion, status, legitimacy, optimal distinctiveness, social evaluation, cognition, social capital.
 
 Our research is situated in domains where social and cultural spaces can be measured (more or less) comprehensively, e.g. based on relations with other actors or associations with concepts and narratives.
 In order to position actors in these spaces and categorize them as "novel" or "atypical", we employ methods from computational social science such as machine learning, natural language processing and network analysis.
 
-The empirical phenomena we are interested in broadly fall into one of these fields:
+### Fields
 
-::: {.research-fields-grid}
-![Digital Entrepreneurship](assets/images/research/1_digital.jpg)
+::: {.profile-interests}
+- Startup Strategy: Choices and Change.
+- Startup Financing, e.g. Venture Capital, Impact Investing.
+- Teams in Innovation and Entrepreneurship: Formation, Evolution, Organizing.
+- Technology & Science-based Innovation and Entrepreneurship, e.g. Clean Tech, AI.
+- Crowd-based Innovation and Entrepreneurship, e.g. Crowdfunding, Crowdsourcing, User Communities, Open Source Software.
+- Innovation and Entrepreneurship in Creative Industries, e.g. Media, Sports.
+:::
 
-![Entrepreneurship & Science](assets/images/research/2_science.jpg)
-
-![Creative Industries](assets/images/research/3_creative.jpg)
-
-![Crowd Dynamics](assets/images/research/4_crowd.jpg)
 :::
 
 :::
