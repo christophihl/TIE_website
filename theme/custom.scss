@@ -1805,46 +1805,8 @@ p:has(.backimage-caption) {
   text-decoration: none;
 }
 
-.pub-btn--doi {
-  border-color: $tuhh_blue;
-}
-
-.pub-btn--pdf {
-  border-color: $tuhh_orange;
-  color: $tuhh_orange;
-}
-
-.pub-btn--pdf:hover {
-  background-color: $tuhh_orange;
-  color: white;
-}
-
-.pub-btn--abstract {
-  border-color: $tuhh_grey;
-  color: #666;
-}
-
-.pub-btn--abstract:hover {
-  background-color: $tuhh_grey;
-  color: $text_blue;
-}
-
-.pub-btn--link {
-  border-color: $text_blue;
-}
-
 .pub-btn--link i {
   margin-right: 2px;
-}
-
-.pub-btn--tore {
-  border-color: #006a81;
-  color: #006a81;
-}
-
-.pub-btn--tore:hover {
-  background-color: #006a81;
-  color: white;
 }
 
 /* Topic tags — small pills below each publication entry */

@@ -49,6 +49,7 @@ if (item['pub-journal']) {
 <% if (item.abstract) { %><button class="pub-btn pub-btn--abstract" onclick="this.closest('.pub-entry').querySelector('.pub-entry__abstract').classList.toggle('pub-entry__abstract--open')">Abstract</button><% } %>
 <% if (item['pub-links']) { try { var links = typeof item['pub-links'] === 'string' ? JSON.parse(item['pub-links']) : item['pub-links']; if (Array.isArray(links)) { for (var l of links) { %><a href="<%= l.url %>" class="pub-btn pub-btn--link" target="_blank" rel="noopener"><% if (l.icon) { %><i class="<%= l.icon %>"></i> <% } %><%= l.name %></a><% } } } catch(e) {} } %>
 <% if (item['pub-status']) { %><span class="pub-status"><%= item['pub-status'] %></span><% } %>
+<% if (item.categories && item.categories.length) { %><span class="pub-btn pub-btn--category"><%= item.categories[0] %></span><% } %>
 </div>
 <% if (item.abstract) { %><div class="pub-entry__abstract"><%= item.abstract %></div><% } %>
 <% if (item.extra) { %><div class="pub-entry__extra"><%= item.extra %></div><% } %>
