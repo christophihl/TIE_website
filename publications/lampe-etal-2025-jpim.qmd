@@ -25,4 +25,6 @@ authors:
   - name: "Thorben Willeke"
   - name: "Thomas Clauss"
   - name: "Holger Steinmetz"
+profile-pubs: ["lampe"]
+featured: true
 ---

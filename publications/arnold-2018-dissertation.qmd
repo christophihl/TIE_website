@@ -17,4 +17,5 @@ institution: "Technische Universität Hamburg"
 authors:
   - name: "Jan-Frederik Arnold"
     internal: "arnold"
+profile-pubs: ["arnold"]
 ---

@@ -35,6 +35,15 @@ education:
     year: "2012"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "heckmann"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -86,6 +95,13 @@ My research interests include cultural entrepreneurship, venture capital and nat
 - [MSc in Engineering and Business Administration]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2014]{.profile-education__year}
 - [BSc in Engineering and Business Administration]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2012]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

@@ -18,4 +18,5 @@ authors:
   - name: "Giulio Barth"
     internal: "barth"
     orcid: "0000-0002-0133-8754"
+profile-pubs: ["barth"]
 ---

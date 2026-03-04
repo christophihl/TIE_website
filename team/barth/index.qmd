@@ -41,6 +41,15 @@ education:
     year: "2006 - 2009"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "barth"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -88,6 +97,13 @@ Synthetic Biology, Open Source, Institutional Entrepreneurship
 - [Studies in Industrial Engineering and Management]{.profile-education__position}<br>[Politecnico di Milano, Italy]{.profile-education__institution}<br>[2009 - 2010]{.profile-education__year}
 - [BSc in Industrial Engineering and Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2006 - 2009]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

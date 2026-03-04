@@ -42,6 +42,15 @@ education:
     year: "1995"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "ihl"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -100,6 +109,13 @@ In teaching, I bring together rigorous scientific thinking and entrepreneurial p
 - [MBA]{.profile-education__position}<br>[University of British Columbia, Vancouver, Canada]{.profile-education__institution}<br>[1998]{.profile-education__year}
 - [BSc in Engineering and Management]{.profile-education__position}<br>[Technical University of Kaiserslautern, Germany]{.profile-education__institution}<br>[1995]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

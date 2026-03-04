@@ -21,4 +21,5 @@ authors:
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
   - name: "Dennis Hilgers"
+profile-pubs: ["lampe"]
 ---

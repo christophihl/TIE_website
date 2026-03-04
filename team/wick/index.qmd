@@ -45,6 +45,15 @@ education:
     year: "2009 - 2012"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "wick"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -94,6 +103,13 @@ Group behaviour, Crowdfunding, Early-stage Venture Financing
 - [MSc Finance]{.profile-education__position}<br>[London School of Economics & Political Science, London, UK]{.profile-education__institution}<br>[2012 - 2013]{.profile-education__year}
 - [BA in Business Administration]{.profile-education__position}<br>[HSBA, Hamburg, Germany]{.profile-education__institution}<br>[2009 - 2012]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

@@ -12,6 +12,15 @@ listing:
     type: custom
     template: news-home.ejs
     date-format: "DD.MM.YYYY"
+  - id: featured-pubs
+    contents: publications/*.qmd
+    include:
+      featured: true
+    sort: "date desc"
+    max-items: 3
+    type: custom
+    template: pub-home.ejs
+    date-format: "YYYY"
 resources:
   - assets/images/docks.jpg
   - assets/images/slides/team.jpg
@@ -142,9 +151,10 @@ Coming soon — course listings will be added in a later phase.
 
 ## Featured Research {.section-heading}
 
-::: {.placeholder-text}
-Coming soon — research highlights will be added in a later phase.
+::: {#featured-pubs}
 :::
+
+[All Publications](research.html#publications){.btn-tuhh}
 
 :::
 :::

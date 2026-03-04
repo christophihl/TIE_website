@@ -30,6 +30,15 @@ education:
     year: "2011"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "graf"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -80,6 +89,13 @@ My research interests include science of science, computational social science a
 - [MSc in Industrial Engineering & Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015]{.profile-education__year}
 - [BSc in Engineering and Management]{.profile-education__position}<br>[University of Bremen, Germany]{.profile-education__institution}<br>[2011]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

@@ -29,6 +29,15 @@ education:
     year: "2008 - 2014"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "kessler"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -72,6 +81,13 @@ Team Formation & Composition, Team Performance, New Venture Teams
 - [MSc in Technology Innovation Management]{.profile-education__position}<br>[Portland State University, USA]{.profile-education__institution}<br>[2013 - 2014]{.profile-education__year}
 - [BSc & MSc in Industrial Engineering and Management]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2008 - 2014]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

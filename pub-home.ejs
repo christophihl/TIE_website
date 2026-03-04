@@ -1,0 +1,47 @@
+<div class="pub-featured-grid list">
+<% for (const item of items) { %>
+<div class="pub-featured-card">
+<span class="listing-title" style="display:none;"><%= item.title %></span>
+<span class="listing-description" style="display:none;"><%= item.description || '' %></span>
+<span class="listing-date" style="display:none;"><%= item.date %></span>
+<span class="listing-categories" style="display:none;"><%= (item.categories || []).join(', ') %></span>
+<span class="listing-author" style="display:none;"><%= item.author || '' %></span>
+<% if (item.image) { %>
+<div class="pub-featured-card__image">
+<img src="<%= item.image %>" alt="<%= item.title %>">
+</div>
+<% } %>
+<% if (item.categories && item.categories.length) { %>
+<div class="pub-featured-card__category"><%= item.categories[0] %></div>
+<% } %>
+<div class="pub-featured-card__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>"><%= item.title %></a></div>
+<div class="pub-featured-card__authors"><%
+if (item.authors) {
+  try {
+    var authors = typeof item.authors === 'string' ? JSON.parse(item.authors) : item.authors;
+    if (Array.isArray(authors) && authors.length) {
+      for (var ai = 0; ai < authors.length; ai++) {
+        if (ai > 0) { %>, <% }
+        var a = authors[ai];
+        if (a.internal) {
+%><a href="/team/<%= a.internal %>/" class="pub-author-link"><strong><%= a.name %></strong></a><%
+        } else {
+%><%= a.name %><%
+        }
+      }
+    } else { %><%= item.author %><% }
+  } catch(e) { %><%= item.author %><% }
+} else { %><%= item.author %><% }
+%></div>
+<div class="pub-featured-card__venue"><%
+if (item['pub-journal']) {
+%><em><%= item['pub-journal'] %></em><%
+} else if (item.conference) {
+%><%= item.conference %><%
+} else if (item['book-title']) {
+%><em><%= item['book-title'] %></em><%
+}
+%><% if (item.date) { %> (<%= item.date %>)<% } %></div>
+</div>
+<% } %>
+</div>

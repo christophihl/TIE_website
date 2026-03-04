@@ -46,6 +46,15 @@ education:
     year: "2017"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "thiesen"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -100,6 +109,13 @@ My research interests include the wide field of green technologies and sustainab
 - [Bachelor of Science in Electrical Engineering and Management]{.profile-education__position}<br>[Kiel University, Germany]{.profile-education__institution}<br>[2018]{.profile-education__year}
 - [Working Student at the Chair of Power Electronics]{.profile-education__position}<br>[Kiel University, Germany]{.profile-education__institution}<br>[2017]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

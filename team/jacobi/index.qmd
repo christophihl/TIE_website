@@ -36,6 +36,15 @@ education:
     year: "2006 - 2009"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "jacobi"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -82,6 +91,13 @@ Startup Failure, Media Sentiment, Social Judgement
 - [Operations Specialist]{.profile-education__position}<br>[McKinsey & Company, Hamburg, Germany]{.profile-education__institution}<br>[2013 - 2019]{.profile-education__year}
 - [BSc & MSc in Physics]{.profile-education__position}<br>[University of Hamburg, Germany]{.profile-education__institution}<br>[2006 - 2009]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

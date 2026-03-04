@@ -35,6 +35,15 @@ education:
     year: "2017"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "specht"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -84,6 +93,13 @@ My research interests are technology entrepreneurship and venture capital financ
 - [Working Student]{.profile-education__position}<br>[Deloitte GmbH, Berlin, Germany]{.profile-education__institution}<br>[2017 - 2019]{.profile-education__year}
 - [Bachelor of Science in Industrial Engineering and Management]{.profile-education__position}<br>[Technische Universität Berlin, Germany]{.profile-education__institution}<br>[2017]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

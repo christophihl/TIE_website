@@ -34,4 +34,6 @@ authors:
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
   - name: "Rajshri Jayaraman"
+profile-pubs: ["kessler", "ihl"]
+featured: true
 ---

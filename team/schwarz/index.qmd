@@ -42,6 +42,15 @@ education:
     year: "2011 - 2015"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "schwarz"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -96,6 +105,13 @@ My research interests include social network dynamics and computational social s
 - [Exchange student at the Faculty of Business Administration & School of Industrial Engineering]{.profile-education__position}<br>[Polytechnic University of Valencia, Spain]{.profile-education__institution}<br>[2014]{.profile-education__year}
 - [BSc in Business Administration and Engineering - Materials and Process Engineering]{.profile-education__position}<br>[RWTH Aachen University, Germany]{.profile-education__institution}<br>[2011 - 2015]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

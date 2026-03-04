@@ -42,6 +42,15 @@ education:
     year: "2010"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "lampe"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -96,6 +105,13 @@ My research interests lie at the intersection of Technology, Innovation and Entr
 - [Diploma in Business Administration]{.profile-education__position}<br>[University of Osnabrück, Germany]{.profile-education__institution}<br>[2011]{.profile-education__year}
 - [Diploma in Economics]{.profile-education__position}<br>[University of Osnabrück, Germany]{.profile-education__institution}<br>[2010]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

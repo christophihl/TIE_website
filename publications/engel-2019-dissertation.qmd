@@ -18,4 +18,5 @@ institution: "Technische Universität Hamburg"
 authors:
   - name: "Michael Engel"
     internal: "engel"
+profile-pubs: ["engel"]
 ---

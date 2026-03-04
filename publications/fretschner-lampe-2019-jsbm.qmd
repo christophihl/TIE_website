@@ -21,4 +21,5 @@ authors:
   - name: "Hannes W. Lampe"
     internal: "lampe"
     orcid: "0000-0003-1375-236X"
+profile-pubs: ["lampe"]
 ---

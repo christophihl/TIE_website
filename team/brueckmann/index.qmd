@@ -34,6 +34,15 @@ education:
     year: "2012"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "brueckmann"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -86,6 +95,13 @@ My research interests include Crowdfunding, Blockchain Technology and Initial Co
 - [MSc in Applied Economics and Finance]{.profile-education__position}<br>[Copenhagen Business School, Denmark]{.profile-education__institution}<br>[2015]{.profile-education__year}
 - [BSc in International Business]{.profile-education__position}<br>[Maastricht University, the Netherlands]{.profile-education__institution}<br>[2012]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

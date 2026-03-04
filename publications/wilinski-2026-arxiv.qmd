@@ -24,4 +24,5 @@ institution: "arXiv"
 authors:
   - name: "Jonas Wilinski"
     internal: "wilinski"
+profile-pubs: ["wilinski"]
 ---

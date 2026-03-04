@@ -1865,6 +1865,133 @@ p:has(.backimage-caption) {
 }
 
 
+/* =============================================
+   Featured Publications — Welcome page cards
+   ============================================= */
+
+.pub-featured-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.pub-featured-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid $tuhh_blue;
+  overflow: hidden;
+  transition: box-shadow 0.25s ease;
+}
+
+.pub-featured-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.pub-featured-card__image {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-bottom: 1px solid $tuhh_blue;
+}
+
+.pub-featured-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Hide the <p> Quarto wraps around hidden listing metadata spans */
+.pub-featured-card > p:first-child {
+  display: none;
+}
+
+.pub-featured-card__category {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  color: $text_blue;
+  padding: 8px 16px 0;
+  font-family: 'PublicaSans', Arial, sans-serif;
+}
+
+.pub-featured-card__title {
+  padding: 6px 16px 0;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.pub-featured-card__title a {
+  color: $text_blue;
+  text-decoration: none;
+}
+
+.pub-featured-card__title a:hover {
+  color: #009eac;
+}
+
+.pub-featured-card__authors {
+  padding: 6px 16px 0;
+  font-size: 0.85rem;
+  color: $text_blue;
+}
+
+.pub-featured-card__authors .pub-author-link {
+  color: $text_blue;
+  text-decoration: none;
+}
+
+.pub-featured-card__authors .pub-author-link:hover {
+  color: #009eac;
+}
+
+.pub-featured-card__venue {
+  padding: 6px 16px 16px;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #666;
+}
+
+/* Show only 1 card on small mobile, hide 2nd+ */
+.pub-featured-grid .pub-featured-card:nth-child(n+2) {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .pub-featured-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .pub-featured-grid .pub-featured-card:nth-child(n+2) {
+    display: flex;
+  }
+  .pub-featured-grid .pub-featured-card:nth-child(n+3) {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .pub-featured-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .pub-featured-grid .pub-featured-card:nth-child(n+3) {
+    display: flex;
+  }
+}
+
+
+/* =============================================
+   Profile page — Selected Publications section
+   ============================================= */
+
+.profile-main .pub-list {
+  margin-top: 0;
+}
+
+.profile-main .pub-entry:first-of-type {
+  padding-top: 0;
+}
+
+
 /* Fonts */
 
 

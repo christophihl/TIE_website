@@ -37,6 +37,15 @@ education:
     year: "2007 - 2010"
 resources:
   - ../../assets/images/banners/team.jpg
+listing:
+  - id: selected-pubs
+    contents: ../../publications/*.qmd
+    include:
+      profile-pubs: "arnold"
+    sort: "date desc"
+    type: custom
+    template: ../../pub-list.ejs
+    date-format: "YYYY" 
 ---
 
 ::: {.page-header style="background-image: url('../../assets/images/banners/team.jpg');"}
@@ -82,6 +91,13 @@ Venture Capital, Startup Distinctiveness, Social Evaluation
 - [MSc in Accounting and Finance]{.profile-education__position}<br>[London School of Economics and Political Science, UK]{.profile-education__institution}<br>[2010 - 2012]{.profile-education__year}
 - [Bachelor of Arts in Business Administration]{.profile-education__position}<br>[Universität St. Gallen, Switzerland]{.profile-education__institution}<br>[2007 - 2010]{.profile-education__year}
 :::
+
+
+## Selected Publications
+
+:::: {#selected-pubs}
+::::
+
 
 :::
 

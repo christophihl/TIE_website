@@ -230,3 +230,33 @@ h2.section-heading {
 .profile-education__year {
   color: #888;
 }
+
+/* Featured publication cards dark mode */
+.pub-featured-card {
+  border-color: rgba(0, 193, 212, 0.5);
+  background-color: #23252f;
+}
+.pub-featured-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+.pub-featured-card__category {
+  color: white;
+}
+.pub-featured-card__title a {
+  color: white;
+}
+.pub-featured-card__title a:hover {
+  color: #00C1D4;
+}
+.pub-featured-card__authors {
+  color: white;
+}
+.pub-featured-card__authors .pub-author-link {
+  color: white;
+}
+.pub-featured-card__authors .pub-author-link:hover {
+  color: #00C1D4;
+}
+.pub-featured-card__venue {
+  color: #aaa;
+}

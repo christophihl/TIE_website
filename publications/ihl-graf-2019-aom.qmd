@@ -23,4 +23,5 @@ authors:
     orcid: "0000-0002-0842-5201"
   - name: "Dimitri Graf"
     internal: "graf"
+profile-pubs: ["ihl", "graf"]
 ---

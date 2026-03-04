@@ -24,4 +24,5 @@ authors:
   - name: "Jan Reerink"
     internal: "reerink"
     orcid: "0000-0001-6558-5183"
+profile-pubs: ["lampe", "reerink"]
 ---

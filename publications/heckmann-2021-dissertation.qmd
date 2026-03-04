@@ -18,4 +18,5 @@ authors:
   - name: "Jens Heckmann"
     internal: "heckmann"
     orcid: "0000-0002-3690-6766"
+profile-pubs: ["heckmann"]
 ---
