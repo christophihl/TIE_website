@@ -32,8 +32,8 @@ if (item['pub-journal']) {
 %><%= item.conference %><% if (item.volume) { %> <%= item.volume %><% } %><% if (item.issue) { %>(<%= item.issue %>)<% } %><% if (item['article-number']) { %>, <%= item['article-number'] %><% } %><% if (item.pages) { %>, <%= item.pages %><% } %><%
 } else if (item['book-title']) {
 %>In: <% if (item.editors) { %><%= item.editors %>, <% } %><em><%= item['book-title'] %></em><% if (item.series) { %> (<%= item.series %><% if (item.volume) { %>, <%= item.volume %><% } %>)<% } %><% if (item.pages) { %>, <%= item.pages %><% } %><%
-} else if (item.institution && item['pub-type'] === 'dissertation') {
-%>Dissertation, <%= item.institution %><%
+} else if (item.institution && item['pub-type'] === 'thesis') {
+%>PhD Thesis, <%= item.institution %><%
 } else if (item.publisher) {
 %><%= item.publisher %><%
 } else if (item.institution) {

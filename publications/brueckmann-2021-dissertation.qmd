@@ -6,7 +6,7 @@ categories:
   - "PhD Thesis"
 description: "Dissertation, Technische Universität Hamburg"
 doi: "10.15480/882.3839"
-pub-type: "dissertation"
+pub-type: "thesis"
 abstract: "ICOs stellen eine neuartige Finanzierungsmethode dar, welche es Start-ups ermöglicht Kapital von einer Großzahl vorwiegend Kleinanleger einzusammeln. Innerhalb meiner Dissertation widme ich mich ICO-Investoren, um darzustellen wie Investoren diese neuartigen Investitionsumgebung navigieren. Entlang dreier Studien untersuche ich die Komposition sowie Interaktion verschiedener Investorengruppen. Des Weiteren analysiere ich inwiefern Investoren in der Lage sind erfolgreiche Start-ups gezielt zu selektieren."
 pdf: ""
 tags:

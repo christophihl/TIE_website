@@ -6,7 +6,7 @@ categories:
   - "PhD Thesis"
 description: "Dissertation, Technische Universität Hamburg"
 doi: "10.15480/882.1911"
-pub-type: "dissertation"
+pub-type: "thesis"
 abstract: "Die vorliegende Arbeit untersucht mehrere Technologietranferkanäle im Kontext des Wissenstransfers von Universitäten in die Industrie. Sowohl traditionelle Transferkanäle wie zum Beispiel kollaborative Forschung oder akademisches Patentieren sowie innovative Alternativen wie broadcast search werden berücksichtigt. Beiträge zu Theorie und politische Implikationen können durch den Einsatz neuartiger Methoden aus dem Bereich Data Science gewonnen werden."
 pdf: ""
 tags:

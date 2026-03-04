@@ -5,9 +5,9 @@ date: "2025-01-01"
 categories:
   - "Conference Paper"
 description: "Academy of Management Proceedings 2025(1), 18846"
-doi: ""
+doi: "10.5465/AMPROC.2025.18846abstract"
 pub-type: "conference"
-abstract: ""
+abstract: "Venture Capital (VC) investments positively impact startup success, enhancing operational performance through factors like collaboration and value-added services. While research on investment decisions primarily focuses on investors' selection criteria and decision-making processes, our study addresses the gap in founders' perspective. Using Generative Pre-Trained Transformers (GPT) for text classification on a dataset of 8,561 online VC reviews, we extract 9,229 unique value-criteria from founders' perspectives. A text-embedding cluster method categorizes these criteria into 26 categories. By analyzing additional startup lifecycle data, we determine which value-criteria are crucial at different startup stages. Our findings reveal that investors' \"general social skills\" are the most important value-criteria across all startup stages, while more mature startups prioritize more self-serving criteria focused on growth and long-term relationships. Additionally, we observe that founders mostly fulfill the value-criteria by investors, with \"general advice\" being particularly well-executed."
 pdf: ""
 tags:
   - "Venture Capital"

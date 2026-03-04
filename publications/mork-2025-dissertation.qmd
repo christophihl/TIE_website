@@ -6,7 +6,7 @@ categories:
   - "PhD Thesis"
 description: "Dissertation, Technische Universität Hamburg"
 doi: "10.15480/882.16044"
-pub-type: "dissertation"
+pub-type: "thesis"
 abstract: "This dissertation embarks on two complementary paths: (i) it investigates how contextual and structural factors influence entrepreneurial intention, success, and recovery from failure, and (ii) it highlights recent advancements in causal inference, focusing on the identification of treatment effects through valid and robust research designs. The work offers new insights into key phenomena across the entrepreneurial life cycle and proposes methodological approaches to address empirical challenges in entrepreneurship and management science."
 pdf: ""
 tags:

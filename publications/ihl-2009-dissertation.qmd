@@ -6,7 +6,7 @@ categories:
   - "PhD Thesis"
 description: "Dissertation, Technische Universität München"
 doi: ""
-pub-type: "dissertation"
+pub-type: "thesis"
 abstract: ""
 pdf: ""
 tags:

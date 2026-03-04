@@ -5,9 +5,9 @@ date: "2021-12-01"
 categories:
   - "Journal Article"
 description: "International Journal of Innovation Management, 25(08), 2150089"
-doi: ""
+doi: "10.1142/S1363919621500894"
 pub-type: "journal"
-abstract: ""
+abstract: "Open innovation, in the form of inbound and outbound open innovation, is an ever-increasing research field. Research into outbound open innovation (i.e., the inside-out process) focused mostly on the commercialisation of internal knowledge. However, we know very little about firms' voluntary nonpecuniary knowledge disclosure. This paper sheds light on this understudied research field by conducting a quantitative study that identifies which internal and external conditions foster firms' knowledge disclosures. The results show that firms' strategies to influence (i) the market and the competition and (ii) external spillovers are drivers of firms' knowledge disclosures. Further, the moderating roles of environmental characteristics are shown. Firms' environmental technological dynamism is found to strengthen the positive relationships between influencing external spillovers and knowledge disclosure. In contrast, the relationships between influencing the market and the competition and knowledge disclosure are negatively moderated by a firm's environmental technological dynamism."
 pdf: ""
 tags:
   - "Knowledge Disclosure"
