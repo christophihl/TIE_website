@@ -5,7 +5,7 @@ date: "2018-07-01"
 categories:
   - "Conference Paper"
 description: "Academy of Management Global Proceedings, 383"
-doi: ""
+doi: "10.5465/amgblproc.telaviv.2018.0383.abs"
 pub-type: "conference"
 abstract: ""
 pdf: ""

@@ -7,7 +7,7 @@ categories:
 description: "In: Competitiveness of New Industries: Institutional Framework and Learning in IT"
 doi: "10.4324/9780203963609"
 pub-type: "book-chapter"
-abstract: ""
+abstract: "According to some authors, the development of new information and communication technologies (ICT) is slowly undermining the traditional economic reasons behind hierarchical forms of economic transactions. Even the importance and necessity of customer relationships as a mode of economic exchange between firms and customers has been put into question due to the rise of new ICT, particularly new media and the Internet. According to this view, which has become known as the 'move-to-the-market' hypothesis, electronic commerce is assumed to encourage market transparency and price competition and thus favour free market rather than hierarchical, corporate structures (Malone et al. 1987). At the same time, however, new ICT may also improve a firm's absorptive capacity for customer knowledge by allowing virtual means of customer integration and interaction – a strategy we call open innovation. In this chapter, we focus on the micro level of the development and use of ICT. An individual actor can be regarded not only as an adaptor but also as a creator in the sense of shaping institutional settings."
 pdf: ""
 tags:
   - "Open Innovation"

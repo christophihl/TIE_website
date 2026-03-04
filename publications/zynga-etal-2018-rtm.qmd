@@ -1,6 +1,6 @@
 ---
 title: "Making Open Innovation Stick: A Study of Open Innovation Implementation in 756 Global Organizations"
-author: "Angelika Zynga, Kathleen Diener, **Christoph Ihl**, Dirk Lüttgens, Frank Piller, Bastian Scherb"
+author: "Andy Zynga, Kathleen Diener, **Christoph Ihl**, Dirk Lüttgens, Frank Piller, Bastian Scherb"
 date: "2018-07-01"
 categories:
   - "Journal Article"
@@ -18,7 +18,7 @@ volume: "61"
 issue: "4"
 pages: "16-25"
 authors:
-  - name: "Angelika Zynga"
+  - name: "Andy Zynga"
   - name: "Kathleen Diener"
   - name: "Christoph Ihl"
     internal: "ihl"

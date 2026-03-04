@@ -1,6 +1,6 @@
 ---
 title: "Embedded toolkits: Identifying changing user needs during product usage"
-author: "Frank Steiner, **Christoph Ihl**, Frank Piller, R. Thomas Tarman"
+author: "Frank Steiner, **Christoph Ihl**, Frank Piller, Refik Tarcan Tarman"
 date: "2011-12-01"
 categories:
   - "Journal Article"
@@ -23,5 +23,5 @@ authors:
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
   - name: "Frank Piller"
-  - name: "R. Thomas Tarman"
+  - name: "Refik Tarcan Tarman"
 ---

@@ -1,0 +1,25 @@
+---
+title: "Co-creation with Customers"
+author: "Frank Piller, **Christoph Ihl**"
+date: "2013-01-25"
+categories:
+  - "Book / Chapter"
+description: "In: Huff, A.S., Möslein, K.M., Reichwald, R. (eds), Leading Open Innovation, 139-154"
+doi: "10.7551/mitpress/9202.003.0013"
+pub-type: "book-chapter"
+abstract: ""
+pdf: ""
+tags:
+  - "Co-Creation"
+  - "Open Innovation"
+  - "Customers"
+book-title: "Leading Open Innovation"
+editors: "Anne Sigismund Huff, Kathrin M. Möslein, Ralf Reichwald"
+publisher: "MIT Press"
+pages: "139-154"
+authors:
+  - name: "Frank Piller"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+---

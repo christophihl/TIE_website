@@ -5,9 +5,9 @@ date: "2018-08-02"
 categories:
   - "Conference Paper"
 description: "Academy of Management Proceedings 2018(1), 16013"
-doi: ""
+doi: "10.5465/AMBPP.2018.16013abstract"
 pub-type: "conference"
-abstract: ""
+abstract: "In online, crowd-based investment markets, nonexpert individuals collectively make investment decisions that were previously left to experts. Being carried out publicly on an online platform, the funding process gives these individuals opportunity to observe the actions of others before deciding themselves. Using a unique dyadic panel data set that tracks online, crowd-based investments into startups, we study how individuals are influenced in their investment decisions by prior actions of others. We find evidence that individuals engage in herd behaviour and are more likely to invest into campaigns exhibiting a higher funding momentum. Counterintuitively, investors are at the same time less likely to invest into campaigns that exhibit high counts of already committed investors, indicating that individuals do not herd after herd."
 pdf: ""
 tags:
   - "Crowdfunding"
