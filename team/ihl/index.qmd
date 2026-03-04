@@ -73,11 +73,11 @@ resources:
 
 ## Biography
 
-As professor of management at Hamburg University of Technology (TUHH) I am heading the TUHH Institute of Entrepreneurship (TIE). My research about entrepreneurship and innovation lies at the intersection of organizational theory, sociology and strategy. In particular, I am interested in how actors are influenced by and interact with their social and cultural environments to bring about novelty, e.g. with regard to ideas, teams, products, practices or business models.
+I am Professor of Management at Hamburg University of Technology (TUHH) and Head of the TUHH Institute of Entrepreneurship (TIE). My research on entrepreneurship and innovation lies at the intersection of organizational theory, sociology, and strategy. I study how actors shape and are shaped by their social, cultural, and technological environments as they create novelty in ideas, teams, products, practices, and business models.
 
-My research is situated in domains, where social and cultural spaces can be measured (more or less) comprehensively, such as digital startup innovation, academic science, creative industries as well as user crowds and communities. I deeply enjoy getting insights from novel data using econometric and computational methods from network analysis and natural language processing.
+Empirically, I focus on settings in which market, technological, social, or cultural spaces can be observed and measured systematically, including startup innovation, academic science, creative industries, and user crowds and communities. I deeply enjoy generating insights from novel data using computational social science and quantitative methods, including econometrics, network analysis, and natural language processing.
 
-I have benefited from studying and working at universities with outstanding entrepreneurial culture. Drawing on this experience together with my taste for empirical research, I engage students in active "startup engineering" to let them learn about and validate their own startup ideas from first-hand evidence. I regularly work with startups and corporates in the area of business model innovation and data science.
+In teaching, I bring together rigorous scientific thinking and entrepreneurial practice. Drawing on experiences from universities with strong entrepreneurial cultures, I engage students in hands-on startup engineering and support them in developing and validating their own venture ideas through evidence-based experimentation. I also collaborate regularly with startups and established firms on business model innovation and data analytics projects.
 
 ## Interests
 
