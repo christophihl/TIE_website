@@ -5,9 +5,9 @@ date: "2019-08-01"
 categories:
   - "Conference Paper"
 description: "Academy of Management Proceedings 2019(1), 12730"
-doi: ""
+doi: "10.5465/AMBPP.2019.12730abstract"
 pub-type: "conference"
-abstract: ""
+abstract: "In early-stage venture financing, investors' portfolio returns crucially depend on investing in the few \"big hits,\" compensating for a significant number of investments that fail to return the invested capital. The recently established equity crowdfunding enables also retail investors to participate in the market for early-stage venture financing. Using survival analysis on a data set that tracks portfolios of individual equity crowdfunding investors over the course of more than five years, we study how personal and common liquidity events—i.e., realized and foregone losses and gains—impact an individual's future investment behavior. Reinforcement learning theory predicts that investors overweight personal experience when making investment decisions. We find that in our context of a closed, specialized market, both personal and common liquidity events have a negative effect on subsequent investment decisions. Differentiating these findings by investor sophistication, we find that less sophisticated investors exhibit patterns of reinforcement learning."
 pdf: ""
 tags:
   - "Crowdfunding"

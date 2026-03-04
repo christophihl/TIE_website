@@ -5,9 +5,9 @@ date: "2019-08-03"
 categories:
   - "Conference Paper"
 description: "Academy of Management Proceedings 2019(1), 18636"
-doi: ""
+doi: "10.5465/AMBPP.2019.18636abstract"
 pub-type: "conference"
-abstract: ""
+abstract: "Our understanding of the impact of team diversity on the team's innovativeness is still limited. There is a lack of research on the contingencies that drive the effectiveness of team heterogeneity and specifically knowledge diversity. We use insights from social networks, knowledge networks, status diversity, and knowledge overlap to explain when teams benefit from knowledge diversity. We conduct our analysis on all ~180.000 publications in the field of management between 2000 and 2015, to explain how teams translate knowledge diversity into novelty. Our results show that high levels of knowledge diversity lead to less novel output. We find that access to structural holes in the social and knowledge network moderates this effect, allowing teams with brokerage positions to compensate for the negative effect of knowledge diversity. However, contrary to our assumptions they do not provide an alternative to teams that lack diversity. Thus, a team cannot source diversity externally. We find that status diversity and knowledge overlap provide teams only with mechanisms to overcome the negative effect of knowledge diversity but do not lead to more novel output."
 pdf: ""
 tags:
   - "Knowledge Diversity"

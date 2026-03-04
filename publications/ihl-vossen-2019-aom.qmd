@@ -5,9 +5,9 @@ date: "2019-08-02"
 categories:
   - "Conference Paper"
 description: "Academy of Management Proceedings 2019(1), 17322"
-doi: ""
+doi: "10.5465/AMBPP.2019.312"
 pub-type: "conference"
-abstract: ""
+abstract: "We study how unsolicited user behavior, such as infringing copyrights, serves as a market signal that impacts both affected organizations and audiences. We find that the behavior is perceived twofold: While it increases uncertainty for organizational audiences, it decreases uncertainty for users. The increase of uncertainty is fueled by loss prospects particularly pronounced for products that are financially successful and critically acclaimed. The decrease of uncertainty is founded on quality endorsement and promotional effects particularly prominent for products that receive unsolicited user behavior from central, prominent users. Our empirical field is International Anime TV series from which we analyze 1,290 series consisting of 35,627 episodes that aired between 2002 and 2011. We assess more than 32,000 copyright infringement incidents and more than 3,000 groups of so-called Fansubbers from the U.S. who record Japanese TV series, modify, and distribute those recordings online both prior and in parallel to commercial availability. We find that infringements that a series receives make organizations ponder longer before they make them available by licensing and exporting them. However, after licensing and export, those infringed series attract more users and thus sell significantly better on Amazon.com."
 pdf: ""
 tags:
   - "User Behavior"
