@@ -75,9 +75,9 @@ resources:
 
 I am Professor of Management at Hamburg University of Technology (TUHH) and Head of the TUHH Institute of Entrepreneurship (TIE). My research on entrepreneurship and innovation lies at the intersection of organizational theory, sociology, and strategy. I study how actors shape and are shaped by their social, cultural, and technological environments as they create novelty in ideas, teams, products, practices, and business models.
 
-Empirically, I focus on settings in which market, technological, social, or cultural spaces can be observed and measured systematically, including startup innovation, academic science, creative industries, and user crowds and communities. I deeply enjoy generating insights from novel data using computational social science and quantitative methods, including econometrics, network analysis, and natural language processing.
+Empirically, I focus on settings in which market, technological, social, or cultural spaces can be observed and measured systematically, including startup innovation, academic science, creative industries, and user communities. I deeply enjoy generating insights from novel data using computational social science and quantitative methods, including econometrics, network analysis, and natural language processing.
 
-In teaching, I bring together rigorous scientific thinking and entrepreneurial practice. Drawing on experiences from universities with strong entrepreneurial cultures, I engage students in hands-on startup engineering and support them in developing and validating their own venture ideas through evidence-based experimentation. I also collaborate regularly with startups and established firms on business model innovation and data analytics projects.
+In teaching, I bring together rigorous scientific thinking and entrepreneurial practice. Drawing on experiences from universities with strong entrepreneurial cultures, I engage students in hands-on startup engineering and support them in developing and validating their own venture ideas through evidence-based experimentation. I also collaborate regularly with startups and established firms on business model innovation and data analytics.
 
 ## Interests
 
