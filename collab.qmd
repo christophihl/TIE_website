@@ -18,7 +18,7 @@ resources:
 ::: {.content-section}
 ::: {.content-block}
 
-## [Opportunities to Collaborate]{.section-heading}
+## Opportunities to Collaborate {.section-heading}
 
 ::: {.collab-intro .headline-special}
 Whether you are exploring a new business model, validating an innovation idea, building analytics capabilities, or seeking comprehensive evidence to base an important strategic decision on — we help you structure the problem, access the right methods, and translate results into practice.
@@ -84,7 +84,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 ::: {.content-section-alt}
 ::: {.content-block}
 
-## [Get in Touch]{.section-heading}
+## Get in Touch {.section-heading}
 
 ::: {.contact-section}
 
@@ -138,7 +138,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 <li>{{< fa brands linkedin >}} <a href="https://www.linkedin.com/school/tuaborgs/" target="_blank" rel="noopener">LinkedIn</a></li>
 </ul>
 
-[Meetings are typically by appointment — please send a short message to propose times.]{.contact-info__note}
+[Meetings by appointment — please send a short message to arrange.]{.contact-info__note}
 
 ::: {.contact-map}
 <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.968%2C53.458%2C9.976%2C53.462&layer=mapnik&marker=53.459695%2C9.971900" loading="lazy" title="TUHH Institute of Entrepreneurship location"></iframe>
