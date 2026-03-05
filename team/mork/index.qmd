@@ -78,14 +78,14 @@ listing:
 
 My research interests lie at the intersection of Econometrics & Machine Learning.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Econometrics
 - Machine Learning
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2020 - current]{.profile-education__year}

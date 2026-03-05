@@ -84,7 +84,7 @@ listing:
 
 My research interests include social network dynamics and computational social science with a focus on the computational analysis of language.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Digital entrepreneurship
@@ -94,7 +94,7 @@ My research interests include social network dynamics and computational social s
 - Natural language processing
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2019]{.profile-education__year}

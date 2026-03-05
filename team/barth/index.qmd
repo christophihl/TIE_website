@@ -77,7 +77,7 @@ listing:
 
 Synthetic Biology, Open Source, Institutional Entrepreneurship
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Synthetic biology
@@ -86,7 +86,7 @@ Synthetic Biology, Open Source, Institutional Entrepreneurship
 - Institutional entrepreneurship
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Consultant]{.profile-education__position}<br>[McKinsey & Company, Munich, Germany]{.profile-education__institution}<br>[2013 - current]{.profile-education__year}

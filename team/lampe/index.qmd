@@ -84,7 +84,7 @@ listing:
 
 My research interests lie at the intersection of Technology, Innovation and Entrepreneurship (TIE) and Public and Nonprofit Management (PNP).
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Public management
@@ -94,7 +94,7 @@ My research interests lie at the intersection of Technology, Innovation and Entr
 - Social evaluation of organizations
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Post-Doc]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - current]{.profile-education__year}

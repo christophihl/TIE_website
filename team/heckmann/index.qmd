@@ -77,7 +77,7 @@ listing:
 
 My research interests include cultural entrepreneurship, venture capital and natural language processing.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Cultural entrepreneurship
@@ -86,7 +86,7 @@ My research interests include cultural entrepreneurship, venture capital and nat
 - Social evaluation of organizations
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Research Assistant & Doctoral Student]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2017 - current]{.profile-education__year}

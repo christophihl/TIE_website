@@ -76,7 +76,7 @@ listing:
 
 My research interests include Crowdfunding, Blockchain Technology and Initial Coin Offerings.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Social networks
@@ -87,7 +87,7 @@ My research interests include Crowdfunding, Blockchain Technology and Initial Co
 - FinTech
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}

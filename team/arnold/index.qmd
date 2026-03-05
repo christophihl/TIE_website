@@ -73,7 +73,7 @@ listing:
 
 Venture Capital, Startup Distinctiveness, Social Evaluation
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Venture capital
@@ -81,7 +81,7 @@ Venture Capital, Startup Distinctiveness, Social Evaluation
 - Social evaluation
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [CEO]{.profile-education__position}<br>[Flightright, Berlin, Germany]{.profile-education__institution}<br>[2021 - current]{.profile-education__year}

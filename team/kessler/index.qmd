@@ -65,7 +65,7 @@ listing:
 
 Team Formation & Composition, Team Performance, New Venture Teams
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Team formation & composition
@@ -74,7 +74,7 @@ Team Formation & Composition, Team Performance, New Venture Teams
 - Sports team
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - current]{.profile-education__year}

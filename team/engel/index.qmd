@@ -71,7 +71,7 @@ listing:
 
 Transition to entrepreneurship, status, peer influence
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Transition to entrepreneurship
@@ -80,7 +80,7 @@ Transition to entrepreneurship, status, peer influence
 - Comic book industry
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Head of Data & AI Product Management]{.profile-education__position}<br>[Volkswagen Financial Services, Berlin, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}

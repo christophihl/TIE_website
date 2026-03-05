@@ -62,7 +62,7 @@ resources:
 
 Corporate Venture Capital, Startup Acquisitions, Event Studies
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Corporate venture capital
@@ -71,7 +71,7 @@ Corporate Venture Capital, Startup Acquisitions, Event Studies
 - Event studies
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2015 - 2019]{.profile-education__year}

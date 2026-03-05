@@ -88,7 +88,7 @@ Empirically, I focus on settings in which market, technological, social, or cult
 
 In teaching, I bring together rigorous scientific thinking and entrepreneurial practice. Drawing on experiences from universities with strong entrepreneurial cultures, I engage students in hands-on startup engineering and support them in developing and validating their own venture ideas through evidence-based experimentation. I also collaborate regularly with startups and established firms on business model innovation and data analytics.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Startup Strategy & Finance
@@ -98,7 +98,7 @@ In teaching, I bring together rigorous scientific thinking and entrepreneurial p
 - Creative Industries
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Professor & Head of Institute of Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - current]{.profile-education__year}

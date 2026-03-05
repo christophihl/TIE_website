@@ -77,13 +77,13 @@ listing:
 
 My research interests are technology entrepreneurship and venture capital financing.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Value Co-Creation between Startup Founders & Investors
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2022 - current]{.profile-education__year}

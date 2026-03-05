@@ -74,14 +74,14 @@ resources:
 
 ::: {.profile-main}
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Family
 - Garden
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Team and Project Manager at the Institute of Entrepreneurship]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2014 - current]{.profile-education__year}

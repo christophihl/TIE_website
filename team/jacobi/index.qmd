@@ -72,7 +72,7 @@ listing:
 
 Startup Failure, Media Sentiment, Social Judgement
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Startup failure
@@ -82,7 +82,7 @@ Startup Failure, Media Sentiment, Social Judgement
 - Social judgement
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Head of Transformation]{.profile-education__position}<br>[Syntegon / Bosch Packaging Technology]{.profile-education__institution}<br>[2019 - 2020]{.profile-education__year}

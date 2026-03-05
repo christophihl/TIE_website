@@ -72,7 +72,7 @@ listing:
 
 My research interests include science of science, computational social science and machine learning.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Science of science
@@ -82,7 +82,7 @@ My research interests include science of science, computational social science a
 - Computational social science
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Computational Social Science]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2016 - current]{.profile-education__year}

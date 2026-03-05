@@ -81,7 +81,7 @@ listing:
 
 Group behaviour, Crowdfunding, Early-stage Venture Financing
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Group behaviour
@@ -91,7 +91,7 @@ Group behaviour, Crowdfunding, Early-stage Venture Financing
 - Early-stage venture financing
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Co-Founder]{.profile-education__position}<br>[Valuecase GmbH, Hamburg, Germany]{.profile-education__institution}<br>[2021 -]{.profile-education__year}

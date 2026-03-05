@@ -88,7 +88,7 @@ listing:
 
 My research interests include the wide field of green technologies and sustainable entrepreneurship.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Green Technologies/Clean Technologies
@@ -96,7 +96,7 @@ My research interests include the wide field of green technologies and sustainab
 - Renewable Energy
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management & Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2023 - current]{.profile-education__year}

@@ -68,7 +68,7 @@ listing:
 
 Technology Transfer, Crowdsourcing, Academic Patenting, Nano Technology
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Technology transfer
@@ -77,7 +77,7 @@ Technology Transfer, Crowdsourcing, Academic Patenting, Nano Technology
 - Nano Technology
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [Data Scientist]{.profile-education__position}<br>[Airbus Defence and Space, Hamburg, Germany]{.profile-education__institution}<br>[2018 - current]{.profile-education__year}

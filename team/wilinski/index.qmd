@@ -85,7 +85,7 @@ listing:
 
 My research interests span across the wide field of AI and Machine Learning in combination with managerial and cultural implications.
 
-## Interests
+## Research Interests
 
 ::: {.profile-interests}
 - Machine Learning and AI especially in combination with NLP and Vision
@@ -93,7 +93,7 @@ My research interests span across the wide field of AI and Machine Learning in c
 - Social Engineering
 :::
 
-## Education
+## Appointments & Education
 
 ::: {.profile-education}
 - [PhD in Management & Engineering]{.profile-education__position}<br>[Hamburg University of Technology, Germany]{.profile-education__institution}<br>[2022 - current]{.profile-education__year}
