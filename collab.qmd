@@ -20,8 +20,8 @@ resources:
 
 ## [Opportunities to Collaborate]{.section-heading}
 
-::: {.collab-intro}
-Whether you are exploring a new business model, validating an innovation idea, building analytics capabilities, or designing an evidence-based entrepreneurship program — we help you structure the problem, access the right methods, and translate results into practice.
+::: {.collab-intro .headline-special}
+Whether you are exploring a new business model, validating an innovation idea, building analytics capabilities, or seeking comprehensive evidence to base an important strategic decision on — we help you structure the problem, access the right methods, and translate results into practice.
 :::
 
 ::: {.collab-grid}
@@ -31,7 +31,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 [Applied Research Projects]{.collab-card__title}
 
-[We partner on clearly defined research questions in entrepreneurship and innovation — typically with measurable outcomes, structured data collection, and rigorous analysis.]{.collab-card__desc}
+[We partner on clearly defined research questions related to innovation, entrepreneurship and organization — typically with measurable outcomes, structured data collection, and rigorous analysis.]{.collab-card__desc}
 :::
 
 ::: {.collab-card}
@@ -39,7 +39,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 [Data Science & AI Projects]{.collab-card__title}
 
-[We support analytics and AI work around innovation challenges, including machine learning, natural language processing, experimentation, and data-driven decision support.]{.collab-card__desc}
+[We support innovative challenges with data-driven methods, including machine learning, natural language processing, and experimentation.]{.collab-card__desc}
 :::
 
 ::: {.collab-card}
@@ -47,7 +47,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 [Company-Linked Theses]{.collab-card__title}
 
-[We supervise empirical theses with external partners when the topic fits our profile and offers a feasible research design (e.g., existing data, interviews, surveys, experiments).]{.collab-card__desc}
+[We supervise theses with company partners when the topic fits our profile and offers a feasible empirical research design (e.g., existing data, interviews, surveys, experiments).]{.collab-card__desc}
 :::
 
 ::: {.collab-card}
@@ -55,7 +55,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 [Workshops & Trainings]{.collab-card__title}
 
-[Hands-on formats for teams on topics such as startup engineering, business model innovation, experimentation, and data-driven innovation work.]{.collab-card__desc}
+[Hands-on formats for teams on topics such as startup engineering, business model innovation, experimentation, and evidence-based decision making.]{.collab-card__desc}
 :::
 
 ::: {.collab-card}
@@ -76,16 +76,6 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 :::
 
-::: {.collab-steps}
-
-### How to Get Started
-
-1. **Send a short description** of your goal, context, and preferred collaboration format.
-2. **We do a quick fit check** and propose a collaboration setup.
-3. **Scoping call:** align on question, methods, timeline, data access, and outputs.
-4. **Project start:** define responsibilities, milestones, and communication.
-
-:::
 
 :::
 :::
@@ -94,7 +84,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 ::: {.content-section-alt}
 ::: {.content-block}
 
-## [Contact]{.section-heading}
+## [Get in Touch]{.section-heading}
 
 ::: {.contact-section}
 
@@ -123,13 +113,7 @@ Whether you are exploring a new business model, validating an innovation idea, b
 
 <div class="form-group">
 <label class="form-label" for="subject">Subject *</label>
-<select class="form-input" id="subject" name="subject" required>
-<option value="" disabled selected>Please select...</option>
-<option value="Collaboration inquiry">Collaboration inquiry</option>
-<option value="Thesis collaboration (BSc/MSc)">Thesis collaboration (BSc/MSc)</option>
-<option value="Workshop / Training / Talk">Workshop / Training / Talk</option>
-<option value="Other">Other</option>
-</select>
+<input class="form-input" type="text" id="subject" name="subject" required>
 </div>
 
 <div class="form-group">
@@ -144,8 +128,6 @@ Whether you are exploring a new business model, validating an innovation idea, b
 :::
 
 ::: {.contact-info}
-
-[Get in Touch]{.contact-info__heading}
 
 <ul class="contact-info__details">
 <li>{{< fa building >}} Institute of Entrepreneurship (TIE)</li>

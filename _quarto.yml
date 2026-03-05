@@ -75,7 +75,7 @@ website:
       21073 Hamburg</span>
       </span>
       <span class='footer-social'>
-      <span class='footer-col-heading'>Get in touch</span><br><br>
+      <span class='footer-col-heading'>Contact</span><br><br>
       <span class='footer-col-body'>
       {{< fa envelope >}} : &nbsp;&nbsp;[startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)<br>
       {{< fa phone >}} : &nbsp;&nbsp;+49 (0)40 42878-3226<br>

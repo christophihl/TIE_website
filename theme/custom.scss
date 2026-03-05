@@ -2424,55 +2424,6 @@ details.course-toggle > div {
   margin: 0;
 }
 
-/* How to get started — numbered steps */
-.collab-steps {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.collab-steps h3 {
-  text-align: center;
-  font-size: 1.3rem;
-  font-weight: 700;
-  color: $text_blue;
-  margin-bottom: 1.5rem;
-}
-
-.collab-steps ol {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  counter-reset: step-counter;
-}
-
-.collab-steps li {
-  counter-increment: step-counter;
-  padding: 0.75rem 0 0.75rem 3rem;
-  position: relative;
-  border-bottom: 1px dashed rgba(0, 193, 212, 0.3);
-}
-
-.collab-steps li:last-child {
-  border-bottom: none;
-}
-
-.collab-steps li::before {
-  content: counter(step-counter);
-  position: absolute;
-  left: 0;
-  top: 0.75rem;
-  width: 2rem;
-  height: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: $tuhh_blue;
-  color: white;
-  font-weight: 700;
-  font-size: 0.9rem;
-  border-radius: 50%;
-}
-
 /* Contact section — 2-column layout */
 .contact-section {
   display: grid;
