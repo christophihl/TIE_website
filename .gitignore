@@ -16,3 +16,7 @@ z_TUHH_styles/
 CLAUDE.md
 
 **/*.quarto_ipynb
+
+# Encryption script (contains plaintext passwords/URLs)
+_scripts/encrypt_course_urls.py
+.venv/
