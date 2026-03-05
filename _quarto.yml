@@ -57,10 +57,8 @@ website:
             href: teaching.qmd#sec-upcoming-courses
           - text: Open Theses
             href: teaching.qmd#sec-open-theses
-      - href: transfer.qmd
-        text: Transfer
-      - href: contact.qmd
-        text: Contact
+      - href: collab.qmd
+        text: Collab
       # - icon: envelope
       #   href: "mailto:startup.engineer@tuhh.de"
 

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Transfer"
+pagetitle: "Collab"
 page-layout: custom
 section-divs: false
 toc: false
@@ -9,7 +9,7 @@ resources:
 ---
 
 ::: {.page-header style="background-image: url('assets/images/banners/practice.jpg');"}
-[Transfer]{.page-header__title}
+[Collab]{.page-header__title}
 
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
 :::
