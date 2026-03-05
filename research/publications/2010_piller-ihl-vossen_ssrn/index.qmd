@@ -24,4 +24,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Working-Paper
+- {{< fa calendar >}} 2010
+- {{< fa link >}} [DOI](https://doi.org/10.2139/ssrn.1732127)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank T. Piller, [Christoph Ihl](/team/ihl/), Alexander Vossen
+
+## Abstract
+
+Customer co-creation denotes an active, creative and social collaboration process between producers (retailers) and customers (users), facilitated by the company. Customers become active participants in an open innovation process of a firm and take part in the development of new products or services. In this paper, we provide a review of the evolution of customer co-creation and related forms of customer participation and suggest a typology of recent methods of co-creation (open innovation with customers). Our typology is based on three dimensions, addressing (i) the customers' autonomy in the process, (ii) the nature of the firm-customer collaboration (dyadic versus community based), and (iii) the stage of the innovation process when the customer integration takes place. Along these dimensions, we then present specific methods of customer co-creation. We conclude with a number of suggestions for further research.
+
+## Tags
+
+`Co-Creation` `Innovation Process` `Typology`
+
+:::
+
+:::
+:::
+:::

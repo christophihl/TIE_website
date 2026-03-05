@@ -21,9 +21,36 @@ expectations:
   - "Very good knowledge of English"
   - "Team player with an international mindset"
 weight: 50
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Supervised Label Prediction for Cosmetic Patents](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Master Thesis
+- {{< fa circle-check >}} Completed
+- {{< fa handshake >}} [Beiersdorf](https://www.beiersdorf.de)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Tasks
 
@@ -49,6 +76,8 @@ The focus of this thesis is on the analysis of a patent data set for predicting 
 - Experience in processing natural language
 - Experience in machine learning
 
-## Cooperation
+:::
 
-In cooperation with [Beiersdorf](https://www.beiersdorf.de)
+:::
+:::
+:::

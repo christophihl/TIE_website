@@ -32,4 +32,50 @@ authors:
 profile-pubs: ["specht", "wilinski", "thiesen", "ihl"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2025
+- {{< fa bookmark >}} Vol. 2025(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMPROC.2025.18846abstract)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Oliver Specht](/team/specht/), [Jonas Wilinski](/team/wilinski/), [Jürgen Christopher Thiesen](/team/thiesen/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+Venture Capital (VC) investments positively impact startup success, enhancing operational performance through factors like collaboration and value-added services. While research on investment decisions primarily focuses on investors' selection criteria and decision-making processes, our study addresses the gap in founders' perspective. Using Generative Pre-Trained Transformers (GPT) for text classification on a dataset of 8,561 online VC reviews, we extract 9,229 unique value-criteria from founders' perspectives. A text-embedding cluster method categorizes these criteria into 26 categories. By analyzing additional startup lifecycle data, we determine which value-criteria are crucial at different startup stages. Our findings reveal that investors' "general social skills" are the most important value-criteria across all startup stages, while more mature startups prioritize more self-serving criteria focused on growth and long-term relationships. Additionally, we observe that founders mostly fulfill the value-criteria by investors, with "general advice" being particularly well-executed.
+
+## Tags
+
+`Venture Capital` `Founders` `NLP` `GPT`
+
+:::
+
+:::
+:::
+:::

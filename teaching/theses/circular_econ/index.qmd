@@ -25,9 +25,37 @@ expectations:
   - "Thesis can be written in German or English"
   - "Thesis can be assigned to several students dealing with different data sources"
 weight: 90
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Business Intelligence for the Circular Economy](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Master Thesis
+- {{< fa circle-check >}} Completed
+- {{< fa user >}} [Christoph Ihl](/team/ihl/)
+- {{< fa handshake >}} [Grüner Hering](https://gruener-hering.de)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Motivation and Task
 
@@ -59,10 +87,8 @@ The goal of this thesis is to develop and implement an approach that makes the k
 - Thesis can be written in German or English
 - Thesis can be assigned to several students dealing with different data sources
 
-## Cooperation
+:::
 
-In cooperation with [Grüner Hering — Agentur für Circular Economy](https://gruener-hering.de)
-
-## Supervisor
-
-[Christoph Ihl](/team/ihl/) ([christoph.ihl@tuhh.de](mailto:christoph.ihl@tuhh.de))
+:::
+:::
+:::

@@ -26,4 +26,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Die Unternehmung
+- {{< fa calendar >}} 2012
+- {{< fa bookmark >}} Vol. 65(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5771/0042-059x-2012-1-7)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank T. Piller, Alexander Vossen, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+The objective of this paper is to discuss the impact of social media on customer co-creation in the innovation process. Customer co-creation denotes an active, creative and social collaboration process between producers and customers (users), facilitated by a company, in the context of new product or service development. The authors propose a typology of co-creation activities in order to develop conceptual arguments how social media can impact relationships among customers involved in co-creation as well as the relationship between customers and the hosting firm. Social media can make economic-exchange relations more collaborative and social, but interestingly may also turn formerly social-exchange relations into money markets with strong competition among actors. As a result, the authors develop a set of questions that can lead to future research in these regards.
+
+## Tags
+
+`Social Media` `Co-Creation` `Innovation`
+
+:::
+
+:::
+:::
+:::

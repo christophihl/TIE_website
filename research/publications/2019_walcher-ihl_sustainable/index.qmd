@@ -25,4 +25,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2019
+- {{< fa link >}} [DOI](https://doi.org/10.1007/978-3-658-27241-8_18)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Dominik Walcher, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+The manufacturing and disposal of shoes is a widely underestimated environmental problem. A regular shoe consists of up to thirty parts of different materials, such as leather, synthetics, rubber and textile, which are inseparably stitched or glued together and treated most often with hazardous chemicals to achieve the desired physical qualities. More and more companies start to produce and sell eco-friendly shoes. In this paper consumer behaviour in the field of eco-friendly shoes is analyzed. The results of the study demonstrate that there is a direct impact of Social Responsibility, Perceived Personal Relevance, Lack of Trust and Lack of Product Benefit on the Willingness to Pay as well as a moderating effect of Product Information Demand.
+
+## Tags
+
+`Sustainability` `Willingness to Pay` `Consumer Behavior`
+
+:::
+
+:::
+:::
+:::

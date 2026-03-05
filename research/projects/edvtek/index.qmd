@@ -10,7 +10,39 @@ categories:
   - Impact Assessment
   - Natural Language Processing
   - Neural Networks
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Project EDV-TEK](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa tags >}} Clean Technologies
+- {{< fa tags >}} Patent Classification
+- {{< fa tags >}} Novelty Assessment
+- {{< fa tags >}} Impact Assessment
+- {{< fa tags >}} Natural Language Processing
+- {{< fa tags >}} Neural Networks
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Abstract
 
@@ -30,4 +62,10 @@ As for **exploitation**, the project is focusing on the commercialization of tec
 ![Funded by the Federal Ministry of Research, Technology and Space](Foerderhinweis_BMFTR.png)
 
 ![Funded by the European Union](Foerderhinweis_EU_horizontal.jpg)
+:::
+
+:::
+
+:::
+:::
 :::

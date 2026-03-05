@@ -24,4 +24,51 @@ authors:
 profile-pubs: ["lampe"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Journal of Small Business Management
+- {{< fa calendar >}} 2019
+- {{< fa bookmark >}} Vol. 57(4), pp. 1712-1737
+- {{< fa link >}} [DOI](https://doi.org/10.1111/jsbm.12448)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Michael Fretschner, [Hannes W. Lampe](/team/lampe/)
+
+## Abstract
+
+Recently, scholars are confronted with only small positive, non-existing, or even negative average effects of entrepreneurship education. We draw on two largely neglected and hidden effects of entrepreneurship education, namely the alignment and the sorting effect, in order to explain previous inconsistent evaluation outcomes. Making use of ex ante and ex post student-surveys in a quasi-experimental setting, we provide insights into how these effects emerge and are further amplified by course-induced updates in personal attitudes and perceived behavioral control. Our study shows that relying on average measures is often not effective in evaluating entrepreneurship courses and highlights the need for new outcomes measures.
+
+## Tags
+
+`Entrepreneurship Education` `Selection Effects`
+
+:::
+
+:::
+:::
+:::

@@ -20,4 +20,49 @@ authors:
 profile-pubs: ["arnold"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2018
+- {{< fa link >}} [DOI](https://doi.org/10.15480/882.1619)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan-Frederik Arnold](/team/arnold/)
+
+## Abstract
+
+Die Dissertation analysiert den Effekt von Kategorischem-Fit zwischen Venture Capital Firmen und Startups auf den Finanzierungsprozess. Die Arbeit nutzt Marktkategorien für die Messung des Startup-Neuigkeitswert und der kulturellen Distanz zwischen Venture Capital Firmen und Startups. Die Analyse von Finanzierungsdaten über einen 11 Jahreszeitraum bestätigt, dass erfahrene und mit hohem Status versehene Venture Capital Firmen einen höheren Neuigkeitswert bevorzugen und kulturelle Distanz weniger relevant ist für die Finanzierungsentscheidung, wenn die Venture Capital Firmen ein diversifiziertes Portfolio und einen hohen Status haben.
+
+## Tags
+
+`Venture Capital` `Categorical Fit` `Startup Investment`
+
+:::
+
+:::
+:::
+:::

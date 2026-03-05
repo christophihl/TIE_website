@@ -27,4 +27,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Engineering Management Journal
+- {{< fa calendar >}} 2011
+- {{< fa bookmark >}} Vol. 23(4), pp. 3-13
+- {{< fa link >}} [DOI](https://doi.org/10.1080/10429247.2011.11431915)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank Steiner, [Christoph Ihl](/team/ihl/), Frank Piller, Refik Tarcan Tarman
+
+## Abstract
+
+A main challenge in new product development (NPD) is to match a new design to customer preferences. Recent reviews show large failure rates in the commercialization of new designs. In most of the cases, the reason of failure has not been a lack of technological capability of the firm, but an incorrect understanding of real customer needs and demands. This article proposes a potential solution for this issue—the concept of embedded open toolkits for user innovation. The concept of embedded open toolkits for user innovation plans for manufacturers to design products with build-in flexibility, so that customers can make changes to the product, even after purchase. This is done by embedding knowledge and rules about possible product differentiations into the product. The main objective of this article is to study the feasibility of the concept of embedded open toolkits. For this purpose an empirical study among 162 potential users of such a toolkit in the automotive domain was conducted.
+
+## Tags
+
+`User Innovation` `Toolkits` `Product Development`
+
+:::
+
+:::
+:::
+:::

@@ -24,4 +24,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Local Government Studies
+- {{< fa calendar >}} 2017
+- {{< fa bookmark >}} Vol. 43(5), pp. 707-730
+- {{< fa link >}} [DOI](https://doi.org/10.1080/03003930.2017.1324428)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/)
+
+## Abstract
+
+In the public sector, innovation is understood as a major driver of public service performance improvement and excellence. On the one hand, previous research has proven a positive effect of innovation adoption on performance in the public sector. On the other hand, a broad literature proves positive effects of innovation antecedents on innovation adoption. This study bridges this gap and analyses the effect of an innovation antecedent – willingness to adopt a process innovation (accrual accounting) – on municipalities’ service provision cost-efficiency. Therefore, the author makes use of a panel data set of German municipalities, located in the federal state of North Rhine-Westphalia. Evidence shows that a higher municipal willingness to innovate relates to higher cost-efficiency. A higher innovation willingness might have a maximal effect of 17 percentage points on municipality cost-efficiency.
+
+## Tags
+
+`Process Innovation` `Public Sector` `Efficiency`
+
+:::
+
+:::
+:::
+:::

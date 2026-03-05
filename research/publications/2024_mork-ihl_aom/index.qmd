@@ -27,4 +27,50 @@ authors:
 profile-pubs: ["mork", "ihl"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2024
+- {{< fa bookmark >}} Vol. 2024(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMPROC.2024.18562abstract)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Oliver Mork](/team/mork/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+Given that mass media can confer organizational legitimacy and act as an information intermediary between startups and relevant stakeholders, we examine the process of establishing legitimacy and the response to failure across different cultural settings. Employing state-of-the-art natural language processing models, we extract sentiments from a sample of 2,041,607 sentences covering 67,306 startups from the United States, the United Kingdom, and Germany. Utilizing robust econometric methods, we reveal pronounced cultural differences in the character of media coverage for both operating and closed startups. Specifically, German media tends to portray domestic startups less positively, while the United States exhibits the most positive coverage, with the United Kingdom falling in between. Notably, our findings include a positive in-group bias solely for operating startups in the United States, while Germany displays a negative in-group bias for both operating and closed startups. Our study underscores the role of national culture, the importance of comparative entrepreneurship research, and the heterogeneous nature of entrepreneurial phenomena among different cultures.
+
+## Tags
+
+`Startup Failure` `Media Coverage` `Culture`
+
+:::
+
+:::
+:::
+:::

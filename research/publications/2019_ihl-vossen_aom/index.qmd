@@ -26,4 +26,50 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2019
+- {{< fa bookmark >}} Vol. 2019(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMBPP.2019.312)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), Alexander Vossen
+
+## Abstract
+
+We study how unsolicited user behavior, such as infringing copyrights, serves as a market signal that impacts both affected organizations and audiences. We find that the behavior is perceived twofold: While it increases uncertainty for organizational audiences, it decreases uncertainty for users. The increase of uncertainty is fueled by loss prospects particularly pronounced for products that are financially successful and critically acclaimed. The decrease of uncertainty is founded on quality endorsement and promotional effects particularly prominent for products that receive unsolicited user behavior from central, prominent users. Our empirical field is International Anime TV series from which we analyze 1,290 series consisting of 35,627 episodes that aired between 2002 and 2011. We assess more than 32,000 copyright infringement incidents and more than 3,000 groups of so-called Fansubbers from the U.S. who record Japanese TV series, modify, and distribute those recordings online both prior and in parallel to commercial availability. We find that infringements that a series receives make organizations ponder longer before they make them available by licensing and exporting them. However, after licensing and export, those infringed series attract more users and thus sell significantly better on Amazon.com.
+
+## Tags
+
+`User Behavior` `Market Signals` `Copyright`
+
+:::
+
+:::
+:::
+:::

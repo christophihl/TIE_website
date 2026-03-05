@@ -23,4 +23,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Working-Paper
+- {{< fa calendar >}} 2012
+- {{< fa link >}} [DOI](https://doi.org/10.2139/ssrn.2164766)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), Frank T. Piller, Philipp Wagner
+
+## Abstract
+
+In the past decade, research on open innovation has brought renewed attention to ways how firms can gain from the interaction with external sources of knowledge and innovation. Complementary internal management practices, however, that explain why some firms benefit from open innovation more than others are still largely unexplored. This study adopts the notion of open innovation as external knowledge search and investigates its mutual interdependence with internal organizational structures of a firm's innovation function. Drawing upon behavioral theories about organizational search and information processing, we hypothesize how structural dimensions such as specialization, formalization and decentralization affect gains from open innovation. Based on a sample of German manufacturing firms, we find higher performance gains from open innovation by aligning internal organizational structures in terms of lower specialization as well as higher formalization and decentralization. These organizational contingencies of open innovation are further emphasized in light of firms' internal R&D intensity: (1) Low specialization is especially beneficial for firms that try to align open innovation in a complementary fashion with their high internal R&D intensity. (2) Higher formalization and decentralization is essential for firms that try to substitute their low internal R&D intensity by the means of open innovation.
+
+## Tags
+
+`Open Innovation` `Organizational Design` `Knowledge Search`
+
+:::
+
+:::
+:::
+:::

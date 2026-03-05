@@ -24,4 +24,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2014
+- {{< fa link >}} [DOI](https://doi.org/10.4324/9780203963609)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Ralf Reichwald, Frank Piller, Sascha Seifert, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+According to some authors, the development of new information and communication technologies (ICT) is slowly undermining the traditional economic reasons behind hierarchical forms of economic transactions. Even the importance and necessity of customer relationships as a mode of economic exchange between firms and customers has been put into question due to the rise of new ICT, particularly new media and the Internet. According to this view, which has become known as the 'move-to-the-market' hypothesis, electronic commerce is assumed to encourage market transparency and price competition and thus favour free market rather than hierarchical, corporate structures (Malone et al. 1987). At the same time, however, new ICT may also improve a firm's absorptive capacity for customer knowledge by allowing virtual means of customer integration and interaction – a strategy we call open innovation. In this chapter, we focus on the micro level of the development and use of ICT. An individual actor can be regarded not only as an adaptor but also as a creator in the sense of shaping institutional settings.
+
+## Tags
+
+`Open Innovation` `ICT` `Product Development`
+
+:::
+
+:::
+:::
+:::

@@ -26,4 +26,51 @@ authors:
 profile-pubs: ["lampe"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} International Journal of Innovation Management
+- {{< fa calendar >}} 2021
+- {{< fa bookmark >}} Vol. 25(08)
+- {{< fa link >}} [DOI](https://doi.org/10.1142/S1363919621500894)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+Open innovation, in the form of inbound and outbound open innovation, is an ever-increasing research field. Research into outbound open innovation (i.e., the inside-out process) focused mostly on the commercialisation of internal knowledge. However, we know very little about firms' voluntary nonpecuniary knowledge disclosure. This paper sheds light on this understudied research field by conducting a quantitative study that identifies which internal and external conditions foster firms' knowledge disclosures. The results show that firms' strategies to influence (i) the market and the competition and (ii) external spillovers are drivers of firms' knowledge disclosures. Further, the moderating roles of environmental characteristics are shown. Firms' environmental technological dynamism is found to strengthen the positive relationships between influencing external spillovers and knowledge disclosure. In contrast, the relationships between influencing the market and the competition and knowledge disclosure are negatively moderated by a firm's environmental technological dynamism.
+
+## Tags
+
+`Knowledge Disclosure` `Open Innovation`
+
+:::
+
+:::
+:::
+:::

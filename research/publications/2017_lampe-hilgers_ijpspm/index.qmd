@@ -24,4 +24,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} International Journal of Public Sector Performance Management
+- {{< fa calendar >}} 2017
+- {{< fa bookmark >}} Vol. 3(1), pp. 40-58
+- {{< fa link >}} [DOI](https://doi.org/10.1504/IJPSPM.2017.082499)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/), Dennis Hilgers
+
+## Abstract
+
+For decades the public sector seems incapable to not incur new debt or even save money to overcome the omnipresent stressed financial situation. This grievance is pervasive over several levels of public sector entities including municipalities, the federal states as well as central/national tier. On the local level, bailouts in form of loan repayment are understood as measures to deliver a sustainable solution to and thus overcome the stressed financial situations of municipalities. This study presents empirical evidence for a positive correlation of debt and cost inefficiency of municipalities' service provision. Furthermore, interest payments have a minor impact on this cohesion. These findings show that repayments of municipalities' debts are not a sustainable solution to overcome the stressed financial situation on the local government level. Highly indebted municipalities are inefficient in their service provision anyway.
+
+## Tags
+
+`Public Finance` `Local Government`
+
+:::
+
+:::
+:::
+:::

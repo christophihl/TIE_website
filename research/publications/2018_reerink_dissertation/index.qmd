@@ -21,4 +21,49 @@ authors:
 profile-pubs: ["reerink"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2018
+- {{< fa link >}} [DOI](https://doi.org/10.15480/882.1911)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan Reerink](/team/reerink/)
+
+## Abstract
+
+Die vorliegende Arbeit untersucht mehrere Technologietranferkanäle im Kontext des Wissenstransfers von Universitäten in die Industrie. Sowohl traditionelle Transferkanäle wie zum Beispiel kollaborative Forschung oder akademisches Patentieren sowie innovative Alternativen wie broadcast search werden berücksichtigt. Beiträge zu Theorie und politische Implikationen können durch den Einsatz neuartiger Methoden aus dem Bereich Data Science gewonnen werden.
+
+## Tags
+
+`Knowledge Transfer` `University-Industry` `Technology Transfer`
+
+:::
+
+:::
+:::
+:::

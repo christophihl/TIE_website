@@ -33,9 +33,38 @@ time-location:
   - "Creation of Business Opportunities (PBL I): Monday, 15:00–17:15, Building N, Room 0008"
   - "Creation of Business Opportunities (PBL II): Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.01"
   - "Creation of Business Opportunities (PBL III): Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.08"
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Technology Entrepreneurship](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa graduation-cap >}} 6 ECTS
+- {{< fa layer-group >}} Master
+- {{< fa calendar >}} ST2026
+- {{< fa user-group >}} IWI, LIM, GTIME, Engineering, Erasmus
+- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=2ea2b1cf8a627f6e537364e700b77f4a&again=yes)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Credits
 
@@ -131,3 +160,9 @@ Please register for the entire module **Technology Entrepreneurship** here: [e-l
 | 10 | June 30 | Marketing & Sales for Startup Growth |
 | 11 | July 7 | Financial Analysis |
 | 12 | July 14 | Final Pitches |
+
+:::
+
+:::
+:::
+:::

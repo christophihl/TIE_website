@@ -19,7 +19,39 @@ links:
     url: "https://www.innovationgrowthlab.org/blog/choosing-team-members-versus-ideas"
   - name: "AEA's RCT registry"
     url: "https://www.socialscienceregistry.org/trials/1179"
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Choosing Team Members versus Ideas](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa tags >}} Entrepreneurial Teams
+- {{< fa tags >}} Organizational Design
+- {{< fa tags >}} Autonomy
+- {{< fa tags >}} Team Formation
+- {{< fa tags >}} Idea Choice
+- {{< fa tags >}} Field Experiment
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Abstract
 
@@ -40,3 +72,9 @@ The impact of these interventions on early entrepreneurial success will be measu
 {{< fa blog >}} [Project Blog Post 2](https://www.innovationgrowthlab.org/blog/choosing-team-members-versus-ideas)
 
 {{< fa registered >}} [AEA's RCT registry](https://www.socialscienceregistry.org/trials/1179)
+
+:::
+
+:::
+:::
+:::

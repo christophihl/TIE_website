@@ -21,4 +21,49 @@ authors:
 profile-pubs: ["jacobi"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2018
+- {{< fa link >}} [DOI](https://doi.org/10.15480/882.1630)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Matthias Jacobi](/team/jacobi/)
+
+## Abstract
+
+Die Doktorarbeit zum Thema „Mediale Berichterstattung über unternehmerisches Scheitern - Implikationen für Gründers“ vergleicht die Berichterstattung über das Scheitern von Startups in Deutschland und den USA. Es lässt sich zeigen, dass US Medien deutlich positiver über gescheiterte Startups berichten, als es deutsche Medien tun.
+
+## Tags
+
+`Media` `Entrepreneurial Failure` `Social Evaluation`
+
+:::
+
+:::
+:::
+:::

@@ -28,4 +28,51 @@ authors:
 profile-pubs: ["lampe"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Journal of Product Innovation Management
+- {{< fa calendar >}} 2025
+- {{< fa bookmark >}} Vol. 42(3), pp. 502-527
+- {{< fa link >}} [DOI](https://doi.org/10.1111/jpim.12766)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/), Jorn Block, Thorben Willeke, Thomas Clauss, Holger Steinmetz
+
+## Abstract
+
+The hidden champion concept has received much interest in practice. As market leaders in niche markets, hidden champions represent the success of the (German) Mittelstand. Innovation is a key element of their strategy and their focus and niche market strategy are associated with specific technological capabilities. However, thus far, little quantitative empirical evidence exists about the innovation output of hidden champions. Drawing on a capability perspective and using patent data, the present study analyzes differences between hidden champions and comparable non‐hidden champion firms in their technological innovation. Our results show that hidden champions have a significantly larger technological innovation output but do not have a higher efficiency in their innovation creation compared to other firms from the same industry, size, and age. Moreover, the innovations produced by hidden champions show higher levels of technological depth and indicate lower levels of technological breadth. The sources of technological knowledge of hidden champions seem to be more inward oriented. Finally, innovations of hidden champions have similar technological impact, novelty and quality compared to those of other firms. Overall, our study supports many of the anecdotal beliefs about the innovation of hidden champions contributing to a better understanding of what makes hidden champions different from other Mittelstand firms. Practical implications for hidden champions and Mittelstand firms are discussed.
+
+## Tags
+
+`Hidden Champions` `Patents` `Innovation`
+
+:::
+
+:::
+:::
+:::

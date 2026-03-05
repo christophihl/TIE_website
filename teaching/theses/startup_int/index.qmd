@@ -22,9 +22,37 @@ expectations:
   - "IWI Master students with an interest in startups and internationalization"
   - "Thesis can be written in German or English"
 weight: 60
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Internationalization of Startups](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Master Thesis
+- {{< fa circle-check >}} Completed
+- {{< fa user >}} [Christoph Ihl](/team/ihl/)
+- {{< fa handshake >}} [Tiplu](https://tiplu.de/)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Task
 
@@ -43,10 +71,8 @@ The thesis project is conducted in close cooperation with Tiplu GmbH: Tiplu is a
 - IWI Master students with an interest in startups and internationalization
 - Thesis can be written in German or English
 
-## Cooperation
+:::
 
-In cooperation with [Tiplu](https://tiplu.de/)
-
-## Supervisor
-
-[Christoph Ihl](/team/ihl/) ([christoph.ihl@tuhh.de](mailto:christoph.ihl@tuhh.de))
+:::
+:::
+:::

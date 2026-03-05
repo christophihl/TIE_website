@@ -26,4 +26,49 @@ authors:
 profile-pubs: ["schwarz"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2019
+- {{< fa link >}} [DOI](https://doi.org/10.1007/978-3-658-25412-4_7)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Joschka Schwarz](/team/schwarz/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+In den letzten Jahren haben Unternehmen in fast allen Branchen eine Reihe von Initiativen zur Identifizierung neuer digitaler Technologien und zur Nutzung ihrer Vorteile durchgeführt (Technology Foresight). Sowohl die Weiterentwicklung bestehender als auch die Implementierung neuer Technologien führt zu einer digitalen Transformation der gesamten Wertschöpfungskette, die nahezu alle Produkte und Prozesse sowie Organisationsstrukturen und Managementkonzepte betrifft (Kersten et al., 2017). Die möglichen Vorteile der Digitalisierung sind vielfältig und umfassen unter anderem Umsatz- oder Produktivitätssteigerungen, Innovationen in der Wertschöpfung sowie neuartige Formen der Interaktion mit Kunden. Durch die Anwendung von Technologien wie beispielsweise künstlicher Intelligenz, maschinellem Lernen oder der Blockchain-Technologie können ganze Geschäftsmodelle transformiert oder ersetzt werden (Downes und Nunes, 2015).
+
+## Tags
+
+`Digital Technologies` `Startups` `Operations Management`
+
+:::
+
+:::
+:::
+:::

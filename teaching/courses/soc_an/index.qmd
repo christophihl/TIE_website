@@ -26,9 +26,38 @@ categories:
 time-location:
   - "Deep Learning for Text and Graphs: Thursday, 15:00–16:30, Room HS28-0.08"
   - "Social Analytics with Deep Learning: Thursday, 16:45–19:00, Room HS28-0.08"
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Deep Learning for Social Analytics](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa graduation-cap >}} 6 ECTS
+- {{< fa layer-group >}} Master
+- {{< fa calendar >}} WT2026
+- {{< fa user-group >}} Data Science, IWI
+- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Credits
 
@@ -128,3 +157,9 @@ Access to course notes & materials will be published on StudIP.
 - Ma, Y., & Tang, J. (2021). Deep learning on graphs. Cambridge University Press.
 - Rao, D., & McMahan, B. (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. O'Reilly Media.
 - Tunstall, L., Von Werra, L., & Wolf, T. (2022). Natural language processing with transformers. O'Reilly Media.
+
+:::
+
+:::
+:::
+:::

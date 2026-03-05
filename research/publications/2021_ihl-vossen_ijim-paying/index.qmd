@@ -26,4 +26,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} International Journal of Innovation Management
+- {{< fa calendar >}} 2021
+- {{< fa bookmark >}} Vol. 25(04)
+- {{< fa link >}} [DOI](https://doi.org/10.1142/S1363919621500444)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), Alexander Vossen
+
+## Abstract
+
+Monetary rewards have become widely used to compensate user engagement in innovation contests. Building on literature on social judgement of organisations, we provide evidence on another important effect of monetary rewards in innovation contests, namely a signalling effect that may either enhance or lower a contest host’s legitimacy and subsequently users’ willingness to participate in the contest. Along three studies, we show that the signalling effect is especially beneficial for the innovation contest purposes that are incongruent with the host’s organisational stereotype, i.e., in cases where she lacks specific organisational traits that constitute users’ perception of organisational legitimacy. Offering a higher monetary reward in such a scenario allows hosts to overcome a lack of legitimacy and consequently foster user participation.
+
+## Tags
+
+`Innovation Contests` `Monetary Rewards` `Signaling`
+
+:::
+
+:::
+:::
+:::

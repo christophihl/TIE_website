@@ -25,4 +25,45 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2013
+- {{< fa link >}} [DOI](https://doi.org/10.7551/mitpress/9202.003.0013)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank Piller, [Christoph Ihl](/team/ihl/)
+
+## Tags
+
+`Co-Creation` `Open Innovation` `Customers`
+
+:::
+
+:::
+:::
+:::

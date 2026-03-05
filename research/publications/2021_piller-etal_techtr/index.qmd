@@ -28,4 +28,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2021
+- {{< fa link >}} [DOI](https://doi.org/10.1007/978-3-030-61477-5_13)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank Piller, Dennis Hilgers, [Christoph Ihl](/team/ihl/), Lisa Schmidthuber
+
+## Abstract
+
+The use of Internet platforms such as open innovation platforms is a quite new strategy in innovation management that marks a rethinking from classical principles of coordination in innovation processes. Instead of relying exclusively on the internal expertise of their own researchers and developers, companies are increasingly integrating external problem-solvers (often supported by so-called innovation intermediaries) into their innovation processes. As an alternative to conducting traditional research or commissioning engineering service providers or academics with third-party contracts, a large, undefined network of actors are openly invited to participate in the innovative project (known as the "broadcast search" principle).
+
+## Tags
+
+`Open Innovation` `Technology Transfer` `Broadcast Search`
+
+:::
+
+:::
+:::
+:::

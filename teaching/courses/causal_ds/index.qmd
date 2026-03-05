@@ -22,9 +22,38 @@ categories:
 time-location:
   - "Causal Data Science (Lecture): Monday, 11:30–13:00, Building D, Room D-1.023"
   - "Business Analytics with Causal Data Science (PBL): Tuesday, 15:00–16:30, Building O, Room O-0.007"
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Causal Data Science for Business Analytics](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa graduation-cap >}} 6 ECTS
+- {{< fa layer-group >}} Master
+- {{< fa calendar >}} ST2026
+- {{< fa user-group >}} Data Science, IWI
+- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=b2dab409b613169174824b57d759cc67&again=yes)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Credits
 
@@ -128,3 +157,9 @@ Access to course notes & materials will be published on StudIP.
 - Pearl, Judea, and Dana Mackenzie (2018). The Book of Why. Basic Books.
 - Pearl, Judea, Madelyn Glymour, and Nicholas P. Jewell (2016). Causal Inference in Statistics: A Primer. Wiley.
 - Peters, Jonas, Dominik Janzing, and Bernhard Schölkopf (2017). Elements of causal inference: foundations and learning algorithms. MIT Press.
+
+:::
+
+:::
+:::
+:::

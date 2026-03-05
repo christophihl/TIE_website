@@ -28,4 +28,50 @@ authors:
 profile-pubs: ["reerink"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2015
+- {{< fa bookmark >}} Vol. 2015(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/ambpp.2015.12412abstract)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan Reerink](/team/reerink/), [Christoph Ihl](/team/ihl/), Thomas Walter
+
+## Abstract
+
+Based on prior research on academic patenting and self-determination theory, we highlight the importance of scientist' self-determined motivation to engage in academic patenting, a "taste for patents". In a large scale empirical study, we can show that this self-determined taste for patenting arises among scientists that publish less, but more extensively engage with industry and work in faculties with patenting peers. Rather than crowding out external incentives can actually boost self-determined motivation. In conclusion, universities which want to become more entrepreneurial should either recruit scientists based on an inherent motivation to patent.
+
+## Tags
+
+`Academic Patenting` `Motivation` `Incentives`
+
+:::
+
+:::
+:::
+:::

@@ -24,4 +24,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Marketing Review St. Gallen
+- {{< fa calendar >}} 2010
+- {{< fa bookmark >}} Vol. 27(4), pp. 8-13
+- {{< fa link >}} [DOI](https://doi.org/10.1007/s11621-010-0071-0)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), Frank Piller
+
+## Abstract
+
+Markt- und Kundenorientierung gilt als notwendige Bedingung für den Unternehmenserfolg. In der Marketingtheorie und -praxis greift das Konzept aber oft zu kurz, weil in vielen klassischen Ansätzen eine Kopplung an Innovationsaktivitäten ganz fehlt oder ein eher passives Kundenbild dominiert, das Kunden als aktive Innovatoren ausblendet. Dieser Beitrag spannt einen Handlungsrahmen für die systematische Umsetzung von Customer Co-Creation, das heißt der aktiven Kundenintegration im Innovationsprozess.
+
+## Tags
+
+`Customer Co-Creation` `Innovation Process`
+
+:::
+
+:::
+:::
+:::

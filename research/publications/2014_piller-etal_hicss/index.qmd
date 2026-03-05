@@ -25,4 +25,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2014
+- {{< fa link >}} [DOI](https://doi.org/10.1109/HICSS.2014.403)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank Piller, Thorsten Harzer, [Christoph Ihl](/team/ihl/), Fabrizio Salvador
+
+## Abstract
+
+Mass customization (MC), i.e. offering customers exactly what they want without losing in operational efficiency, has been positioned as a viable business strategy in ecommerce for many years. Still, many companies have failed in implementing profitable MC. We explain these failures by the lack of strategic capabilities in these firms and examine their effect on firm performance, drawing on a survey of 115 firms offering customized consumer goods on the internet. We build on complementarity theory and examine how multiple core elements of a MC strategy enhance company performance. We find that successful MC is based on the integration of various different organizational elements. Methodologically, we develop a set of valid and reliable instruments to measure three sub-dimensions of MC capability. We give advice to managers how firms pursuing MC can build all three capabilities complementarily to attain strategic differentiation and competitive advantage.
+
+## Tags
+
+`Mass Customization` `E-Commerce` `Strategic Capabilities`
+
+:::
+
+:::
+:::
+:::

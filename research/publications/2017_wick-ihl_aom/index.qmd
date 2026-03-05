@@ -27,4 +27,50 @@ authors:
 profile-pubs: ["wick"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2017
+- {{< fa bookmark >}} Vol. 2017(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMBPP.2017.17609abstract)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan Niklas Wick](/team/wick/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+After having used own funds and potentially borrowed from friends and families, young ventures often reach out to external investors to obtain capital in exchange for equity. In absence of standard means of evaluation, the market for venture financing is characterized by high uncertainty and information asymmetries between players requiring young ventures to invest significant effort in effectively signaling their quality to potential investors. Due to the large numbers of ventures seeking financing investors typically use rapid categorization and filtering mechanism to focus their efforts on the most promising ventures. In the context of the recently established equity crowdfunding providing funds in exchange for equity we highlight the importance for young ventures to diligently assess with whom to partner or not. Building on a comprehensive sample of the funding activities of young ventures that is matched and, hence, balanced in terms of seven key quality controls, we find support for our theory that despite being of the same quality, deviating from the norm in absence of clear a rationale and obtaining equity crowdfunding in a first funding round acts as a negative signal in subsequent funding rounds. In line with prior literature we additionally find that such a negative signal can be mitigated through a greater funding amount in the first round and prior experience of second round investors with equity crowdfunding.
+
+## Tags
+
+`Crowdfunding` `Signaling` `Venture Finance`
+
+:::
+
+:::
+:::
+:::

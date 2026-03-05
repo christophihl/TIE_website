@@ -21,4 +21,49 @@ authors:
 profile-pubs: ["mork"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2025
+- {{< fa link >}} [DOI](https://doi.org/10.15480/882.16044)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Oliver Mork](/team/mork/)
+
+## Abstract
+
+This dissertation embarks on two complementary paths: (i) it investigates how contextual and structural factors influence entrepreneurial intention, success, and recovery from failure, and (ii) it highlights recent advancements in causal inference, focusing on the identification of treatment effects through valid and robust research designs. The work offers new insights into key phenomena across the entrepreneurial life cycle and proposes methodological approaches to address empirical challenges in entrepreneurship and management science.
+
+## Tags
+
+`Entrepreneurship` `Causal Inference` `Startup Failure`
+
+:::
+
+:::
+:::
+:::

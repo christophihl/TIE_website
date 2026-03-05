@@ -10,7 +10,39 @@ categories:
   - Innovation Ecosystems
   - Institutional Change
   - Learning Labs
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Project SMILE](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa tags >}} Smart Manufacturing
+- {{< fa tags >}} Deep Tech
+- {{< fa tags >}} Entrepreneurship Education
+- {{< fa tags >}} Innovation Ecosystems
+- {{< fa tags >}} Institutional Change
+- {{< fa tags >}} Learning Labs
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Abstract
 
@@ -33,3 +65,9 @@ Over its two phases (July 2021 – July 2023), SMILE supported 13 start-ups, tra
 ## Funding
 
 ![Supported and co-funded by EIT and the European Union](Foerderhinweis_EU.png)
+
+:::
+
+:::
+:::
+:::

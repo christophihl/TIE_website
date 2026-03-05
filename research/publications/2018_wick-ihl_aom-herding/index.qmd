@@ -27,4 +27,50 @@ authors:
 profile-pubs: ["wick"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2018
+- {{< fa bookmark >}} Vol. 2018(1)
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMBPP.2018.16013abstract)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan Niklas Wick](/team/wick/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+In online, crowd-based investment markets, nonexpert individuals collectively make investment decisions that were previously left to experts. Being carried out publicly on an online platform, the funding process gives these individuals opportunity to observe the actions of others before deciding themselves. Using a unique dyadic panel data set that tracks online, crowd-based investments into startups, we study how individuals are influenced in their investment decisions by prior actions of others. We find evidence that individuals engage in herd behaviour and are more likely to invest into campaigns exhibiting a higher funding momentum. Counterintuitively, investors are at the same time less likely to invest into campaigns that exhibit high counts of already committed investors, indicating that individuals do not herd after herd.
+
+## Tags
+
+`Crowdfunding` `Herding` `Expert Influence`
+
+:::
+
+:::
+:::
+:::

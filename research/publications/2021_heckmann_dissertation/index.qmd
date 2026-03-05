@@ -22,4 +22,45 @@ authors:
 profile-pubs: ["heckmann"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2021
+- {{< fa arrow-up-right-from-square >}} [Link](https://tore.tuhh.de/entities/publication/daaa686b-d3aa-4a5c-8784-b4cf0313ab70)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jens Heckmann](/team/heckmann/)
+
+## Tags
+
+`Media` `Legitimacy` `Venture Funding`
+
+:::
+
+:::
+:::
+:::

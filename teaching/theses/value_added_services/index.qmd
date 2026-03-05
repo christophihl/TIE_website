@@ -21,9 +21,36 @@ expectations:
   - "Good knowledge of English"
   - "Interest in startup financing and value co-creation"
 weight: 40
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Startup Funding — Is It All About The Money?](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Bachelor/Master Thesis
+- {{< fa circle-check >}} Completed
+- {{< fa user >}} [Oliver Specht](/team/specht/)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Introduction
 
@@ -86,6 +113,8 @@ In the dynamic ecosystem of startups, funding plays a pivotal role in the succes
 
 The exact structure of the thesis is flexible and can be discussed in advance with the supervisor.
 
-## Supervisor
+:::
 
-[Oliver Specht](/team/specht/) ([oliver.specht@tuhh.de](mailto:oliver.specht@tuhh.de))
+:::
+:::
+:::

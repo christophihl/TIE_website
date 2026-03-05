@@ -25,4 +25,49 @@ authors:
 profile-pubs: ["wick"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2018
+- {{< fa link >}} [DOI](https://doi.org/10.5465/amgblproc.telaviv.2018.0383.abs)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), [Jan Niklas Wick](/team/wick/)
+
+## Abstract
+
+Only recently, novel financing sources have emerged in the forms of crowdfunding or initial coin offerings. Attending to these new forms can be conceived as organizational deviance from the norm of established business angel or venture capital financing, which in turn has an effect on follow-on growth financing rounds. Drawing on theories of categorization and deviance, we propose that venture capitalists categorize crowdfunded ventures as deviant to screen them out in their selection process. We aim to empirically disentangle this categorization effect from venture capitalists' diligent evaluation of substantial quality differences by using a comprehensive matching approach, an econometric model that separates venture capitalists' screening from their due diligence and by testing three boundary conditions that should theoretically moderate a categorization effect. Implications are derived.
+
+## Tags
+
+`Crowdfunding` `Categorization` `Organizational Deviance`
+
+:::
+
+:::
+:::
+:::

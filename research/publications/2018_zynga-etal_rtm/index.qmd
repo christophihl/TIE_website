@@ -29,4 +29,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Research-Technology Management
+- {{< fa calendar >}} 2018
+- {{< fa bookmark >}} Vol. 61(4), pp. 16-25
+- {{< fa link >}} [DOI](https://doi.org/10.1080/08956308.2018.1471273)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Andy Zynga, Kathleen Diener, [Christoph Ihl](/team/ihl/), Dirk Lüttgens, Frank Piller, Bastian Scherb
+
+## Abstract
+
+Open innovation is an established approach to improve innovation performance, but many organizations have failed to embed open innovation in their innovation processes permanently and at scale. Building on an investigation of 756 international organizations, we show that the existence of distinct routines and organizational structures can explain why some firms implement open innovation successfully. We present a guideline for managers to master the organizational journey from closed to open innovation, moving their company from an initial state via pilots and exploration toward a permanently open state.
+
+## Tags
+
+`Open Innovation` `Innovation Management` `Organization`
+
+:::
+
+:::
+:::
+:::

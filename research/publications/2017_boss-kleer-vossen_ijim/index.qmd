@@ -28,4 +28,51 @@ authors:
 profile-pubs: ["kessler"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} International Journal of Innovation Management
+- {{< fa calendar >}} 2017
+- {{< fa bookmark >}} Vol. 21(3)
+- {{< fa link >}} [DOI](https://doi.org/10.1142/S1363919617500244)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Viktoria Boss](/team/kessler/), Robin Kleer, Alexander Vossen
+
+## Abstract
+
+We examine the role of participants’ interactions in innovation contests. In contrast to the dominant view of a competitive organisation of innovation contests, we suggest that, especially for ideation projects, a collaborative setting may be beneficial in terms of the amount of ideation activity and the quality of the generated ideas. Using two experiments, we show the usefulness of a collaborative approach when two particular conditions are met: first, the overall effort must be compensated according to performance criteria in such a way that participants are aware of the impact of their actions. Thus, the reward mechanism has to ensure that all contributors to a specific idea benefit from their involvement. Second, the host has to provide feedback throughout the contest to make it clear for participants what idea(s) to focus on. Our results show that, while the elaboration effort can be increased by introducing a collaborative reward mechanism alone, the best results are achieved when both conditions are met.
+
+## Tags
+
+`Innovation Contests` `Collaboration` `Incentives`
+
+:::
+
+:::
+:::
+:::

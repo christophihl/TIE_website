@@ -29,4 +29,52 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} International Journal of Public Participation
+- {{< fa calendar >}} 2010
+- {{< fa bookmark >}} Vol. 4(1)
+- {{< fa arrow-up-right-from-square >}} [Link](https://www.iap2.org/general/custom.asp?page=428)
+- {{< fa arrow-up-right-from-square >}} [IAP2](https://www.iap2.org/general/custom.asp?page=428)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Dennis Hilgers, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+Theories of innovation suggest the process of product and service development is becoming more open, placing more emphasis on external knowledge and involving a wide range of external actors to achieve and sustain innovation. The growing success of open innovation practices in many firms raises the question of whether these principles can be transferred for the reinventing of public sector organizations. Going beyond a technocratic e-government paradigm, but with the support of Internet technology, the authors present a structural overview of how external collaboration and innovation between citizens and public administrations can offer new ways of citizen integration and participation, enhancing public value creation and even the political decision-making process.
+
+## Tags
+
+`Open Innovation` `Public Sector` `Citizensourcing`
+
+:::
+
+:::
+:::
+:::

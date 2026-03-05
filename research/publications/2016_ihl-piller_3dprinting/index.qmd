@@ -27,4 +27,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book-Chapter
+- {{< fa calendar >}} 2016
+- {{< fa link >}} [DOI](https://doi.org/10.1007/978-3-319-31686-4_10)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Christoph Ihl](/team/ihl/), Frank Piller
+
+## Abstract
+
+3D printing technologies address the promise to re-localize production in closer proximity to markets and end customers. These technologies give rise to new possibilities at the intersection of production and consumption and fuel recent trends like mass customization and the maker movement. We explore the microeconomic benefits of localized manufacturing for producers and consumers. We propose the concept of "FabStores", i.e. decentralized, close-to-market mini-factories that allow interaction with customers during localized manufacturing processes. The concept is validated in terms of expected benefits from producer and consumer perspectives by means of a survey of 39 experts in production management, as well as 788 consumers. From a producer perspective, the availability of 3D printing technologies alone will only have limited impact on the localization of manufacturing next to other, more important drivers. From a consumer perspective, "FabStores" are valuable if they can offer higher sustainability, participation in production and shorter delivery times. Finally, "FabStores" may compensate for a lack of brand reputation and thus offer new opportunities for user and maker entrepreneurship.
+
+## Tags
+
+`3D Printing` `Manufacturing` `Decentralization` `Mass Customization`
+
+:::
+
+:::
+:::
+:::

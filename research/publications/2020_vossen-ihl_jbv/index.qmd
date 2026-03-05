@@ -42,4 +42,68 @@ cite: |
     year      = {2020},
     doi       = {10.1016/j.jbusvent.2020.106050}
   }
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![More than words! How narrative anchoring and enrichment help...](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Journal of Business Venturing
+- {{< fa calendar >}} 2020
+- {{< fa bookmark >}} Vol. 35(6)
+- {{< fa link >}} [DOI](https://doi.org/10.1016/j.jbusvent.2020.106050)
+- {{< fa arrow-up-right-from-square >}} [Journal Website](https://www.sciencedirect.com/science/article/pii/S0883902620306583)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Alexander Vossen, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+Entrepreneurs face the challenge of having to conform to gain legitimacy, while at the same time differentiating themselves to gain competitive advantage. We show how entrepreneurs can craft an entrepreneurial narrative to succeed in this task among the user audiences empowered to evaluate their products.
+
+## Tags
+
+`Cultural Entrepreneurship` `Categories` `Narratives` `NLP`
+
+## Citation
+
+```bibtex
+@article{vossen2020more,
+  title     = {More than Words! How Narrative Anchoring and Enrichment Help to Balance Differentiation and Conformity of Entrepreneurial Products},
+  author    = {Vossen, Alexander and Ihl, Christoph},
+  journal   = {Journal of Business Venturing},
+  volume    = {35},
+  number    = {6},
+  pages     = {106050},
+  year      = {2020},
+  doi       = {10.1016/j.jbusvent.2020.106050}
+}
+```
+
+:::
+
+:::
+:::
+:::

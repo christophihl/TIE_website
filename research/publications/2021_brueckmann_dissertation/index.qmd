@@ -21,4 +21,49 @@ authors:
 profile-pubs: ["brueckmann"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2021
+- {{< fa link >}} [DOI](https://doi.org/10.15480/882.3839)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Carolin Brückmann](/team/brueckmann/)
+
+## Abstract
+
+ICOs stellen eine neuartige Finanzierungsmethode dar, welche es Start-ups ermöglicht Kapital von einer Großzahl vorwiegend Kleinanleger einzusammeln. Innerhalb meiner Dissertation widme ich mich ICO-Investoren, um darzustellen wie Investoren diese neuartigen Investitionsumgebung navigieren. Entlang dreier Studien untersuche ich die Komposition sowie Interaktion verschiedener Investorengruppen. Des Weiteren analysiere ich inwiefern Investoren in der Lage sind erfolgreiche Start-ups gezielt zu selektieren.
+
+## Tags
+
+`Blockchain` `Initial Coin Offerings` `Entrepreneurial Finance`
+
+:::
+
+:::
+:::
+:::

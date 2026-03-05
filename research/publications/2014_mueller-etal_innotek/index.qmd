@@ -27,4 +27,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2014
+- {{< fa link >}} [DOI](https://doi.org/10.1109/InnoTek.2014.6877370)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Patrick Müller, Georg Kasperk, Achim Kampker, Christine Deutskens, Florian Weyand, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+In the automotive industry alternative powertrains cause a wide spread of knowledge and a growing importance of varied disciplines. Consequently, research unveils a disruption of established relations and an emergence of new kinds of decentralized developments encouraging our research. This paper introduces a networked development project which has attracted considerable attention in science and practice as it has realized the homologation of an electric vehicle within less than three years of development applying an uncommon network approach. In this project a decentralized consortial network has been implemented to accomplish the development of certain modules. We argue that despite a modular architecture these modules are still highly interdependent and thus corresponding technical interfaces need to be managed and implemented in the organizational structures. A relatively new facet of hypothesis-based research on these dependencies is the mirroring hypothesis which states that technical ties have to correspond to the communicational ones. Accordingly, we combine and enhance measurements from different fields and thereby provide a solid approach to assess the strength of technical and organizational ties. The corresponding strength values are captured in matrices enabling the test of the mirroring hypothesis. While there are qualitative findings on the performance implications of mirroring in literature, we present a quantitative approach which should provide a stronger empirical underpinning for the qualitative research in this field.
+
+## Tags
+
+`Networks` `Automotive` `Decentralization`
+
+:::
+
+:::
+:::
+:::

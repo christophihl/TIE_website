@@ -23,4 +23,49 @@ authors:
 profile-pubs: ["barth"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Conference Paper
+- {{< fa calendar >}} 2018
+- {{< fa link >}} [DOI](https://doi.org/10.5465/AMBPP.2018.267)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Giulio Barth](/team/barth/), [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+This paper extends the emerging body of literature on institutional entrepreneurship by introducing the heterogeneous diffusion model to measure the diffusion of institutional logics in an emerging field. Results validate that during field emergence, institutional entrepreneurs use their resources to convince their social context of an institutional logic to shape an emerging field. Such pioneers of new fields draw logics from different organizational fields and influence the emerging field level institutions. By drawing from a quantitative study using the research field of synthetic biology, this paper elaborates rich insights into the characteristics and strategies of such actors. In addition, this research provides implications for further development of institutional theory, in particular, for the analysis of communities, as well as for practitioners working in emerging fields.
+
+## Tags
+
+`Institutional Entrepreneurship` `Institutional Logics`
+
+:::
+
+:::
+:::
+:::

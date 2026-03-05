@@ -22,4 +22,45 @@ authors:
 profile-pubs: ["wick"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Thesis
+- {{< fa calendar >}} 2020
+- {{< fa arrow-up-right-from-square >}} [Link](https://tore.tuhh.de/entities/publication/2a910868-ebd7-4b2d-bf39-23a8bf52bdce)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Jan Niklas Wick](/team/wick/)
+
+## Tags
+
+`Equity Crowdfunding` `Startup Finance` `Entrepreneurial Finance`
+
+:::
+
+:::
+:::
+:::

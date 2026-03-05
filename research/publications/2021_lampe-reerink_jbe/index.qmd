@@ -27,4 +27,51 @@ authors:
 profile-pubs: ["lampe", "reerink"]
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Journal of Business Economics
+- {{< fa calendar >}} 2021
+- {{< fa bookmark >}} Vol. 91(7), pp. 1025-1061
+- {{< fa link >}} [DOI](https://doi.org/10.1007/s11573-020-01027-4)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/), [Jan Reerink](/team/reerink/)
+
+## Abstract
+
+This article addresses the importance of tailoring publications to expectations of the intended scientific sub-community it addresses. But what does this mean when writing an article and adopting community specific jargon? This article disentangles the effects of articles’ language complexity on their impact. In the domain of entrepreneurship science, we show that language uniqueness (in form of aligning jargon uniquely to one community) has a positive effect on article’s impact. An article’s novelty (in form of novel recombination of community jargon) has an inverted U-shape relationship with impact. We further show that the optimal level of novelty decreases with increasing uniqueness, yielding higher overall impact. These findings have implications not only for authors of scientific articles but also for their audience.
+
+## Tags
+
+`Language Complexity` `Science Communication` `Entrepreneurship Research`
+
+:::
+
+:::
+:::
+:::

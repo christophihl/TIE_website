@@ -28,4 +28,51 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Journal Article
+- {{< fa book >}} Applied Economics
+- {{< fa calendar >}} 2015
+- {{< fa bookmark >}} Vol. 47(41), pp. 4349-4363
+- {{< fa link >}} [DOI](https://doi.org/10.1080/00036846.2015.1030562)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+[Hannes W. Lampe](/team/lampe/), Dennis Hilgers, [Christoph Ihl](/team/ihl/)
+
+## Abstract
+
+The stressed financial situation in the public sector and the continuous aspiration for austerity in western governments and public bodies is omnipresent. As one core element in the New Public Management shift, Germany, like many other countries, has experienced significant reforms in public sector accounting and reporting in the last decade. We analyse the effect of new accounting and budgeting regimes. We therefore analyse the cost efficiency of German local governments in the state of North Rhine-Westphalia over 3 years using a stochastic frontier approach. This study presents evidence for increased efficiency amongst municipalities due to the adoption of accrual accounting.
+
+## Tags
+
+`Public Sector` `Efficiency` `Accrual Accounting`
+
+:::
+
+:::
+:::
+:::

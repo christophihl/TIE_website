@@ -328,6 +328,20 @@ h2.section-heading {
   color: #00C1D4;
 }
 
+/* Detail page sidebar metadata dark mode */
+.pub-meta li {
+  color: white;
+}
+.pub-meta a {
+  color: white;
+}
+.pub-meta a:hover {
+  color: #00C1D4;
+}
+.profile-sidebar .profile-avatar.detail-image {
+  border-color: rgba(0, 193, 212, 0.5);
+}
+
 /* Semester subheader dark mode */
 .semester-subheader {
   color: rgba(0, 193, 212, 0.8);

@@ -25,4 +25,49 @@ authors:
 profile-pubs: []
 image: ""
 cite: ""
+page-layout: custom
+section-divs: false
+toc: false
+resources:
+  - ../../../assets/images/banners/research.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/research.jpg');"}
+[Research]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+
+::: {.pub-meta}
+- {{< fa file-lines >}} Book
+- {{< fa calendar >}} 2017
+- {{< fa link >}} [DOI](https://doi.org/10.1007/978-3-658-17514-6)
+:::
+
+:::
+
+::: {.profile-main}
+
+## Authors
+
+Frank Piller, Kathrin Möslein, [Christoph Ihl](/team/ihl/), Ralf Reichwald
+
+## Abstract
+
+Dieses Lehrbuch vermittelt in komprimierter Form die wesentlichen Inhalte des Standardwerks "Interaktive Wertschöpfung" von Ralf Reichwald und Frank Piller. Unternehmerische Wertschöpfung findet heute immer seltener sequentiell im Sinne einer klassischen Wertschöpfungskette statt, sondern interaktiv und iterativ zwischen einem fokalen Unternehmen und externen Beteiligten. Insbesondere Kunden und Nutzer werden selbst aktiv (Co-Creation). Dies betrifft sowohl die Forschung und Entwicklung neuer Produkte und Dienstleistungen (Open Innovation) als auch die operativen Wertschöpfungsprozesse (Mass Customization). Anstatt Aufgaben zu verteilen oder zuzuweisen, reagieren die Beitragenden auf einen offenen Aufruf zur Teilnahme und wählen selbst, wann und wie sie sich beteiligen (Crowdsourcing).
+
+## Tags
+
+`Open Innovation` `Mass Customization` `Interactive Value Creation` `Crowdsourcing`
+
+:::
+
+:::
+:::
+:::

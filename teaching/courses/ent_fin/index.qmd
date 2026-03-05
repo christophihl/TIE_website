@@ -26,9 +26,38 @@ categories:
 time-location:
   - "Entrepreneurial Finance: Lecture: Monday, 13:15–14:45, Building N, Room 0008"
   - "Entrepreneurial Finance: Case Studies: Monday, 15:00–17:15, Building N, Room 0008"
-page-layout: article
-toc: true
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../assets/images/banners/teaching.jpg
 ---
+
+::: {.page-header style="background-image: url('../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Entrepreneurial Finance](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa graduation-cap >}} 6 ECTS
+- {{< fa layer-group >}} Master
+- {{< fa calendar >}} WT2026
+- {{< fa user-group >}} IWI, LIM, GTIME, Exchange Programs
+- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes)
+:::
+
+:::
+
+::: {.profile-main}
 
 ## Credits
 
@@ -117,3 +146,9 @@ Open until October 13th on [e-learning.tuhh.de/studip](https://e-learning.tuhh.d
 | 11 | January 12 | Debt Financing |
 | 12 | January 19 | Corporate Governance |
 | 13 | January 26 | Exits |
+
+:::
+
+:::
+:::
+:::

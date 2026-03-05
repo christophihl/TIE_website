@@ -2247,6 +2247,42 @@ a.pub-featured-card__image {
   color: $tuhh_blue;
 }
 
+/* Detail page images — non-square aspect ratio for project/pub/course/thesis pages */
+.profile-sidebar .profile-avatar.detail-image {
+  aspect-ratio: auto;
+  max-width: 280px;
+  width: 100%;
+  border: 1px solid $tuhh_blue;
+}
+
+/* Detail page sidebar metadata */
+.pub-meta {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+.pub-meta ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pub-meta li {
+  padding: 4px 0;
+  color: $text_blue;
+}
+.pub-meta li i {
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+  color: $tuhh_blue;
+}
+.pub-meta a {
+  color: $text_blue;
+  text-decoration: none;
+}
+.pub-meta a:hover {
+  color: $tuhh_blue;
+}
+
 /* Semester subheader */
 .semester-subheader {
   display: block;
