@@ -150,7 +150,7 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 - Huntington-Klein, Nick (2021). The effect: An introduction to research design and causality. Chapman and Hall/CRC.
 - Imbens, G. W., & Rubin, D. B. (2015). Causal inference in statistics, social, and biomedical sciences. Cambridge University Press.
 - Mullainathan, Sendhil, and Jann Spiess (2017). Machine Learning: An Applied Econometric Approach. Journal of Economic Perspectives, 31(2): 87–106.
-- Pearl, Judea, and Dana Mackenzie (2018). The Book of Why. Basic Books.
+- Pearl, Judea, and Dana Mackenzie (2018). The Book of Why. Basic Books. 
 - Pearl, Judea, Madelyn Glymour, and Nicholas P. Jewell (2016). Causal Inference in Statistics: A Primer. Wiley.
 - Peters, Jonas, Dominik Janzing, and Bernhard Schölkopf (2017). Elements of causal inference: foundations and learning algorithms. MIT Press.
 
