@@ -2285,6 +2285,18 @@ a.pub-featured-card__image {
   color: $tuhh_blue;
 }
 
+/* Privacy page link */
+.privacy-link {
+  color: $tuhh_blue;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+.privacy-link:hover {
+  color: $tuhh_blue;
+  text-decoration: underline;
+}
+
 /* Course detail toggle (Overview / Objectives) */
 details.course-toggle {
   margin-bottom: 1rem;
