@@ -25,11 +25,12 @@ programs:
   - "GTIME"
   - "Engineering"
   - "Erasmus"
-registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=2ea2b1cf8a627f6e537364e700b77f4a&again=yes"
+registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes"
+course-website: "https://test.com"
 categories:
   - "Entrepreneurship"
 time-location:
-  - "Entrepreneurship (Lecture): Monday, 13:15–14:45, Building H, Audimax 1"
+  - "Entrepreneurship (Lecture): Monday, 13:15–14:45, Building H, Room 016 (Ditze Hörsaal)"
   - "Creation of Business Opportunities (PBL I): Monday, 15:00–17:15, Building N, Room 0008"
   - "Creation of Business Opportunities (PBL II): Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.01"
   - "Creation of Business Opportunities (PBL III): Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.08"
@@ -59,7 +60,8 @@ resources:
 - {{< fa layer-group >}} Master
 - {{< fa calendar >}} ST2026
 - {{< fa user-group >}} IWI, LIM, GTIME, Engineering, Erasmus
-- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=2ea2b1cf8a627f6e537364e700b77f4a&again=yes)
+- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes)
+- {{< fa arrow-up-right-from-square >}} [Course Note & Materials](https://test.com)
 :::
 
 :::
@@ -136,34 +138,37 @@ Due to capacity constraints, the course **Creation of Business Opportunities** i
 
 ## Registration
 
-Please register for the entire module **Technology Entrepreneurship** here: [e-learning.tuhh.de/studip](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=2ea2b1cf8a627f6e537364e700b77f4a&again=yes)
+Please register for the entire module **Technology Entrepreneurship** here: [e-learning.tuhh.de/studip](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes)
 
 ## Time & Location
 
-- **Entrepreneurship (Lecture)**: Monday, 13:15–14:45, Building H, Audimax 1
+- **Entrepreneurship (Lecture)**: Monday, 13:15–14:45, Building H, Room 016 (Ditze Hörsaal)
 - **Creation of Business Opportunities (PBL I)**: Monday, 15:00–17:15, Building N, Room 0008
 - **Creation of Business Opportunities (PBL II)**: Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.01
 - **Creation of Business Opportunities (PBL III)**: Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.08
+
+### Course Notes & Materials
+
+Access to course notes & materials [**here**](https://test.com).
 
 ## Preliminary Schedule
 
 | Session | Date | Topic |
 | --- | --- | --- |
-| 1 | April 7 | Introduction (Online Session) |
-| 2 | April 14 | Customer Segmentation |
-| — | April 21 | Holiday |
-| 3 | April 28 | Technology & Product Development |
-| 4 | May 5 | Competition & Market Analysis |
-| 5 | May 12 | Intermediate Pitches I |
-| 6 | May 19 | (Platform) Business Models |
-| — | May 26 | Holiday |
-| 7 | June 2 | Revenue Models & Pricing |
-| — | June 9 | Holiday |
-| 8 | June 16 | Lean Startup & Experimentation |
-| 9 | June 23 | Intermediate Pitches II |
-| 10 | June 30 | Marketing & Sales for Startup Growth |
-| 11 | July 7 | Financial Analysis |
-| 12 | July 14 | Final Pitches |
+| 1 | April 13 | Introduction (Online Session) |
+| 2 | April 20 | Customer Segmentation |
+| 3 | April 27 | Technology & Product Development |
+| 4 | May 4 | Competition & Market Analysis |
+| — | May 11 | Holiday |
+| 5 | May 18 | Intermediate Pitches I |
+| — | May 25 | Holiday |
+| 6 | June 1 | (Platform) Business Models |
+| 7 | June 8 | Revenue Models & Pricing |
+| 8 | June 15 | Lean Startup & Experimentation |
+| 9 | June 22 | Intermediate Pitches II |
+| 10 | June 29 | Marketing & Sales for Startup Growth |
+| 11 | July 6 | Financial Analysis |
+| 12 | July 13 | Final Pitches |
 
 :::
 
