@@ -21,6 +21,7 @@ programs:
   - "Data Science"
   - "IWI"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes"
+course-website: "https://test.com"
 categories:
   - "Data Science"
 time-location:
@@ -113,9 +114,9 @@ After completing this module, students will be able to:
 
 {{< course-timelocation >}}
 
-## Course Notes & Materials
+### Course Notes & Materials
 
-Access to course notes & materials will be published on StudIP.
+Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 ## Preliminary Schedule
 

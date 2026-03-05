@@ -21,6 +21,7 @@ programs:
   - "GTIME"
   - "Exchange Programs"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes"
+course-website: "https://test.com"
 categories:
   - "Entrepreneurship"
 time-location:
@@ -123,6 +124,10 @@ Open until October 13th on [e-learning.tuhh.de/studip]({{< meta registration-url
 ## Time & Location
 
 {{< course-timelocation >}}
+
+### Course Notes & Materials
+
+Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 ## Preliminary Schedule
 
