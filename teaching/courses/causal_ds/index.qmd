@@ -114,7 +114,7 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 | Session | Topic | Date |
 | --- | --- | --- |
-| 1 | Introduction to Causal Inference | April 13 |
+| 1 | Introduction to Causal Inference | April 13 & 14 |
 | **Part 1** | **Graphical Causal Models** |  |
 | 2 | Graphical Causal Models | April 20 & 21 |
 | 3 | Causal Discovery | April 27 & 28 |
