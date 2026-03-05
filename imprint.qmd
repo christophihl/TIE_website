@@ -1,0 +1,58 @@
+---
+title: Imprint
+page-layout: article
+toc: false
+---
+
+## Address
+
+Hamburg University of Technology (TU Hamburg)
+TUHH Institute of Entrepreneurship (W-11)
+Am Irrgarten 3 – 9
+21073 Hamburg
+
+## Contact
+
+**Phone:** +49 40 42878-3226
+**E-Mail:** [startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)
+
+## Legal Form
+
+Hamburg University of Technology (TU Hamburg) is a corporation under public law. It is legally represented by its President, Prof. Dr. Andreas Timm-Giel.
+
+**VAT Identification Number:** DE 245 980 291
+
+## Supervisory Authority
+
+Behörde für Wissenschaft, Forschung und Gleichstellung
+der Freien und Hansestadt Hamburg
+Hamburger Straße 37
+22083 Hamburg
+
+## Publisher
+
+Responsible for the content of this website according to § 18 paragraph 2 of the German Interstate Media Treaty (MStV):
+
+Prof. Dr. Christoph Ihl
+TUHH Institute of Entrepreneurship
+Am Irrgarten 3 – 9
+21073 Hamburg
+
+## Webmaster
+
+Prof. Dr. Christoph Ihl
+E-Mail: [startup.engineer@tuhh.de](mailto:startup.engineer@tuhh.de)
+
+## Disclaimer
+
+### Liability for Content
+
+The content of this website has been created with great care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, we are responsible for our own content on these pages in accordance with § 7 paragraph 1 of the German Digital Services Act (DDG). According to §§ 8 to 10 DDG, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general law remain unaffected. Liability in this regard is only possible from the point in time at which we become aware of a specific infringement. Upon becoming aware of any such violations, we will remove the content immediately.
+
+### Liability for Links
+
+This website contains links to external third-party websites over which we have no control. Therefore, we cannot accept any liability for this external content. The respective provider or operator of the linked pages is always responsible for the content of those pages. The linked pages were checked for possible legal violations at the time the link was created, and no illegal content was apparent at that time. Permanent monitoring of the content of linked pages is unreasonable without concrete evidence of a violation. Upon becoming aware of any legal violations, we will remove such links immediately.
+
+### Copyright
+
+The content and works on this website are subject to German copyright law. Reproduction, editing, distribution, or any form of use beyond the scope of copyright law requires the written consent of the respective author or creator. Downloads and copies of this website are only permitted for private, non-commercial use. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is identified as such. Should you become aware of a copyright infringement, please notify us accordingly. Upon becoming aware of any violations, we will remove such content immediately.
