@@ -2371,7 +2371,7 @@ details.course-toggle > div {
   max-width: 800px;
   margin: 0 auto 2.5rem;
   text-align: center;
-  font-size: 1.05rem;
+  font-size: clamp(16px, 3.5vw, 1.05rem);
   line-height: 1.7;
 }
 
