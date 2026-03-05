@@ -2196,6 +2196,19 @@ p:has(.backimage-caption) {
 .thesis-card__status--open {
   border-color: $tuhh_blue;
   color: $tuhh_blue;
+  text-decoration: none;
+}
+
+a.thesis-card__status--open:hover {
+  background-color: $tuhh_blue;
+  color: white;
+  text-decoration: none;
+}
+
+/* Clickable image links */
+a.news-teaser__image-top,
+a.pub-featured-card__image {
+  display: block;
 }
 
 .thesis-card__status--assigned {

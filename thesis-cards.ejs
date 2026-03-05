@@ -2,9 +2,9 @@
 <% for (const item of items) { %>
 <div class="news-teaser news-teaser--card thesis-card">
 <% if (item.image) { %>
-<div class="news-teaser__image-top">
+<a href="<%= item.path %>" class="news-teaser__image-top">
 <img src="<%= item.image %>" alt="<%= item.title %>">
-</div>
+</a>
 <% } %>
 <div class="thesis-card__meta"><%
 if (item['thesis-type']) {
@@ -12,7 +12,11 @@ if (item['thesis-type']) {
 }
 if (item.status) {
   var statusClass = item.status === 'open' ? 'thesis-card__status--open' : item.status === 'assigned' ? 'thesis-card__status--assigned' : 'thesis-card__status--completed';
+  if (item.status === 'open') {
+%><a href="<%= item.path %>" class="thesis-card__status <%= statusClass %>"><%= item.status.charAt(0).toUpperCase() + item.status.slice(1) %></a><%
+  } else {
 %><span class="thesis-card__status <%= statusClass %>"><%= item.status.charAt(0).toUpperCase() + item.status.slice(1) %></span><%
+  }
 }
 %></div>
 <div class="news-teaser__text">
