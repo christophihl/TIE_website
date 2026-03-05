@@ -11,6 +11,7 @@ css: /theme/page.css
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+<h1 class="legal-page-title">Imprint</h1>
 :::
 
 ::: {.profile-main}
