@@ -24,7 +24,7 @@ authors:
     orcid: "0000-0002-0842-5201"
   - name: "Alexander Vossen"
     orcid: "0000-0002-9266-2022"
-profile-pubs: ["ihl"]
+profile-pubs: []
 image: ""
 cite: ""
 ---

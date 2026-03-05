@@ -26,7 +26,7 @@ authors:
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
   - name: "Frank T. Piller"
-profile-pubs: ["ihl"]
+profile-pubs: []
 image: ""
 cite: ""
 ---

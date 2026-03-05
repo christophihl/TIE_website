@@ -20,7 +20,7 @@ authors:
   - name: "Christoph Ihl"
     internal: "ihl"
     orcid: "0000-0002-0842-5201"
-profile-pubs: ["barth", "ihl"]
+profile-pubs: ["barth"]
 image: ""
 cite: ""
 ---

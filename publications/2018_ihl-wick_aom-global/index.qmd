@@ -22,7 +22,7 @@ authors:
   - name: "Jan Niklas Wick"
     internal: "wick"
     orcid: "0000-0002-3147-4968"
-profile-pubs: ["ihl", "wick"]
+profile-pubs: ["wick"]
 image: ""
 cite: ""
 ---

@@ -20,7 +20,7 @@ authors:
     orcid: "0000-0002-0842-5201"
   - name: "Frank T. Piller"
   - name: "Philipp Wagner"
-profile-pubs: ["ihl"]
+profile-pubs: []
 image: ""
 cite: ""
 ---
