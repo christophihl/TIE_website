@@ -10,7 +10,10 @@ css: /theme/page.css
 ::: {.content-block}
 ::: {.profile-page}
 
-::: {.profile-main style="max-width: 100%;"}
+::: {.profile-sidebar}
+:::
+
+::: {.profile-main}
 
 The data privacy statement of Hamburg University of Technology (TU Hamburg) applies to this website:
 

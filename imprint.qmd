@@ -10,7 +10,10 @@ css: /theme/page.css
 ::: {.content-block}
 ::: {.profile-page}
 
-::: {.profile-main style="max-width: 100%;"}
+::: {.profile-sidebar}
+:::
+
+::: {.profile-main}
 
 ## Address
 
