@@ -20,7 +20,7 @@ listing:
     type: custom
     template: course-home.ejs
   - id: featured-pubs
-    contents: publications/*/index.qmd
+    contents: research/publications/*/index.qmd
     include:
       featured: true
     sort: "date desc"

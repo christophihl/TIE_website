@@ -14,7 +14,7 @@ listing:
     template: project-cards.ejs
     date-format: "YYYY"
   - id: pub-listing
-    contents: publications/*/index.qmd
+    contents: research/publications/*/index.qmd
     sort: "date desc"
     type: custom
     template: pub-list.ejs

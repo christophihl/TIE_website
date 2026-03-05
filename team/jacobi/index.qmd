@@ -38,7 +38,7 @@ resources:
   - ../../assets/images/banners/team.jpg
 listing:
   - id: selected-pubs
-    contents: ../../publications/*/index.qmd
+    contents: ../../research/publications/*/index.qmd
     include:
       profile-pubs: "jacobi"
     sort: "date desc"
