@@ -26,6 +26,13 @@ listing:
     sort: "weight asc"
     type: custom
     template: thesis-cards.ejs
+  - id: thesis-completed
+    contents: teaching/theses/*/index.qmd
+    include:
+      status: "completed"
+    sort: "date desc"
+    type: custom
+    template: thesis-cards.ejs
 resources:
   - assets/images/banners/teaching.jpg
 ---
@@ -71,6 +78,32 @@ resources:
 
 ::: {#thesis-listing}
 :::
+
+```{=html}
+<div id="completed-theses-wrapper" style="display: none;">
+```
+
+::: {#thesis-completed}
+:::
+
+```{=html}
+</div>
+<div style="text-align: center; margin-top: 2rem;">
+  <button id="show-completed-theses" class="btn-tuhh" style="cursor: pointer;">SHOW COMPLETED THESES</button>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var btn = document.getElementById("show-completed-theses");
+  var wrapper = document.getElementById("completed-theses-wrapper");
+  var visible = false;
+  btn.addEventListener("click", function() {
+    visible = !visible;
+    wrapper.style.display = visible ? "block" : "none";
+    btn.textContent = visible ? "HIDE COMPLETED THESES" : "SHOW COMPLETED THESES";
+  });
+});
+</script>
+```
 
 :::
 :::

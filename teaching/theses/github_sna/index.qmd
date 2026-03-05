@@ -4,7 +4,7 @@ description: "Investigate network structures on social coding platforms to ident
 date: "2020-06-23"
 image: featured.png
 supervisor:
-  - name: "Erich Schwarz"
+  - name: "Joschka Schwarz"
     internal: "schwarz"
 thesis-type: "Master"
 status: "completed"
@@ -54,4 +54,4 @@ Collaborative software development makes an investigation of network structures 
 
 ## Supervisor
 
-[Erich Schwarz](/team/schwarz/) ([erich.schwarz@tuhh.de](mailto:erich.schwarz@tuhh.de))
+[Joschka Schwarz](/team/schwarz/) ([erich.schwarz@tuhh.de](mailto:erich.schwarz@tuhh.de))

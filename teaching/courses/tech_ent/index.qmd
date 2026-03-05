@@ -12,9 +12,9 @@ instructors:
     internal: "ihl"
   - name: "Oliver Specht"
     internal: "specht"
-  - name: "Erik Thiesen"
+  - name: "Jürgen Thiesen"
     internal: "thiesen"
-  - name: "Marius Wilinski"
+  - name: "Jonas Wilinski"
     internal: "wilinski"
 modules:
   - "Entrepreneurship"
@@ -46,8 +46,8 @@ toc: true
 
 - [Christoph Ihl](/team/ihl/)
 - [Oliver Specht](/team/specht/)
-- [Erik Thiesen](/team/thiesen/)
-- [Marius Wilinski](/team/wilinski/)
+- [Jürgen Thiesen](/team/thiesen/)
+- [Jonas Wilinski](/team/wilinski/)
 
 ## Overview
 

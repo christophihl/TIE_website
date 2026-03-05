@@ -3,7 +3,7 @@ title: "Taxonomy Generation for Emerging Research Fields"
 description: "Develop advanced NLP techniques to automatically generate comprehensive taxonomies for small, emerging research fields"
 date: "2025-01-01"
 supervisor:
-  - name: "Marius Wilinski"
+  - name: "Jonas Wilinski"
     internal: "wilinski"
 thesis-type: "Master"
 status: "open"
@@ -40,4 +40,4 @@ Students with a strong background in computer science, computational linguistics
 
 ## Supervisor
 
-[Marius Wilinski](/team/wilinski/) ([marius.wilinski@tuhh.de](mailto:marius.wilinski@tuhh.de))
+[Jonas Wilinski](/team/wilinski/) ([jonas.wilinski@tuhh.de](mailto:jonas.wilinski@tuhh.de))

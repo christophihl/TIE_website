@@ -3,7 +3,7 @@ title: "Circular Economy, Clean Technologies & Sustainability Innovation Researc
 description: "Investigate critical questions in clean technologies, green innovation, and circular economy transitions using quantitative or qualitative methods"
 date: "2025-01-01"
 supervisor:
-  - name: "Erik Thiesen"
+  - name: "Jürgen Thiesen"
     internal: "thiesen"
 thesis-type: "Master"
 status: "open"
@@ -43,4 +43,4 @@ Students with backgrounds in management, computer science, data science, enginee
 
 ## Supervisor
 
-[Erik Thiesen](/team/thiesen/) ([juergen.thiesen@tuhh.de](mailto:juergen.thiesen@tuhh.de))
+[Jürgen Thiesen](/team/thiesen/) ([juergen.thiesen@tuhh.de](mailto:juergen.thiesen@tuhh.de))

@@ -3,7 +3,7 @@ title: "Developing a Chatbot using Internal Knowledge Bases"
 description: "Research, design, and implement a RAG-based AI chatbot for efficient internal information retrieval"
 date: "2024-10-01"
 supervisor:
-  - name: "Marius Wilinski"
+  - name: "Jonas Wilinski"
     internal: "wilinski"
 thesis-type: "Master"
 status: "completed"
@@ -57,4 +57,4 @@ This master thesis aims to research, design, and implement a cutting-edge, RAG-b
 
 ## Supervisor
 
-[Marius Wilinski](/team/wilinski/) ([marius.wilinski@tuhh.de](mailto:marius.wilinski@tuhh.de))
+[Jonas Wilinski](/team/wilinski/) ([jonas.wilinski@tuhh.de](mailto:jonas.wilinski@tuhh.de))

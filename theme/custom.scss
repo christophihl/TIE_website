@@ -2073,30 +2073,48 @@ p:has(.backimage-caption) {
   display: flex;
 }
 
-/* Course card meta row */
+/* Course & thesis card titles — same style as pub-entry__title */
+.course-card .news-teaser__title,
+.thesis-card .news-teaser__title {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0 0 6px;
+}
+
+.course-card .news-teaser__title a,
+.thesis-card .news-teaser__title a {
+  color: $text_blue;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.course-card .news-teaser__title a:hover,
+.thesis-card .news-teaser__title a:hover {
+  color: #009eac;
+}
+
+/* Course card meta row — pub-btn style badges */
 .course-card__meta {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   padding: 10px 16px 0;
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: $text_blue;
 }
 
-.course-card__ects {
-  display: inline-block;
-  padding: 2px 8px;
-  background-color: $tuhh_blue;
-  color: white;
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-}
-
+.course-card__ects,
 .course-card__level {
-  font-size: 0.8rem;
-  color: rgba(0, 94, 115, 0.7);
+  display: inline-block;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border: 1px solid $tuhh_blue;
+  color: $text_blue;
+  background: transparent;
+  line-height: 1.4;
 }
 
 /* Course card instructors */
@@ -2152,45 +2170,41 @@ p:has(.backimage-caption) {
   display: flex;
 }
 
-/* Thesis card meta row */
+/* Thesis card meta row — pub-btn style badges */
 .thesis-card__meta {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   padding: 10px 16px 0;
-  font-size: 0.8rem;
 }
 
-.thesis-card__type {
-  display: inline-block;
-  padding: 2px 8px;
-  background-color: $footer_blue;
-  color: white;
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-}
-
+.thesis-card__type,
 .thesis-card__status {
   display: inline-block;
-  padding: 2px 8px;
-  font-size: 0.75rem;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 11px;
   font-weight: 700;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border: 1px solid $tuhh_blue;
+  color: $text_blue;
+  background: transparent;
+  line-height: 1.4;
 }
 
 .thesis-card__status--open {
-  background-color: rgba(90, 255, 197, 0.2);
+  border-color: #5affc5;
   color: #008c5a;
 }
 
 .thesis-card__status--assigned {
-  background-color: rgba(255, 126, 21, 0.2);
+  border-color: $tuhh_orange;
   color: #cc6400;
 }
 
 .thesis-card__status--completed {
-  background-color: rgba(208, 208, 206, 0.3);
+  border-color: $tuhh_grey;
   color: #666;
 }
 
@@ -2219,8 +2233,10 @@ p:has(.backimage-caption) {
 
 /* Semester subheader */
 .semester-subheader {
+  display: block;
   text-align: center;
-  font-size: 1rem;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 1.25rem;
   font-weight: 500;
   color: #009eac;
   margin-bottom: 1.5rem;

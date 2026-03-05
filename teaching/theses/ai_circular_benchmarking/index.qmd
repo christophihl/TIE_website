@@ -3,7 +3,7 @@ title: "AI in Circular Economy Research Benchmarking"
 description: "Develop cutting-edge methodologies to identify, curate, and validate best practices in circular economy research using advanced data analytics"
 date: "2025-01-01"
 supervisor:
-  - name: "Marius Wilinski"
+  - name: "Jonas Wilinski"
     internal: "wilinski"
 thesis-type: "Master"
 status: "open"
@@ -41,4 +41,4 @@ Students with a background in data science, computer science, business informati
 
 ## Supervisor
 
-[Marius Wilinski](/team/wilinski/) ([marius.wilinski@tuhh.de](mailto:marius.wilinski@tuhh.de))
+[Jonas Wilinski](/team/wilinski/) ([jonas.wilinski@tuhh.de](mailto:jonas.wilinski@tuhh.de))

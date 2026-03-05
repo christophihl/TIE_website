@@ -10,9 +10,9 @@ level: "Master"
 instructors:
   - name: "Christoph Ihl"
     internal: "ihl"
-  - name: "Erik Thiesen"
+  - name: "Jürgen Thiesen"
     internal: "thiesen"
-  - name: "Marius Wilinski"
+  - name: "Jonas Wilinski"
     internal: "wilinski"
 modules:
   - "Deep Learning for Text and Graphs (Lecture)"
@@ -38,8 +38,8 @@ toc: true
 ## Instructors
 
 - [Christoph Ihl](/team/ihl/)
-- [Erik Thiesen](/team/thiesen/)
-- [Marius Wilinski](/team/wilinski/)
+- [Jürgen Thiesen](/team/thiesen/)
+- [Jonas Wilinski](/team/wilinski/)
 
 ## Overview
 

@@ -268,11 +268,18 @@ h2.section-heading {
 }
 
 /* Course card dark mode */
-.course-card__meta {
+.course-card .news-teaser__title a,
+.thesis-card .news-teaser__title a {
   color: white;
 }
+.course-card .news-teaser__title a:hover,
+.thesis-card .news-teaser__title a:hover {
+  color: #00C1D4;
+}
+.course-card__ects,
 .course-card__level {
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
+  border-color: rgba(0, 193, 212, 0.6);
 }
 .course-card__instructors {
   color: white;
@@ -291,20 +298,22 @@ h2.section-heading {
 }
 
 /* Thesis card dark mode */
-.thesis-card__type {
-  background-color: rgba(0, 106, 129, 0.8);
+.thesis-card__type,
+.thesis-card__status {
+  color: white;
+  border-color: rgba(0, 193, 212, 0.6);
 }
 .thesis-card__status--open {
-  background-color: rgba(90, 255, 197, 0.15);
   color: #5affc5;
+  border-color: rgba(90, 255, 197, 0.5);
 }
 .thesis-card__status--assigned {
-  background-color: rgba(255, 126, 21, 0.15);
   color: #ffb06a;
+  border-color: rgba(255, 126, 21, 0.5);
 }
 .thesis-card__status--completed {
-  background-color: rgba(208, 208, 206, 0.15);
   color: #aaa;
+  border-color: rgba(208, 208, 206, 0.3);
 }
 .thesis-card__supervisor {
   color: rgba(255, 255, 255, 0.6);
