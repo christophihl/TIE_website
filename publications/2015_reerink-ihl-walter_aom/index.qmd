@@ -1,0 +1,31 @@
+---
+title: "A Taste for Patents? Self-Determined Motivation vs. External Incentives in Academic Patenting"
+author: "Jan W. Reerink, **Christoph Ihl**, Thomas Walter"
+date: "2015-08-01"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2015(1), 12412"
+doi: "10.5465/ambpp.2015.12412abstract"
+pub-type: "conference"
+abstract: "Based on prior research on academic patenting and self-determination theory, we highlight the importance of scientist' self-determined motivation to engage in academic patenting, a \"taste for patents\". In a large scale empirical study, we can show that this self-determined taste for patenting arises among scientists that publish less, but more extensively engage with industry and work in faculties with patenting peers. Rather than crowding out external incentives can actually boost self-determined motivation. In conclusion, universities which want to become more entrepreneurial should either recruit scientists based on an inherent motivation to patent."
+pdf: ""
+tags:
+  - "Academic Patenting"
+  - "Motivation"
+  - "Incentives"
+conference: "Academy of Management Proceedings"
+volume: "2015"
+issue: "1"
+article-number: "12412"
+authors:
+  - name: "Jan Reerink"
+    internal: "reerink"
+    orcid: "0000-0001-6558-5183"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Thomas Walter"
+profile-pubs: ["reerink", "ihl"]
+image: ""
+cite: ""
+---

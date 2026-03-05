@@ -1,0 +1,29 @@
+---
+title: "Einfluss digitaler (Startup-) Technologien im Operations Management"
+author: "Jörg Schwarz, **Christoph Ihl**"
+date: "2019-06-01"
+categories:
+  - "Book / Chapter"
+description: "In: Schröder, M., Wegner, K. (eds), Logistik im Wandel der Zeit – Von der Produktionssteuerung zu vernetzten Supply Chains, 137-162"
+doi: "10.1007/978-3-658-25412-4_7"
+pub-type: "book-chapter"
+abstract: "In den letzten Jahren haben Unternehmen in fast allen Branchen eine Reihe von Initiativen zur Identifizierung neuer digitaler Technologien und zur Nutzung ihrer Vorteile durchgeführt (Technology Foresight). Sowohl die Weiterentwicklung bestehender als auch die Implementierung neuer Technologien führt zu einer digitalen Transformation der gesamten Wertschöpfungskette, die nahezu alle Produkte und Prozesse sowie Organisationsstrukturen und Managementkonzepte betrifft (Kersten et al., 2017). Die möglichen Vorteile der Digitalisierung sind vielfältig und umfassen unter anderem Umsatz- oder Produktivitätssteigerungen, Innovationen in der Wertschöpfung sowie neuartige Formen der Interaktion mit Kunden. Durch die Anwendung von Technologien wie beispielsweise künstlicher Intelligenz, maschinellem Lernen oder der Blockchain-Technologie können ganze Geschäftsmodelle transformiert oder ersetzt werden (Downes und Nunes, 2015)."
+pdf: ""
+tags:
+  - "Digital Technologies"
+  - "Startups"
+  - "Operations Management"
+book-title: "Logistik im Wandel der Zeit – Von der Produktionssteuerung zu vernetzten Supply Chains"
+editors: "Meike Schröder, Kirsten Wegner"
+publisher: "Springer Gabler"
+pages: "137-162"
+authors:
+  - name: "Joschka Schwarz"
+    internal: "schwarz"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+profile-pubs: ["schwarz", "ihl"]
+image: ""
+cite: ""
+---

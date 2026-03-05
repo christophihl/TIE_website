@@ -32,7 +32,7 @@ resources:
   - ../../assets/images/banners/team.jpg
 listing:
   - id: selected-pubs
-    contents: ../../publications/*.qmd
+    contents: ../../publications/*/index.qmd
     include:
       profile-pubs: "graf"
     sort: "date desc"

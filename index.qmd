@@ -13,7 +13,7 @@ listing:
     template: news-home.ejs
     date-format: "DD.MM.YYYY"
   - id: featured-pubs
-    contents: publications/*.qmd
+    contents: publications/*/index.qmd
     include:
       featured: true
     sort: "date desc"

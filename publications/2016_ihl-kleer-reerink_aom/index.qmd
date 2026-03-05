@@ -1,0 +1,32 @@
+---
+title: "The Distance Dilemma: Effects of Knowledge Distance on Solvers' Adoption of Broadcasted R&D Problems"
+author: "**Christoph Ihl**, Robin Kleer, Jan W. Reerink"
+date: "2016-08-02"
+categories:
+  - "Conference Paper"
+description: "Academy of Management Proceedings 2016(1), 16868"
+doi: "10.5465/ambpp.2016.16868abstract"
+pub-type: "conference"
+abstract: "Open innovation is exemplified in crowdsourcing platforms that allow firms to broadcast R&D problems, which they are unable to solve by their own means, to a wide range of potential solvers. A few studies so far indicate that especially solvers from distant fields have higher chances to make the winning contributions in crowdsourcing contests. It is not fully understood, however, what generally attracts potential solvers to crowdsourcing in the first place and how solvers' knowledge distance towards the broadcasted innovation problem in particular affect their initial interest and adoption. To investigate this question, we situate our study in the field of nanoscience and technology. By the means of topic modeling with over 900,000 scientific papers and 35 real requests for proposals (RfPs), we are able to locate solvers and problems within a knowledge space and measure the distance between them. In a field experiment, we invite scientists to inspect randomly assigned RfPs of high and low distance. In a subsequent discrete choice analysis, we measure their willingness to engage in solving the assigned R&D problem conditional on contractual arrangements. Our findings lend support to the conjecture that knowledge distance reduces scientists' attention paid towards broadcasted innovation problems and their willingness to solve them. Contractual arrangements can only partially mitigate this effect. Solvers that are more closely linked to the problem are also more responsive to contract attributes. More distant solvers can best be incentivized by higher award money and by the right to license the invention also to third parties. Overall, we shed light on managing an important trade-off in innovation crowdsourcing: while more distant solvers could make valuable contributions, they are more difficult to contract."
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Knowledge Distance"
+  - "Broadcast Search"
+conference: "Academy of Management Proceedings"
+volume: "2016"
+issue: "1"
+article-number: "16868"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Robin Kleer"
+    orcid: "0000-0001-5360-5351"
+  - name: "Jan Reerink"
+    internal: "reerink"
+    orcid: "0000-0001-6558-5183"
+profile-pubs: ["ihl", "reerink"]
+image: ""
+cite: ""
+---

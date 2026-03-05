@@ -1,0 +1,30 @@
+---
+title: "Embedded toolkits: Identifying changing user needs during product usage"
+author: "Frank Steiner, **Christoph Ihl**, Frank Piller, Refik Tarcan Tarman"
+date: "2011-12-01"
+categories:
+  - "Journal Article"
+description: "Engineering Management Journal, 23(4), 3-13"
+doi: "10.1080/10429247.2011.11431915"
+pub-type: "journal"
+abstract: "A main challenge in new product development (NPD) is to match a new design to customer preferences. Recent reviews show large failure rates in the commercialization of new designs. In most of the cases, the reason of failure has not been a lack of technological capability of the firm, but an incorrect understanding of real customer needs and demands. This article proposes a potential solution for this issue—the concept of embedded open toolkits for user innovation. The concept of embedded open toolkits for user innovation plans for manufacturers to design products with build-in flexibility, so that customers can make changes to the product, even after purchase. This is done by embedding knowledge and rules about possible product differentiations into the product. The main objective of this article is to study the feasibility of the concept of embedded open toolkits. For this purpose an empirical study among 162 potential users of such a toolkit in the automotive domain was conducted."
+pdf: ""
+tags:
+  - "User Innovation"
+  - "Toolkits"
+  - "Product Development"
+pub-journal: "Engineering Management Journal"
+volume: "23"
+issue: "4"
+pages: "3-13"
+authors:
+  - name: "Frank Steiner"
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Frank Piller"
+  - name: "Refik Tarcan Tarman"
+profile-pubs: ["ihl"]
+image: ""
+cite: ""
+---

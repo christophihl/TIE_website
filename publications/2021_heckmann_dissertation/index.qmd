@@ -1,0 +1,24 @@
+---
+title: "The Importance of Legitimate Media Distinctiveness for Ventures Seeking Funding in Early and Later Stages"
+author: "Jens Eike Heckmann"
+date: "2021-09-29"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: ""
+pub-type: "thesis"
+abstract: ""
+pdf: ""
+tags:
+  - "Media"
+  - "Legitimacy"
+  - "Venture Funding"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Jens Heckmann"
+    internal: "heckmann"
+    orcid: "0000-0002-3690-6766"
+profile-pubs: ["heckmann"]
+image: ""
+cite: ""
+---

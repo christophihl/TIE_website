@@ -1,0 +1,24 @@
+---
+title: "Driving Diffusion of Scientific Innovation -- The Role of Institutional Entrepreneurship and Open Science in Synthetic Biology"
+author: "Giulio Barth"
+date: "2018-09-14"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.1742"
+pub-type: "thesis"
+abstract: "Effekte von Institutionen auf die Diffusion von wissenschaftlichen Innovationen wurden in mehreren Studien belegt, ohne auf die Schaffung von Institutionen einzugehen. Die Theorie von institutionellen Entrepreneuren thematisiert diese Lücke und erklärt, wie Schlüsselfiguren eine institutionelle Logik verbreiten und auf dieser aufbauende Institutionen schaffen, um die Diffusion von Innovationen zu beeinflussen. In meiner Dissertation validiere ich den vollständigen Prozess ausgehend vom Entrepreneur, der eine Logik verbreitet, bis hin zu Effekten von frei verfügbaren Forschungsmethoden. Basierend auf Analysen von Patenten und Publikationen in der Synthetischen Biologie können wir die Theorie validieren und eine positive Wirkung von frei verfügbaren Forschungsmethoden messen."
+pdf: ""
+tags:
+  - "Institutional Entrepreneurship"
+  - "Open Science"
+  - "Synthetic Biology"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Giulio Barth"
+    internal: "barth"
+    orcid: "0000-0002-0133-8754"
+profile-pubs: ["barth"]
+image: ""
+cite: ""
+---

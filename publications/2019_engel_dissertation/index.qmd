@@ -1,0 +1,24 @@
+---
+title: "Social Influence, Status, and Entrepreneurial Entry: Evidence from the Comic Book Industry"
+author: "Michael Engel"
+date: "2019-06-21"
+categories:
+  - "PhD Thesis"
+description: "Dissertation, Technische Universität Hamburg"
+doi: "10.15480/882.2355"
+pub-type: "thesis"
+abstract: "Diese Dissertation untersucht wie sich die Struktur sozialer Netzwerke auf den unternehmerischen Eintritt auswirkt. Sie analysiert die Effekte von sozialem Einfluss und Status auf die Entscheidung von Personen, ein neues, selbst erstelltes Angebot auf den Markt zu bringen. Bisherige Arbeiten haben diese Effekte zwar nachgewiesen, konnten die zugrundeliegenden Mechanismen aber noch nicht aufdecken. Ausgehend von der Netzwerktheorie leiten wir Hypothesen zu proximitätsbasierten Ansteckungs- und statusbasierten Konvergenzmechanismen ab und testen sie im Kontext der Comic-Industrie mit Ereignisanalysen und Paneldaten, die die Karrieren von mehr als 11.000 Autoren von 1988 bis 2014 abbilden."
+pdf: ""
+tags:
+  - "Social Influence"
+  - "Status"
+  - "Entrepreneurial Entry"
+  - "Creative Industries"
+institution: "Technische Universität Hamburg"
+authors:
+  - name: "Michael Engel"
+    internal: "engel"
+profile-pubs: ["engel"]
+image: ""
+cite: ""
+---

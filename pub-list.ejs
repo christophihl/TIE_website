@@ -46,6 +46,7 @@ if (item['pub-journal']) {
 <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" class="pub-btn pub-btn--doi" target="_blank" rel="noopener">DOI</a><% } %>
 <% if (item.tore) { %><a href="<%= item.tore %>" class="pub-btn pub-btn--tore" target="_blank" rel="noopener">TORE</a><% } %>
 <% if (item.pdf) { %><a href="<%= item.pdf %>" class="pub-btn pub-btn--pdf" target="_blank" rel="noopener">PDF</a><% } %>
+<% if (item.cite) { %><a href="<%= item.cite %>" class="pub-btn pub-btn--cite" download>Cite</a><% } %>
 <% if (item.abstract) { %><button class="pub-btn pub-btn--abstract" onclick="this.closest('.pub-entry').querySelector('.pub-entry__abstract').classList.toggle('pub-entry__abstract--open')">Abstract</button><% } %>
 <% if (item['pub-links']) { try { var links = typeof item['pub-links'] === 'string' ? JSON.parse(item['pub-links']) : item['pub-links']; if (Array.isArray(links)) { for (var l of links) { %><a href="<%= l.url %>" class="pub-btn pub-btn--link" target="_blank" rel="noopener"><% if (l.icon) { %><i class="<%= l.icon %>"></i> <% } %><%= l.name %></a><% } } } catch(e) {} } %>
 <% if (item['pub-status']) { %><span class="pub-status"><%= item['pub-status'] %></span><% } %>

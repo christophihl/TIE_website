@@ -1,0 +1,27 @@
+---
+title: "Detecting Hidden Sorting and Alignment Effects of Entrepreneurship Education"
+author: "Michael Fretschner, Heinz W. Lampe"
+date: "2019-01-01"
+categories:
+  - "Journal Article"
+description: "Journal of Small Business Management, 57(4), 1712-1737"
+doi: "10.1111/jsbm.12448"
+pub-type: "journal"
+abstract: "Recently, scholars are confronted with only small positive, non-existing, or even negative average effects of entrepreneurship education. We draw on two largely neglected and hidden effects of entrepreneurship education, namely the alignment and the sorting effect, in order to explain previous inconsistent evaluation outcomes. Making use of ex ante and ex post student-surveys in a quasi-experimental setting, we provide insights into how these effects emerge and are further amplified by course-induced updates in personal attitudes and perceived behavioral control. Our study shows that relying on average measures is often not effective in evaluating entrepreneurship courses and highlights the need for new outcomes measures."
+pdf: ""
+tags:
+  - "Entrepreneurship Education"
+  - "Selection Effects"
+pub-journal: "Journal of Small Business Management"
+volume: "57"
+issue: "4"
+pages: "1712-1737"
+authors:
+  - name: "Michael Fretschner"
+  - name: "Hannes W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
+profile-pubs: ["lampe"]
+image: ""
+cite: ""
+---

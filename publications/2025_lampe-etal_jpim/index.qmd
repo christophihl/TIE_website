@@ -1,0 +1,31 @@
+---
+title: "Technological Innovations of Hidden Champions: Evidence from Patent Data"
+author: "Heinz W. Lampe, Jorn Block, Thorben Willeke, Thomas Clauss, Holger Steinmetz"
+date: "2025-01-01"
+categories:
+  - "Journal Article"
+description: "Journal of Product Innovation Management, 42(3), 502-527"
+doi: "10.1111/jpim.12766"
+pub-type: "journal"
+abstract: "The hidden champion concept has received much interest in practice. As market leaders in niche markets, hidden champions represent the success of the (German) Mittelstand. Innovation is a key element of their strategy and their focus and niche market strategy are associated with specific technological capabilities. However, thus far, little quantitative empirical evidence exists about the innovation output of hidden champions. Drawing on a capability perspective and using patent data, the present study analyzes differences between hidden champions and comparable non‐hidden champion firms in their technological innovation. Our results show that hidden champions have a significantly larger technological innovation output but do not have a higher efficiency in their innovation creation compared to other firms from the same industry, size, and age. Moreover, the innovations produced by hidden champions show higher levels of technological depth and indicate lower levels of technological breadth. The sources of technological knowledge of hidden champions seem to be more inward oriented. Finally, innovations of hidden champions have similar technological impact, novelty and quality compared to those of other firms. Overall, our study supports many of the anecdotal beliefs about the innovation of hidden champions contributing to a better understanding of what makes hidden champions different from other Mittelstand firms. Practical implications for hidden champions and Mittelstand firms are discussed."
+pdf: ""
+tags:
+  - "Hidden Champions"
+  - "Patents"
+  - "Innovation"
+pub-journal: "Journal of Product Innovation Management"
+volume: "42"
+issue: "3"
+pages: "502-527"
+authors:
+  - name: "Hannes W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
+  - name: "Jorn Block"
+  - name: "Thorben Willeke"
+  - name: "Thomas Clauss"
+  - name: "Holger Steinmetz"
+profile-pubs: ["lampe"]
+image: ""
+cite: ""
+---

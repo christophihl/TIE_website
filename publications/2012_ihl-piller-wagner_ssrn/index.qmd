@@ -1,0 +1,26 @@
+---
+title: "Organizing for open innovation: Aligning internal structure with external knowledge search"
+author: "**Christoph Ihl**, Frank T. Piller, Philipp Wagner"
+date: "2012-01-01"
+categories:
+  - "Working Paper"
+description: "SSRN Working Paper"
+doi: "10.2139/ssrn.2164766"
+pub-type: "working-paper"
+abstract: "In the past decade, research on open innovation has brought renewed attention to ways how firms can gain from the interaction with external sources of knowledge and innovation. Complementary internal management practices, however, that explain why some firms benefit from open innovation more than others are still largely unexplored. This study adopts the notion of open innovation as external knowledge search and investigates its mutual interdependence with internal organizational structures of a firm's innovation function. Drawing upon behavioral theories about organizational search and information processing, we hypothesize how structural dimensions such as specialization, formalization and decentralization affect gains from open innovation. Based on a sample of German manufacturing firms, we find higher performance gains from open innovation by aligning internal organizational structures in terms of lower specialization as well as higher formalization and decentralization. These organizational contingencies of open innovation are further emphasized in light of firms' internal R&D intensity: (1) Low specialization is especially beneficial for firms that try to align open innovation in a complementary fashion with their high internal R&D intensity. (2) Higher formalization and decentralization is essential for firms that try to substitute their low internal R&D intensity by the means of open innovation."
+pdf: ""
+tags:
+  - "Open Innovation"
+  - "Organizational Design"
+  - "Knowledge Search"
+institution: "SSRN"
+authors:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+    orcid: "0000-0002-0842-5201"
+  - name: "Frank T. Piller"
+  - name: "Philipp Wagner"
+profile-pubs: ["ihl"]
+image: ""
+cite: ""
+---

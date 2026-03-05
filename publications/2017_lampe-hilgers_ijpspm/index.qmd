@@ -1,0 +1,27 @@
+---
+title: "Financial Aid for Local Governments: Blessing or Mismanagement?"
+author: "Heinz W. Lampe, Dennis Hilgers"
+date: "2017-01-01"
+categories:
+  - "Journal Article"
+description: "International Journal of Public Sector Performance Management, 3(1), 40-58"
+doi: "10.1504/IJPSPM.2017.082499"
+pub-type: "journal"
+abstract: "For decades the public sector seems incapable to not incur new debt or even save money to overcome the omnipresent stressed financial situation. This grievance is pervasive over several levels of public sector entities including municipalities, the federal states as well as central/national tier. On the local level, bailouts in form of loan repayment are understood as measures to deliver a sustainable solution to and thus overcome the stressed financial situations of municipalities. This study presents empirical evidence for a positive correlation of debt and cost inefficiency of municipalities' service provision. Furthermore, interest payments have a minor impact on this cohesion. These findings show that repayments of municipalities' debts are not a sustainable solution to overcome the stressed financial situation on the local government level. Highly indebted municipalities are inefficient in their service provision anyway."
+pdf: ""
+tags:
+  - "Public Finance"
+  - "Local Government"
+pub-journal: "International Journal of Public Sector Performance Management"
+volume: "3"
+issue: "1"
+pages: "40-58"
+authors:
+  - name: "Hannes W. Lampe"
+    internal: "lampe"
+    orcid: "0000-0003-1375-236X"
+  - name: "Dennis Hilgers"
+profile-pubs: ["lampe"]
+image: ""
+cite: ""
+---
