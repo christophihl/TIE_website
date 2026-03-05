@@ -18,6 +18,7 @@ tags:
 expectations:
   - "Strong background in computer science, computational linguistics, or data science"
   - "Interest in academic research and natural language processing"
+image: featured.png
 weight: 30
 page-layout: custom
 section-divs: false
@@ -38,6 +39,7 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+![Taxonomy Generation for Emerging Research Fields](featured.png){.profile-avatar .detail-image}
 
 ::: {.pub-meta}
 - {{< fa file-lines >}} Master Thesis

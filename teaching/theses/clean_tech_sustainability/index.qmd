@@ -20,6 +20,7 @@ expectations:
   - "Backgrounds in management, computer science, data science, engineering, or sustainability studies"
   - "Strong analytical interests"
   - "Passion for the green transition"
+image: featured.png
 weight: 20
 page-layout: custom
 section-divs: false
@@ -40,6 +41,7 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+![Circular Economy, Clean Technologies & Sustainability](featured.png){.profile-avatar .detail-image}
 
 ::: {.pub-meta}
 - {{< fa file-lines >}} Master Thesis

@@ -19,6 +19,7 @@ expectations:
   - "Interest in AI and innovation processes"
   - "Experience with prototyping or software development"
   - "Interest in design thinking and creativity methods"
+image: featured.jpg
 weight: 30
 page-layout: custom
 section-divs: false
@@ -39,6 +40,7 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+![Opportunity Identification — Designing an AI-Based Assistant](featured.jpg){.profile-avatar .detail-image}
 
 ::: {.pub-meta}
 - {{< fa file-lines >}} Master Thesis

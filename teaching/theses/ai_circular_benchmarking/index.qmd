@@ -19,6 +19,7 @@ expectations:
   - "Background in data science, computer science, business informatics, or environmental studies"
   - "Strong analytical skills"
   - "Interest in sustainability"
+image: featured.png
 weight: 10
 page-layout: custom
 section-divs: false
@@ -39,6 +40,7 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+![AI in Circular Economy Research Benchmarking](featured.png){.profile-avatar .detail-image}
 
 ::: {.pub-meta}
 - {{< fa file-lines >}} Master Thesis
