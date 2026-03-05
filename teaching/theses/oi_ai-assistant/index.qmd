@@ -1,0 +1,54 @@
+---
+title: "Opportunity Identification — Designing an AI-Based Assistant"
+description: "Design and prototype an AI-based assistant to support creativity workflows for opportunity identification"
+date: "2023-03-17"
+supervisor:
+  - name: "Oliver Specht"
+    internal: "specht"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "AI"
+  - "Innovation"
+tags:
+  - "opportunity-identification"
+  - "AI-assistant"
+  - "design-science"
+  - "circular-economy"
+expectations:
+  - "Interest in AI and innovation processes"
+  - "Experience with prototyping or software development"
+  - "Interest in design thinking and creativity methods"
+weight: 30
+page-layout: article
+toc: true
+---
+
+## Introduction
+
+Identifying viable opportunities for innovation requires structured and creative workflows that enable stakeholders to explore new solutions and business models. Traditional methods for opportunity identification (OI) often rely on brainstorming sessions, expert-driven assessments, and industry best practices. While these methods have proven valuable, they can be limited by cognitive biases, siloed thinking, and a lack of real-time data integration. Approaches such as design thinking, lateral thinking, and open innovation have been widely adopted to structure ideation processes, enabling teams to systematically develop and refine new concepts.
+
+AI-driven tools have the potential to address these limitations by augmenting traditional creativity workflows with computational intelligence. Machine learning, natural language processing, and data analytics can help identify emerging trends, generate novel idea prompts, and enhance collaborative ideation in real-time. By integrating AI into OI processes, organizations can benefit from more structured, data-driven, and scalable approaches to innovation.
+
+This master's thesis aims to explore and analyze OI creativity workflows, assessing how structured methods such as design thinking and lateral thinking contribute to innovation. The study will examine AI's role in supporting these workflows and investigate how AI-driven ideation techniques can enhance creativity. By gaining a deeper understanding of existing creativity workflows and their challenges, the research will lay the foundation for developing an AI-based assistant designed to support OI processes. While the AI assistant will be designed for general use, it will be tested in the specific domain of a circular economy, to evaluate its applicability and effectiveness.
+
+## Research Objectives
+
+- **Comparative Study of Creativity Workflows:** A structured analysis of various creativity workflows used in OI will be conducted. Based on a literature review, methodologies such as design thinking and lateral thinking will be assessed for their effectiveness in fostering innovation. The study will also examine AI's potential role in supporting these workflows, identifying key areas where AI-driven ideation can enhance creativity.
+- **Design and Development of an AI-Based Assistant:** The thesis will conceptualize and prototype an AI-based workshop assistant that supports stakeholders in generating, refining, and evaluating ideas. The AI assistant will provide real-time suggestions, trend analysis, and creativity prompts tailored to workshop scenarios and creativity workflows developed in previous tasks.
+
+## Methodology
+
+- **Literature Review:** A comprehensive review of creativity workflows, stakeholder engagement strategies, and AI applications in opportunity identification and circular economy innovation.
+- **Design Thinking:** This user-centered methodology will be used to design and refine workshop scenarios and AI-assisted creativity workflows, involving iterative feedback loops with stakeholders.
+- **Design Science Research (DSR):** A structured approach to developing and evaluating the AI-based assistant, involving problem identification, iterative design, prototype development, and evaluation.
+
+## Expected Contributions
+
+- A systematic comparison of creativity workflows for OI.
+- A prototype AI assistant tailored for circular economy opportunity creation.
+- An evaluation framework to assess the effectiveness of AI-assisted creativity workflows and stakeholder workshop scenarios in fostering opportunity identification.
+
+## Supervisor
+
+[Oliver Specht](/team/specht/) ([oliver.specht@tuhh.de](mailto:oliver.specht@tuhh.de))

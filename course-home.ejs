@@ -1,0 +1,40 @@
+<div class="course-home-grid list">
+<% for (const item of items) { %>
+<div class="news-teaser news-teaser--card course-card">
+<span class="listing-title" style="display:none;"><%= item.title %></span>
+<span class="listing-description" style="display:none;"><%= item.description || '' %></span>
+<span class="listing-date" style="display:none;"><%= item.date %></span>
+<span class="listing-categories" style="display:none;"><%= (item.categories || []).join(', ') %></span>
+<% if (item.image) { %>
+<div class="news-teaser__image-top">
+<img src="<%= item.image %>" alt="<%= item.title %>">
+</div>
+<% } %>
+<div class="course-card__meta"><% if (item.ects) { %><span class="course-card__ects"><%= item.ects %> ECTS</span><% } %><% if (item.level) { %><span class="course-card__level"><%= item.level %></span><% } %></div>
+<div class="news-teaser__text">
+<h5 class="news-teaser__title"><a href="<%= item.path %>"><%= item.title %></a></h5>
+<div class="course-card__instructors"><%
+if (item.instructors) {
+  try {
+    var instructors = typeof item.instructors === 'string' ? JSON.parse(item.instructors) : item.instructors;
+    if (Array.isArray(instructors) && instructors.length) {
+      for (var i = 0; i < instructors.length; i++) {
+        if (i > 0) { %>, <% }
+        var inst = instructors[i];
+        if (inst.internal) {
+%><a href="/team/<%= inst.internal %>/" class="course-instructor-link"><%= inst.name %></a><%
+        } else {
+%><%= inst.name %><%
+        }
+      }
+    }
+  } catch(e) {}
+}
+%></div>
+<% if (item.description) { %>
+<div class="news-teaser__intro"><%= item.description %></div>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>

@@ -1,0 +1,54 @@
+<div class="thesis-grid list">
+<% for (const item of items) { %>
+<div class="news-teaser news-teaser--card thesis-card">
+<% if (item.image) { %>
+<div class="news-teaser__image-top">
+<img src="<%= item.image %>" alt="<%= item.title %>">
+</div>
+<% } %>
+<div class="thesis-card__meta"><%
+if (item['thesis-type']) {
+%><span class="thesis-card__type"><%= item['thesis-type'] %></span><%
+}
+if (item.status) {
+  var statusClass = item.status === 'open' ? 'thesis-card__status--open' : item.status === 'assigned' ? 'thesis-card__status--assigned' : 'thesis-card__status--completed';
+%><span class="thesis-card__status <%= statusClass %>"><%= item.status.charAt(0).toUpperCase() + item.status.slice(1) %></span><%
+}
+%></div>
+<div class="news-teaser__text">
+<h5 class="news-teaser__title"><a href="<%= item.path %>"><%= item.title %></a></h5>
+<% if (item.supervisor) { %>
+<div class="thesis-card__supervisor"><%
+  try {
+    var supervisors = typeof item.supervisor === 'string' ? JSON.parse(item.supervisor) : item.supervisor;
+    if (Array.isArray(supervisors) && supervisors.length) {
+%>Supervisor: <%
+      for (var s = 0; s < supervisors.length; s++) {
+        if (s > 0) { %>, <% }
+        var sup = supervisors[s];
+        if (sup.internal) {
+%><a href="/team/<%= sup.internal %>/" class="course-instructor-link"><%= sup.name %></a><%
+        } else {
+%><%= sup.name %><%
+        }
+      }
+    }
+  } catch(e) {}
+%></div>
+<% } %>
+<% if (item.cooperation) { %>
+<div class="thesis-card__cooperation"><%
+if (item['cooperation-url']) {
+%>Cooperation: <a href="<%= item['cooperation-url'] %>" target="_blank" rel="noopener"><%= item.cooperation %></a><%
+} else {
+%>Cooperation: <%= item.cooperation %><%
+}
+%></div>
+<% } %>
+<% if (item.description) { %>
+<div class="news-teaser__intro"><%= item.description %></div>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>

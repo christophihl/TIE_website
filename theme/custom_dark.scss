@@ -266,3 +266,60 @@ h2.section-heading {
 .pub-featured-card__venue {
   color: #aaa;
 }
+
+/* Course card dark mode */
+.course-card__meta {
+  color: white;
+}
+.course-card__level {
+  color: rgba(255, 255, 255, 0.6);
+}
+.course-card__instructors {
+  color: white;
+}
+.course-instructor-link {
+  color: white;
+}
+.course-instructor-link:hover {
+  color: #00C1D4;
+}
+.course-card__time {
+  border-top-color: rgba(0, 193, 212, 0.3);
+}
+.course-card__time-item {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Thesis card dark mode */
+.thesis-card__type {
+  background-color: rgba(0, 106, 129, 0.8);
+}
+.thesis-card__status--open {
+  background-color: rgba(90, 255, 197, 0.15);
+  color: #5affc5;
+}
+.thesis-card__status--assigned {
+  background-color: rgba(255, 126, 21, 0.15);
+  color: #ffb06a;
+}
+.thesis-card__status--completed {
+  background-color: rgba(208, 208, 206, 0.15);
+  color: #aaa;
+}
+.thesis-card__supervisor {
+  color: rgba(255, 255, 255, 0.6);
+}
+.thesis-card__cooperation {
+  color: rgba(255, 255, 255, 0.6);
+}
+.thesis-card__cooperation a {
+  color: white;
+}
+.thesis-card__cooperation a:hover {
+  color: #00C1D4;
+}
+
+/* Semester subheader dark mode */
+.semester-subheader {
+  color: rgba(0, 193, 212, 0.8);
+}

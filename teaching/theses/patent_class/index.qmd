@@ -1,0 +1,54 @@
+---
+title: "Supervised Label Prediction for Cosmetic Patents Using Machine Learning"
+description: "Predicting and automating the classification process for cosmetic patents using machine learning algorithms"
+date: "2020-12-23"
+image: featured.png
+cooperation: "Beiersdorf"
+cooperation-url: "https://www.beiersdorf.de"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "AI"
+  - "NLP"
+tags:
+  - "machine-learning"
+  - "patent-classification"
+  - "NLP"
+  - "Beiersdorf"
+expectations:
+  - "Strong analytical skills and passion for data"
+  - "Willingness to cooperate with R&D of a leading global skin care company"
+  - "Very good knowledge of English"
+  - "Team player with an international mindset"
+weight: 50
+page-layout: article
+toc: true
+---
+
+## Tasks
+
+The focus of this thesis is on the analysis of a patent data set for predicting and automating the classification process, which is currently still carried out manually. The goal is to identify and test different machine learning algorithms in order to improve prediction accuracy. The features for identifying the patents come from patent codes (e.g. IPC, CPC) and text data (e.g. patent claims, full text). There will be a second classification task related to specific information (e.g. cosmetic substances) within the independent claims of these patents.
+
+### Subtasks
+
+- Preparation of patent data records and underlying text data
+- Define and extract characteristics
+- Training & testing various machine learning architectures
+- Identify the best approach and fine tune hyperparameters
+
+## Expectations
+
+- Strong analytical skills and passion for data
+- Willingness to cooperate with R&D of a leading global skin care company
+- Very good knowledge of English
+- Team player with an international mindset
+
+**Ideally:**
+
+- Skills in R or Python
+- Experience in processing natural language
+- Experience in machine learning
+
+## Cooperation
+
+In cooperation with [Beiersdorf](https://www.beiersdorf.de)

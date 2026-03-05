@@ -12,6 +12,13 @@ listing:
     type: custom
     template: news-home.ejs
     date-format: "DD.MM.YYYY"
+  - id: current-courses-home
+    contents: teaching/courses/*/index.qmd
+    include:
+      semester: "ST2026"
+    sort: "weight asc"
+    type: custom
+    template: course-home.ejs
   - id: featured-pubs
     contents: publications/*/index.qmd
     include:
@@ -138,9 +145,10 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 
 ## Current Courses {.section-heading}
 
-::: {.placeholder-text}
-Coming soon — course listings will be added in a later phase.
+::: {#current-courses-home}
 :::
+
+[All Courses](teaching.qmd){.btn-tuhh}
 
 :::
 :::

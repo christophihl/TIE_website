@@ -49,8 +49,14 @@ website:
             href: research.qmd#sec-projects
           - text: Publications
             href: research.qmd#sec-publications
-      - href: teaching.qmd
-        text: Teaching
+      - text: Teaching
+        menu:
+          - text: Current Courses
+            href: teaching.qmd#sec-current-courses
+          - text: Upcoming Courses
+            href: teaching.qmd#sec-upcoming-courses
+          - text: Open Theses
+            href: teaching.qmd#sec-open-theses
       - href: transfer.qmd
         text: Transfer
       - href: contact.qmd

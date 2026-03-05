@@ -1,0 +1,40 @@
+---
+title: "Business Plan for a Pedal Electric Kids Car"
+description: "Develop a business plan for a young startup building a pedal electric car for children"
+date: "2020-09-30"
+image: featured.png
+thesis-type: "Bachelor/Master"
+status: "open"
+categories:
+  - "Entrepreneurship"
+tags:
+  - "business-plan"
+  - "startup"
+  - "market-analysis"
+  - "electric-vehicles"
+expectations:
+  - "Passion for business development and entrepreneurship"
+  - "Hands-on mentality"
+  - "Close partnership with founder team"
+weight: 70
+page-layout: article
+toc: true
+---
+
+## Tasks
+
+A young startup develops a pedal electric car for children between 6–13 years. The vehicle drives up to 25 km/h and is equipped with several features, such as an aluminum space-frame, 7 gears, trunk, etc. Currently, they finish a second prototype and are about to do intensive test driving with it. They are looking for an energetic student, who is interested in further developing their business plan.
+
+### Subtasks
+
+- Explore market and competition, potential customer segments, marketing channels, and potential revenue streams
+- Work in close partnership with the founders team
+- Gather and analyze data, potentially from customer interviews
+- Determine and validate possible price points and willingness to pay
+- Use findings to make recommendations to founders with regards to current prototype or business strategy
+
+## Expectations
+
+- Passion for business development and entrepreneurship
+- Close partnership with founder team
+- Hands-on mentality

@@ -1,0 +1,57 @@
+---
+title: "Identifying Influential Software Developers Using Social Network Analysis"
+description: "Investigate network structures on social coding platforms to identify influential developers"
+date: "2020-06-23"
+image: featured.png
+supervisor:
+  - name: "Erich Schwarz"
+    internal: "schwarz"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "Data Science"
+  - "Networks"
+tags:
+  - "social-network-analysis"
+  - "GitHub"
+  - "StackOverflow"
+  - "graph-theory"
+expectations:
+  - "Strong analytical skills and passion for data"
+  - "Skills in R or Python"
+  - "Very good knowledge of English"
+  - "Independent target-oriented work style"
+weight: 80
+page-layout: article
+toc: true
+---
+
+## Tasks
+
+Due to the rise of social coding, software developers can track the activities and knowledge relevant to various projects across different project hosting platforms (e.g. GitHub). Software development is heavily dependent on the participants of the process and their roles within the process. Each developer has their specific skills and interests and hence contributes to the projects in a different way with different reputational consequences.
+
+Collaborative software development makes an investigation of network structures on social coding sites valuable. Community ties in the developer network are thought to be instrumental for project success. The dominant focus has been on understanding the factors affecting performance at the team level. However, there has been little systematic research conducted on the factors that affect the performance of individual developers. These top contributors are critical to the community since they drive the development of the projects and are essential for creating and sharing knowledge. Identifying these influential individuals and explaining which factors lead to "stardom" in such environments could be highly valuable.
+
+### Subtasks
+
+- Contribute to the body of knowledge on social coding by investigating the network structure of social coding in GitHub and possibly StackOverflow.
+- Construct a social network of software developers (developer-developer and project-project relationship graphs).
+- Choose appropriate analysis strategies to identify influential developers (compute various characteristics of the graphs based on social network approach consistent with the core principles of structural/relational analysis).
+
+## Expectations
+
+- Strong analytical skills and passion for data
+- Skills in R or Python
+- Very good knowledge of English
+- Work in an independent target-oriented manner
+
+**Ideally:**
+
+- Experience in graph theory
+- Experience in SQL
+- Experience in machine learning
+- Experience in using High-Performance-Compute-Cluster (HPC)
+
+## Supervisor
+
+[Erich Schwarz](/team/schwarz/) ([erich.schwarz@tuhh.de](mailto:erich.schwarz@tuhh.de))

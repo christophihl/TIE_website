@@ -1,0 +1,52 @@
+---
+title: "Internationalization of Startups — An Analysis of Success Factors and Barriers with Special Focus on AI and Health Care"
+description: "Develop and validate a framework for strategic internationalization decision making in AI & health care startups"
+date: "2020-06-23"
+image: featured.png
+supervisor:
+  - name: "Christoph Ihl"
+    internal: "ihl"
+cooperation: "Tiplu"
+cooperation-url: "https://tiplu.de/"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "Entrepreneurship"
+  - "Strategy"
+tags:
+  - "internationalization"
+  - "startups"
+  - "AI"
+  - "health-care"
+expectations:
+  - "IWI Master students with an interest in startups and internationalization"
+  - "Thesis can be written in German or English"
+weight: 60
+page-layout: article
+toc: true
+---
+
+## Task
+
+Your task is to develop and validate a framework that can guide strategic decision making in startups with respect to internationalization. Based on a general review of the literature on success factors and barriers of startup internationalization, you should explore the specific challenges and requirements that result from deploying multi-language AI technologies as well as operating health care markets with different regulations. The analysis should be complemented by a detailed analysis of comparable companies based on archival data and (where possible) expert interviews.
+
+The thesis project is conducted in close cooperation with Tiplu GmbH: Tiplu is a startup founded in 2016 and grown-up in Hamburg-Harburg, that deals with the topic of "Clinical Decision Making" in hospitals. For this purpose, Tiplu operates the largest federated machine learning network in the German-speaking area and trains and sells prediction models for predicting clinical events. Possibilities for internationalization and thus the distribution of the ML models trained in Germany in basically all other countries in the world that have digital patient data are currently being examined.
+
+### Subtasks
+
+- Literature review on success factors and barriers of startup internationalization
+- Identify and analyze comparable startups
+- Validation by the means of expert interviews
+
+## Expectations
+
+- IWI Master students with an interest in startups and internationalization
+- Thesis can be written in German or English
+
+## Cooperation
+
+In cooperation with [Tiplu](https://tiplu.de/)
+
+## Supervisor
+
+[Christoph Ihl](/team/ihl/) ([christoph.ihl@tuhh.de](mailto:christoph.ihl@tuhh.de))

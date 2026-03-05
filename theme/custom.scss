@@ -2035,6 +2035,198 @@ p:has(.backimage-caption) {
 }
 
 
+/* =============================================
+   Teaching Page — Course & Thesis Cards
+   ============================================= */
+
+/* Course card grid — 2 columns max */
+.course-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+@media (min-width: 576px) {
+  .course-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.course-grid .news-teaser--card:nth-child(n+3) {
+  display: flex;
+}
+
+/* Welcome page course grid */
+.course-home-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+@media (min-width: 576px) {
+  .course-home-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.course-home-grid .news-teaser--card:nth-child(n+3) {
+  display: flex;
+}
+
+/* Course card meta row */
+.course-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px 0;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: $text_blue;
+}
+
+.course-card__ects {
+  display: inline-block;
+  padding: 2px 8px;
+  background-color: $tuhh_blue;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.course-card__level {
+  font-size: 0.8rem;
+  color: rgba(0, 94, 115, 0.7);
+}
+
+/* Course card instructors */
+.course-card__instructors {
+  font-size: 0.85rem;
+  color: $text_blue;
+  margin-bottom: 6px;
+}
+
+.course-instructor-link {
+  color: $text_blue;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.course-instructor-link:hover {
+  color: $tuhh_blue;
+}
+
+/* Course card time-location */
+.course-card__time {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed rgba(0, 193, 212, 0.3);
+}
+
+.course-card__time-item {
+  font-size: 0.78rem;
+  color: rgba(0, 94, 115, 0.7);
+  line-height: 1.5;
+}
+
+/* Thesis card grid — 1→2→3 columns */
+.thesis-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+@media (min-width: 576px) {
+  .thesis-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .thesis-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.thesis-grid .news-teaser--card:nth-child(n+3) {
+  display: flex;
+}
+
+/* Thesis card meta row */
+.thesis-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px 0;
+  font-size: 0.8rem;
+}
+
+.thesis-card__type {
+  display: inline-block;
+  padding: 2px 8px;
+  background-color: $footer_blue;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.thesis-card__status {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.thesis-card__status--open {
+  background-color: rgba(90, 255, 197, 0.2);
+  color: #008c5a;
+}
+
+.thesis-card__status--assigned {
+  background-color: rgba(255, 126, 21, 0.2);
+  color: #cc6400;
+}
+
+.thesis-card__status--completed {
+  background-color: rgba(208, 208, 206, 0.3);
+  color: #666;
+}
+
+/* Thesis card supervisor & cooperation */
+.thesis-card__supervisor {
+  font-size: 0.85rem;
+  color: rgba(0, 94, 115, 0.7);
+  margin-bottom: 4px;
+}
+
+.thesis-card__cooperation {
+  font-size: 0.85rem;
+  color: rgba(0, 94, 115, 0.7);
+  margin-bottom: 4px;
+}
+
+.thesis-card__cooperation a {
+  color: $text_blue;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.thesis-card__cooperation a:hover {
+  color: $tuhh_blue;
+}
+
+/* Semester subheader */
+.semester-subheader {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #009eac;
+  margin-bottom: 1.5rem;
+}
+
+
 /* Fonts */
 
 
