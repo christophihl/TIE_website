@@ -1,0 +1,6 @@
+title: Course Meta
+author: TIE
+version: 1.0.0
+contributes:
+  shortcodes:
+    - course-meta.lua

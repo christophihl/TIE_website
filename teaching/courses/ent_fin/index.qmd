@@ -47,13 +47,7 @@ resources:
 ::: {.profile-sidebar}
 ![Entrepreneurial Finance](featured.jpg){.profile-avatar .detail-image}
 
-::: {.pub-meta}
-- {{< fa graduation-cap >}} 6 ECTS
-- {{< fa layer-group >}} Master
-- {{< fa calendar >}} WT2026
-- {{< fa user-group >}} IWI, LIM, GTIME, Exchange Programs
-- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes)
-:::
+{{< course-sidebar >}}
 
 :::
 
@@ -61,13 +55,12 @@ resources:
 
 ## Credits
 
-- 6 ECTS module
+- {{< meta ects >}} ECTS module
 - 2 courses: **Entrepreneurial Finance: Lecture** & **Entrepreneurial Finance: Case Studies**
 
 ## Instructors
 
-- [Christoph Ihl](/team/ihl/)
-- [Oliver Specht](/team/specht/)
+{{< course-instructors >}}
 
 ## Overview
 
@@ -125,12 +118,11 @@ This course module can prepare students for the following career paths:
 
 ## Registration
 
-Open until October 13th on [e-learning.tuhh.de/studip](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes)
+Open until October 13th on [e-learning.tuhh.de/studip]({{< meta registration-url >}})
 
 ## Time & Location
 
-- **Entrepreneurial Finance: Lecture**: Monday, 13:15–14:45, Building N, Room 0008
-- **Entrepreneurial Finance: Case Studies**: Monday, 15:00–17:15, Building N, Room 0008
+{{< course-timelocation >}}
 
 ## Preliminary Schedule
 

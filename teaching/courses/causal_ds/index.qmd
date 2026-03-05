@@ -22,7 +22,7 @@ categories:
   - "Data Science"
 time-location:
   - "Causal Data Science (Lecture): Monday, 11:30–13:00, Building D, Room D-1.023"
-  - "Business Analytics with Causal Data Science (PBL): Tuesday, 15:00–16:30, Building O, Room O-0.007"
+  - "Business Analytics with Causal Data Science (PBL): Tuesday, 15:00–16:30, Building D, Room D-0.013"
 page-layout: custom
 section-divs: false
 toc: false
@@ -44,13 +44,7 @@ resources:
 ::: {.profile-sidebar}
 ![Causal Data Science for Business Analytics](featured.jpg){.profile-avatar .detail-image}
 
-::: {.pub-meta}
-- {{< fa graduation-cap >}} 6 ECTS
-- {{< fa layer-group >}} Master
-- {{< fa calendar >}} ST2026
-- {{< fa user-group >}} Data Science, IWI
-- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e05c089c302b3b31667d09056e28644b&again=yes)
-:::
+{{< course-sidebar >}}
 
 :::
 
@@ -58,12 +52,12 @@ resources:
 
 ## Credits
 
-- 6 ECTS module
+- {{< meta ects >}} ECTS module
 - 2 courses: **Causal Data Science** (Lecture) & **Business Analytics with Causal Data Science** (Problem-based Learning)
 
 ## Instructors
 
-- [Christoph Ihl](/team/ihl/)
+{{< course-instructors >}}
 
 ## Overview
 
@@ -106,40 +100,37 @@ After completing this module, students will be able to:
 
 ## Registration
 
-Please register for the entire module **Causal Data Science for Business Analytics** here: [E-Learning StudIP](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e05c089c302b3b31667d09056e28644b&again=yes)
+Please register for the entire module **{{< meta title >}}** here: [E-Learning StudIP]({{< meta registration-url >}})
 
 ## Time & Location
 
-- **Causal Data Science (Lecture)**: Monday, 11:30–13:00, Building D, Room D-1.023
-- **Business Analytics with Causal Data Science (PBL)**: Tuesday, 15:00–16:30, Building O, Room O-0.007
+{{< course-timelocation >}}
 
 ### Course Notes & Materials
 
-Access to course notes & materials [**here**](https://test.com).
+Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 ## Preliminary Schedule
 
 | Session | Topic | Date |
 | --- | --- | --- |
-| 1 | Introduction to Causal Inference | tbd |
+| 1 | Introduction to Causal Inference | April 13 |
 | **Part 1** | **Graphical Causal Models** |  |
-| 2 | Graphical Causal Models | tbd |
-| 3 | Causal Discovery | tbd |
+| 2 | Graphical Causal Models | April 20 & 21 |
+| 3 | Causal Discovery | April 27 & 28 |
 | **Part 2** | **Experiments** |  |
-| 4 | Experiments & Linear Regression | tbd |
-| 5 | Online A/B-Testing | tbd |
+| 4 | Experiments & Linear Regression | May 4 & 5 |
+| 5 | Online A/B-Testing | May 18 & 19 |
 | **Part 3** | **Un-/Observed Confounding** |  |
-| 6 | Observed Confounding | tbd |
-| 7 | Instrumental Variables | tbd |
-| 8 | Regression Discontinuity | tbd |
+| 6 | Observed Confounding | June 1 & 2 |
+| 7 | Instrumental Variable Designs | June 8 & 9 |
 | **Part 4** | **Causal Machine Learning** |  |
-| 9 | Double Machine Learning | tbd |
-| 10 | Treatment Effect Heterogeneity | tbd |
+| 9 | Double Machine Learning | June 15 & 16 |
+| 10 | Treatment Effect Heterogeneity | June 22 & 23 |
 | **Part 5** | **Causal Panel Data** |  |
-| 11 | Difference-in-Differences | tbd |
-| 12 | Synthetic Controls | tbd |
-| 13 | Counterfactual Imputation | tbd |
-| 14 | Sequential Ignorability | tbd |
+| 11 | Difference-in-Differences | June 29 & 30 |
+| 12 | Synthetic Controls | July 6 & 7 |
+| 13 | Counterfactual Imputation | July 14 & 14 |
 
 ## Literature
 

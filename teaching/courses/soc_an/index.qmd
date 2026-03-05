@@ -47,13 +47,7 @@ resources:
 ::: {.profile-sidebar}
 ![Deep Learning for Social Analytics](featured.png){.profile-avatar .detail-image}
 
-::: {.pub-meta}
-- {{< fa graduation-cap >}} 6 ECTS
-- {{< fa layer-group >}} Master
-- {{< fa calendar >}} WT2026
-- {{< fa user-group >}} Data Science, IWI
-- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes)
-:::
+{{< course-sidebar >}}
 
 :::
 
@@ -61,14 +55,12 @@ resources:
 
 ## Credits
 
-- 6 ECTS module
+- {{< meta ects >}} ECTS module
 - 2 courses: **Deep Learning for Text and Graphs** (Lecture) & **Social Analytics with Deep Learning** (Problem-based Learning)
 
 ## Instructors
 
-- [Christoph Ihl](/team/ihl/)
-- [Jürgen Thiesen](/team/thiesen/)
-- [Jonas Wilinski](/team/wilinski/)
+{{< course-instructors >}}
 
 ## Overview
 
@@ -113,14 +105,13 @@ After completing this module, students will be able to:
 
 ## Registration
 
-- Please register for the entire module **Deep Learning for Social Analytics** here: [E-Learning StudIP](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes)
+- Please register for the entire module **{{< meta title >}}** here: [E-Learning StudIP]({{< meta registration-url >}})
 - Due to the PBL and project-based nature of the module, we have to limit the number of participants to a max of 30 students.
 - In case of over-demand, access to the course will be granted based on the quality of a brief research proposal to be submitted after the first class.
 
 ## Time & Location
 
-- **Deep Learning for Text and Graphs**: Thursday, 15:00–16:30, Room HS28-0.08
-- **Social Analytics with Deep Learning**: Thursday, 16:45–19:00, Room HS28-0.08
+{{< course-timelocation >}}
 
 ## Course Notes & Materials
 

@@ -55,14 +55,7 @@ resources:
 ::: {.profile-sidebar}
 ![Technology Entrepreneurship](featured.jpg){.profile-avatar .detail-image}
 
-::: {.pub-meta}
-- {{< fa graduation-cap >}} 6 ECTS
-- {{< fa layer-group >}} Master
-- {{< fa calendar >}} ST2026
-- {{< fa user-group >}} IWI, LIM, GTIME, Engineering, Erasmus
-- {{< fa arrow-up-right-from-square >}} [Registration (StudIP)](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes)
-- {{< fa arrow-up-right-from-square >}} [Course Note & Materials](https://test.com)
-:::
+{{< course-sidebar >}}
 
 :::
 
@@ -70,15 +63,12 @@ resources:
 
 ## Credits
 
-- 6 ECTS module
+- {{< meta ects >}} ECTS module
 - 2 courses: **Entrepreneurship** & **Creation of Business Opportunities**
 
 ## Instructors
 
-- [Christoph Ihl](/team/ihl/)
-- [Oliver Specht](/team/specht/)
-- [Jürgen Thiesen](/team/thiesen/)
-- [Jonas Wilinski](/team/wilinski/)
+{{< course-instructors >}}
 
 ## Overview
 
@@ -138,18 +128,15 @@ Due to capacity constraints, the course **Creation of Business Opportunities** i
 
 ## Registration
 
-Please register for the entire module **Technology Entrepreneurship** here: [e-learning.tuhh.de/studip](https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes)
+Please register for the entire module **{{< meta title >}}** here: [e-learning.tuhh.de/studip]({{< meta registration-url >}})
 
 ## Time & Location
 
-- **Entrepreneurship (Lecture)**: Monday, 13:15–14:45, Building H, Room 016 (Ditze Hörsaal)
-- **Creation of Business Opportunities (PBL I)**: Monday, 15:00–17:15, Building N, Room 0008
-- **Creation of Business Opportunities (PBL II)**: Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.01
-- **Creation of Business Opportunities (PBL III)**: Monday, 15:00–17:15, Harburger Schloßstraße 28, Room HS28-0.08
+{{< course-timelocation >}}
 
 ### Course Notes & Materials
 
-Access to course notes & materials [**here**](https://test.com).
+Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 ## Preliminary Schedule
 
