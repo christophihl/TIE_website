@@ -22,7 +22,7 @@ categories:
   - "Data Science"
 time-location:
   - "Causal Data Science (Lecture): Monday, 11:30–13:00, Building D, Room D-1.023"
-  - "Business Analytics with Causal Data Science (PBL): Tuesday, 15:00–16:30, Building D, Room D-0.013"
+  - "Business Analytics with Causal Data Science (PBL): Tuesday, 15:00–17:15, Building D, Room D-0.013"
 page-layout: custom
 section-divs: false
 toc: false
