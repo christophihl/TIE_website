@@ -1952,20 +1952,14 @@ p:has(.backimage-caption) {
   color: #666;
 }
 
-/* Show only 1 card on small mobile, hide 2nd+ */
-.pub-featured-grid .pub-featured-card:nth-child(n+2) {
+/* Show 2 cards on mobile, hide 3rd */
+.pub-featured-grid .pub-featured-card:nth-child(n+3) {
   display: none;
 }
 
 @media (min-width: 576px) {
   .pub-featured-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-  .pub-featured-grid .pub-featured-card:nth-child(n+2) {
-    display: flex;
-  }
-  .pub-featured-grid .pub-featured-card:nth-child(n+3) {
-    display: none;
   }
 }
 
