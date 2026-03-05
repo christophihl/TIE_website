@@ -27,7 +27,7 @@ website:
     foreground: "$text_blue"
     # background: "white"
     logo: assets/images/logo.svg
-    logo-href: index.qmd
+    logo-href: /
     left:
       - href: index.qmd
         text: Welcome
