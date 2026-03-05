@@ -46,13 +46,14 @@ if (item['pub-journal']) {
 <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" class="pub-btn pub-btn--doi" target="_blank" rel="noopener">DOI</a><% } %>
 <% if (item.tore) { %><a href="<%= item.tore %>" class="pub-btn pub-btn--tore" target="_blank" rel="noopener">TORE</a><% } %>
 <% if (item.pdf) { %><a href="<%= item.pdf %>" class="pub-btn pub-btn--pdf" target="_blank" rel="noopener">PDF</a><% } %>
-<% if (item.cite) { %><a href="<%= item.cite %>" class="pub-btn pub-btn--cite" download>Cite</a><% } %>
+<% if (item.cite) { %><button class="pub-btn pub-btn--cite" onclick="this.closest('.pub-entry').querySelector('.pub-entry__cite').classList.toggle('pub-entry__cite--open')">Cite</button><% } %>
 <% if (item.abstract) { %><button class="pub-btn pub-btn--abstract" onclick="this.closest('.pub-entry').querySelector('.pub-entry__abstract').classList.toggle('pub-entry__abstract--open')">Abstract</button><% } %>
 <% if (item['pub-links']) { try { var links = typeof item['pub-links'] === 'string' ? JSON.parse(item['pub-links']) : item['pub-links']; if (Array.isArray(links)) { for (var l of links) { %><a href="<%= l.url %>" class="pub-btn pub-btn--link" target="_blank" rel="noopener"><% if (l.icon) { %><i class="<%= l.icon %>"></i> <% } %><%= l.name %></a><% } } } catch(e) {} } %>
 <% if (item['pub-status']) { %><span class="pub-status"><%= item['pub-status'] %></span><% } %>
 <% if (item.categories && item.categories.length) { %><span class="pub-btn pub-btn--category"><%= item.categories[0] %></span><% } %>
 </div>
 <% if (item.abstract) { %><div class="pub-entry__abstract"><%= item.abstract %></div><% } %>
+<% if (item.cite) { %><div class="pub-entry__cite"><pre class="pub-cite__content"><%= item.cite.trim() %></pre><button class="pub-cite__copy" onclick="var t=this.closest('.pub-entry__cite').querySelector('pre').textContent;navigator.clipboard.writeText(t);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',2000)">Copy</button></div><% } %>
 <% if (item.extra) { %><div class="pub-entry__extra"><%= item.extra %></div><% } %>
 <% if (item.tags && item.tags.length) { %>
 <div class="pub-entry__tags">

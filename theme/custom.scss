@@ -1864,6 +1864,55 @@ p:has(.backimage-caption) {
   display: block;
 }
 
+/* Cite toggle — same pattern as abstract */
+.pub-entry__cite {
+  display: none;
+  margin-top: 10px;
+  padding: 12px 16px;
+  background-color: #f7f7f7;
+  font-size: 0.85rem;
+  position: relative;
+}
+
+.pub-entry__cite--open {
+  display: block;
+}
+
+.pub-cite__content {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: $text_blue;
+  background: transparent;
+  border: none;
+  padding: 0;
+  padding-right: 60px;
+}
+
+.pub-cite__copy {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  background: $footer_blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.pub-cite__copy:hover {
+  background: $text_blue;
+}
+
 
 /* =============================================
    Featured Publications — Welcome page cards

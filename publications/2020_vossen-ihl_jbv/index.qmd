@@ -31,5 +31,15 @@ authors:
 profile-pubs: ["ihl"]
 featured: true
 image: "featured.jpg"
-cite: "cite.bib"
+cite: |
+  @article{vossen2020more,
+    title     = {More than Words! How Narrative Anchoring and Enrichment Help to Balance Differentiation and Conformity of Entrepreneurial Products},
+    author    = {Vossen, Alexander and Ihl, Christoph},
+    journal   = {Journal of Business Venturing},
+    volume    = {35},
+    number    = {6},
+    pages     = {106050},
+    year      = {2020},
+    doi       = {10.1016/j.jbusvent.2020.106050}
+  }
 ---

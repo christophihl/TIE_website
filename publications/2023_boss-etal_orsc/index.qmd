@@ -37,5 +37,15 @@ authors:
 profile-pubs: ["kessler", "ihl"]
 featured: true
 image: "featured.jpg"
-cite: "cite.bib"
+cite: |
+  @article{boss2023organizing,
+    title     = {Organizing Entrepreneurial Teams: A Field Experiment on Autonomy over Choosing Teams and Ideas},
+    author    = {Boss, Viktoria and Dahlander, Linus and Ihl, Christoph and Jayaraman, Rajshri},
+    journal   = {Organization Science},
+    volume    = {34},
+    number    = {6},
+    pages     = {2097--2118},
+    year      = {2023},
+    doi       = {10.1287/orsc.2021.1520}
+  }
 ---
