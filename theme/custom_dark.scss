@@ -359,3 +359,57 @@ details.course-toggle summary:hover {
 .semester-subheader {
   color: rgba(0, 193, 212, 0.8);
 }
+
+/* Collaborate page dark mode */
+.collab-card {
+  background-color: #23252f;
+  border-color: rgba(0, 193, 212, 0.5);
+}
+.collab-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+.collab-card__title {
+  color: white;
+}
+.collab-card__desc {
+  color: #ccc;
+}
+.collab-steps h3 {
+  color: white;
+}
+.collab-steps li {
+  border-bottom-color: rgba(0, 193, 212, 0.3);
+}
+
+/* Contact form dark mode */
+.form-label {
+  color: white;
+}
+.form-input,
+.form-textarea {
+  background-color: #1e2029;
+  border-color: rgba(0, 193, 212, 0.4);
+  color: white;
+}
+.form-input:focus,
+.form-textarea:focus {
+  border-color: #00C1D4;
+  box-shadow: 0 0 0 3px rgba(0, 193, 212, 0.2);
+}
+select.form-input {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='white' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
+}
+
+/* Contact info dark mode */
+.contact-info__heading {
+  color: white;
+}
+.contact-info__details li {
+  color: white;
+}
+.contact-info__note {
+  color: #aaa;
+}
+.contact-map iframe {
+  border-color: rgba(0, 193, 212, 0.5);
+}

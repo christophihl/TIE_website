@@ -14,10 +14,159 @@ resources:
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
 :::
 
+
 ::: {.content-section}
 ::: {.content-block}
 
-[Content coming soon.]{.placeholder-text}
+## [Opportunities to Collaborate]{.section-heading}
+
+::: {.collab-intro}
+Whether you are exploring a new business model, validating an innovation idea, building analytics capabilities, or designing an evidence-based entrepreneurship program — we help you structure the problem, access the right methods, and translate results into practice.
+:::
+
+::: {.collab-grid}
+
+::: {.collab-card}
+[{{< fa flask >}}]{.collab-card__icon}
+
+[Applied Research Projects]{.collab-card__title}
+
+[We partner on clearly defined research questions in entrepreneurship and innovation — typically with measurable outcomes, structured data collection, and rigorous analysis.]{.collab-card__desc}
+:::
+
+::: {.collab-card}
+[{{< fa brain >}}]{.collab-card__icon}
+
+[Data Science & AI Projects]{.collab-card__title}
+
+[We support analytics and AI work around innovation challenges, including machine learning, natural language processing, experimentation, and data-driven decision support.]{.collab-card__desc}
+:::
+
+::: {.collab-card}
+[{{< fa graduation-cap >}}]{.collab-card__icon}
+
+[Company-Linked Theses]{.collab-card__title}
+
+[We supervise empirical theses with external partners when the topic fits our profile and offers a feasible research design (e.g., existing data, interviews, surveys, experiments).]{.collab-card__desc}
+:::
+
+::: {.collab-card}
+[{{< fa chalkboard-user >}}]{.collab-card__icon}
+
+[Workshops & Trainings]{.collab-card__title}
+
+[Hands-on formats for teams on topics such as startup engineering, business model innovation, experimentation, and data-driven innovation work.]{.collab-card__desc}
+:::
+
+::: {.collab-card}
+[{{< fa microphone >}}]{.collab-card__icon}
+
+[Talks & Guest Lectures]{.collab-card__title}
+
+[Keynotes, panels, and guest sessions for internal events, conferences, and entrepreneurship education formats.]{.collab-card__desc}
+:::
+
+::: {.collab-card}
+[{{< fa handshake >}}]{.collab-card__icon}
+
+[Consortia & Funded Projects]{.collab-card__title}
+
+[We join or initiate multi-partner projects (e.g., university–industry–startup collaborations) when there is a strong research contribution and an implementation pathway.]{.collab-card__desc}
+:::
+
+:::
+
+::: {.collab-steps}
+
+### How to Get Started
+
+1. **Send a short description** of your goal, context, and preferred collaboration format.
+2. **We do a quick fit check** and propose a collaboration setup.
+3. **Scoping call:** align on question, methods, timeline, data access, and outputs.
+4. **Project start:** define responsibilities, milestones, and communication.
+
+:::
+
+:::
+:::
+
+
+::: {.content-section-alt}
+::: {.content-block}
+
+## [Contact]{.section-heading}
+
+::: {.contact-section}
+
+::: {.contact-form}
+
+<form name="collaborate" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+
+<div class="ohnohoney">
+<label>Don't fill this out: <input name="bot-field"></label>
+</div>
+
+<div class="form-group">
+<label class="form-label" for="name">Name *</label>
+<input class="form-input" type="text" id="name" name="name" required>
+</div>
+
+<div class="form-group">
+<label class="form-label" for="email">Email *</label>
+<input class="form-input" type="email" id="email" name="email" required>
+</div>
+
+<div class="form-group">
+<label class="form-label" for="organization">Organization</label>
+<input class="form-input" type="text" id="organization" name="organization">
+</div>
+
+<div class="form-group">
+<label class="form-label" for="subject">Subject *</label>
+<select class="form-input" id="subject" name="subject" required>
+<option value="" disabled selected>Please select...</option>
+<option value="Collaboration inquiry">Collaboration inquiry</option>
+<option value="Thesis collaboration (BSc/MSc)">Thesis collaboration (BSc/MSc)</option>
+<option value="Workshop / Training / Talk">Workshop / Training / Talk</option>
+<option value="Other">Other</option>
+</select>
+</div>
+
+<div class="form-group">
+<label class="form-label" for="message">Message *</label>
+<textarea class="form-textarea" id="message" name="message" required></textarea>
+</div>
+
+<button type="submit" class="form-submit">Send Message</button>
+
+</form>
+
+:::
+
+::: {.contact-info}
+
+[Get in Touch]{.contact-info__heading}
+
+<ul class="contact-info__details">
+<li>{{< fa building >}} Institute of Entrepreneurship (TIE)</li>
+<li>{{< fa location-dot >}} Am Irrgarten 3–9, 21073 Hamburg</li>
+<li>{{< fa door-open >}} Building Q, Office 134, 1st floor</li>
+<li>{{< fa phone >}} +49 (0)40 42878-3226</li>
+<li>{{< fa envelope >}} <a href="mailto:startup.engineer@tuhh.de">startup.engineer@tuhh.de</a></li>
+<li>{{< fa brands linkedin >}} <a href="https://www.linkedin.com/school/tuaborgs/" target="_blank" rel="noopener">LinkedIn</a></li>
+</ul>
+
+[Meetings are typically by appointment — please send a short message to propose times.]{.contact-info__note}
+
+::: {.contact-map}
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.968%2C53.458%2C9.976%2C53.462&layer=mapnik&marker=53.459695%2C9.971900" loading="lazy" title="TUHH Institute of Entrepreneurship location"></iframe>
+
+[View larger map](https://www.openstreetmap.org/?mlat=53.459695&mlon=9.971900#map=17/53.4597/9.9719){.contact-map__link target="_blank" rel="noopener"}
+:::
+
+:::
+
+:::
 
 :::
 :::
