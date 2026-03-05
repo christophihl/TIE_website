@@ -154,7 +154,7 @@ Coming soon — course listings will be added in a later phase.
 ::: {#featured-pubs}
 :::
 
-[All Publications](research.html#publications){.btn-tuhh}
+[All Publications](research.html#sec-publications){.btn-tuhh}
 
 :::
 :::
