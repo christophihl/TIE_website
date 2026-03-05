@@ -9,7 +9,7 @@ supervisor:
 cooperation: "Tiplu"
 cooperation-url: "https://tiplu.de/"
 thesis-type: "Master"
-status: "open"
+status: "completed"
 categories:
   - "Entrepreneurship"
   - "Strategy"

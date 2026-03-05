@@ -4,7 +4,7 @@ description: "Develop a business plan for a young startup building a pedal elect
 date: "2020-09-30"
 image: featured.png
 thesis-type: "Bachelor/Master"
-status: "open"
+status: "completed"
 categories:
   - "Entrepreneurship"
 tags:

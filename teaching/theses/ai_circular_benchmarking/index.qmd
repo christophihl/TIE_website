@@ -1,0 +1,44 @@
+---
+title: "AI in Circular Economy Research Benchmarking"
+description: "Develop cutting-edge methodologies to identify, curate, and validate best practices in circular economy research using advanced data analytics"
+date: "2025-01-01"
+supervisor:
+  - name: "Marius Wilinski"
+    internal: "wilinski"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "Data Science"
+  - "Innovation"
+tags:
+  - "circular-economy"
+  - "machine-learning"
+  - "sustainability"
+  - "AI"
+expectations:
+  - "Background in data science, computer science, business informatics, or environmental studies"
+  - "Strong analytical skills"
+  - "Interest in sustainability"
+weight: 10
+page-layout: article
+toc: true
+---
+
+## Overview
+
+This thesis offers a unique opportunity to work at the intersection of sustainability, artificial intelligence, and data science. You'll develop cutting-edge methodologies to identify, curate, and validate best practices in circular economy research using advanced data analytics techniques.
+
+## Key Focus Areas
+
+- **Data-driven best-practice identification** using machine learning algorithms
+- **Best-practice curation** through automated content analysis
+- **Validation of best-practice recommendations** via empirical testing
+- **Community-of-best-practice exchange** platform development
+
+## Ideal For
+
+Students with a background in data science, computer science, business informatics, or environmental studies with strong analytical skills and interest in sustainability.
+
+## Supervisor
+
+[Marius Wilinski](/team/wilinski/) ([marius.wilinski@tuhh.de](mailto:marius.wilinski@tuhh.de))

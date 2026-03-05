@@ -7,7 +7,7 @@ supervisor:
   - name: "Oliver Specht"
     internal: "specht"
 thesis-type: "Bachelor/Master"
-status: "open"
+status: "completed"
 categories:
   - "Entrepreneurship"
   - "Finance"

@@ -6,7 +6,7 @@ image: featured.png
 cooperation: "Beiersdorf"
 cooperation-url: "https://www.beiersdorf.de"
 thesis-type: "Master"
-status: "open"
+status: "completed"
 categories:
   - "AI"
   - "NLP"

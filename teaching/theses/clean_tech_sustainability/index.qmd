@@ -1,0 +1,46 @@
+---
+title: "Circular Economy, Clean Technologies & Sustainability Innovation Research"
+description: "Investigate critical questions in clean technologies, green innovation, and circular economy transitions using quantitative or qualitative methods"
+date: "2025-01-01"
+supervisor:
+  - name: "Erik Thiesen"
+    internal: "thiesen"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "Innovation"
+  - "Data Science"
+tags:
+  - "clean-technologies"
+  - "circular-economy"
+  - "deep-learning"
+  - "NLP"
+  - "sustainability"
+expectations:
+  - "Backgrounds in management, computer science, data science, engineering, or sustainability studies"
+  - "Strong analytical interests"
+  - "Passion for the green transition"
+weight: 20
+page-layout: article
+toc: true
+---
+
+## Overview
+
+Join our research institute at the intersection of Management Science and Deep Learning to investigate critical questions in clean technologies, green innovation, and circular economy transitions. We offer flexible thesis opportunities where you can pursue your specific interests using diverse methodological approaches (quantitative, e.g. Deep Learning or NLP, or qualitative, e.g. interviews or literature reviews) and comprehensive datasets (e.g., patent data, scientific publications, startup databases).
+
+## Potential Key Focus Areas
+
+- **Technology emergence and novelty** detection in sustainable innovations
+- **Diffusion patterns and commercialization** of clean technologies
+- **Circular economy transformation** through technological innovation
+- **Data-driven analysis** using PATSTAT, OpenAlex, and startup databases
+- **NLP/Deep Learning or qualitative methods** (interviews, literature reviews)
+
+## Ideal For
+
+Students with backgrounds in management, computer science, data science, engineering, or sustainability studies with strong analytical interests and passion for the green transition.
+
+## Supervisor
+
+[Erik Thiesen](/team/thiesen/) ([juergen.thiesen@tuhh.de](mailto:juergen.thiesen@tuhh.de))

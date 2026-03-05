@@ -9,7 +9,7 @@ supervisor:
 cooperation: "Grüner Hering — Agentur für Circular Economy"
 cooperation-url: "https://gruener-hering.de"
 thesis-type: "Master"
-status: "open"
+status: "completed"
 categories:
   - "AI"
   - "NLP"

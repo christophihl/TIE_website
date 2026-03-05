@@ -1,0 +1,43 @@
+---
+title: "Taxonomy Generation for Emerging Research Fields"
+description: "Develop advanced NLP techniques to automatically generate comprehensive taxonomies for small, emerging research fields"
+date: "2025-01-01"
+supervisor:
+  - name: "Marius Wilinski"
+    internal: "wilinski"
+thesis-type: "Master"
+status: "open"
+categories:
+  - "NLP"
+  - "Data Science"
+tags:
+  - "NLP"
+  - "taxonomy"
+  - "language-models"
+  - "research-analytics"
+expectations:
+  - "Strong background in computer science, computational linguistics, or data science"
+  - "Interest in academic research and natural language processing"
+weight: 30
+page-layout: article
+toc: true
+---
+
+## Overview
+
+This thesis focuses on developing advanced NLP techniques to automatically generate comprehensive taxonomies for small, emerging research fields. You'll work with cutting-edge language models and contribute to the methodological advancement of research field analysis.
+
+## Key Focus Areas
+
+- **Advanced NLP techniques** for automated taxonomy generation
+- **Analysis of existing taxonomy generation papers** and methodologies
+- **Development of novel approaches** for small research field classification
+- **Validation and benchmarking** of taxonomy quality metrics
+
+## Ideal For
+
+Students with a strong background in computer science, computational linguistics, or data science with interest in academic research and natural language processing.
+
+## Supervisor
+
+[Marius Wilinski](/team/wilinski/) ([marius.wilinski@tuhh.de](mailto:marius.wilinski@tuhh.de))

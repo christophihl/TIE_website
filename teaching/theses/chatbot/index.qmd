@@ -6,7 +6,7 @@ supervisor:
   - name: "Marius Wilinski"
     internal: "wilinski"
 thesis-type: "Master"
-status: "open"
+status: "completed"
 categories:
   - "AI"
   - "NLP"

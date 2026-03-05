@@ -7,7 +7,7 @@ supervisor:
   - name: "Erich Schwarz"
     internal: "schwarz"
 thesis-type: "Master"
-status: "open"
+status: "completed"
 categories:
   - "Data Science"
   - "Networks"
