@@ -24,7 +24,7 @@ if (item.authors) {
   } catch(e) { %><%= item.author %><% }
 } else { %><%= item.author %><% }
 %></div>
-<div class="pub-entry__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>"><%= item.title %></a></div>
+<div class="pub-entry__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : (item.url || item.path) %>"><%= item.title %></a></div>
 <div class="pub-entry__venue"><%
 if (item['pub-journal']) {
 %><em><%= item['pub-journal'] %></em><% if (item.volume) { %>, <%= item.volume %><% } %><% if (item.issue) { %>(<%= item.issue %>)<% } %><% if (item.pages) { %>, <%= item.pages %><% } %><% if (item['article-number']) { %>, <%= item['article-number'] %><% } %><%

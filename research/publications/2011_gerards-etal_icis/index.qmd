@@ -6,6 +6,7 @@ categories:
   - "Conference Paper"
 description: "International Conference on Information Systems (ICIS) 2011"
 doi: ""
+url: "https://aisel.aisnet.org/icis2011/proceedings/humanbehavior/12/"
 pub-type: "conference"
 abstract: "In many retail situations, customers today face vast assortments and often have limited ability to find exactly what they need. By implementing a need-based toolkit for assortment matching, retailers can limit this complexity of choice, increasing the satisfaction of consumers with the goods acquired. Building such a need-based system however is costly and time-consuming, as expert knowledge and matching rules have to be designed, implemented, and maintained. The objective of this paper is to investigate the performance contribution of such an expert system for need-based configuration. Using a real life experiment with 1934 customers using a toolkit supporting them to find a new digital camera, we show both the development of such a system and its effect on customer choice. We find that investing in such a system seems worthwhile: Compared to a base case, need-based configurators provide better fit between customer needs and functional product features."
 pdf: ""

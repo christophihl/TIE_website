@@ -7,14 +7,14 @@
 <span class="listing-categories" style="display:none;"><%= (item.categories || []).join(', ') %></span>
 <span class="listing-author" style="display:none;"><%= item.author || '' %></span>
 <% if (item.image) { %>
-<a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>" class="pub-featured-card__image">
+<a href="<%= item.doi ? 'https://doi.org/' + item.doi : (item.url || item.path) %>" class="pub-featured-card__image">
 <img src="<%= item.image %>" alt="<%= item.title %>">
 </a>
 <% } %>
 <% if (item.categories && item.categories.length) { %>
 <div class="pub-featured-card__category"><%= item.categories[0] %></div>
 <% } %>
-<div class="pub-featured-card__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : item.path %>"><%= item.title %></a></div>
+<div class="pub-featured-card__title"><a href="<%= item.doi ? 'https://doi.org/' + item.doi : (item.url || item.path) %>"><%= item.title %></a></div>
 <div class="pub-featured-card__authors"><%
 if (item.authors) {
   try {

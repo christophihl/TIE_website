@@ -6,6 +6,7 @@ categories:
   - "PhD Thesis"
 description: "Dissertation, Technische Universität Hamburg"
 doi: ""
+url: "https://tore.tuhh.de/entities/publication/daaa686b-d3aa-4a5c-8784-b4cf0313ab70"
 pub-type: "thesis"
 abstract: ""
 pdf: ""
