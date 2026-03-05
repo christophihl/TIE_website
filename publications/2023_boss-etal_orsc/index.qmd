@@ -16,6 +16,9 @@ pub-links:
   - name: "Code"
     url: "https://osf.io/urjpe/"
     icon: "fa-brands fa-github"
+  - name: "AEA RCT Registry"
+    url: "https://www.socialscienceregistry.org/trials/1179"
+    icon: "fa-solid fa-clipboard-list"
 tags:
   - "Entrepreneurial Teams"
   - "Field Experiment"
