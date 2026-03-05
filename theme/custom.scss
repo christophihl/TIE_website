@@ -1533,6 +1533,8 @@ p:has(.backimage-caption) {
 /* Profile main content */
 .profile-main {
   text-align: left;
+  overflow-x: auto;
+  min-width: 0;
 }
 
 .profile-main h2 {
