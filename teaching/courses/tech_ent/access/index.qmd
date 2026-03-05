@@ -1,0 +1,87 @@
+---
+pagetitle: "Access Course Materials — Technology Entrepreneurship"
+page-layout: custom
+section-divs: false
+toc: false
+css: /theme/page.css
+resources:
+  - ../../../../assets/images/banners/teaching.jpg
+---
+
+::: {.page-header style="background-image: url('../../../../assets/images/banners/teaching.jpg');"}
+[Teaching]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+
+::: {.access-form-container}
+
+<h3 class="access-form__title">Technology Entrepreneurship</h3>
+<p class="access-form__intro">Enter the course password to access the materials.</p>
+
+:::: {.form-group}
+<label class="form-label" for="course-pw">Password</label>
+<input class="form-input" type="password" id="course-pw" placeholder="Enter password" autocomplete="off">
+::::
+
+<button class="form-submit" id="access-btn">ACCESS MATERIALS</button>
+
+[]{.access-form__error #access-error}
+
+:::
+
+:::
+:::
+
+```{=html}
+<script>
+(function() {
+  const encrypted = {
+    salt: "F/Lb9p39cqLU3Zn627S9XQ==",
+    iv: "GzzwCCiOz7q+ztr3",
+    ciphertext: "Rj1mEILNklB5say18LQV0FLFgRtLWzYTOWGf0wLiCrOBjmBJ30kRlffzbyFg6chEFw/ttdd9J40="
+  };
+
+  function b64ToBytes(b64) {
+    return Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+  }
+
+  async function decrypt(password) {
+    const salt = b64ToBytes(encrypted.salt);
+    const iv = b64ToBytes(encrypted.iv);
+    const ct = b64ToBytes(encrypted.ciphertext);
+    const enc = new TextEncoder();
+    const keyMaterial = await crypto.subtle.importKey("raw", enc.encode(password), "PBKDF2", false, ["deriveKey"]);
+    const key = await crypto.subtle.deriveKey(
+      { name: "PBKDF2", salt: salt, iterations: 100000, hash: "SHA-256" },
+      keyMaterial,
+      { name: "AES-GCM", length: 256 },
+      false,
+      ["decrypt"]
+    );
+    const decrypted = await crypto.subtle.decrypt({ name: "AES-GCM", iv: iv }, key, ct);
+    return new TextDecoder().decode(decrypted);
+  }
+
+  async function submit() {
+    const pw = document.getElementById("course-pw").value;
+    const err = document.getElementById("access-error");
+    if (!pw) { err.textContent = "Please enter a password."; return; }
+    try {
+      const url = await decrypt(pw);
+      window.location.href = url;
+    } catch (e) {
+      err.textContent = "Incorrect password. Please try again.";
+    }
+  }
+
+  document.getElementById("access-btn").addEventListener("click", submit);
+  document.getElementById("course-pw").addEventListener("keydown", function(e) {
+    if (e.key === "Enter") submit();
+  });
+})();
+</script>
+```

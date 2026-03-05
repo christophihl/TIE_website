@@ -2569,6 +2569,42 @@ select.form-input {
 }
 
 
+/* Course access bridge pages */
+.access-form-container {
+  max-width: 480px;
+  margin: 3em auto;
+  text-align: center;
+}
+
+.access-form__title {
+  font-weight: 400;
+  color: $text_blue;
+  margin-bottom: 0.5em;
+}
+
+.access-form__intro {
+  color: $text_blue;
+  font-size: 0.95rem;
+  margin-bottom: 1.5em;
+}
+
+.access-form-container .form-group {
+  text-align: left;
+}
+
+.access-form-container .form-submit {
+  margin-top: 1.25rem;
+}
+
+.access-form__error {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: $tuhh_red;
+  min-height: 1.4em;
+}
+
+
 /* Fonts */
 
 

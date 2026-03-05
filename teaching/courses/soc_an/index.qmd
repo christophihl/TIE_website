@@ -21,7 +21,7 @@ programs:
   - "Data Science"
   - "IWI"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes"
-course-website: "https://test.com"
+course-website: "access/"
 categories:
   - "Data Science"
 time-location:

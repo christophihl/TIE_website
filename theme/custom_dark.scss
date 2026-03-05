@@ -406,3 +406,14 @@ select.form-input {
 .contact-map iframe {
   border-color: rgba(0, 193, 212, 0.5);
 }
+
+/* Course access bridge pages dark mode */
+.access-form__title {
+  color: white;
+}
+.access-form__intro {
+  color: white;
+}
+.access-form__error {
+  color: #ff7b7b;
+}
