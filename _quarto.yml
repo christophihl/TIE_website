@@ -58,7 +58,7 @@ website:
           - text: Open Theses
             href: teaching.qmd#sec-open-theses
       - href: collab.qmd
-        text: Collab
+        text: Collaborate
       # - icon: envelope
       #   href: "mailto:startup.engineer@tuhh.de"
 

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Collab"
+pagetitle: "Collaborate"
 page-layout: custom
 section-divs: false
 toc: false
@@ -9,7 +9,7 @@ resources:
 ---
 
 ::: {.page-header style="background-image: url('assets/images/banners/practice.jpg');"}
-[Collab]{.page-header__title}
+[Collaborate]{.page-header__title}
 
 [&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
 :::
