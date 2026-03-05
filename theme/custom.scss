@@ -2283,6 +2283,51 @@ a.pub-featured-card__image {
   color: $tuhh_blue;
 }
 
+/* Course detail toggle (Overview / Objectives) */
+details.course-toggle {
+  margin-bottom: 1rem;
+}
+details.course-toggle summary {
+  display: inline-block;
+  font-family: 'PublicaSans', Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: white;
+  background-color: $tuhh_blue;
+  border: none;
+  padding: 4px 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  list-style: none;
+}
+details.course-toggle summary::-webkit-details-marker {
+  display: none;
+}
+details.course-toggle summary::marker {
+  display: none;
+  content: "";
+}
+details.course-toggle summary:hover {
+  background-color: $text_blue;
+}
+details.course-toggle summary .label-show {
+  display: inline;
+}
+details.course-toggle summary .label-hide {
+  display: none;
+}
+details.course-toggle[open] summary .label-show {
+  display: none;
+}
+details.course-toggle[open] summary .label-hide {
+  display: inline;
+}
+details.course-toggle > div {
+  margin-top: 0.75rem;
+}
+
 /* Semester subheader */
 .semester-subheader {
   display: block;

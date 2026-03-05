@@ -328,6 +328,14 @@ h2.section-heading {
   color: #00C1D4;
 }
 
+/* Course detail toggle dark mode */
+details.course-toggle summary {
+  background-color: rgba(0, 193, 212, 0.8);
+}
+details.course-toggle summary:hover {
+  background-color: rgba(0, 193, 212, 1);
+}
+
 /* Detail page sidebar metadata dark mode */
 .pub-meta li {
   color: white;

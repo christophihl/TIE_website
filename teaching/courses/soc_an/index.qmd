@@ -72,7 +72,8 @@ resources:
 
 ## Overview
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 **Social analytics** broadly refers to measuring, modeling, visualizing and interpreting interactions between actors (e.g. organizations, firms, employees, customers, users, scientists, citizens or politicians) and their connections with objects (e.g. topics, opinions, categories, concepts, products, or ideas). Data about these interactions and connections are available in ever greater detail and quantity from diverse digital sources, with social media platforms being just one of them.
 
@@ -82,11 +83,13 @@ Tapping into these kinds of data sources for social analytics allows public and 
 
 Relevant data on interactions and connections among actors and objects is often embodied in text and/or needs to be converted into graphs. Therefore, the course introduces the fundamentals and current state of machine learning for unstructured text and graph data. The course has a particular emphasis on recent advancements in deep learning architectures. Through lectures and coding labs using the deep learning framework PyTorch, students will learn the necessary skills to design, implement, and understand their own deep learning pipelines with respect to specific social analytics goals.
 
+</div>
 </details>
 
 ## Objectives
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 After completing this module, students will be able to:
 
@@ -95,6 +98,7 @@ After completing this module, students will be able to:
 - Understand and apply deep learning techniques to text and graph data.
 - Engage in a complex analysis project to deliver concise and actionable insights.
 
+</div>
 </details>
 
 ## Grading

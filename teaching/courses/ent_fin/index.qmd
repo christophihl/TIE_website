@@ -71,7 +71,8 @@ resources:
 
 ## Overview
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 Entrepreneurial finance is at the center of a clash of two very distant worlds: that of entrepreneurship and that of finance. Finance is disciplined, based on numbers and logical thinking and looking for proven track records. Entrepreneurship is messy, based on intuition and experimentation and treading off the beaten track. Entrepreneurial finance is the provision of funding to young, innovative, growth-oriented companies. Entrepreneurial companies are young, typically less than ten years old, and introduce innovative products or business models. The younger are called "startups," and are typically less than five years old.
 
@@ -84,11 +85,13 @@ The workflow in this module is comprised of two course elements:
 1. **(Flipped) classroom**: learning about and discussing concepts and tools currently prevailing in theory and practice of modern entrepreneurial finance.
 2. **Problem-based learning**: deepen an understanding of the concepts and tools by seeing them applied and applying them to real company cases.
 
+</div>
 </details>
 
 ## Objectives
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 Upon completion of this course module, students will be able to:
 
@@ -104,6 +107,7 @@ This course module can prepare students for the following career paths:
 - Strategy & valuation consulting
 - Corporate finance
 
+</div>
 </details>
 
 ## Textbook

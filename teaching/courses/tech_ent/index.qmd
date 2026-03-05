@@ -80,7 +80,8 @@ resources:
 
 ## Overview
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 Startups are temporary, team-based organizations, which can form independently, but also within established companies. They pursue one central objective: taking a business idea to market by finding and designing a repeatable and scalable business model. This entrepreneurial process involves gathering and combining resources that you do not (yet) possess and dealing with high uncertainty about what combinations of resources actually generate value. This course module is designed to introduce students to a systematic Startup Engineering approach to master the process of taking a business idea to market in light of resource constraints and uncertainty.
 
@@ -94,11 +95,13 @@ The workflow in this course module is comprised of three elements:
 
 Students are invited to apply to this course module already with a startup idea and/or team, but this is not a requirement. We will form teams and ideas in the beginning of the course.
 
+</div>
 </details>
 
 ## Objectives
 
-<details class="description" close><summary data-close="Show" data-open="Hide"></summary>
+<details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
+<div>
 
 Upon completion of this course module, students will be able to:
 
@@ -114,6 +117,7 @@ This course module can prepare students for the following career paths:
 - New business development in established corporations
 - Venture capital investing
 
+</div>
 </details>
 
 ## Grading
