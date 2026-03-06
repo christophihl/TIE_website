@@ -2,7 +2,7 @@
 title: "Business Plan for a Pedal Electric Kids Car"
 description: "Develop a business plan for a young startup building a pedal electric car for children"
 date: "2020-09-30"
-image: featured.png
+image: featured.jpg
 thesis-type: "Bachelor/Master"
 status: "completed"
 categories:
@@ -36,7 +36,7 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
-![Business Plan for a Pedal Electric Kids Car](featured.png){.profile-avatar .detail-image}
+![Business Plan for a Pedal Electric Kids Car](featured.jpg){.profile-avatar .detail-image}
 
 ::: {.pub-meta}
 - {{< fa file-lines >}} Bachelor/Master Thesis

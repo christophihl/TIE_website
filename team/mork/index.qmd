@@ -2,7 +2,7 @@
 title: "Dr. Oliver Mork"
 surname: "Mork"
 description: "Research Assistant & Doctoral Student"
-image: avatar.png
+image: avatar.jpg
 page-layout: custom
 section-divs: false
 toc: false
@@ -58,7 +58,7 @@ listing:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
-![Dr. Oliver Mork](avatar.png){.profile-avatar}
+![Dr. Oliver Mork](avatar.jpg){.profile-avatar}
 
 ::: {.profile-contact}
 - {{< fa building >}} Building Q Room 1.012
