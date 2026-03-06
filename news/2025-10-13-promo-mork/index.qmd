@@ -3,7 +3,7 @@ title: "PhD Thesis of Oliver Mork"
 description: "Causal Analyses on Entrepreneurial Intention, Success, and Failure."
 date: 2025-10-15
 author: "Oliver Specht"
-image: featured.png
+image: featured.jpg
 image-alt: "PhD Thesis Oliver Mork"
 categories: [PhD Thesis]
 ---
