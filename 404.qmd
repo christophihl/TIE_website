@@ -1,0 +1,29 @@
+---
+pagetitle: "Page Not Found"
+page-layout: custom
+section-divs: false
+toc: false
+css: theme/page.css
+---
+
+::: {.content-section}
+::: {.content-block}
+
+::: {.profile-sidebar}
+::: {.legal-page-title}
+404
+:::
+:::
+
+::: {.profile-main}
+
+## Page Not Found {.section-heading}
+
+The page you are looking for does not exist or has been moved.
+
+[Back to Home](/){.btn-tuhh}
+
+:::
+
+:::
+:::
