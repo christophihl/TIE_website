@@ -1,5 +1,13 @@
 ---
 pagetitle: "Teaching"
+description: "Courses and theses at TIE TUHH: Technology Entrepreneurship, Entrepreneurial Finance, Causal Data Science, and Social Network Analysis. Bachelor and Master programs at Hamburg University of Technology."
+keywords:
+  - Entrepreneurship Studium Hamburg
+  - Technology Entrepreneurship Course
+  - Entrepreneurial Finance TUHH
+  - Causal Data Science
+  - Master Thesis Entrepreneurship Hamburg
+  - Startup Engineering Lehre
 page-layout: custom
 section-divs: false
 toc: false

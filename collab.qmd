@@ -1,5 +1,10 @@
 ---
 pagetitle: "Collaborate"
+description: "Collaborate with the TUHH Institute of Entrepreneurship: joint research, startup consulting, guest lectures, student projects, and deep tech transfer in Hamburg."
+keywords:
+  - Startup Kooperation Hamburg
+  - Deep Tech Transfer Hamburg
+  - Entrepreneurship Zusammenarbeit TUHH
 page-layout: custom
 section-divs: false
 toc: false

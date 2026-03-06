@@ -1,5 +1,14 @@
 ---
 pagetitle: "Research"
+description: "Research at TIE TUHH: entrepreneurship science, deep tech startups, innovation management, user innovation, venture finance, and causal data science. Projects and publications."
+keywords:
+  - Entrepreneurship Science
+  - Deep Tech Hamburg
+  - Innovation Research
+  - Startup Forschung
+  - Entrepreneurship Research TUHH
+  - User Innovation
+  - Venture Finance
 page-layout: custom
 section-divs: false
 toc: false

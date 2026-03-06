@@ -1,5 +1,6 @@
 ---
 title: "Imprint"
+description: "Legal notice (Impressum) for the TUHH Institute of Entrepreneurship website."
 page-layout: custom
 section-divs: false
 toc: false

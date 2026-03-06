@@ -7,10 +7,14 @@ project:
 
 website:
   title: "TUHH Institute of Entrepreneurship"
+  site-url: https://www.startupengineer.io
   favicon: assets/images/icon.svg
   open-graph:
     locale: de_DE
     site-name: TUHH Institute of Entrepreneurship
+    image: assets/images/docks.jpg
+  twitter-card:
+    image: assets/images/docks.jpg
   page-navigation: false
   back-to-top-navigation: true
   # bread-crumbs: true 

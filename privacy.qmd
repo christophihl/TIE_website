@@ -1,5 +1,6 @@
 ---
 title: "Data Privacy"
+description: "Data privacy statement (Datenschutzerklärung) for the TUHH Institute of Entrepreneurship website."
 page-layout: custom
 section-divs: false
 toc: false

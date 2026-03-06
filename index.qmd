@@ -1,5 +1,19 @@
 ---
 pagetitle: "TUHH Institute of Entrepreneurship"
+description: "Institute of Entrepreneurship (TIE) at Hamburg University of Technology (TUHH). Research and teaching in technology entrepreneurship, startup engineering, deep tech innovation, and entrepreneurial finance."
+keywords:
+  - Entrepreneurship Hamburg
+  - Startup Hamburg
+  - Deep Tech Hamburg
+  - Entrepreneurship Science
+  - Technology Entrepreneurship
+  - TUHH Entrepreneurship
+  - Gründung Hamburg
+  - Startup Forschung Hamburg
+  - Technologie-Entrepreneurship
+  - Startup Engineering
+  - Entrepreneurial Finance
+  - Innovation Hamburg
 page-layout: custom
 section-divs: false
 toc: false

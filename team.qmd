@@ -1,5 +1,10 @@
 ---
 pagetitle: "Team"
+description: "Meet the team at the TUHH Institute of Entrepreneurship: researchers, PhD students, and staff working on entrepreneurship, innovation, and deep tech in Hamburg."
+keywords:
+  - Entrepreneurship Team TUHH
+  - Christoph Ihl
+  - Startup Forschung Hamburg
 page-layout: custom
 section-divs: false
 toc: false

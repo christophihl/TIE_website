@@ -1,5 +1,9 @@
 ---
 pagetitle: "News"
+description: "Latest news from the TUHH Institute of Entrepreneurship: conferences, publications, awards, team updates, and events in entrepreneurship research and teaching."
+keywords:
+  - Entrepreneurship News Hamburg
+  - TUHH Entrepreneurship Aktuelles
 page-layout: custom
 section-divs: false
 toc: false
