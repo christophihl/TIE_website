@@ -2257,16 +2257,7 @@ a.pub-featured-card__image {
   border: 1px solid $tuhh_blue;
 }
 
-/* Image credit caption — overlaid on lower-right corner of image */
-.image-credit-wrapper,
-.news-teaser__image-top-wrap {
-  position: relative;
-}
-.image-credit-wrapper > p:has(.image-credit) {
-  margin: 0;
-  padding: 0;
-  line-height: 0;
-}
+/* Image credit caption — overlaid on lower-right corner inside image */
 .image-credit {
   position: absolute;
   bottom: 0;
@@ -2278,6 +2269,7 @@ a.pub-featured-card__image {
   opacity: 0.4;
   border-radius: 5px 0 0 0;
   z-index: 2;
+  line-height: normal;
 }
 .image-credit a {
   color: #ccc;
@@ -2286,6 +2278,35 @@ a.pub-featured-card__image {
 .image-credit a:hover {
   color: $tuhh_blue;
   opacity: 1;
+}
+
+/* Card listings: credit overlays the <a> image container */
+.news-teaser__image-top-wrap > p {
+  margin: 0;
+  position: relative;
+}
+.news-teaser__image-top-wrap .news-teaser__image-top {
+  position: relative;
+}
+
+/* Individual pages: credit overlays the image inside sidebar */
+.image-credit-wrapper {
+  position: relative;
+}
+.image-credit-wrapper figcaption {
+  display: none;
+}
+.image-credit-wrapper > p:has(.image-credit) {
+  position: static;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+.image-credit-wrapper .quarto-figure {
+  margin-bottom: 0;
+}
+.image-credit-wrapper .figure {
+  margin-bottom: 0;
 }
 
 /* Detail page sidebar metadata */
