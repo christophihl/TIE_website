@@ -6,6 +6,37 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "EURAM 2019 Conference Lisbon"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![EURAM 2019](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 26.06.2019
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 Our Institute was represented by Christoph Ihl, Hannes Lampe and Dimitri Graf.
+
+:::
+
+:::
+:::
+:::

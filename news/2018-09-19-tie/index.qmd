@@ -6,7 +6,32 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "TIE VHB Conference Hamburg 2018"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Annual Conference on Technology, Innovation and Entrepreneurship (TIE) 2018 and VHB-Conference](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 19.09.2018
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 In year 2018 the TIE-Conference took place in Hamburg from September 19 to 21. Leading German and German-speaking researchers met to work on topics such as Technology, Innovation Management and Entrepreneurship.
 
@@ -27,3 +52,9 @@ Following keynote speakers had been invited:
 
 Divided into different slots on "Entrepreneurship" as well as on "Innovation Management", the participants presented their newest research topics.
 After a long research session on the first day, a river boat took us from Harburg Harbor to Hamburg St. Pauli Landungsbrücken. Again, the traditional "Hotel Hafen Hamburg" was our place to spend a splendid evening with all participants of the TIE-Conference.
+
+:::
+
+:::
+:::
+:::

@@ -4,6 +4,39 @@ description: "The Annual Conference on Technology, Innovation and Entrepreneursh
 date: 2015-10-15
 author: "TIE Team"
 categories: [Conference]
+image: featured.png
+image-alt: "TIE-Tagung — Universität Potsdam"
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![TIE-Tagung — Universität Potsdam](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 15.10.2015
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 The Annual Conference on Technology, Innovation and Entrepreneurship (TIE) took place at Universität Potsdam from October 15 to 16, 2015.
+
+:::
+
+:::
+:::
+:::

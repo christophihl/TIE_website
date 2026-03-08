@@ -6,10 +6,41 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "Academy of Management Annual Meeting 2016"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![2016 Academy of Management Annual Meeting](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 05.08.2016
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 The following Conference Proceedings had been presented:
 
 - More than words? How entrepreneurial identity shapes users' reception of new product proposals; by Christoph Ihl and Alexander Vossen
 - Inflation and Self-correction in Entrepreneurship Science; by Hannes Lampe, Jan Reerink & Christoph Ihl
 - The Distance Dilemma — Effects of Knowledge Distance on Solvers' Adoption of Broadcasted R&D Problems; by Christoph Ihl, Robin Kleer & Jan Willem Reerink
+
+:::
+
+:::
+:::
+:::

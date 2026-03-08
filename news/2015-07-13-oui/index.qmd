@@ -6,6 +6,37 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "OUI 2015 Conference in Lisbon"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![International Open and User Innovation Meeting 2015](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 13.07.2015
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 The OUI 2015 was organized by the Catolica Lisbon School of Business & Economics. It is the leading academic conference on Open and User Innovation. Around 200 researchers from various disciplines (such as innovation management, health, strategic management, organization, design, marketing, entrepreneurship, and public policy) meet annually, in order to exchange recent research findings and plans related to Open and User Innovation. Christoph Ihl and Hannes Lampe joined this conference.
+
+:::
+
+:::
+:::
+:::

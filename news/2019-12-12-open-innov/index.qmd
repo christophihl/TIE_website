@@ -6,8 +6,39 @@ author: "TIE Team"
 image: featured.png
 image-alt: "World Open Innovation Conference Rome 2019"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![World Open Innovation Conference 2019 in Rome](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 12.12.2019
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 The 6th Annual World Open Innovation Conference took place in Rome, Italy, from December 12 to 13, 2019 at LUISS University. This year's conference theme was: "Opening up for Managing Business and Societal Challenges".
 
 Christoph Ihl was the conference chair of session 4B: "Conceptualizing and Measuring Open Innovation", and together with Alexander Vossen they presented their paper: "Copyright Or Copy Right? Unsolicited User Behavior As Market Signals".
+
+:::
+
+:::
+:::
+:::

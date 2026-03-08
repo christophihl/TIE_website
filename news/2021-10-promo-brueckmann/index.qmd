@@ -6,10 +6,41 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "PhD Thesis Carolin Brückmann"
 categories: [PhD Thesis]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![PhD Thesis of Carolin Brückmann](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 01.10.2021
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} PhD Thesis
+:::
+
+:::
+
+::: {.profile-main}
 
 ICOs represent a new type of financing method that enables start-ups to collect capital from a large number of mainly small investors. Carolin Brückmann addresses ICO investors to show how investors navigate this new kind of investment environment. The composition and interaction of various investor groups was investigated along three studies. Furthermore, she analysed to what extent investors are able to select successful start-ups in a targeted manner.
 
 Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Jörn Block
 
 Day of Oral Doctoral Examination: 12.10.2021
+
+:::
+
+:::
+:::
+:::

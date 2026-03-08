@@ -6,7 +6,32 @@ author: "Oliver Specht"
 image: featured.png
 image-alt: "AI-InnoScEnCE Project"
 categories: [Research Project]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![AI-InnoScEnCE Project Kicks Off First Implementation Phase](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 17.05.2025
+- {{< fa user >}} Oliver Specht
+- {{< fa tag >}} Research Project
+:::
+
+:::
+
+::: {.profile-main}
 
 The **AI-InnoScEnCE** project — *AI-Empowered Innovation in Natural Science and Engineering for the Circular Economy* — has successfully entered its first implementation phase. The initiative brings together universities, research institutes, and industry partners from across Europe to strengthen innovation capacity and future-proof the talent pipeline in the emerging circular economy.
 
@@ -24,3 +49,9 @@ During the first months, partners have begun developing **AI-supported training 
 AI-InnoScEnCE is coordinated by a strong international consortium representing multiple countries and disciplines, reinforcing the project's ambition to build long-term institutional capacity and lay the groundwork for a resilient European innovation landscape.
 
 Further updates, project activities, and news are available at [ai-innoscence.eu](https://ai-innoscence.eu/).
+
+:::
+
+:::
+:::
+:::

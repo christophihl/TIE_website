@@ -6,7 +6,38 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "VHB TIE Conference 2017 Koblenz"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![VHB/TIE Tagung 2017 in Koblenz](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 01.09.2017
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 In September 2017 Christoph Ihl and Hannes Lampe joined the TIE-Conference in Koblenz-Landau. Many researchers had been invited by Profs. Harald von Korflesch, Mario Schaarschmidt and Frank Piller. This was a great opportunity to exchange and discuss about topics on start-up funding, innovation-management as well as on open innovation.
 The second day of the conference took place at WHU, Otto-Beisheim-School of Management.
+
+:::
+
+:::
+:::
+:::

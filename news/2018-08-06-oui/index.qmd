@@ -6,6 +6,37 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "OUI Conference 2018 NYU"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![16th Annual International Open and User Innovation Conference](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 06.08.2018
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 The 16th International Open and User Innovation Conference was held from August 6–8, 2018 at the Stern School of Business at New York University. The OUI Conference is the leading academic conference on Open and User Innovation.
+
+:::
+
+:::
+:::
+:::

@@ -6,10 +6,41 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "DRUID Academy Conference 2018"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![DRUID Academy Conference 2018](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 11.06.2018
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 The following papers were presented:
 
 - "The Effect of Choosing Teams and Ideas on Entrepreneurial Performance — Evidence from a Field Experiment" was presented by Viktoria Kessler, Christoph Ihl, Linus Dahlander (ESMT) and Rajshri Jayaraman (ESMT).
 - "Herding in Equity Crowdfunding Markets — Heterogeneity Between Experts and Amateurs" was another paper by Jan Niklas Wick and Christoph Ihl.
 - "WHAT We Know versus WHO We Know" was Dimitri Graf's paper presented on this conference.
+
+:::
+
+:::
+:::
+:::

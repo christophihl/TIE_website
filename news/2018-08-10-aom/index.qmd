@@ -4,10 +4,43 @@ description: "In 2018 the Annual Meeting of the AOM took place in Chicago. Main 
 date: 2018-08-10
 author: "TIE Team"
 categories: [Conference]
+image: featured.png
+image-alt: "2018 Academy of Management Annual Meeting"
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![2018 Academy of Management Annual Meeting](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 10.08.2018
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 The following Conference Proceedings had been presented:
 
 - "Herding and the Role of Experts in Equity Crowdfunding Markets" by Christoph Ihl and Jan Niklas Wick
 - "How institutional entrepreneurs diffuse institutional logics to shape an emerging field" by Christoph Ihl and Giulio Barth
 - "The Hidden Cost of Crowd Capital — Categorization of Organizational Deviance in New Venture Financing" by Christoph Ihl and Jan Niklas Wick
+
+:::
+
+:::
+:::
+:::

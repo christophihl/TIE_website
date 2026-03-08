@@ -4,6 +4,39 @@ description: "The 20th Anniversary Conference took place in Copenhagen from June
 date: 2016-06-13
 author: "TIE Team"
 categories: [Conference]
+image: featured.jpg
+image-alt: "DRUID Society Conference 2016"
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![DRUID Society Conference 2016](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 13.06.2016
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 "Distance Dilemma — The Effects of Knowledge Distance on Solvers' Participation in Innovation Crowdsourcing" was presented by Christoph Ihl, Robin Kleer and Jan Willem Reerink.
+
+:::
+
+:::
+:::
+:::

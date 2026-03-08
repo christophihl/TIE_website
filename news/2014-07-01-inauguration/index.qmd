@@ -6,7 +6,32 @@ author: "TIE Team"
 image: featured.png
 image-alt: "Inauguration of the Institute of Entrepreneurship at TUHH"
 categories: [Event]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Inauguration Party](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 01.07.2014
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Event
+:::
+
+:::
+
+::: {.profile-main}
 
 Hamburg University of Technology founds the Institute of Entrepreneurship and is enriched by one new colleague - Prof. Dr. rer. pol. Christoph Ihl, former Assistant Professor of Technology- and Innovation Management at RWTH Aachen, accepted to become Professor at TUHH. From April 1st 2014, the newly established Institute of Entrepreneurship is managed by him, and he is responsible for entrepreneurship teaching and research.
 
@@ -29,3 +54,9 @@ Time: 17.00 – 19.00 hrs.
 Place: TUHH, Schwarzenbergstrasse 93, 21073 Hamburg
 
 This will be the first one of the Open Lecture Series 2014.
+
+:::
+
+:::
+:::
+:::

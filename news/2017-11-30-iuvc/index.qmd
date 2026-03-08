@@ -4,7 +4,34 @@ description: "This years' research colloquium on Innovation and Value Creation t
 date: 2017-11-30
 author: "TIE Team"
 categories: [Conference]
+image: featured.png
+image-alt: "12th Research Colloquium on Innovation and Value Creation"
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![12th Research Colloquium on Innovation and Value Creation](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 30.11.2017
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
 
 This years' research colloquium on "Innovation and Value Creation" took place in Hamburg. Around 60 to 80 scholars from various research backgrounds, such as innovation management, entrepreneurship, organization and workplace design, information systems, and public policy met, in order to exchange recent research findings and future research plans.
 
@@ -15,3 +42,9 @@ Next morning, the conference started at the InnovationCampus Green Technologies 
 Our scholars were divided into three different slots to get the opportunity of presenting their newest research project in order to get feedback from experienced researchers and to exchange on that field of work. This platform was a great opportunity for young researchers emerging from special institutes to develop their research within a trusted community.
 
 The ultimate session took place at the "Empire Riverside Hotel" on Saturday morning. Our Ph.Ds got input for their future research work and were glad about having met other researchers working on similar fields of study.
+
+:::
+
+:::
+:::
+:::

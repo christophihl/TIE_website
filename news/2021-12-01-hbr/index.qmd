@@ -6,10 +6,41 @@ author: "Christoph Ihl"
 image: featured.png
 image-alt: "Harvard Business Review article screenshot"
 categories: [Publication]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![When Autonomy Helps Team Performance — and When It Doesn't](featured.png){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 01.12.2021
+- {{< fa user >}} Christoph Ihl
+- {{< fa tag >}} Publication
+:::
+
+:::
+
+::: {.profile-main}
 
 The [Harvard Business Review](https://hbr.org) has published a managerial summary of our latest research on team autonomy, which can be found [here](https://hbr.org/2021/12/when-autonomy-helps-team-performance-and-when-it-doesnt).
 
 It is based on our research paper "Organizing Entrepreneurial Teams: A Field Experiment on Autonomy over Choosing Teams and Ideas" which is published in [Organization Science](https://pubsonline.informs.org/doi/full/10.1287/orsc.2021.1520).
 
 Enjoy reading and comments welcome!
+
+:::
+
+:::
+:::
+:::

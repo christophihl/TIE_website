@@ -6,7 +6,32 @@ author: "Oliver Specht"
 image: featured.jpg
 image-alt: "PhD Thesis Oliver Mork"
 categories: [PhD Thesis]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
+
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![PhD Thesis of Oliver Mork](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 15.10.2025
+- {{< fa user >}} Oliver Specht
+- {{< fa tag >}} PhD Thesis
+:::
+
+:::
+
+::: {.profile-main}
 
 In his dissertation *"Causal Analyses on Entrepreneurial Intention, Success, and Failure"*, **Oliver Mork** explores the entrepreneurial process across its entire life cycle — from the formation of entrepreneurial intentions to the aftermath of venture failure and potential re-entry. The dissertation follows two intertwined paths: a topical journey through the stages of entrepreneurship and a methodological journey leveraging modern causal inference techniques to uncover reliable cause-and-effect relationships.
 
@@ -21,3 +46,9 @@ By integrating **rigorous causal identification strategies** — including rando
 **Examiners:** Prof. Dr. Christoph Ihl and Prof. Dr. Linus Dahlander
 
 **Day of Oral Doctoral Examination:** 13.10.2025
+
+:::
+
+:::
+:::
+:::

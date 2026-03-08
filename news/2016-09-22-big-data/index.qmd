@@ -6,6 +6,37 @@ author: "TIE Team"
 image: featured.jpg
 image-alt: "Big Data Big Movies Conference 2016"
 categories: [Conference]
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Big Data, Big Movies, Potsdam, September 2016](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 22.09.2016
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 An International Conference dedicated to the effects of big data on the film and television industry. Latest developments, the future of this industry as well as the impact of big data on the film business and on media projects had been discussed by scientists and representatives of the media industry. A big range of topics on market research, marketing strategy and risk management were the focus.
+
+:::
+
+:::
+:::
+:::

@@ -4,6 +4,39 @@ description: "From July 28 to July 30, 2014 the 12th International Open and User
 date: 2014-07-28
 author: "TIE Team"
 categories: [Conference]
+image: featured.jpg
+image-alt: "Christoph Ihl attended the 12th OUI in Boston"
+resources:
+  - ../../assets/images/banners/news.jpg
 ---
 
+::: {.page-header style="background-image: url('../../assets/images/banners/news.jpg');"}
+[News]{.page-header__title}
+
+[&copy; [Anne Gärtner](https://www.gaertner-photo.de)]{.backimage-caption}
+:::
+
+::: {.content-section}
+::: {.content-block}
+::: {.profile-page}
+
+::: {.profile-sidebar}
+![Christoph Ihl attended the 12th OUI in Boston](featured.jpg){.profile-avatar .detail-image}
+
+::: {.pub-meta}
+- {{< fa calendar >}} 28.07.2014
+- {{< fa user >}} TIE Team
+- {{< fa tag >}} Conference
+:::
+
+:::
+
+::: {.profile-main}
+
 From July 28 to July 30, 2014 the 12th International Open and User Innovation Conference was held at the Harvard Business School campus in Boston, USA. Organized by Carliss Baldwin (HBS), Karim Lakhani (HBS), Stefan Thomke (HBS), Eric von Hippel (MIT) and Benjamin Mako Hill (University of Washington).
+
+:::
+
+:::
+:::
+:::
