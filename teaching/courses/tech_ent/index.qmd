@@ -27,6 +27,8 @@ programs:
   - "Erasmus"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=386fc76fdfd667b29e0a955c0fe02446&again=yes"
 course-website: "access/"
+image-credit: "sujins, pixabay"
+image-credit-url: "https://www.needpix.com/photo/1287856/artificial-intelligence-technology-futuristic-science-intelligence-business-free-pictures-free-photos-free-images"
 categories:
   - "Entrepreneurship"
 time-location:
@@ -53,9 +55,11 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+::: {.image-credit-wrapper}
 ![Technology Entrepreneurship](featured.jpg){.profile-avatar .detail-image}
 
 [&copy; [sujins, pixabay](https://www.needpix.com/photo/1287856/artificial-intelligence-technology-futuristic-science-intelligence-business-free-pictures-free-photos-free-images)]{.image-credit}
+:::
 
 {{< course-sidebar >}}
 

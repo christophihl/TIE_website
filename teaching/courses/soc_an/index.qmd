@@ -22,6 +22,8 @@ programs:
   - "IWI"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes"
 course-website: "access/"
+image-credit: "BarabásiLab"
+image-credit-url: "https://www.barabasilab.com"
 categories:
   - "Data Science"
 time-location:
@@ -46,9 +48,11 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+::: {.image-credit-wrapper}
 ![Deep Learning for Social Analytics](featured.png){.profile-avatar .detail-image}
 
 [&copy; [BarabásiLab](https://www.barabasilab.com)]{.image-credit}
+:::
 
 {{< course-sidebar >}}
 

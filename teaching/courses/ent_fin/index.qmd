@@ -22,6 +22,8 @@ programs:
   - "Exchange Programs"
 registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes"
 course-website: "access/"
+image-credit: "Worldspectrum, Pexels"
+image-credit-url: "https://www.pexels.com/de-de/foto/bank-bitcoin-business-geschaft-844124/"
 categories:
   - "Entrepreneurship"
 time-location:
@@ -46,9 +48,11 @@ resources:
 ::: {.profile-page}
 
 ::: {.profile-sidebar}
+::: {.image-credit-wrapper}
 ![Entrepreneurial Finance](featured.jpg){.profile-avatar .detail-image}
 
 [&copy; [Worldspectrum, Pexels](https://www.pexels.com/de-de/foto/bank-bitcoin-business-geschaft-844124/)]{.image-credit}
+:::
 
 {{< course-sidebar >}}
 

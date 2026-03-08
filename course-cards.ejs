@@ -2,9 +2,12 @@
 <% for (const item of items) { %>
 <div class="news-teaser news-teaser--card course-card">
 <% if (item.image) { %>
+<div class="news-teaser__image-top-wrap">
 <a href="<%= item.path %>" class="news-teaser__image-top">
 <img src="<%= item.image %>" alt="<%= item.title %>">
 </a>
+<% if (item['image-credit']) { %><span class="image-credit"><%= item['image-credit-url'] ? '&copy; <a href="' + item['image-credit-url'] + '">' + item['image-credit'] + '</a>' : '&copy; ' + item['image-credit'] %></span><% } %>
+</div>
 <% } %>
 <div class="course-card__meta"><% if (item.ects) { %><span class="course-card__ects"><%= item.ects %> ECTS</span><% } %><% if (item.level) { %><span class="course-card__level"><%= item.level %></span><% } %></div>
 <div class="news-teaser__text">

@@ -2257,20 +2257,30 @@ a.pub-featured-card__image {
   border: 1px solid $tuhh_blue;
 }
 
-/* Image credit caption — below sidebar featured images */
+/* Image credit caption — overlaid on lower-left corner of image */
+.image-credit-wrapper,
+.news-teaser__image-top-wrap {
+  position: relative;
+}
 .image-credit {
-  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 2px 5px;
   font-size: 0.5em;
-  color: #999;
-  margin-top: 4px;
-  text-align: right;
+  color: #ccc;
+  background: #323232;
+  opacity: 0.4;
+  border-radius: 0 5px 0 0;
+  z-index: 2;
 }
 .image-credit a {
-  color: #999;
+  color: #ccc;
   text-decoration: none;
 }
 .image-credit a:hover {
   color: $tuhh_blue;
+  opacity: 1;
 }
 
 /* Detail page sidebar metadata */
