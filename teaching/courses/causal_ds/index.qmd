@@ -44,6 +44,8 @@ resources:
 ::: {.profile-sidebar}
 ![Causal Data Science for Business Analytics](featured.jpg){.profile-avatar .detail-image}
 
+[&copy; [Nature Computational Science](https://www.nature.com/articles/s43588-020-00005-8)]{.image-credit}
+
 {{< course-sidebar >}}
 
 :::
@@ -114,10 +116,10 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 | Session | Topic | Date |
 | --- | --- | --- |
-| 1 | Introduction to Causal Inference | April 13 & 14 |
+| 1 | Introduction to Causal Inference | April 13 |
 | **Part 1** | **Graphical Causal Models** |  |
-| 2 | Graphical Causal Models | April 20 & 21 |
-| 3 | Causal Discovery | April 27 & 28 |
+| 2 | Graphical Causal Models | April 14 & 27 |
+| 3 | Causal Discovery | April 28 |
 | **Part 2** | **Experiments** |  |
 | 4 | Experiments & Linear Regression | May 4 & 5 |
 | 5 | Online A/B-Testing | May 18 & 19 |
@@ -130,7 +132,7 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 | **Part 5** | **Causal Panel Data** |  |
 | 11 | Difference-in-Differences | June 29 & 30 |
 | 12 | Synthetic Controls | July 6 & 7 |
-| 13 | Counterfactual Imputation | July 14 & 14 |
+| 13 | Counterfactual Imputation | July 13 & 14 |
 
 ## Literature
 

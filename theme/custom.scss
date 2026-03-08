@@ -2257,6 +2257,22 @@ a.pub-featured-card__image {
   border: 1px solid $tuhh_blue;
 }
 
+/* Image credit caption — below sidebar featured images */
+.image-credit {
+  display: block;
+  font-size: 0.5em;
+  color: #999;
+  margin-top: 4px;
+  text-align: right;
+}
+.image-credit a {
+  color: #999;
+  text-decoration: none;
+}
+.image-credit a:hover {
+  color: $tuhh_blue;
+}
+
 /* Detail page sidebar metadata */
 .pub-meta {
   font-size: 0.9rem;

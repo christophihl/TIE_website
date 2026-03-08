@@ -336,6 +336,12 @@ details.course-toggle summary:hover {
   background-color: rgba(0, 193, 212, 1);
 }
 
+/* Image credit dark mode */
+.image-credit,
+.image-credit a {
+  color: #777;
+}
+
 /* Detail page sidebar metadata dark mode */
 .pub-meta li {
   color: white;

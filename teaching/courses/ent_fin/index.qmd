@@ -48,6 +48,8 @@ resources:
 ::: {.profile-sidebar}
 ![Entrepreneurial Finance](featured.jpg){.profile-avatar .detail-image}
 
+[&copy; [Worldspectrum, Pexels](https://www.pexels.com/de-de/foto/bank-bitcoin-business-geschaft-844124/)]{.image-credit}
+
 {{< course-sidebar >}}
 
 :::

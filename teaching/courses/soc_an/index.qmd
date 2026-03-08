@@ -48,6 +48,8 @@ resources:
 ::: {.profile-sidebar}
 ![Deep Learning for Social Analytics](featured.png){.profile-avatar .detail-image}
 
+[&copy; [BarabásiLab](https://www.barabasilab.com)]{.image-credit}
+
 {{< course-sidebar >}}
 
 :::
