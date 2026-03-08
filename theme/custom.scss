@@ -2257,21 +2257,26 @@ a.pub-featured-card__image {
   border: 1px solid $tuhh_blue;
 }
 
-/* Image credit caption — overlaid on lower-left corner of image */
+/* Image credit caption — overlaid on lower-right corner of image */
 .image-credit-wrapper,
 .news-teaser__image-top-wrap {
   position: relative;
 }
+.image-credit-wrapper > p:has(.image-credit) {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
 .image-credit {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
   padding: 2px 5px;
   font-size: 0.5em;
   color: #ccc;
   background: #323232;
   opacity: 0.4;
-  border-radius: 0 5px 0 0;
+  border-radius: 5px 0 0 0;
   z-index: 2;
 }
 .image-credit a {
