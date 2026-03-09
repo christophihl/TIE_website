@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-The present thesis investigates several technology transfer channels in the context of university-industry knowledge transfer. Both traditional channels such as collaborative research or academic patenting and innovative alternatives such as broadcast search are considered. Theoretical advances and implications for policy can be derived by implementing novel methods from the field of Data Science.
+This thesis investigates several technology transfer channels in the context of university–industry knowledge transfer. Both traditional channels — such as collaborative research and academic patenting — and innovative alternatives such as broadcast search are considered. Theoretical advances and policy implications are derived by implementing novel methods from the field of data science.
 
 Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Robin Kleer
 

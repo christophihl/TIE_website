@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-The thesis with the topic "Media judgment of entrepreneurial failure — implications for founders" compares media reporting about failure of startups in Germany and the US. It can be shown, that the US media reports more positively about failed startups, than the German media does.
+This thesis compares media reporting about startup failure in Germany and the US. The findings show that US media reports more positively about failed startups than German media does.
 
 Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Michel Clement
 

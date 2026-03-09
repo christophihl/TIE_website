@@ -46,15 +46,15 @@ resources:
 
 ## Abstract
 
-The EDV-TEK project aims to investigate four key sub-dimensions of technology research, specifically identification, emergence, diffusion, and exploitation, within the context of climate change mitigation technologies.
+The EDV-TEK project investigates four key dimensions of technology research — identification, emergence, diffusion, and exploitation — in the context of climate change mitigation technologies.
 
-In terms of **identification**, the project is utilizing Artificial Intelligence techniques to train Neural Networks that automate the process of patent classification. This field of research is relatively new and thus, the results obtained from different studies are often not comparable.
+In terms of **identification**, the project utilizes artificial intelligence techniques to train neural networks that automate patent classification. This field of research is relatively new, and results from different studies are often not comparable.
 
-In the context of **emergence**, the project is exploring the role of science in technological developments, with a specific focus on measuring the scientific influence and origin of knowledge by examining citations from patents to scientific publications.
+In the context of **emergence**, the project explores the role of science in technological development, with a focus on measuring scientific influence by examining citations from patents to scientific publications.
 
-Relating to **diffusion**, the project is using citations in patents as a measure of knowledge flow and knowledge recombination. Furthermore, the study will focus on the interrelatedness of diffusion, impact, and novelty.
+Relating to **diffusion**, the project uses patent citations as a measure of knowledge flow and recombination, with a focus on the interrelatedness of diffusion, impact, and novelty.
 
-As for **exploitation**, the project is focusing on the commercialization of technologies, using technology startups as the object of study. Research has shown that patents positively influence the performance of startups, yet there is limited knowledge about the explicit technologies and their corresponding novelty level. The EDV-TEK project aims to address this gap by utilizing machine-learning neural networks to analyze the underlying phenomena.
+As for **exploitation**, the project focuses on the commercialization of technologies, using technology startups as the unit of study. Research has shown that patents positively influence startup performance, yet there is limited knowledge about the specific technologies and their novelty levels. EDV-TEK addresses this gap by utilizing machine-learning neural networks to analyze the underlying phenomena.
 
 ## Funding
 

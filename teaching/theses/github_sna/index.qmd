@@ -55,9 +55,9 @@ resources:
 
 ## Tasks
 
-Due to the rise of social coding, software developers can track the activities and knowledge relevant to various projects across different project hosting platforms (e.g. GitHub). Software development is heavily dependent on the participants of the process and their roles within the process. Each developer has their specific skills and interests and hence contributes to the projects in a different way with different reputational consequences.
+Due to the rise of social coding, software developers can track activities and knowledge across various projects on different project hosting platforms (e.g. GitHub). Software development is heavily dependent on the participants and their roles in the process. Each developer has specific skills and interests, contributing to projects in different ways with varying reputational consequences.
 
-Collaborative software development makes an investigation of network structures on social coding sites valuable. Community ties in the developer network are thought to be instrumental for project success. The dominant focus has been on understanding the factors affecting performance at the team level. However, there has been little systematic research conducted on the factors that affect the performance of individual developers. These top contributors are critical to the community since they drive the development of the projects and are essential for creating and sharing knowledge. Identifying these influential individuals and explaining which factors lead to "stardom" in such environments could be highly valuable.
+Collaborative software development makes an investigation of network structures on social coding sites valuable. Community ties in developer networks are thought to be instrumental to project success. Most research has focused on factors affecting team-level performance, with little systematic work on what drives individual developer performance. These top contributors are critical to the community since they drive the development of the projects and are essential for creating and sharing knowledge. Identifying these influential individuals and the factors that lead to "stardom" could be highly valuable.
 
 ### Subtasks
 
@@ -70,7 +70,7 @@ Collaborative software development makes an investigation of network structures 
 - Strong analytical skills and passion for data
 - Skills in R or Python
 - Very good knowledge of English
-- Work in an independent target-oriented manner
+- Ability to work independently and in a goal-oriented manner
 
 **Ideally:**
 

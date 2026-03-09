@@ -58,13 +58,13 @@ resources:
 
 Your task is to develop and validate a framework that can guide strategic decision making in startups with respect to internationalization. Based on a general review of the literature on success factors and barriers of startup internationalization, you should explore the specific challenges and requirements that result from deploying multi-language AI technologies as well as operating health care markets with different regulations. The analysis should be complemented by a detailed analysis of comparable companies based on archival data and (where possible) expert interviews.
 
-The thesis project is conducted in close cooperation with Tiplu GmbH: Tiplu is a startup founded in 2016 and grown-up in Hamburg-Harburg, that deals with the topic of "Clinical Decision Making" in hospitals. For this purpose, Tiplu operates the largest federated machine learning network in the German-speaking area and trains and sells prediction models for predicting clinical events. Possibilities for internationalization and thus the distribution of the ML models trained in Germany in basically all other countries in the world that have digital patient data are currently being examined.
+The thesis project is conducted in close cooperation with Tiplu GmbH: Tiplu is a startup founded in 2016 and based in Hamburg-Harburg, that deals with the topic of "Clinical Decision Making" in hospitals. For this purpose, Tiplu operates the largest federated machine learning network in the German-speaking area and trains and sells prediction models for predicting clinical events. The company is currently exploring the internationalization and distribution of its ML models to countries with digital patient data.
 
 ### Subtasks
 
 - Literature review on success factors and barriers of startup internationalization
 - Identify and analyze comparable startups
-- Validation by the means of expert interviews
+- Validation through expert interviews
 
 ## Expectations
 

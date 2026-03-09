@@ -57,11 +57,11 @@ resources:
 
 What makes teams effective in early-stage entrepreneurship — their composition, or the topics they explore?
 
-Although society is pouring money into entrepreneurial teams, there is surprisingly little evidence on whether these initiatives are effective in fostering successful entrepreneurial outcomes. This trial aims to gain a better understanding of what factors differentiate successful from non-successful entrepreneurial teams.
+Although society is investing heavily in entrepreneurial teams, there is surprisingly little evidence on whether these initiatives effectively foster successful entrepreneurial outcomes. This trial aims to gain a better understanding of what factors differentiate successful from non-successful entrepreneurial teams.
 
-The trial will focus on a Business and Entrepreneurship class at a German University. The students must work in teams to create a business plan. The intervention will randomly allocate students to endogenously selected or exogenously assigned teams and an endogenously selected or exogenously assigned business topic.
+The trial focuses on a Business and Entrepreneurship class at a German university. The students must work in teams to create a business plan. The intervention randomly allocates students to either self-selected or externally assigned teams and business topics.
 
-The impact of these interventions on early entrepreneurial success will be measured through teams' business plan performance, which will be assessed by both internal and external evaluators. These findings will be complemented by survey data, which speak to other dimensions of team selection and performance.
+The impact on early entrepreneurial success is measured through teams' business plan performance, assessed by both internal and external evaluators. These findings are complemented by survey data on other dimensions of team selection and performance.
 
 ## Links
 

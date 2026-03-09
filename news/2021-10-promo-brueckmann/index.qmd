@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-ICOs represent a new type of financing method that enables start-ups to collect capital from a large number of mainly small investors. Carolin Brückmann addresses ICO investors to show how investors navigate this new kind of investment environment. The composition and interaction of various investor groups was investigated along three studies. Furthermore, she analysed to what extent investors are able to select successful start-ups in a targeted manner.
+ICOs represent a new type of financing method that enables startups to raise capital from a large number of mainly small investors. This thesis examines how investors navigate this new investment environment. Across three studies, the composition and interaction of various investor groups are investigated. Furthermore, the thesis analyses to what extent investors are able to identify successful startups.
 
 Examiners: Prof. Dr. Christoph Ihl and Prof. Dr. Jörn Block
 

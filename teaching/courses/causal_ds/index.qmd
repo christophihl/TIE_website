@@ -70,9 +70,9 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Most managerial decision problems require answers to questions such as "what happens to Y if we do X?", or "was it X that caused Y to change?" In other words, practical business decision-making requires knowledge about cause-and-effect. While most data science and machine learning approaches are designed to efficiently detect patterns in high-dimensional data, they are not able to distinguish causal relationships from simple correlations. That means, commonly used approaches to business analytics often fall short to provide decision makers with important causal knowledge. Therefore, many leading companies currently try to develop specific causal data science capabilities.
+Most managerial decision problems require answers to questions such as "what happens to Y if we do X?", or "was it X that caused Y to change?" In other words, practical business decision-making requires knowledge about cause-and-effect. While most data science and machine learning approaches are designed to efficiently detect patterns in high-dimensional data, they are not able to distinguish causal relationships from simple correlations. That means, commonly used approaches to business analytics often fall short of providing decision makers with important causal knowledge. Therefore, many leading companies currently try to develop specific causal data science capabilities.
 
-This module will provide an introduction into the topic of causal inference with the help of modern data science and machine learning approaches and with a focus on applications to practical business problems from various management areas. Based on an overarching framework for causal data science, the course will guide students to detect sources of confounding influence factors, understand the problem of selective measurement in data collection, and extrapolate causal knowledge across different business contexts. We also cover several tools for causal inference, such as A/B testing and experiments, difference-in-differences, instrumental variables, matching, regression discontinuity designs, etc. A variety of hands-on examples will be discussed that allow students to apply their newly obtained knowledge and carry out state-of-the-art causal analyses by themselves.
+This module will provide an introduction to causal inference using modern data science and machine learning approaches and with a focus on practical business applications across management domains. Based on an overarching framework for causal data science, the course will teach students to detect sources of confounding influence factors, understand the problem of selective measurement in data collection, and extrapolate causal knowledge across different business contexts. We also cover several tools for causal inference, such as A/B testing and experiments, difference-in-differences, instrumental variables, matching, regression discontinuity designs, etc. Hands-on examples allow students to apply their knowledge and carry out causal analyses independently.
 
 </div>
 </details>
@@ -85,9 +85,9 @@ This module will provide an introduction into the topic of causal inference with
 After completing this module, students will be able to:
 
 - Understand the difference between "correlation" and "causation"
-- Understand the shortcomings of current correlation-based approaches
-- Develop causal knowledge relevant for specific data-driven decisions
-- Formalize intuition about causal relationships using a "language" of causality
+- Recognize the shortcomings of current correlation-based approaches
+- Develop causal knowledge for data-driven decision-making
+- Formalize causal intuitions using the language of causal inference
 - Derive causal hypotheses that can be tested with data
 - Discuss the conceptual ideas behind state-of-the-art causal data science tools and algorithms
 - Carry out causal data analyses with state-of-the-art tools
@@ -102,7 +102,7 @@ After completing this module, students will be able to:
 ## Target Audience
 
 - Master students in "Data Science" and "Internationales Wirtschaftsingenieurwesen (IWI)"
-- Students with a strong interest and motivation in acquiring the skills required for mastering the causal aspects of modern business analytics.
+- Students with a strong interest in mastering the causal aspects of modern business analytics.
 
 ## Registration
 

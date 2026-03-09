@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-The following Conference Proceedings had been presented:
+The following conference proceedings were presented:
 
 - More than words? How entrepreneurial identity shapes users' reception of new product proposals; by Christoph Ihl and Alexander Vossen
 - Inflation and Self-correction in Entrepreneurship Science; by Hannes Lampe, Jan Reerink & Christoph Ihl

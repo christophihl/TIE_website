@@ -59,9 +59,9 @@ resources:
 
 ## Motivation and Task
 
-Companies are increasingly being forced to meet government regulations and customer demands pertaining to sustainable production and sustainable product offerings. As a result, companies must find, adopt and develop new methods of production and consumption to keep their license to operate. One emerging and expanding knowledge field to search for relevant best practices is the "circular economy", which refers to a broad model of production and consumption that involves sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products as long as possible.
+Companies are increasingly required to meet government regulations and customer demands pertaining to sustainable production and sustainable product offerings. As a result, companies must find, adopt, and develop new methods of production and consumption to keep their license to operate. One emerging knowledge field is the "circular economy", a broad model of production and consumption that involves sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products for as long as possible.
 
-Within the knowledge field of the "circular economy", numerous solutions are already being proposed and described in theory or as best practice already adopted and implemented by companies. The challenge stems from the fact that this knowledge is dispersed over many sources, unstructured, heterogeneous in format and detail, and therefore very difficult to search systematically for practitioners looking for suitable solutions or at least inspirations.
+Within this field, numerous solutions are already being proposed and described in theory or as best practices adopted and implemented by companies. The challenge is that this knowledge is dispersed over many sources, unstructured, heterogeneous in format and detail, and therefore very difficult to search systematically for practitioners looking for suitable solutions or at least inspirations.
 
 The goal of this thesis is to develop and implement an approach that makes the knowledge field "circular economy" more accessible and searchable by deploying tools from natural language processing and machine learning.
 

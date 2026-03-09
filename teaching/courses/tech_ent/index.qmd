@@ -81,17 +81,17 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Startups are temporary, team-based organizations, which can form independently, but also within established companies. They pursue one central objective: taking a business idea to market by finding and designing a repeatable and scalable business model. This entrepreneurial process involves gathering and combining resources that you do not (yet) possess and dealing with high uncertainty about what combinations of resources actually generate value. This course module is designed to introduce students to a systematic Startup Engineering approach to master the process of taking a business idea to market in light of resource constraints and uncertainty.
+Startups are temporary, team-based organizations that can form independently or within established companies. They pursue one central objective: taking a business idea to market by finding and designing a repeatable and scalable business model. This entrepreneurial process involves gathering and combining resources that you do not (yet) possess and dealing with high uncertainty about what combinations of resources actually generate value. This course module introduces students to a systematic Startup Engineering approach for taking a business idea to market in light of resource constraints and uncertainty.
 
-Startup Engineering takes an iterative approach, in that it favors variety and alternatives over one detailed, linear five-year business plan to reach steady state operations. From a problem solving and systems thinking perspective, Startup Engineers create different possible versions of a new venture and alternative hypotheses about value creation for customers and value capture vis-à-vis competitors. To test critical hypotheses early on, Startup Engineers engage in an evidence-based, experimental trial-and-error learning process that measures real progress.
+Startup Engineering takes an iterative approach, in that it favors variety and alternatives over a single detailed, linear five-year business plan to reach steady-state operations. From a problem-solving and systems-thinking perspective, Startup Engineers create different possible versions of a new venture and alternative hypotheses about value creation for customers and value capture vis-à-vis competitors. To test critical hypotheses early on, Startup Engineers engage in an evidence-based, experimental trial-and-error learning process that measures real progress.
 
 The workflow in this course module is comprised of three elements:
 
 1. **(Flipped) classroom**: learning about and discussing concepts and tools currently prevailing in theory and practice of modern technology entrepreneurship.
-2. **Problem-based learning**: deepen an understanding of the concepts and tools by seeing them applied and applying them to real company cases.
-3. **Experiential learning**: applying the concepts and tools in teams to an own new startup project.
+2. **Problem-based learning**: deepen understanding of these concepts and tools by applying them to real company cases.
+3. **Experiential learning**: applying the concepts and tools in teams to their own startup project.
 
-Students are invited to apply to this course module already with a startup idea and/or team, but this is not a requirement. We will form teams and ideas in the beginning of the course.
+Students are welcome to join with a startup idea and/or team, but this is not a requirement. We will form teams and ideas in the beginning of the course.
 
 </div>
 </details>
@@ -104,9 +104,9 @@ Students are invited to apply to this course module already with a startup idea 
 Upon completion of this course module, students will be able to:
 
 - Apply a modern innovation toolkit relevant in both the startup & corporate world
-- Analyze business opportunities in terms of its constituent elements
-- Design new business models by gathering and combining relevant ideas, facts and information
-- Evaluate business opportunities and derive judgment about next steps & decisions
+- Analyze business opportunities in terms of their constituent elements
+- Design new business models by gathering and combining relevant ideas, facts, and information
+- Evaluate business opportunities and form judgments about next steps and decisions
 
 This course module can prepare students for the following career paths:
 
@@ -120,9 +120,9 @@ This course module can prepare students for the following career paths:
 
 ## Grading
 
-- **50%** (team): Development and pitch of an own startup project — This is a combination of your intermediate and final pitches. We especially look at the usage of frameworks presented in the course materials as well as form and presentation style.
-- **30%** (team): Three case solutions (one from each of the three parts of the course) — The focus will be on evaluating the clarity and coherence of the reasoning process that led to the conclusion. Each group must thoroughly detail the steps and logic they employed to ensure their analytical approach is both transparent and replicable.
-- **20%** (individual): Class participation — Ensuring that each group member is actively contributing towards lecture and exercise sessions and presents a part of each pitch.
+- **50%** (team): Development and pitch of a startup project — This is a combination of your intermediate and final pitches. We especially look at the use of frameworks presented in the course materials as well as form and presentation style.
+- **30%** (team): Three case solutions (one from each of the three parts of the course) — The focus will be on evaluating the clarity and coherence of the reasoning process that led to the conclusion. Each group must detail the steps and logic employed to ensure their analytical approach is transparent and replicable.
+- **20%** (individual): Class participation — Each group member is expected to actively contribute to lecture and exercise sessions and present a part of each pitch.
 
 ## Target Audience
 

@@ -49,7 +49,7 @@ resources:
 
 ## Tasks
 
-A young startup develops a pedal electric car for children between 6–13 years. The vehicle drives up to 25 km/h and is equipped with several features, such as an aluminum space-frame, 7 gears, trunk, etc. Currently, they finish a second prototype and are about to do intensive test driving with it. They are looking for an energetic student, who is interested in further developing their business plan.
+A young startup is developing a pedal electric car for children between 6–13 years. The vehicle drives up to 25 km/h and is equipped with several features, such as an aluminum space-frame, 7 gears, trunk, etc. Currently, they are finishing a second prototype and are about to begin intensive test driving. They are looking for an energetic student interested in helping develop their business plan.
 
 ### Subtasks
 

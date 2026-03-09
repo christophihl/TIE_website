@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-The following Conference Proceedings had been presented:
+The following conference proceedings were presented:
 
 - "Herding and the Role of Experts in Equity Crowdfunding Markets" by Christoph Ihl and Jan Niklas Wick
 - "How institutional entrepreneurs diffuse institutional logics to shape an emerging field" by Christoph Ihl and Giulio Barth

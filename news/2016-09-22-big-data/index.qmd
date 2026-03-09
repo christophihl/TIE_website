@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-An International Conference dedicated to the effects of big data on the film and television industry. Latest developments, the future of this industry as well as the impact of big data on the film business and on media projects had been discussed by scientists and representatives of the media industry. A big range of topics on market research, marketing strategy and risk management were the focus.
+An international conference dedicated to the effects of big data on the film and television industry. The latest developments, the future of the industry, and the impact of big data on the film business and media projects were discussed by scientists and representatives of the media industry. A broad range of topics in market research, marketing strategy and risk management were the focus.
 
 :::
 

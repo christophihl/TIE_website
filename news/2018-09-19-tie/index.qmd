@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-In year 2018 the TIE-Conference took place in Hamburg from September 19 to 21. Leading German and German-speaking researchers met to work on topics such as Technology, Innovation Management and Entrepreneurship.
+The TIE Conference took place in Hamburg from September 19 to 21, 2018. Leading German and German-speaking researchers met to work on topics in technology, innovation management, and entrepreneurship.
 
 Highlights:
 
@@ -44,7 +44,7 @@ Highlights:
 
 On Friday morning, TUHH's President, Prof. Dr. Ed Brinksma welcomed our guests coming from all over Germany, Switzerland, Denmark and the UK.
 
-Following keynote speakers had been invited:
+The following keynote speakers were invited:
 
 - Prof. Henry Sauermann, ESMT Berlin — "Studying Startup Joiners"
 - Prof. Roman Beck, IT University of Copenhagen — "New Market Engineering with Blockchain"

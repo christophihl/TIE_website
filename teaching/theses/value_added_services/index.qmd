@@ -54,7 +54,7 @@ resources:
 
 ## Introduction
 
-In the dynamic ecosystem of startups, funding plays a pivotal role in the success and growth of new ventures. Traditionally, the focus has been on the monetary aspect of funding. However, recent trends indicate that investors are providing more than just financial capital. They offer a range of value-added services (VAS) that can significantly influence the trajectory of startups. These services, which can include mentorship, strategic guidance, networking opportunities, and operational support, are critical in fostering the growth and success of startups. This thesis aims to provide a comprehensive state-of-the-art research overview on these value-added services, delving into their types, benefits, and impact on startup success.
+In the startup ecosystem, funding plays a pivotal role in the success and growth of new ventures. Traditionally, the focus has been on the monetary aspect of funding. However, investors increasingly provide more than just financial capital. They offer a range of value-added services (VAS) that can significantly influence the trajectory of startups. These services — mentorship, strategic guidance, networking opportunities, and operational support — are critical for startup growth and success. This thesis provides a comprehensive overview of the state of research on value-added services, covering their types, benefits, and impact on startup success.
 
 ## Objectives
 
@@ -101,7 +101,7 @@ In the dynamic ecosystem of startups, funding plays a pivotal role in the succes
 
 ## Expectations
 
-- Work in an independent target-oriented manner.
+- Ability to work independently and in a goal-oriented manner.
 - Good knowledge of English.
 - Interest in the specific topic and around startup financing, value co-creation and literature analysis.
 

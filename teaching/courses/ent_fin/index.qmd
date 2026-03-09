@@ -1,6 +1,6 @@
 ---
 title: "Entrepreneurial Finance"
-description: "Entrepreneurial finance at the intersection of entrepreneurship and finance"
+description: "Funding, valuation, and investment decisions for young, innovative, growth-oriented companies"
 image: featured.jpg
 semester: "WT2026"
 weight: 10
@@ -74,16 +74,16 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Entrepreneurial finance is at the center of a clash of two very distant worlds: that of entrepreneurship and that of finance. Finance is disciplined, based on numbers and logical thinking and looking for proven track records. Entrepreneurship is messy, based on intuition and experimentation and treading off the beaten track. Entrepreneurial finance is the provision of funding to young, innovative, growth-oriented companies. Entrepreneurial companies are young, typically less than ten years old, and introduce innovative products or business models. The younger are called "startups," and are typically less than five years old.
+Entrepreneurial finance sits at the intersection of two very different worlds: entrepreneurship and finance. Finance is disciplined, based on numbers and logical thinking, and looks for proven track records. Entrepreneurship is messy, based on intuition and experimentation, and treads off the beaten track. Entrepreneurial finance is the provision of funding to young, innovative, growth-oriented companies. Entrepreneurial companies are young, typically less than ten years old, and introduce innovative products or business models. The younger are called "startups," and are typically less than five years old.
 
-There is a variety of investors who can finance entrepreneurial companies: family and friends, business angels, accelerators and incubators, crowdfunding platforms, venture capital firms, corporate investors, etc. The course provides a thorough understanding of what motivates them, of the way they invest, and of what support they can provide to a company at what stage in the fundraising cycle. The course addresses the following key questions: How much money can and should be raised? When should it be raised and from whom? What is a reasonable valuation of the company? How should funding, employment contracts and exit decisions be structured?
+A variety of investors can finance entrepreneurial companies: family and friends, business angels, accelerators and incubators, crowdfunding platforms, venture capital firms, corporate investors, etc. The course provides a thorough understanding of what motivates them, how they invest, and what support they can provide to a company at what stage in the fundraising cycle. The course addresses the following key questions: How much money can and should be raised? When should it be raised and from whom? What is a reasonable valuation of the company? How should funding, employment contracts and exit decisions be structured?
 
-Thus, the course provides an understanding of the whole fundraising cycle, from the moment the entrepreneur conceived her idea to the moment investors exit the company and move on. We examine the entrepreneur's signalling to investors of the qualities of the venture, the investors' evaluation of the venture, the various dimensions of contracting (cash flow rights, control rights, compensation, and other clauses), the negotiation of a deal and the provision of corporate governance, the process of staged financing, the financing through debt, and the exit process though liquidity events such as initial public offering, sale or merger.
+Thus, the course provides an understanding of the whole fundraising cycle, from the moment entrepreneurs conceive their idea to the moment investors exit the company and move on. We examine the entrepreneur's signalling to investors of the qualities of the venture, the investors' evaluation of the venture, the various dimensions of contracting (cash flow rights, control rights, compensation, and other clauses), the negotiation of a deal and the provision of corporate governance, the process of staged financing, the financing through debt, and the exit process through liquidity events such as initial public offering, sale or merger.
 
 The workflow in this module is comprised of two course elements:
 
 1. **(Flipped) classroom**: learning about and discussing concepts and tools currently prevailing in theory and practice of modern entrepreneurial finance.
-2. **Problem-based learning**: deepen an understanding of the concepts and tools by seeing them applied and applying them to real company cases.
+2. **Problem-based learning**: deepen understanding of these concepts and tools by applying them to real company cases.
 
 </div>
 </details>
@@ -96,7 +96,7 @@ The workflow in this module is comprised of two course elements:
 Upon completion of this course module, students will be able to:
 
 - Prepare a financial plan for a new venture or business opportunity
-- Engage in financial valuation for new ventures and business opportunities
+- Conduct financial valuations of new ventures and business opportunities
 - Understand the design of financial contracts
 - Analyze and evaluate growth and exit strategies
 

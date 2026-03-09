@@ -54,7 +54,7 @@ resources:
 
 ## Tasks
 
-The focus of this thesis is on the analysis of a patent data set for predicting and automating the classification process, which is currently still carried out manually. The goal is to identify and test different machine learning algorithms in order to improve prediction accuracy. The features for identifying the patents come from patent codes (e.g. IPC, CPC) and text data (e.g. patent claims, full text). There will be a second classification task related to specific information (e.g. cosmetic substances) within the independent claims of these patents.
+This thesis focuses on analyzing a patent dataset to predict and automate the classification process, which is currently carried out manually. The goal is to identify and test different machine learning algorithms to improve prediction accuracy. Features are derived from patent codes (e.g. IPC, CPC) and text data (e.g. patent claims, full text). A second classification task targets specific information (e.g. cosmetic substances) within the independent claims.
 
 ### Subtasks
 

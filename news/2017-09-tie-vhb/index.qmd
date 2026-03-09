@@ -33,7 +33,7 @@ resources:
 
 ::: {.profile-main}
 
-In September 2017 Christoph Ihl and Hannes Lampe joined the TIE-Conference in Koblenz-Landau. Many researchers had been invited by Profs. Harald von Korflesch, Mario Schaarschmidt and Frank Piller. This was a great opportunity to exchange and discuss about topics on start-up funding, innovation-management as well as on open innovation.
+In September 2017 Christoph Ihl and Hannes Lampe joined the TIE Conference in Koblenz-Landau. Researchers were invited by Profs. Harald von Korflesch, Mario Schaarschmidt, and Frank Piller. This was a great opportunity to exchange ideas and discuss topics in startup funding, innovation management, and open innovation.
 The second day of the conference took place at WHU, Otto-Beisheim-School of Management.
 
 :::

@@ -46,7 +46,7 @@ resources:
 
 ## Abstract
 
-**SMILE** (*Smart Manufacturing Innovation, Learning-labs, and Entrepreneurship*) is a multi-institutional European project funded under the **EIT Higher Education Initiative (HEI)**, led by Hamburg University of Technology. Smart manufacturing represents a cornerstone for economic competitiveness and growth, creating jobs and improving the quality of life of citizens. SMILE aims to accelerate institutional change and increase higher education institutions' innovation and entrepreneurship capacities as well as their integration into regional innovation ecosystems.
+**SMILE** (*Smart Manufacturing Innovation, Learning-labs, and Entrepreneurship*) is a multi-institutional European project funded under the **EIT Higher Education Initiative (HEI)**, led by Hamburg University of Technology. Smart manufacturing is a cornerstone of economic competitiveness and growth, creating jobs and improving quality of life. SMILE aims to accelerate institutional change, increase higher education institutions' innovation and entrepreneurship capacities, and strengthen their integration into regional innovation ecosystems.
 
 Building on the EIT knowledge triangle model — connecting research, education, and business — extended by civil society, SMILE develops and implements an Innovation Vision Action Plan comprising digital learning nuggets, learning labs, coaching, training, governance initiatives, and transferability actions. The project advances inclusion, gender equality, and the green and digital transition.
 
