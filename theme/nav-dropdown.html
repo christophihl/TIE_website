@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Only check against this dropdown's own parent page
-    var ownPage = ownTarget.replace('./', '').split('#')[0].replace('.html', '');
+    var ownPage = ownTarget.replace(/^\.?\//, '').split('#')[0].replace('.html', '');
     var isActive = hrefs.some(function (h) { return h === currentPath; }) ||
                    currentPath === ownPage + '.html' ||
                    window.location.pathname.indexOf('/' + ownPage + '/') !== -1;
