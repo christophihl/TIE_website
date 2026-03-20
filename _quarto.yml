@@ -116,7 +116,8 @@ format:
     # css: theme/styles.css
     code-copy: true
     code-overflow: wrap
-    mainfont: PublicaSans # PublicaSans ; Poppins
+    highlight-style: theme/tie_code.theme
+    mainfont: PublicaSans
     grid:
       sidebar-width: 0px
       body-width: $page_width

@@ -182,7 +182,7 @@ We advance innovation and entrepreneurship [through]{.br-mobile} [**rigorous emp
 :::
 
 
-::: {.content-section-alt .affiliations-section}
+::: {.content-section .affiliations-section}
 ::: {.content-block}
 
 ## Affiliations {.section-heading}

@@ -26,7 +26,7 @@ $tuhh_grey: #D0D0CE;
 $tuhh_darkblue: #143BFF;
 
 
-// Typography — TUHH brand identity (PublicaSans primary, SangBleuSans secondary, Poppins fallback)
+// Typography — TUHH brand identity (PublicaSans primary, SangBleuSans secondary)
 $font-family-sans-serif: 'PublicaSans', Arial, sans-serif !default;
 $font-size-base: 1rem !default; // 16px
 $line-height-base: 1.5 !default;
@@ -878,6 +878,7 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: white;
+  border-top: 1px solid $tuhh_blue;
 }
 
 .content-section-alt {
@@ -887,6 +888,7 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #f7f7f7;
+  border-top: 1px solid $tuhh_blue;
 }
 
 @media (min-width: 980px) {
@@ -991,7 +993,7 @@ section.section-heading > p:has(.btn-tuhh) {
 
 .page-header__title {
   color: white;
-  font-family: SangBleuSans, PublicaSans, Poppins, sans-serif;
+  font-family: SangBleuSans, PublicaSans, sans-serif;
   font-size: clamp(20px, 4vw, 44px);
   font-weight: 400;
   line-height: 1.1;

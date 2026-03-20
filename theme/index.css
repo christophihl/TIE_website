@@ -99,7 +99,7 @@
 .hero-title {
   display: block;
   color: white;
-  font-family: SangBleuSans, PublicaSans, Poppins, sans-serif;
+  font-family: SangBleuSans, PublicaSans, sans-serif;
   font-size: clamp(20px, 4.5vw, 56px);
   font-weight: 400;
   line-height: 1.1;
@@ -349,6 +349,7 @@ img.hero-illu {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: white;
+  border-top: 1px solid #00c1d4;
   display: flex;
   justify-content: center;
   align-items: center;
