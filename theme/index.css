@@ -317,7 +317,7 @@ img.hero-illu {
 
   .hero-title {
     max-width: 100%;
-    font-size: clamp(24px, 7vw, 56px);
+    font-size: clamp(30px, 8vw, 56px);
   }
 
   .hero-carousel {
