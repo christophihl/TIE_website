@@ -899,30 +899,33 @@ h6, .h6 { font-size: 16px; line-height: 1.75; }
   }
 }
 
-/* Section heading — uppercase label style
+/* Section heading — TUHH headline--h2 style
    Quarto puts .section-heading on both the <h2> and its wrapping <section>.
-   Scope uppercase + letter-spacing to the heading itself; reset for content. */
+   Scope heading styles to the <h2> itself; reset for the wrapping <section>. */
 h2.section-heading {
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 28px;
+  line-height: 1.14;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
   color: $text_blue;
-  text-align: center;
+  text-align: left;
   border-bottom: none;
   margin: 0;
   padding-top: 0;
   padding-bottom: 40px;
 }
 
+@media (min-width: 750px) {
+  h2.section-heading {
+    font-size: 40px;
+    line-height: 1.4;
+  }
+}
+
 section.section-heading {
   text-transform: none;
   letter-spacing: normal;
-}
-
-/* Center standalone buttons (e.g. "All News") inside sections */
-section.section-heading > p:has(.btn-tuhh) {
-  text-align: center;
 }
 
 /* Placeholder text for stub sections */
@@ -1265,18 +1268,26 @@ p:has(.backimage-caption) {
    Team Page — Card Grid & Profile Pages
    ============================================= */
 
-/* Team section headings */
+/* Team section headings — same as section-heading (TUHH headline--h2) */
 .team-section-heading {
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 28px;
+  line-height: 1.14;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
   color: $text_blue;
   border-bottom: none;
   margin: 0;
   padding-top: 0;
   padding-bottom: 32px;
-  text-align: center;
+  text-align: left;
+}
+
+@media (min-width: 750px) {
+  .team-section-heading {
+    font-size: 40px;
+    line-height: 1.4;
+  }
 }
 
 .team-section-heading .header-section-number,
