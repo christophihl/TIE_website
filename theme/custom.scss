@@ -928,6 +928,11 @@ section.section-heading {
   letter-spacing: normal;
 }
 
+/* Center standalone buttons (e.g. "All News") inside sections */
+section.section-heading > p:has(.btn-tuhh) {
+  text-align: center;
+}
+
 /* Placeholder text for stub sections */
 .placeholder-text {
   text-align: center;
