@@ -142,7 +142,8 @@ img.hero-illu {
   display: block;
   height: 100%;
   width: auto;
-  padding-top: clamp(4px, 0.5vw, 8px);
+  margin-top: clamp(4px, 0.5vw, 8px);
+  margin-bottom: -2px;
 }
 
 
