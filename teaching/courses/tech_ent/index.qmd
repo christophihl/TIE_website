@@ -81,17 +81,17 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Startups are temporary, team-based organizations that can form independently or within established companies. They pursue one central objective: taking a business idea to market by finding and designing a repeatable and scalable business model. This entrepreneurial process involves gathering and combining resources that you do not (yet) possess and dealing with high uncertainty about what combinations of resources actually generate value. This course module introduces students to a systematic Startup Engineering approach for taking a business idea to market in light of resource constraints and uncertainty.
+Startups are temporary, team-based organizations that pursue one central objective: taking a business idea to market by finding and designing a repeatable and scalable business model. The entrepreneurial process involves gathering resources not yet controlled and managing deep uncertainty about which combinations will generate value.
 
-Startup Engineering takes an iterative approach, in that it favors variety and alternatives over a single detailed, linear five-year business plan to reach steady-state operations. From a problem-solving and systems-thinking perspective, Startup Engineers create different possible versions of a new venture and alternative hypotheses about value creation for customers and value capture vis-à-vis competitors. To test critical hypotheses early on, Startup Engineers engage in an evidence-based, experimental trial-and-error learning process that measures real progress.
+This course takes a **scientific approach** to venture building — both in what we teach and how we teach it. We draw on the most recent research in entrepreneurship, strategy, economics, and management to equip students with frameworks that go far beyond conventional startup wisdom. Rather than following a single linear business plan, students learn to think like *entrepreneurial scientists*: formulating alternative theories of value, designing experiments to test key assumptions, and updating beliefs as evidence accumulates.
 
-The workflow in this course module is comprised of three elements:
+Three fundamental pillars distinguish this course:
 
-1. **(Flipped) classroom**: learning about and discussing concepts and tools currently prevailing in theory and practice of modern technology entrepreneurship.
-2. **Problem-based learning**: deepen understanding of these concepts and tools by applying them to real company cases.
-3. **Experiential learning**: applying the concepts and tools in teams to their own startup project.
+- **Theory-driven entrepreneurship.** Entrepreneurs are not just experimenters — they are *theorists* who develop novel explanations for why certain resource combinations should create value. We draw on the Theory-Based View (TBV) to show how explicit theorizing about value creation and capture leads to better venture decisions.
+- **Strategic choice under uncertainty.** Every venture involves a coherent set of choices about customers, technology, identity, and competition. We teach students to recognize that these choices are interdependent and that the quality of a venture depends not on any single decision but on the coherence of the overall strategy.
+- **Bayesian reasoning.** Entrepreneurs hold heterogeneous prior beliefs and face deep uncertainty. We use the Bayesian Entrepreneurship framework to teach students how to formulate competing hypotheses, design informative tests, and systematically update beliefs — rather than falling in love with a single idea.
 
-Students are welcome to join with a startup idea and/or team, but this is not a requirement. We will form teams and ideas in the beginning of the course.
+The module combines conceptual rigor with hands-on application. Each week, students apply the session's frameworks to their own team venture through structured deliverables, case discussions, and iterative refinement — building a complete venture from ideation to final pitch over the course of the semester.
 
 </div>
 </details>
@@ -101,28 +101,25 @@ Students are welcome to join with a startup idea and/or team, but this is not a 
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Upon completion of this course module, students will be able to:
+Upon completion, students will be able to:
 
-- Apply a modern innovation toolkit relevant in both the startup & corporate world
-- Analyze business opportunities in terms of their constituent elements
-- Design new business models by gathering and combining relevant ideas, facts, and information
-- Evaluate business opportunities and form judgments about next steps and decisions
+1. **Formulate and test theories of value.** Develop alternative explanations for how a venture creates and captures value, identify key assumptions, and design experiments to discriminate between competing theories.
+2. **Apply research-based entrepreneurship frameworks.** Use frameworks from recent leading scholarship — including the Theory-Based View, Bayesian Entrepreneurship, and the Scientific Approach to entrepreneurship — to make structured venture decisions.
+3. **Analyze business opportunities systematically.** Decompose a venture opportunity into its constituent elements (customer, technology, competition, business model, go-to-market) and evaluate coherence across strategic choices.
+4. **Design and iterate on business models.** Construct business model canvases, revenue models, and financial projections grounded in explicit assumptions and evidence, using discovery-driven planning and unit economics.
+5. **Communicate venture strategy persuasively.** Synthesize complex strategic reasoning into a coherent pitch that integrates theory of value, market evidence, competitive positioning, and financial projections.
+6. **Use AI tools transparently and effectively.** Leverage AI as an analytical tool throughout the venture development process, with documented inputs and outputs at each step.
 
-This course module can prepare students for the following career paths:
-
-- Startup founder
-- Early employee in a startup
-- New business development in established corporations
-- Venture capital investing
+This course prepares students for careers as startup founders, early-stage startup employees, innovation managers in established corporations, and venture capital professionals.
 
 </div>
 </details>
 
 ## Grading
 
-- **50%** (team): Development and pitch of a startup project — This is a combination of your intermediate and final pitches. We especially look at the use of frameworks presented in the course materials as well as form and presentation style.
-- **30%** (team): Three case solutions (one from each of the three parts of the course) — The focus will be on evaluating the clarity and coherence of the reasoning process that led to the conclusion. Each group must detail the steps and logic employed to ensure their analytical approach is transparent and replicable.
-- **20%** (individual): Class participation — Each group member is expected to actively contribute to lecture and exercise sessions and present a part of each pitch.
+- **40%** (individual): Concept Reflections — Ten short reflections (max 600 words each) in which you apply each session's frameworks to your team venture. Each consists of a theory update, alternatives considered, and a concrete proposal for your team. Grading criteria: conceptual accuracy, consideration of alternatives, venture specificity, and visible progression.
+- **35%** (team): Venture Portfolio — A cumulative document (25–30 pages) integrating all weekly deliverables into a coherent venture narrative, revised in light of later learning. Covers the full arc from theory of value through customer discovery, strategy, business model, experimentation, growth, scaling, and finance. Grading criteria: framework application, internal coherence, evidence of iteration, analytical rigor, and AI-augmented quality.
+- **25%** (team): Final Pitch — A 12-minute live pitch plus 8-minute Q&A synthesizing the entire venture. The pitch deck (10–12 slides) covers problem, theory of value, customer evidence, solution, strategy, business model, validation, go-to-market, team, financials, and key risks. Grading criteria: strategic clarity, evidence and rigor, narrative and persuasion, feasibility and realism, and presentation quality.
 
 ## Target Audience
 
@@ -149,19 +146,19 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 | Session | Date | Topic |
 | --- | --- | --- |
 | 1 | April 13 | Introduction |
-| 2 | April 20 | Customer Segmentation |
-| 3 | April 27 | Technology & Product Development |
-| 4 | May 4 | Competition & Market Analysis |
+| 2 | April 20 | Ideation & Team Formation |
+| 3 | April 27 | Entrepreneurial Thinking & Theory of Value |
+| 4 | May 4 | Customer Discovery & Market Validation |
 | — | May 11 | Holiday |
-| 5 | May 18 | Intermediate Pitches I |
+| 5 | May 18 | Technology Strategy & Innovation |
 | — | May 25 | Holiday |
-| 6 | June 1 | (Platform) Business Models |
-| 7 | June 8 | Revenue Models & Pricing |
-| 8 | June 15 | Lean Startup & Experimentation |
-| 9 | June 22 | Intermediate Pitches II |
-| 10 | June 29 | Marketing & Sales for Startup Growth |
-| 11 | July 6 | Financial Analysis |
-| 12 | July 13 | Final Pitches |
+| 6 | June 1 | Entrepreneurial Strategy & Competitive Positioning |
+| 7 | June 8 | Business Models, Revenue & Value Architecture |
+| 8 | June 15 | Experimentation, Validation & Pivoting |
+| 9 | June 22 | Growth, Marketing & Go-to-Market |
+| 10 | June 29 | Scaling, Organization & Teams |
+| 11 | July 6 | Venture Finance & Funding |
+| 12 | July 13 | Final Pitch & Strategic Integration |
 
 :::
 
