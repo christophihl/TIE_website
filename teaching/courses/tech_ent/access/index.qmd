@@ -40,9 +40,9 @@ resources:
 <script>
 (function() {
   const encrypted = {
-    salt: "F/Lb9p39cqLU3Zn627S9XQ==",
-    iv: "GzzwCCiOz7q+ztr3",
-    ciphertext: "Rj1mEILNklB5say18LQV0FLFgRtLWzYTOWGf0wLiCrOBjmBJ30kRlffzbyFg6chEFw/ttdd9J40="
+    salt: "Hm0cVSI2sG05PatVPKldbQ==",
+    iv: "nFrwyD22F1Tw9RP9",
+    ciphertext: "3ZPFDQBioKvNV7FicnsVM+XQGcoB2I0g5VNK+qYITSb+jAo0FtMDbpoGrjebHhQZEl1avQ=="
   };
 
   function b64ToBytes(b64) {
@@ -72,7 +72,7 @@ resources:
     if (!pw) { err.textContent = "Please enter a password."; return; }
     try {
       const url = await decrypt(pw);
-      window.location.href = url;
+      window.open(url, '_blank');
     } catch (e) {
       err.textContent = "Incorrect password. Please try again.";
     }
