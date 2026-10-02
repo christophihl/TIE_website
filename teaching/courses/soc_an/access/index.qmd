@@ -40,9 +40,9 @@ resources:
 <script>
 (function() {
   const encrypted = {
-    salt: "Kx9DPo3PVGxP9eJaJMKDwQ==",
-    iv: "U8PJ0CV4RXHA2KVQ",
-    ciphertext: "9Grx2zWc26Xu3yum3RQmF9dRnqpCRxgPojGCxu0kd4qTJWwMXGmhWbU9HctCj6736VA="
+    salt: "lNtdpByxQa4q8jaO8nOarg==",
+    iv: "oEbCQnWjELWzk5H4",
+    ciphertext: "VQTaTRS3bs+tOzSEJAYNVqzvPVPPRzScnYbSfIsRNGXjlHRgvSk7uDQ+SAeRbPvu1YS3A9w="
   };
 
   function b64ToBytes(b64) {
