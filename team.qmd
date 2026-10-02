@@ -65,6 +65,7 @@ listing:
 ## Gallery {#gallery .team-section-heading}
 
 ::: {.team-gallery}
+![](team/gallery/2026-06-11_worldcup.jpg)
 ![](team/gallery/20150429_start-up-dock_ARLT_002.jpg)
 ![](team/gallery/20150429_start-up-dock_ARLT_005.jpg)
 ![](team/gallery/IMG_4265.jpg)
