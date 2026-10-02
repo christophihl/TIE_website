@@ -1,6 +1,6 @@
 ---
 title: "Entrepreneurial Finance"
-description: "Funding, valuation, and investment decisions for young, innovative, growth-oriented companies"
+description: "Funding, valuing and governing young innovative companies"
 image: featured.jpg
 semester: "WT2026"
 weight: 10
@@ -10,8 +10,6 @@ level: "Master"
 instructors:
   - name: "Christoph Ihl"
     internal: "ihl"
-  - name: "Oliver Specht"
-    internal: "specht"
 modules:
   - "Entrepreneurial Finance: Lecture"
   - "Entrepreneurial Finance: Case Studies"
@@ -20,15 +18,14 @@ programs:
   - "LIM"
   - "GTIME"
   - "Exchange Programs"
-registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=e13d870522d79c53e72b57b90c4333af&again=yes"
+registration-url: "https://e-learning.tuhh.de/dispatch.php/course/details?sem_id=1cf8077b3f6a6c9d2182d31d0386bd44&again=yes"
 course-website: "access/"
 image-credit: "Worldspectrum, Pexels"
 image-credit-url: "https://www.pexels.com/de-de/foto/bank-bitcoin-business-geschaft-844124/"
 categories:
   - "Entrepreneurship"
 time-location:
-  - "Entrepreneurial Finance: Lecture: Monday, 13:15–14:45, Building N, Room 0008"
-  - "Entrepreneurial Finance: Case Studies: Monday, 15:00–17:15, Building N, Room 0008"
+  - "Case Clinic, Input & Case Studio (Lecture + Case Studies): Monday, 13:15–17:15, Building N, Room 0008"
 page-layout: custom
 section-divs: false
 toc: false
@@ -63,7 +60,7 @@ resources:
 ## Credits
 
 - {{< meta ects >}} ECTS module
-- 2 courses: **Entrepreneurial Finance: Lecture** & **Entrepreneurial Finance: Case Studies**
+- 2 courses: **Entrepreneurial Finance: Lecture** & **Entrepreneurial Finance: Case Studies**, taught together in one weekly Monday block
 
 ## Instructors
 
@@ -74,16 +71,18 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Entrepreneurial finance sits at the intersection of two very different worlds: entrepreneurship and finance. Finance is disciplined, based on numbers and logical thinking, and looks for proven track records. Entrepreneurship is messy, based on intuition and experimentation, and treads off the beaten track. Entrepreneurial finance is the provision of funding to young, innovative, growth-oriented companies. Entrepreneurial companies are young, typically less than ten years old, and introduce innovative products or business models. The younger are called "startups," and are typically less than five years old.
+Young, innovative, growth-oriented companies cannot be financed like established firms. They have no track record, few tangible assets and outcomes that are both highly uncertain and extremely skewed: most ventures fail, while a handful create most of the value. Founders and investors respond with instruments and institutions of their own — staged rounds, convertible preferred stock, liquidation preferences, option pools, board seats, venture debt and specialized funds. This course explains how these instruments work, why they exist and what they do to the incentives and payoffs of everyone involved.
 
-A variety of investors can finance entrepreneurial companies: family and friends, business angels, accelerators and incubators, crowdfunding platforms, venture capital firms, corporate investors, etc. The course provides a thorough understanding of what motivates them, how they invest, and what support they can provide to a company at what stage in the fundraising cycle. The course addresses the following key questions: How much money can and should be raised? When should it be raised and from whom? What is a reasonable valuation of the company? How should funding, employment contracts and exit decisions be structured?
+We follow one fictional venture through its entire financing life. **ElbeCharge**, a Hamburg maritime climate-tech startup founded by TUHH engineers, builds battery-electric retrofit systems for harbor vessels. Over twelve episodes it moves from founding day to an exit offer, and at every step your team takes a seat at the table: sometimes as founders, sometimes as angel, VC, board member, lender or acquirer.
 
-Thus, the course provides an understanding of the whole fundraising cycle, from the moment entrepreneurs conceive their idea to the moment investors exit the company and move on. We examine the entrepreneur's signalling to investors of the qualities of the venture, the investors' evaluation of the venture, the various dimensions of contracting (cash flow rights, control rights, compensation, and other clauses), the negotiation of a deal and the provision of corporate governance, the process of staged financing, the financing through debt, and the exit process through liquidity events such as initial public offering, sale or merger.
+Four principles shape the course:
 
-The workflow in this module is comprised of two course elements:
+- **Evidence over folklore.** Startup finance is full of rules of thumb. We test them against current research in finance, economics and entrepreneurship, and against data from the TUHH Startup Monitor.
+- **One venture, the whole journey.** Every decision ElbeCharge makes — how much to raise, from whom, on which terms — constrains the next one. Following a single company makes those links visible, all the way to who gets paid what at exit.
+- **Both sides of the table.** A term sheet looks different from the founder's chair than from the investor's. You switch roles across episodes and defend your numbers against a team sitting on the other side.
+- **Tools instead of spreadsheets from scratch.** Interactive Case Lab apps handle the mechanics of cap tables, valuations and waterfalls, so class time goes into judgment. Every app shows its math, and you can export results to continue in Excel.
 
-1. **(Flipped) classroom**: learning about and discussing concepts and tools currently prevailing in theory and practice of modern entrepreneurial finance.
-2. **Problem-based learning**: deepen understanding of these concepts and tools by applying them to real company cases.
+Every Monday block follows the same rhythm: the **Case Clinic** debriefs last week's episode, with two teams drawn live to present; the **Input** covers this week's topic with concepts, research evidence and a current real-world case; and the **Case Studio** launches next week's episode with coaching.
 
 </div>
 </details>
@@ -93,43 +92,42 @@ The workflow in this module is comprised of two course elements:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-Upon completion of this course module, students will be able to:
+Upon completion of this course, students will be able to:
 
-- Prepare a financial plan for a new venture or business opportunity
-- Conduct financial valuations of new ventures and business opportunities
-- Understand the design of financial contracts
-- Analyze and evaluate growth and exit strategies
+1. **Explain why innovative startups are financed differently** — relating uncertainty, information asymmetry, skewed returns and financing risk to the way investors select, stage and structure their investments.
+2. **Evaluate ventures as investment opportunities** — assessing a venture from an investor's perspective, designing due diligence and benchmarking financing rounds against market data.
+3. **Plan and model the financing path** — building milestone-based financial plans, determining funding needs and runway, and modeling ownership and dilution across rounds, including convertible instruments and employee equity.
+4. **Value startups and structure deals** — applying the VC method, comparables and scenario-based valuation, analyzing term sheets and computing payoffs for all stakeholders in different exit scenarios.
+5. **Compare financing sources, governance and exits** — weighing angels, accelerators, venture capital, corporate and government investors, impact funds and debt, and analyzing control rights, board dynamics and exit routes, with a focus on the European and German market.
+6. **Make and defend financing decisions** — presenting a quantified recommendation, responding to challenges from the other side of the table and using AI tools transparently along the way.
 
-This course module can prepare students for the following career paths:
-
-- Startup founder or early employee in a startup
-- Venture capital investing
-- Strategy & valuation consulting
-- Corporate finance
+This course prepares students for roles as founders, early startup employees, venture capital and corporate venture professionals, and innovation managers who work with startups.
 
 </div>
 </details>
 
-## Textbook
-
-- [Da Rin, Marco, and Thomas Hellmann. Fundamentals of Entrepreneurial Finance. Oxford University Press, 2020.](https://www.entrepreneurialfinance.net)
-
 ## Grading
 
-- **60%** (individual): Written case solutions submitted after class (for 6 out of 10 cases — Hardina Smythe case excluded)
-- **40%** (individual): Oral class participation
+- **30%** (team): Case presentations — each team presents its episode solution in the Case Clinic at least twice
+- **10%** (team): Weekly episode uploads (due Sundays, 18:00) and one round as investor panel
+- **60%** (individual): Three written assignments (20% each) applying the course concepts to real companies, due 22 November 2026, 20 December 2026 and 7 February 2027
+
+Teams of 3–4 students are formed in the first session and stay together for the semester.
 
 ## Target Audience
 
-- Master students in IWI, LIM, GTIME & Exchange Programs
+- Master students in IWI, LIM & GTIME
+- Master students in exchange programs
 
 ## Registration
 
-Open until October 13th on [e-learning.tuhh.de/studip]({{< meta registration-url >}})
+Please register for the entire module **{{< meta title >}}** here: [E-Learning StudIP]({{< meta registration-url >}})
 
 ## Time & Location
 
 {{< course-timelocation >}}
+
+The first session takes place on **Monday, 19 October 2026**, the last on **Monday, 25 January 2027**. There are no sessions on 21 and 28 December 2026 and on 4 January 2027.
 
 ### Course Notes & Materials
 
@@ -137,22 +135,32 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 ## Preliminary Schedule
 
-| Session | Date | Topic |
-| --- | --- | --- |
-| 1 | October 20 | Introduction: Evaluating Venture Opportunities |
-| 2 | October 27 | Financial Planning |
-| 3 | November 3 | Ownership and Returns |
-| 4 | November 10 | Valuation Methods I |
-| 5 | November 17 | Valuation Methods II |
-| 6 | November 24 | Term Sheets |
-| 7 | December 1 | Guest Lecture |
-| 8 | December 8 | Early Stage and VC Investors |
-| 9 | December 15 | Structuring Deals |
-| — | Dec 22–Jan 4 | Christmas Holiday |
-| 10 | January 5 | Staged Financing |
-| 11 | January 12 | Debt Financing |
-| 12 | January 19 | Corporate Governance |
-| 13 | January 26 | Exits |
+| Session | Date | Topic | ElbeCharge Episode |
+| --- | --- | --- | --- |
+| **Part 1** | | **Evaluate & Plan** | |
+| 1 | October 19 | Why Startup Finance Is Different | E1: Founding Day |
+| 2 | October 26 | How Investors Decide | E2: The Angel's Due Diligence |
+| 3 | November 2 | Financial Planning Under Uncertainty | E3: Plan to the First Milestone |
+| 4 | November 9 | Ownership, Dilution & Employee Equity | E4: First Angels, First Hires |
+| 5 | November 16 | Early-Stage Money | E5: Choosing Seed Money |
+| **Part 2** | | **Price & Structure** | |
+| 6 | November 23 | Valuation | E6: What Are We Worth? |
+| 7 | November 30 | Term Sheets & Deal Structure | E7: Two Term Sheets |
+| 8 | December 7 | Governance & the Founder–Investor Relationship | E8: Board Fight |
+| **Part 3** | | **Survive, Finance & Exit** | |
+| 9 | December 14 | Staged Financing, Cycles & Crisis | E9: Winter Is Coming |
+| — | Dec 21–Jan 4 | Christmas Break | |
+| 10 | January 11 | Beyond Equity: Debt & Alternative Finance | E10: Financing the Fleet |
+| 11 | January 18 | Who Is on the Other Side? Investors & Funds | E11: Picking the Growth Lead |
+| 12 | January 25 | Exits | E12: The Offer (played live in class) |
+
+## Literature
+
+There is no required textbook. Slides, session pages and episodes contain everything needed for the course. Optional background for self-study:
+
+- Da Rin, M., & Hellmann, T. (2020). [*Fundamentals of Entrepreneurial Finance*](https://www.entrepreneurialfinance.net). Oxford University Press.
+- Metrick, A., & Yasuda, A. (2021). [*Venture Capital and the Finance of Innovation*](https://www.wiley.com/en-us/Venture+Capital+and+the+Finance+of+Innovation%2C+3rd+Edition-p-9781119490111) (3rd ed.). Wiley.
+- Feld, B., & Mendelson, J. (2019). [*Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist*](https://www.wiley.com/en-us/Venture+Deals%3A+Be+Smarter+Than+Your+Lawyer+and+Venture+Capitalist%2C+4th+Edition-p-9781119594826) (4th ed.). Wiley.
 
 :::
 

@@ -19,16 +19,17 @@ modules:
   - "Social Analytics with Deep Learning (PBL)"
 programs:
   - "Data Science"
+  - "Computer Science"
   - "IWI"
-registration-url: "https://e-learning.tuhh.de/studip/dispatch.php/course/details?sem_id=88a279968ec2fe8a72c13a3b56725a35&again=yes"
+registration-url: "https://e-learning.tuhh.de/dispatch.php/course/overview?cid=ff0f28e3511c605a6d6cf4935c290837"
 course-website: "access/"
 image-credit: "BarabásiLab"
 image-credit-url: "https://www.barabasilab.com"
 categories:
   - "Data Science"
 time-location:
-  - "Deep Learning for Text and Graphs: Thursday, 15:00–16:30, Room HS28-0.08"
-  - "Social Analytics with Deep Learning: Thursday, 16:45–19:00, Room HS28-0.08"
+  - "Deep Learning for Text and Graphs: Thursday, 15:00–16:30, Room O-0.007"
+  - "Social Analytics with Deep Learning: Thursday, 16:45–19:00, Room O-0.007"
 page-layout: custom
 section-divs: false
 toc: false
@@ -74,13 +75,24 @@ resources:
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-**Social analytics** broadly refers to measuring, modeling, visualizing, and interpreting interactions between actors (e.g. organizations, firms, employees, customers, users, scientists, citizens or politicians) and their connections with objects (e.g. topics, opinions, categories, concepts, products, or ideas). Data about these interactions and connections are available in ever greater detail and quantity from diverse digital sources — social media platforms being just one of them.
+**Social analytics** examines how people, organizations, institutions and other actors interact with one another and with objects such as ideas, technologies, products, occupations and opinions. Across many domains, the resulting digital traces can help public and private decision-makers detect emerging developments, understand diffusion and concentration, identify overlooked matches or opportunities, and determine where closer investigation may be warranted. Producing credible evidence, however, requires more than applying a model: social meaning is often embedded in unstructured text, while interactions must be reconstructed and analyzed as networks.
 
-The discourse and debates about current societal issues can be monitored from digitized news archives. Organizations speak about their positioning and partners via their websites. Firms solicit feedback from customers via online forums and track their interactions with products. In diverse fields — from sports, culture, and art to science, technology, and software development — dedicated online communities and data archives track historical interactions and connections among actors and objects.
+This course focuses that broad agenda on the **production, diffusion and commercialization of science and technology**. It examines different windows onto this process: how knowledge develops through science, how inventions are organized into technological fields, how people and skills move through organizations, and how new ventures connect with investors. These domains are not treated as a frictionless pipeline. Instead, they reveal recurring problems of measurement, classification, matching, prediction and data linkage across complex social systems.
 
-Tapping into these data sources allows public and private decision makers to work towards goals such as: (1) detecting emerging trends, (2) tracking prevalent opinions over time, (3) identifying influential actors, (4) understanding the diffusion of certain objects, (5) supporting or preventing certain social interactions, (6) finding matching collaboration partners, (7) discovering novel ideas, (8) gathering competitive intelligence, or (9) generating product recommendations.
+Three commitments shape the course:
 
-Relevant data on interactions and connections is often embedded in text and/or needs to be converted into graphs. Therefore, the course introduces the fundamentals and current state of machine learning for unstructured text and graph data. The course has a particular emphasis on recent advancements in deep learning architectures. Through lectures and coding labs using the deep learning framework PyTorch, students will learn to design, implement, and understand their own deep learning pipelines for specific social analytics goals.
+- **Measurement before modeling.** Administrative categories, human annotations and LLM outputs are measurements, not ground truth. Their provenance, stability and error must be understood before they are used in downstream analysis.
+- **Text and relationships together.** Text captures what actors and objects are about; graphs represent who is connected to whom, and when. Retrieval, relational recommendation, graph learning and text-attributed graphs provide complementary views of the same social systems.
+- **Evaluation before claims.** Models and agents are evaluated against strong baselines, realistic candidate sets, temporal splits, cold-start cases and auditable traces. Predictive performance alone does not establish influence, causal mechanisms or the value of acting on a recommendation.
+
+The course is **Python throughout**, with PyTorch and PyTorch Geometric where the model warrants it. Students implement pipelines rather than only calling them, and apply them across four data tracks:
+
+- **Scientific publications** — connecting authors, papers, venues and research topics
+- **Workforce** — relating workers, skills and firms
+- **Patents** — tracing inventors, assignees and technological fields
+- **Startup financing** — connecting investors with new ventures
+
+For each assignment, students may switch tracks to explore another domain or stay with one track to specialize. The capstone brings at least two tracks together using supplied cross-source linkage tables. Each week pairs a 90-minute lecture with a 135-minute problem-based learning session.
 
 </div>
 </details>
@@ -90,25 +102,33 @@ Relevant data on interactions and connections is often embedded in text and/or n
 <details class="course-toggle"><summary><span class="label-show">SHOW</span><span class="label-hide">HIDE</span></summary>
 <div>
 
-After completing this module, students will be able to:
+Upon completion of this course, students will be able to:
 
-- Understand and describe the role of social interactions and networks in the development of specific domains.
-- Gather, pre-process and visualize social data.
-- Understand and apply deep learning techniques to text and graph data.
-- Conduct a complex analysis project and deliver concise, actionable insights.
+1. Turn a social question into a prediction task with a defensible construct and baseline
+2. Represent text and social structure using modern deep learning architectures
+3. Obtain labels under scarcity by prompting, fine-tuning or classifying embeddings
+4. Validate LLM-derived measures and quantify their error
+5. Carry measurement error correctly into downstream statistical inference
+6. Discover and validate latent structure in text against external taxonomies
+7. Construct social graphs with an explicit boundary and model them with GNNs
+8. Evaluate relational predictions honestly under temporal splits
+9. Explain why predictive results do not identify influence or separate it from homophily, and state what research design an influence claim would require
+10. Build and evaluate models over linked heterogeneous data sources, including sensitivity to missing or uncertain cross-source links
 
 </div>
 </details>
 
 ## Grading
 
-- **50%** (individual): Five assignments, one referring to each part, each counting 10%.
-- **50%** (team): Teams of 3 students work on a joint research project of their choice (submission deadline: March 31).
+- **60%** (individual): Four assignments (15% each), submitted as rendered Quarto reports with integrated Python code. Each assignment is followed by a short in-class quiz; students must score at least 50% to receive their full report grade (otherwise the assignment grade is capped at 60%). Due dates: 8 November, 29 November and 13 December 2026, and 10 January 2027.
+- **40%** (team): Capstone project in teams of up to 3 students, combining at least two linked data tracks — assessed through a proposal (due 17 January 2027), an in-class presentation (28 January 2027) and a final written report (due 15 March 2027).
+
+All submissions are due at 23:59. Late submissions of up to 24 hours receive a 20% penalty; later submissions are not accepted.
 
 ## Target Audience
 
-- Master students in "Data Science" and "Internationales Wirtschaftsingenieurwesen (IWI)"
-- Students with a strong interest in acquiring the quantitative skills to analyze social phenomena relevant to organizations, businesses, and policy makers.
+- Master students in Data Science, Computer Science & IWI
+- Master students with a strong interest in computational social science
 
 ## Registration
 
@@ -120,6 +140,8 @@ After completing this module, students will be able to:
 
 {{< course-timelocation >}}
 
+The lecture period runs from **15 October 2026** to **28 January 2027**. There is no class on 12 November, 24 December and 31 December 2026.
+
 ### Course Notes & Materials
 
 Access to course notes & materials [**here**]({{< meta course-website >}}).
@@ -128,37 +150,25 @@ Access to course notes & materials [**here**]({{< meta course-website >}}).
 
 | Session | Topic | Date |
 | --- | --- | --- |
-| **Part 1** | **NLP Building Blocks** |  |
-| 1 | Tokens & Embeddings | October 16 |
-| 2 | RNNs & LSTMs | October 23 |
-| **Part 2** | **LLM Building Blocks** |  |
-| 3 | Large Language Models | October 30 |
-| 4 | Transformers | November 6 |
-| **Part 3** | **Post-/Training LLMs** |  |
-| 5 | Training | November 13 |
-| 6 | Finetuning | November 20 |
-| **Part 4** | **Using LLMs** |  |
-| 7 | Text Classification, Clustering & Extraction | November 27 |
-| 8 | Semantic Search and RAG | December 4 |
-| **Part 5** | **Deep Learning on Graphs** |  |
-| 9 | Graph Embeddings | December 11 |
-| 10 | Graph Neural Networks | December 18 |
-| **Part 6** | **Team Projects** |  |
-| 11 | Project Lab | January 8 |
-| 12 | Project Lab | January 15 |
-| 13 | Project Lab | January 22 |
-| 14 | Project Pitches | January 29 |
-|  | Project Submission: Final Upload of all Files (Report & Code) | February 19 |
-
-## Literature
-
-- Alammar, J., & Grootendorst, M. (2024). Hands-on large language models: language understanding and generation. O'Reilly Media.
-- Barabasi, A. L. (2016). Network Science. Cambridge University Press.
-- Hamilton, W. L. (2020). Graph Representation Learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, Vol. 14, No. 3, Pages 1–159.
-- Jurafsky, D., & Martin, J. H. (2025). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, with Language Models.
-- Ma, Y., & Tang, J. (2021). Deep learning on graphs. Cambridge University Press.
-- Rao, D., & McMahan, B. (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. O'Reilly Media.
-- Tunstall, L., Von Werra, L., & Wolf, T. (2022). Natural language processing with transformers. O'Reilly Media.
+| 1 | Social Questions, Constructs, and Evaluation | October 15 |
+| **Part I** | **Text Representation** | |
+| 2 | Tokens, Embeddings, and Semantic Geometry | October 22 |
+| 3 | Transformers and Pretraining | October 29 |
+| **Part II** | **Measurement with LLMs** | |
+| 4 | Supervised Text Modeling with Scarce Labels | November 5 |
+| 5 | Measurement Error and Valid Inference | November 19 |
+| **Part III** | **Retrieval and Structure Discovery** | |
+| 6 | Retrieval and Semantic Similarity | November 26 |
+| 7 | Clustering, Topic Discovery, and Knowledge Graphs | December 3 |
+| **Part IV** | **Graph Learning** | |
+| 8 | Bipartite Graphs and Relational Recommender Systems | December 10 |
+| 9 | Graph Neural Networks | December 17 |
+| **Part V** | **Integrated and Agentic Modeling** | |
+| 10 | Integrated Modeling with Text-Attributed Graphs | January 7 |
+| 11 | LLM Agents for Social Analytics | January 14 |
+| — | Consultation Week (Office Hours) | January 21 |
+| — | Capstone Presentations | January 28 |
+|  | Capstone Submission: Final Report | March 15 |
 
 :::
 

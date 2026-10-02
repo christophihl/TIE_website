@@ -2,7 +2,7 @@
 title: "Technology Entrepreneurship"
 description: "Startup Engineering: How to build a startup"
 image: featured.jpg
-semester: "ST2026"
+semester: "ST2027"
 weight: 20
 date: "2026-04-01"
 ects: 6

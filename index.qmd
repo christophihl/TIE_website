@@ -29,7 +29,7 @@ listing:
   - id: current-courses-home
     contents: teaching/courses/*/index.qmd
     include:
-      semester: "ST2026"
+      semester: "WT2026"
     sort: "weight asc"
     type: custom
     template: course-home.ejs

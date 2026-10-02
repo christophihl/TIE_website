@@ -16,14 +16,14 @@ listing:
   - id: current-courses
     contents: teaching/courses/*/index.qmd
     include:
-      semester: "ST2026"
+      semester: "WT2026"
     sort: "weight asc"
     type: custom
     template: course-cards.ejs
   - id: upcoming-courses
     contents: teaching/courses/*/index.qmd
     include:
-      semester: "WT2026"
+      semester: "ST2027"
     sort: "weight asc"
     type: custom
     template: course-cards.ejs
@@ -56,7 +56,7 @@ resources:
 
 ## Current Courses {#sec-current-courses .section-heading}
 
-[Summer Term 2026]{.semester-subheader}
+[Winter Term 2026/27]{.semester-subheader}
 
 ::: {#current-courses}
 :::
@@ -70,7 +70,7 @@ resources:
 
 ## Upcoming Courses {#sec-upcoming-courses .section-heading}
 
-[Winter Term 2026/27]{.semester-subheader}
+[Summer Term 2027]{.semester-subheader}
 
 ::: {#upcoming-courses}
 :::

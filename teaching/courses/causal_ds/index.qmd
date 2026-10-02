@@ -2,7 +2,7 @@
 title: "Causal Data Science for Business Analytics"
 description: "Distinguishing causation from correlation for business decisions"
 image: featured.jpg
-semester: "ST2026"
+semester: "ST2027"
 weight: 30
 date: "2026-04-01"
 ects: 6
